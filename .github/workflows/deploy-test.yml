@@ -33,3 +33,11 @@ jobs:
         with:
           token: ${{ secrets.JEKYLL_TOKEN }}
           target_branch: "gh-pages"
+
+      - name: Push cnames to page
+        run: |
+          git checkout gh-pages
+          echo ${{ env.URL }} > CNAME
+          git add .
+          git commit -m $GITHUB_SHA
+          git push
