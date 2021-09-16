@@ -19,10 +19,9 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v2
-
-      - name: Copy in folder
-        run: |
-          cp -r . source
+        with:
+          ref: "main"
+          path: "source"
 
       - name: Checkout repo
         uses: actions/checkout@v2
