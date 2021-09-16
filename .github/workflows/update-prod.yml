@@ -31,7 +31,7 @@ jobs:
         run: |
           pwd
           ls
-          cp -r !(destination) destination
+          cp -R * destination
           cd destination
           git config --global user.name github-actions
           git config --global user.email github-actions@github.com
