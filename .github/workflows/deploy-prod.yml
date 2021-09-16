@@ -4,8 +4,6 @@ on:
   push:
     branches:
       - production
-    paths-ignore:
-      - ".github/workflows/**"
 
 env:
   URL: tmp.intia.de

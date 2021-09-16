@@ -4,8 +4,6 @@ on:
   push:
     branches:
       - main
-    paths-ignore:
-      - ".github/workflows/**"
 
 env:
   URL: intia.de
@@ -32,6 +30,7 @@ jobs:
 
       - name: Push to production
         run: |
+          cd destination
           git config --global user.name github-actions
           git config --global user.email github-actions@github.com
           cp -r source destination
