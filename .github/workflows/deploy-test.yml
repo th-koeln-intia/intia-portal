@@ -28,16 +28,15 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-gems-
 
+      - name: Push cname to page
+        run: |
+          echo ${{ env.URL }} > CNAME
+          git add .
+          git commit -m $GITHUB_SHA
+          git push
+
       - name: Build Site
         uses: helaili/jekyll-action@v2
         with:
           token: ${{ secrets.JEKYLL_TOKEN }}
           target_branch: "gh-pages"
-
-      - name: Push cnames to page
-        run: |
-          git checkout gh-pages
-          echo ${{ env.URL }} > CNAME
-          git add .
-          git commit -m $GITHUB_SHA
-          git push
