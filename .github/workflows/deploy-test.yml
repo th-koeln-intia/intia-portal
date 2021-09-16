@@ -26,15 +26,6 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-gems-
 
-      - name: Push cname to page
-        run: |
-          git config --global user.name github-actions
-          git config --global user.email github-actions@github.com
-          echo ${{ env.URL }} > CNAME
-          git add .
-          git commit -m $GITHUB_SHA
-          git push
-
       - name: Build Site
         uses: helaili/jekyll-action@v2
         with:
