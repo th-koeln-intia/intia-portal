@@ -29,7 +29,9 @@ jobs:
 
       - name: Push to production
         run: |
-          cp !(destination) destination
+          pwd
+          ls
+          cp -r !(destination) destination
           cd destination
           git config --global user.name github-actions
           git config --global user.email github-actions@github.com
