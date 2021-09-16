@@ -19,13 +19,23 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v2
+
+      - name: Copy in folder
+        run: |
+          cp -r . source
+
+      - name: Checkout repo
+        uses: actions/checkout@v2
         with:
+          ref: "production"
+          path: "destination"
           token: ${{ secrets.PAT }}
 
       - name: Push to production
         run: |
           git config --global user.name github-actions
           git config --global user.email github-actions@github.com
-          git checkout production
+          cp -r source destination
+          git add .
           git commit -m $GITHUB_SHA
           git push
