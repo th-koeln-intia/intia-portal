@@ -1,0 +1,52 @@
+name: Build production and deploy it
+
+on:
+  push:
+    branches:
+      - production
+    paths-ignore:
+      - ".github/workflows/**"
+
+env:
+  URL: tmp.intia.de
+
+jobs:
+  build-test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Set GitHub Actions as Commit Author
+        run: |
+          git config --global user.name github-actions
+          git config --global user.email github-actions@github.com
+
+      - name: Checkout repo
+        uses: actions/checkout@v2
+
+      - name: Using cache
+        uses: actions/cache@v2
+        with:
+          path: vendor/bundle
+          key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile') }}
+          restore-keys: |
+            ${{ runner.os }}-gems-
+
+      - name: Build Site
+        uses: helaili/jekyll-action@v2
+        with:
+          token: ${{ secrets.JEKYLL_TOKEN }}
+          target_path: "build"
+
+      - name: Checkout Prod Target
+        uses: actions/checkout@v2
+        with:
+          repository: th-koeln-intia/intia-prod
+          path: "deploy"
+          token: ${{ secrets.PAT }}
+
+      - name: Push files to target
+        run: |
+          cd deploy
+          echo ${{ env.URL }} > CNAME
+          git add .
+          git commit -m $GITHUB_SHA
+          git push
