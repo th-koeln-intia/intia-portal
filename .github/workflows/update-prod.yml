@@ -25,17 +25,17 @@ jobs:
         uses: actions/checkout@v2
         with:
           ref: "production"
-          path: "destination"
+          path: "../destination"
           token: ${{ secrets.PAT }}
 
       - name: Push to production
         run: |
           ls
           pwd
-          cd destination
+          cd ../destination
           git config --global user.name github-actions
           git config --global user.email github-actions@github.com
-          cp -r source destination
+          cp -r ../source .
           git add .
           git commit -m $GITHUB_SHA
           git push
