@@ -1,0 +1,10 @@
+- name: Kontakt
+  link: /contact/
+- name: Über die Plattform
+  link: /about/
+- name: Impressum
+  link: https://www.th-koeln.de/hochschule/impressum_8159.php
+- name: Haftungshinweis
+  link: https://www.th-koeln.de/hochschule/haftungshinweis_8277.php
+- name: Datenschutzhinweis
+  link: https://www.th-koeln.de/hochschule/datenschutzhinweis_8279.php
