@@ -1,4 +1,4 @@
-name: Build development and deploy it
+name: Build and deploy it
 
 on:
   push:
@@ -6,7 +6,7 @@ on:
       - main
 
 env:
-  URL: test.intia.de
+  URL: theme.intia.de
 
 jobs:
   build-test:
