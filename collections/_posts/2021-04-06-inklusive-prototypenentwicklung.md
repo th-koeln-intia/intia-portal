@@ -1,12 +1,12 @@
 ---
-title: "Methoden einer inklusiven Prototypenentwicklung mit Jugendlichen mit Beeinträchtigung"
+title: "Prototypen mit Jugendlichen entwickelt"
 published: true
 author: Alena Schmier, Hanna Thielmann, Jan Seidler
 categories: News
 tags: news intia prototyping covid-19 inclusive behaviour-driven
 hero_image: /assets/img/posts/messenger.jpg
 image: /assets/img/posts/messenger.jpg
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec iaculis mauris.
+abstract: Methoden einer inklusiven Prototypenentwicklung mit Jugendlichen mit Beeinträchtigung. Das INTIA Projekt strebt eine Technikentwicklung an, die Jugendliche aus dem Kontext der Behinderten- und Jugendhilfe partizipativ mitgestalten.
 ---
 
 Methoden einer inklusiven Prototypenentwicklung mit Jugendlichen mit Beeinträchtigung

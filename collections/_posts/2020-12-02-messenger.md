@@ -1,12 +1,13 @@
 ---
-title: "Forschungsdaten erheben trotz COVID-19 Kontaktbeschränkungen: Wie geht das mit einem Messenger?"
+title: "Forschung remote über Messenger"
 published: true
 author: Marc Schmidt
 categories: News
 tags: news intia messenger covid-19
 hero_image: /assets/img/posts/messenger.jpg
 image: /assets/img/posts/messenger.jpg
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec iaculis mauris.
+abstract: |
+  Forschungdsdaten erheben trotz Covid-19 Kontaktbeschränkungen: wie geht das mit einem Messenger? Das Projekt INTIA vergleicht verschiedene Messenger und prüft Möglichkeiten der Kostenübernahme für befragte Personen bei Bezahl-Versionen und Vorteile in der Datenerhebung von Lizenz-Käufen.
 ---
 
 - Corona-Maßnahmen behindern Ihre Zusammenarbeit mit Forschungspartnern und Zielgruppen und Sie wollen auf eine digitale Kommunikation umstellen.

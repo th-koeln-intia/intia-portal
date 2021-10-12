@@ -1,7 +1,7 @@
 ---
-title: Willkommen auf INTIA!
+title: Willkommen auf INTIA,
 subtitle: |
-  Hier kommen Fachkräfte der Sozialen Arbeit, Entwickler:innen und Wissenschaftler:innen zusammen, um gemeinsam mit betroffenen Jugendlichen Technik und digitale Hilfen zur Alltagsbewältigung zu entwickeln und weiterzugeben.
+  der Plattform für Menschen aus der Sozialen Arbeit, Informatik und Wissenschaft mit Material, um gemeinsam mit Jugendlichen digitale Hilfen zur Alltagsbewältigung zu entwickeln und einzusetzen.
 hero_image: https://via.placeholder.com/440x638
 hero_link: /about/
 hero_link_text: Mehr über INTIA
@@ -9,7 +9,9 @@ permalink: /
 story_slider: true
 introduction_title: Schnelleinstieg
 introduction_content: |
-  INTIA bietet Lösungen und Wissen zur partizipativen und inklusiven Technikentwicklung an. In den Kategorien Werkzeuge, Lösungen und Wissen gibt es Produkte, Prototypen und Methoden zum Nachbauen, Mitmachen und Weiterentwickeln.
+  Die Plattform INTIA bietet Lösungen und Wissen zur partizipativen und inklusiven Technikentwicklung an: Werkzeuge wie Methoden, erste prototypische Lösungen oder Wissen in Form von Fachartikeln laden zum Nachbauen und Weiterentwickeln ein.
+  <br></br>
+  Auf dieser Plattform sind viele Texte möglichst einfach geschrieben.
 left_right_layout: landing-page
 ---
 
