@@ -1,5 +1,5 @@
 ---
-title: Über das Projekt
+title: Projekt
 title_above: Über
 permalink: /project/
 subtitle: |

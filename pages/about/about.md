@@ -1,5 +1,5 @@
 ---
-title: Über die Plattform
+title: Plattform
 title_above: Über
 permalink: /about/
 subtitle: |
