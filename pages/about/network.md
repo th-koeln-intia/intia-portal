@@ -1,5 +1,6 @@
 ---
 title: Netzwerk
+title_above: Über
 permalink: /network/
 subtitle: |
   Die Plattform INTIA unterstützt den Aufbau eines Netzwerks mit Interesse an digitalen und technischen Alltagshilfen. Es setzt sich aus verschiedenen Gruppen zusammen: Dem Projektteam, dem Fachbeirat und den Praxispartnern. Manche haben schon im Forschungsprojekt mitgemacht, andere kommen später hinzu. Sie verbindet der Wunsch, sich untereinander und mit Fachkräften der Sozialen Arbeit oder anderen Wissenschaftler:innen austauschen. So kann das Netzwerk wachsen.

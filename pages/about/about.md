@@ -1,5 +1,6 @@
 ---
 title: Über die Plattform
+title_above: Über
 permalink: /about/
 subtitle: |
   Die Plattform INTIA bietet Werkzeuge und Wissen zur partizipativen und inklusiven Technikentwicklung gemeinsam mit Jugendlichen in Einrichtungen der Sozialen Arbeit an.
