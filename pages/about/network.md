@@ -6,13 +6,23 @@ subtitle: |
 hero_tags: subpage
 ---
 
+<div class="highlighter">
+
 # Projektteam
 
 Das INTIA-Projektteam besteht aus ungefähr zehn Personen aus unterschiedlichen Fachbereichen. Die Professor:innen sind: Prof. Dr. lsabel Zorn (Fakultät für Angewandte Sozialwissenschaften, Schwerpunkte Digitale Medienbildung in der Sozialen Arbeit), Prof. Dr. Stefan Bente (Fakultät für lnformatik und lngenieurwissenschaften, Schwerpunkt Softwaretechnik), Prof. Birgit Mager (Fakultät für Kulturwissenschaften, Köln lnternational School of Design KISD, Schwerpunkt Service Design) und Prof. Dr. Christian Kohls (Fakultät for lnformatik und lngenieurwissenschaften, Schwerpunkt Soziotechnische Systeme). Hinzu kommen wissenschaftliche Mitarbeiter:innen aus allen vier Fachbereichen. Sie heißen Hanna Thielmann, Carola Janda und Carolin Kortekaas (Fakultät für Angewandte Sozialwissenschaften), Marc Schmidt und Dennis Wilk (Fakultät für lnformatik und lngenieurwissenschaften) sowie Janina Rösch (Köln lnternational School of Design KISD). Unterstützt werden alle von den Hilfskräften Miriam Hafki und Johannes Jülich (Fakultät für Angewandte Sozialwissenschaften) und Duane Maurer (Köln lnternational School of Design KISD).
 
+</div>
+
+<div class="highlighter">
+
 # Fachbeirat
 
 Der Fachbeirat hat die Aufgabe, das Forschungsprojekt mit der Expertise seiner Mitglieder zu unterstützen und zu beraten. Zum Fachbeirat gehören Dr. Julius Deutsch (Kommhelp e.V.), Gerhard Seiler (iRights.Lab GmbH), Prof. Dr. Ingo Bosse (Selfmade, TU Dortmund), Bernhard Spelten (PIKSL), Dr. Tom Bieling (HAW Hamburg) und Fabian Hesterberg (Institut für Inklusive Bildung NRW).
+
+</div>
+
+<div class="highlighter">
 
 # Praxispartner
 
@@ -29,3 +39,5 @@ Die Evangelischen Jugendhilfe Godesheim (kurz: EJG) ist ein Jugendhilfeverbund. 
 ## Fachstelle für Jugendmedienkultur (FJMK)
 
 Die Fachstelle für Jugendmedienkultur NRW (kurz: FJMK) unterstützt Einrichtungen und Institutionen in NRW. Die FJMK hilft bei der Gestaltung der medienpädagogischen Arbeit.
+
+</div>

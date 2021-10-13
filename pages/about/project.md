@@ -15,9 +15,20 @@ Die Jugendlichen machen selbst mit und forschen gemeinsam mit dem Team der TH K�
 
 Das Forschungsprojekt INTIA erhält finanzielle Unterstützung durch das Bundesministerium für Bildung und Forschung (BMBF). In der Fördermaßnahme "Lebensqualität durch soziale Innovationen" (FH Sozial) wurden im Jahr 2017 umfangreiche Fördermittel für das Vorhaben "Inklusive Entwicklung von Methoden und Technologien für digitale Hilfen zur Alltagsbewältigung in der Behinderten- und Erziehungshilfe (INTIA) gewonnen. Unter dem Förderkennzeichen 13FH534SX7 ist das Projekt im [Förderkatalog des Bundes](https://foerderportal.bund.de/foekat/jsp/StartAction.do?actionMode=list) auffindbar. Das Projekt hat im Jahr 2019 begonnen und läuft über drei Jahre.
 
+<div class="highlighter columns">
+<div class="column is-6">
+
 ## BMBF
 
 BMBF ist die Abkürzung für Bundesminsterium für Bildung und Forschung. Das BMBF ist eine Einrichtung der Deutschen Regierung. Jedes Jahr hat das BMBF Geld zur Verfügung, mit welchem es Projekte unterstützen kann.
+
+</div>
+<div class="column is-6">
+<img src="https://www.bmbf.de/SiteGlobals/Frontend/Images/icons/_common/logo.svg;jsessionid=73771066A725D13D2D34C4D38E4A181D.live382?__blob=normal&v=3"
+     alt="BMBF Logo"
+     class="highlighter-image" />
+</div>
+</div>
 
 # Ansatz
 
@@ -25,7 +36,7 @@ Digitale Technik erleichtert den Alltag und lässt viele Menschen an etwas teilh
 
 ## Vorgehen
 
-Das Projektteam geht in Wohneinrichtungen der Sozialen Arbeit, um vor Ort mit Jugendlichen in Workshops zu arbeiten. In einer Art Alltagslabor werden die Lücken, wo eine technische Lösung fehlt, gemeinsam erforscht und als Bedarf genauer definiert. Gemeinsam entwickeln Projektteam und jugendliche Mitentwickler:innen einen ersten technischen Prototypen, den es so vorher noch nicht gab. Ziel des Projektes ist es, eigene technische Lösungen in Form eines mobilen Laborkoffers anderen Einrichtungen der Sozialen Arbeit zur Verfügung zu stellen, inklusive Anleitung, Beschreibung der Methoden und Konzept. Alle wissenschaftlich interessante Fragen aus diesem Vorgehen werden auf dieser Plattform gesammelt und Fachkräften der Sozialen Arbeit, anderen Betroffenen sowie Selbsthilfeinitiativen und Technikexpert\*innen angeboten. In Form von Werkzeugen, Wissen und Lösungen bietet hier das Projektteam seine Ergebnisse zur eigenen Nutzung, zum Nachbau und Weiterentwicklung als Open Source Material an.
+Das Projektteam geht in Wohneinrichtungen der Sozialen Arbeit, um vor Ort mit Jugendlichen in Workshops zu arbeiten. In einer Art Alltagslabor werden die Lücken, wo eine technische Lösung fehlt, gemeinsam erforscht und als Bedarf genauer definiert. Gemeinsam entwickeln Projektteam und jugendliche Mitentwickler:innen einen ersten technischen Prototypen, den es so vorher noch nicht gab. Ziel des Projektes ist es, eigene technische Lösungen in Form eines mobilen Laborkoffers anderen Einrichtungen der Sozialen Arbeit zur Verfügung zu stellen, inklusive Anleitung, Beschreibung der Methoden und Konzept. Alle wissenschaftlich interessante Fragen aus diesem Vorgehen werden auf dieser Plattform gesammelt und Fachkräften der Sozialen Arbeit, anderen Betroffenen sowie Selbsthilfeinitiativen und Technikexpert:innen angeboten. In Form von Werkzeugen, Wissen und Lösungen bietet hier das Projektteam seine Ergebnisse zur eigenen Nutzung, zum Nachbau und Weiterentwicklung als Open Source Material an.
 
 ## Besondere Herausforderungen
 
