@@ -30,26 +30,6 @@ Der Fachbeirat hat die Aufgabe, das Forschungsprojekt mit der Expertise seiner M
 
 Das Forschungsprojekt INTIA hat drei Wissenschaftspraxispartner:innen (Kurz WPKs) als Kooperationspartnerschaften. Es sind die Diakonie Michaelshoven, die Evangelische Jugendhilfe Godesheim und die Fachstelle für Jugendmedienkultur (FJMK). In den Einrichtungen dieser Partner konnten Praxiseinsätze durchgeführt und gemeinsam an Forschungsfragen gearbeitet werden.
 
-## Diakonie Michaelshoven
-
-Seit 70 Jahren gibt es die Diakonie Michaelshoven. Sie setzt sich für soziale Belange der Menschen ein. In über 200 Einrichtungen begleiten, fördern und betreuen die Mitarbeiter:innen die Menschen.
-
-## Evangelische Jugendhilfe Godesheim
-
-Die Evangelischen Jugendhilfe Godesheim (kurz: EJG) ist ein Jugendhilfeverbund. Die EJG ist in dem Bereich der Kinder-, Jugend-, Behinderten- und Gesundheitshilfe tätig.
-
-## Fachstelle für Jugendmedienkultur (FJMK)
-
-Die Fachstelle für Jugendmedienkultur NRW (kurz: FJMK) unterstützt Einrichtungen und Institutionen in NRW. Die FJMK hilft bei der Gestaltung der medienpädagogischen Arbeit.
-
-</div>
-
-<div class="highlighter">
-
-# Praxispartner
-
-Das Forschungsprojekt INTIA hat drei Wissenschaftspraxispartner:innen (Kurz WPKs) als Kooperationspartnerschaften. Es sind die Diakonie Michaelshoven, die Evangelische Jugendhilfe Godesheim und die Fachstelle für Jugendmedienkultur (FJMK). In den Einrichtungen dieser Partner konnten Praxiseinsätze durchgeführt und gemeinsam an Forschungsfragen gearbeitet werden.
-
   <a href="#" class="button is-rounded is-dark">
       <span class="icon is-small">
         <i class="fas fa-chevron-right fa-xs"></i>
@@ -71,7 +51,7 @@ Seit 70 Jahren gibt es die Diakonie Michaelshoven. Sie setzt sich für soziale B
   <a href="#" class="button is-rounded is-dark">
       <span>Website</span>
       <span class="icon is-small">
-        <i class="fas fa-chevron-right fa-xs"></i>
+        <i class="fas fa-external-link-alt fa-xs"></i>
       </span>
   </a>
   <div class="clear"></div>                          
@@ -91,7 +71,7 @@ Die Evangelischen Jugendhilfe Godesheim (kurz: EJG) ist ein Jugendhilfeverbund. 
   <a href="#" class="button is-rounded is-dark">
       <span>Website</span>
       <span class="icon is-small">
-        <i class="fas fa-chevron-right fa-xs"></i>
+        <i class="fas fa-external-link-alt fa-xs"></i>
       </span>
   </a>
   <div class="clear"></div>                          
@@ -111,7 +91,7 @@ Die Fachstelle für Jugendmedienkultur NRW (kurz: FJMK) unterstützt Einrichtung
   <a href="#" class="button is-rounded is-dark">
       <span>Website</span>
       <span class="icon is-small">
-        <i class="fas fa-chevron-right fa-xs"></i>
+        <i class="fas fa-external-link-alt fa-xs"></i>
       </span>
   </a>
   <div class="clear"></div>                          

@@ -2,7 +2,7 @@
 title: Willkommen auf INTIA,
 subtitle: |
   der Plattform für Menschen aus der Sozialen Arbeit, Informatik und Wissenschaft mit Material, um gemeinsam mit Jugendlichen digitale Hilfen zur Alltagsbewältigung zu entwickeln und einzusetzen.
-hero_image: https://via.placeholder.com/440x638
+hero_image: /assets/img/landingpage/start.jpg
 hero_link: /about/
 hero_link_text: Mehr über INTIA
 permalink: /

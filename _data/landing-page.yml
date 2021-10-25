@@ -3,21 +3,21 @@ sections:
   - title: Werkzeuge
     text: |
       Werkzeuge und Material zum Entwickeln und Bauen eigener Lösungs-Ideen: Methoden, Entwurfsmuster, Anleitung
-    image: https://via.placeholder.com/1200x800
+    image: /assets/img/landingpage/werkzeuge.jpg
     icon: fa-tools
     link: /werkzeuge/
     link_text: Zu den Werkzeugen
   - title: Lösungen
     text: |
         Technische Lösungs-Vorschläge für Alltagsprobleme: Prototypen zum Nachbauen oder Weiterentwickeln
-    image: https://via.placeholder.com/1200x800
+    image: /assets/img/landingpage/loesungen.jpg
     icon: fa-key
     link: /loesungen/
     link_text: Zu den Lösungen
   - title: Wissen
     text: |
         Hintergrund-Wissen zur Technikentwicklung mit Jugendlichen: Begriffs-Erklärungen, wissenschaftliche Texte und Veröffentlichungen
-    image: https://via.placeholder.com/1200x800
+    image: /assets/img/landingpage/wissen.jpg
     icon: fa-briefcase
     link: /wissen/
     link_text: Zum Wissen
