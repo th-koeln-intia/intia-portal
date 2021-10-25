@@ -16,19 +16,13 @@ Die Jugendlichen machen selbst mit und forschen gemeinsam mit dem Team der TH K�
 
 Das Forschungsprojekt INTIA erhält finanzielle Unterstützung durch das Bundesministerium für Bildung und Forschung (BMBF). In der Fördermaßnahme "Lebensqualität durch soziale Innovationen" (FH Sozial) wurden im Jahr 2017 umfangreiche Fördermittel für das Vorhaben "Inklusive Entwicklung von Methoden und Technologien für digitale Hilfen zur Alltagsbewältigung in der Behinderten- und Erziehungshilfe (INTIA) gewonnen. Unter dem Förderkennzeichen 13FH534SX7 ist das Projekt im [Förderkatalog des Bundes](https://foerderportal.bund.de/foekat/jsp/StartAction.do?actionMode=list) auffindbar. Das Projekt hat im Jahr 2019 begonnen und läuft über drei Jahre.
 
-<div class="highlighter columns">
-<div class="column is-6">
+<div class="highlighter min-height25p">
 
 ## BMBF
 
+<img src="https://www.bmbf.de/SiteGlobals/Frontend/Images/icons/_common/logo.svg;jsessionid=73771066A725D13D2D34C4D38E4A181D.live382?__blob=normal&v=3">
 BMBF ist die Abkürzung für Bundesminsterium für Bildung und Forschung. Das BMBF ist eine Einrichtung der Deutschen Regierung. Jedes Jahr hat das BMBF Geld zur Verfügung, mit welchem es Projekte unterstützen kann.
 
-</div>
-<div class="column is-6">
-<img src="https://www.bmbf.de/SiteGlobals/Frontend/Images/icons/_common/logo.svg;jsessionid=73771066A725D13D2D34C4D38E4A181D.live382?__blob=normal&v=3"
-     alt="BMBF Logo"
-     class="highlighter-image" />
-</div>
 </div>
 
 # Ansatz

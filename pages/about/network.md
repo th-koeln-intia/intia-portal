@@ -5,6 +5,7 @@ permalink: /network/
 subtitle: |
   Die Plattform INTIA unterstützt den Aufbau eines Netzwerks mit Interesse an digitalen und technischen Alltagshilfen. Es setzt sich aus verschiedenen Gruppen zusammen: Dem Projektteam, dem Fachbeirat und den Praxispartnern. Manche haben schon im Forschungsprojekt mitgemacht, andere kommen später hinzu. Sie verbindet der Wunsch, sich untereinander und mit Fachkräften der Sozialen Arbeit oder anderen Wissenschaftler:innen austauschen. So kann das Netzwerk wachsen.
 hero_tags: subpage
+hero_image: https://via.placeholder.com/840x440
 ---
 
 <div class="highlighter">
@@ -40,5 +41,81 @@ Die Evangelischen Jugendhilfe Godesheim (kurz: EJG) ist ein Jugendhilfeverbund. 
 ## Fachstelle für Jugendmedienkultur (FJMK)
 
 Die Fachstelle für Jugendmedienkultur NRW (kurz: FJMK) unterstützt Einrichtungen und Institutionen in NRW. Die FJMK hilft bei der Gestaltung der medienpädagogischen Arbeit.
+
+</div>
+
+<div class="highlighter">
+
+# Praxispartner
+
+Das Forschungsprojekt INTIA hat drei Wissenschaftspraxispartner:innen (Kurz WPKs) als Kooperationspartnerschaften. Es sind die Diakonie Michaelshoven, die Evangelische Jugendhilfe Godesheim und die Fachstelle für Jugendmedienkultur (FJMK). In den Einrichtungen dieser Partner konnten Praxiseinsätze durchgeführt und gemeinsam an Forschungsfragen gearbeitet werden.
+
+  <a href="#" class="button is-rounded is-dark">
+      <span class="icon is-small">
+        <i class="fas fa-chevron-right fa-xs"></i>
+      </span>
+      <span>Text</span>
+  </a>
+  <div class="clear"></div>
+
+<div class="columns">       
+  <div class="column is-4 is-round is-centered">
+    <img src="https://via.placeholder.com/800x800" alt="placeholder" class="">
+  </div>
+<div class="column">
+
+## Diakonie Michaelshoven
+
+Seit 70 Jahren gibt es die Diakonie Michaelshoven. Sie setzt sich für soziale Belange der Menschen ein. In über 200 Einrichtungen begleiten, fördern und betreuen die Mitarbeiter:innen die Menschen.
+
+  <a href="#" class="button is-rounded is-dark">
+      <span>Website</span>
+      <span class="icon is-small">
+        <i class="fas fa-chevron-right fa-xs"></i>
+      </span>
+  </a>
+  <div class="clear"></div>                          
+  </div>
+  </div>
+
+  <div class="columns">       
+  <div class="column is-4 is-round is-centered">
+    <img src="https://via.placeholder.com/800x800" alt="placeholder" class="">
+  </div>
+<div class="column">
+
+## Evangelische Jugendhilfe Godesheim
+
+Die Evangelischen Jugendhilfe Godesheim (kurz: EJG) ist ein Jugendhilfeverbund. Die EJG ist in dem Bereich der Kinder-, Jugend-, Behinderten- und Gesundheitshilfe tätig.
+
+  <a href="#" class="button is-rounded is-dark">
+      <span>Website</span>
+      <span class="icon is-small">
+        <i class="fas fa-chevron-right fa-xs"></i>
+      </span>
+  </a>
+  <div class="clear"></div>                          
+  </div>
+  </div>
+
+  <div class="columns">       
+  <div class="column is-4 is-round is-centered">
+    <img src="https://via.placeholder.com/800x800" alt="placeholder" class="">
+  </div>
+<div class="column">
+
+## Fachstelle für Jugendmedienkultur (FJMK)
+
+Die Fachstelle für Jugendmedienkultur NRW (kurz: FJMK) unterstützt Einrichtungen und Institutionen in NRW. Die FJMK hilft bei der Gestaltung der medienpädagogischen Arbeit.
+
+  <a href="#" class="button is-rounded is-dark">
+      <span>Website</span>
+      <span class="icon is-small">
+        <i class="fas fa-chevron-right fa-xs"></i>
+      </span>
+  </a>
+  <div class="clear"></div>                          
+  </div>
+  </div>
 
 </div>
