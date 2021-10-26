@@ -1,12 +1,13 @@
 ---
 title: "Forschung remote über Messenger"
-published: true
+title_above: AKTUELLES
 author: Marc Schmidt
 categories: News
 tags: news intia messenger covid-19
+hero_tags: subpage post pdf
 hero_image: /assets/img/posts/messenger.jpg
-image: /assets/img/posts/messenger.jpg
-abstract: |
+preview_image: /assets/img/posts/messenger.jpg
+subtitle: |
   Forschungdsdaten erheben trotz Covid-19 Kontaktbeschränkungen: wie geht das mit einem Messenger? Das Projekt INTIA vergleicht verschiedene Messenger und prüft Möglichkeiten der Kostenübernahme für befragte Personen bei Bezahl-Versionen und Vorteile in der Datenerhebung von Lizenz-Käufen.
 ---
 
@@ -19,11 +20,11 @@ Will man Sichtweisen von Menschen erforschen, so muss man mit ihnen in Kontakt t
 
 Eine Möglichkeit könnte es sein, mit Teilnehmenden eine Messenger-Kommunikation zu Forschungszwecken einzuführen. Unter welchen Bedingungen ist dies zulässig? Während im privaten Umfeld Fragen von Verbreitung, Verfügbarkeit, Kosten oder Erreichbarkeit vordergründig die Auswahlentscheidungen von Nutzern für einen Messenger beeinflussen, müssen Forschungs-und Bildungseinrichtungen neben derartigen Erwägungen zur Praktikabilität ebenso dem Datenschutz und der Schweigepflicht gerecht werden.
 
-In praxisbezogenen Forschungsprojekten der Sozialen Arbeit, die vor der Pandemie durch die Kooperation mit Teilnehmenden vor Ort inklusiv und partizipativ gearbeitet haben, gilt es zudem, eine intuitive Handhabung zu berücksichtigen, bevor sie zum Einsatz kommen können. Ist zum Beispiel eine ansprechende und altersgerechte Gestaltung ebenso gegeben wie auch die technischen Möglichkeiten im Sinne einer vollumfänglichen Usability von sozialen Messenger-Diensten? Besonders die Frage nach den möglichen Inhalten, die kommuniziert werden können, spielt für jugendliche Teilnehmer\*innen aus Wohneinrichtungen im Kontext von Jugendhilfe eine hervorgehobene Rolle. Es kann mehr als nur Text transportiert werden, so dass verschiedene Barrieren durch Möglichkeiten von Sprachnachrichten, Bildern, Videos und weiteren Inhalten wie Sticker, GIFs etc. abgebaut werden.
+In praxisbezogenen Forschungsprojekten der Sozialen Arbeit, die vor der Pandemie durch die Kooperation mit Teilnehmenden vor Ort inklusiv und partizipativ gearbeitet haben, gilt es zudem, eine intuitive Handhabung zu berücksichtigen, bevor sie zum Einsatz kommen können. Ist zum Beispiel eine ansprechende und altersgerechte Gestaltung ebenso gegeben wie auch die technischen Möglichkeiten im Sinne einer vollumfänglichen Usability von sozialen Messenger-Diensten? Besonders die Frage nach den möglichen Inhalten, die kommuniziert werden können, spielt für jugendliche Teilnehmer:innen aus Wohneinrichtungen im Kontext von Jugendhilfe eine hervorgehobene Rolle. Es kann mehr als nur Text transportiert werden, so dass verschiedene Barrieren durch Möglichkeiten von Sprachnachrichten, Bildern, Videos und weiteren Inhalten wie Sticker, GIFs etc. abgebaut werden.
 
 ## Vergleich von Messenger-Apps
 
-Nach Vorarbeiten des Forschungsprojektes IDiT zu DSGVO-konformen Messenger Apps für Bildungseinrichtungen (siehe https://dites.web.th-koeln.de/2020/10/01/recherche-dsgvo-konformer-messenger-apps-fuer-bildungseinrichtungen/) wurden noch vier Anwendungen miteinander verglichen, die alle eine Ende-zu-Ende Verschlüsselung nutzen; es sind Threema, Chiffry, Whatsapp und Signal.
+Nach [Vorarbeiten des Forschungsprojektes IDiT](https://dites.web.th-koeln.de/2020/10/01/recherche-dsgvo-konformer-messenger-apps-fuer-bildungseinrichtungen/) zu DSGVO-konformen Messenger Apps für Bildungseinrichtungen wurden noch vier Anwendungen miteinander verglichen, die alle eine Ende-zu-Ende Verschlüsselung nutzen; es sind Threema, Chiffry, Whatsapp und Signal.
 
 Diese vier Anwendungen zeichnen sich durch folgende Punkte im Unterschied zu vielen konkurrierenden Messengern aus:
 

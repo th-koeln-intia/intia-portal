@@ -18,11 +18,11 @@
 #  dropdown:
 #    - name: Wissen
 #      link: /wissen/
-#- name: Aktuelles
-#  dropdown:
-#    - name: Stories
-#      link: /stories/
-#- name: Mitmachen
-#  dropdown:
-#    - name: Mitmachen
-#      link: /mitmachen/
+- name: Aktuelles
+  dropdown:
+    - name: Stories
+      link: /stories/
+- name: Mitmachen
+  dropdown:
+    - name: Kontakt
+      link: /contact/

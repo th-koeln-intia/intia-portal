@@ -1,0 +1,36 @@
+sections:
+  - title: Werkzeuge
+    text: |
+      Werkzeuge und Material zum Entwickeln und Bauen eigener Lösungsideen: Methoden, Entwurfsmuster, Anleitungen
+    image: /assets/img/landingpage/werkzeuge.jpg
+    icon: fa-tools
+    link: /werkzeuge/
+    link_text: Zu den Werkzeugen
+  - title: Lösungen
+    text: |
+        Technische Lösungsvorschläge für Alltagsprobleme: Prototypen zum Nachbauen oder Weiterentwickeln
+    image: /assets/img/landingpage/loesungen.jpg
+    icon: fa-key
+    link: /loesungen/
+    link_text: Zu den Lösungen
+  - title: Wissen
+    text: |
+        Hintergrundwissen zur Technikentwicklung mit Jugendlichen: Begriffserklärungen, wissenschaftliche Texte und Veröffentlichungen
+    image: /assets/img/landingpage/wissen.jpg
+    icon: fa-briefcase
+    link: /wissen/
+    link_text: Zum Wissen
+  - title: Neuigkeiten
+    text: |
+        Eine Übersicht der Neuigkeiten auf der Plattform INTIA: Aktuelle Lösungsideen, neue Methoden, Veröffentlichungen und Projektberichte.
+    image: /assets/img/landingpage/wissen.jpg
+    icon: fa-briefcase
+    link: /stories/
+    link_text: Zum den Neuigkeiten
+  - title: Mitmachen
+    text: |
+        Das Kontaktformular, um Anregungen, Ideen, Kritik und Feedback an INTIA zu schicken sowie eine Übersicht unserer Community-Kanäle.
+    image: /assets/img/landingpage/wissen.jpg
+    icon: fa-briefcase
+    link: /contact/
+    link_text: Zum Kontakt
