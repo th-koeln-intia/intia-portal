@@ -2,9 +2,7 @@
 title: Neuigkeiten
 title_above: AKTUELLES
 subtitle: |
-  Some Explanation.
-subtitle: |
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. In faucibus, ipsum vel ullamcorper tincidunt, eros tortor tempus odio, nec tincidunt eros massa vitae enim. Ut efficitur quam et efficitur consectetur. Vestibulum feugiat semper congue. 
+  Hier gibt es alle Neuigkeiten rund um die Angebote von INTIA. Außerdem sammeln wir hier, was andere über uns schreiben.
 permalink: /stories/
 latest-story: true
 hero_tags: subpage

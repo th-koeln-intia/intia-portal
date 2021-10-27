@@ -20,7 +20,7 @@
 #      link: /wissen/
 - name: Aktuelles
   dropdown:
-    - name: Stories
+    - name: News Artikel
       link: /stories/
 - name: Mitmachen
   dropdown:
