@@ -15,7 +15,7 @@ sections:
     link_text: Zu den Lösungen
   - title: Wissen
     text: |
-        Hintergrund-Wissen zur Technikentwicklung mit Jugendlichen: Begriffserklärungen, wissenschaftliche Texte und Veröffentlichungen
+        Hintergrundwissen zur Technikentwicklung mit Jugendlichen: Begriffserklärungen, wissenschaftliche Texte und Veröffentlichungen
     image: /assets/img/landingpage/wissen.jpg
     icon: fa-briefcase
     link: /wissen/
