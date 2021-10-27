@@ -46,7 +46,7 @@ Das Forschungsprojekt INTIA hat drei Wissenschaftspraxispartnerschaften (kurz WP
 
 ## Diakonie Michaelshoven
 
-Seit 70 Jahren gibt es die Diakonie Michaelshoven. Sie setzt sich für soziale Belange ein. In über 200 Einrichtungen begleiten, fördern und betreuen die Mitarbeiter:innen die Menschen.
+Seit 70 Jahren gibt es die Diakonie Michaelshoven. Sie setzt sich für soziale Belange ein. In über 200 Einrichtungen begleiten, fördern und betreuen die Mitarbeiter:innen viele Menschen.
 
   <a href="#" class="button is-rounded is-dark">
       <span>Website</span>
@@ -66,7 +66,7 @@ Seit 70 Jahren gibt es die Diakonie Michaelshoven. Sie setzt sich für soziale B
 
 ## Evangelische Jugendhilfe Godesheim
 
-Die Evangelischen Jugendhilfe Godesheim ist ein Jugendhilfeverbund. Die EJG ist in dem Bereich der Kinder-, Jugend-, Behinderten- und Gesundheitshilfe tätig.
+Die Evangelischen Jugendhilfe Godesheim ist ein Jugendhilfeverbund. Sie ist in dem Bereich der Kinder-, Jugend-, Behinderten- und Gesundheitshilfe tätig.
 
   <a href="#" class="button is-rounded is-dark">
       <span>Website</span>
