@@ -40,7 +40,7 @@ Das Forschungsprojekt INTIA hat drei Wissenschaftspraxispartnerschaften (kurz WP
 
 <div class="columns">       
   <div class="column is-4 is-round is-centered">
-    <img src="https://via.placeholder.com/800x800" alt="placeholder" class="">
+    <img src="/assets/img/logos/diakonie_michaelshoven.png" alt="placeholder" class="">
   </div>
 <div class="column">
 
@@ -60,7 +60,7 @@ Seit 70 Jahren gibt es die Diakonie Michaelshoven. Sie setzt sich für soziale B
 
   <div class="columns">       
   <div class="column is-4 is-round is-centered">
-    <img src="https://via.placeholder.com/800x800" alt="placeholder" class="">
+    <img src="/assets/img/logos/ev_jugendhilfe_godesheim.png" alt="placeholder" class="">
   </div>
 <div class="column">
 
@@ -80,7 +80,7 @@ Die Evangelischen Jugendhilfe Godesheim ist ein Jugendhilfeverbund. Sie ist in d
 
   <div class="columns">       
   <div class="column is-4 is-round is-centered">
-    <img src="https://via.placeholder.com/800x800" alt="placeholder" class="">
+    <img src="/assets/img/logos/fjmk.png" alt="placeholder" class="">
   </div>
 <div class="column">
 
