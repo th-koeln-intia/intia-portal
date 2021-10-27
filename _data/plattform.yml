@@ -23,14 +23,14 @@ sections:
   - title: Neuigkeiten
     text: |
         Eine Übersicht der Neuigkeiten auf der Plattform INTIA: Aktuelle Lösungsideen, neue Methoden, Veröffentlichungen und Projektberichte.
-    image: /assets/img/landingpage/wissen.jpg
-    icon: fa-briefcase
+    image: /assets/img/landingpage/neuigkeiten.jpg
+    icon: fa-newspaper
     link: /stories/
     link_text: Zum den Neuigkeiten
   - title: Mitmachen
     text: |
         Das Kontaktformular, um Anregungen, Ideen, Kritik und Feedback an INTIA zu schicken sowie eine Übersicht unserer Community-Kanäle.
-    image: /assets/img/landingpage/wissen.jpg
-    icon: fa-briefcase
+    image: /assets/img/landingpage/mitmachen.jpg
+    icon: fa-hands-helping
     link: /contact/
     link_text: Zum Kontakt
