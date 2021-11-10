@@ -3,14 +3,13 @@ title: Projekt
 title_above: Über
 permalink: /project/
 subtitle: |
-  INTIA ist ein Projekt der Technischen Hochschule Köln, in welchem die gleichnamige Plattform entwickelt wurde. Das Forschungsprojekt möchte mit benachteiligten Jugendlichen herausfinden, wie sie ihren Alltag mit Hilfe von Technik verbessern können.
+  Woher kommen die hier angebotenen Infos und Materialien? Aus dem gleichnamigen Forschungsprojekt an der TH Köln. Forschende und benachteiligte Jugendliche erforschen darin gemeinsam, wie Technik den Alltag verbessern kann.
 hero_tags: subpage
 ---
 
 # Jugendliche als Expert:innen
 
-Die Jugendlichen machen selbst mit und forschen gemeinsam mit dem Team der TH Köln. Denn nur die Jugendlichen selbst wissen, was sie in ihrem Leben und besonders dort wo sie wohnen verbessern können. Zusammen mit dem INTIA Team der TH Köln erfinden sie technische oder digitale Hilfen für den Alltag von Jugendlichen.
-Über drei Jahre (2019 bis 2022) bekommt INTIA Geld vom Bundesministerium für Bildung und Forschung (BMBF) in Berlin, damit die Wissenschaftler:innen der TH Köln und betroffene Jugendliche zusammen arbeiten können.
+Die Jugendlichen machen selbst mit und forschen gemeinsam mit dem Team der TH Köln. Denn nur die Jugendlichen selbst wissen, was sie in ihrem Leben und besonders dort wo sie wohnen verbessern können. Zusammen mit dem INTIA Team der TH Köln erfinden sie technische oder digitale Hilfen für den Alltag von Jugendlichen. Über drei Jahre (2019 bis 2022) bekommt INTIA Fördergelder, damit die Wissenschaftler:innen der TH Köln und Jugendliche zusammen arbeiten können.
 
 # Finanzielle Förderung
 
@@ -31,7 +30,7 @@ Digitale Technik erleichtert den Alltag und lässt viele Menschen an etwas teilh
 
 ## Vorgehen
 
-Das Projektteam geht in Wohneinrichtungen der Sozialen Arbeit, um vor Ort mit Jugendlichen in Workshops zu arbeiten. In einer Art Alltagslabor werden die Lücken, wo eine technische Lösung fehlt, gemeinsam erforscht und als Bedarf genauer definiert. Gemeinsam entwickeln Projektteam und jugendliche Mitentwickler:innen einen ersten technischen Prototypen, den es so vorher noch nicht gab. Ziel des Projektes ist es, eigene technische Lösungen in Form eines mobilen Laborkoffers anderen Einrichtungen der Sozialen Arbeit zur Verfügung zu stellen, inklusive Anleitung, Beschreibung der Methoden und Konzept. Alle wissenschaftlich interessante Fragen aus diesem Vorgehen werden auf dieser Plattform gesammelt und Fachkräften der Sozialen Arbeit, anderen Betroffenen sowie Selbsthilfeinitiativen und Technikexpert:innen angeboten. In Form von Werkzeugen, Wissen und Lösungen bietet hier das Projektteam seine Ergebnisse zur eigenen Nutzung, zum Nachbau und Weiterentwicklung als Open Source Material an.
+Das Projektteam besucht Jugendliche in Wohneinrichtungen der Sozialen Arbeit, um gemeinsam in Workshops zu arbeiten. In einer Art Alltagslabor werden die Lücken, wo eine technische Lösung fehlt, gemeinsam erforscht und als Bedarf genauer definiert. Gemeinsam entwickeln Projektteam und jugendliche Mitentwickler:innen einen ersten technischen Prototypen, den es so vorher noch nicht gab. Ziel des Projektes ist es, eigene technische Lösungen in Form eines mobilen Laborkoffers anderen Einrichtungen der Sozialen Arbeit zur Verfügung zu stellen, inklusive Anleitung, Beschreibung der Methoden und Konzept. Alle wissenschaftlich interessante Fragen aus diesem Vorgehen werden auf dieser Plattform gesammelt und Fachkräften der Sozialen Arbeit, anderen Betroffenen sowie Selbsthilfeinitiativen und Technikexpert\*innen angeboten. In Form von Werkzeugen, Wissen und Lösungen bietet hier das Projektteam seine Ergebnisse zur eigenen Nutzung, zum Nachbau und Weiterentwicklung als Open Source Material an.
 
 ## Besondere Herausforderungen
 
