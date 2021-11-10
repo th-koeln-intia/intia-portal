@@ -1,14 +1,14 @@
 sections:
   - title: Werkzeuge
     text: |
-      Alltagslösungen selber bauen? Hier gibt es Werkzeuge, Methoden und Anleitungen zum Weiterentwickeln
+      Alltagslösungen selber bauen? Hier gibt es Werkzeuge, Methoden und Anleitungen zum Weiterentwickeln.
     image: /assets/img/landingpage/werkzeuge.jpg
     icon: fa-tools
     link: /werkzeuge/
     link_text: Zu den Werkzeugen
   - title: Lösungen
     text: |
-        Alltagsprobleme selbst angehen? Hier gibt es Protoypen zum Nachbauen oder selbst erfinden
+        Alltagsprobleme selbst angehen? Hier gibt es Protoypen zum Nachbauen oder selbst erfinden.
     image: /assets/img/landingpage/loesungen.jpg
     icon: fa-key
     link: /loesungen/
@@ -22,11 +22,11 @@ sections:
     link_text: Zum Wissen
   - title: Neuigkeiten
     text: |
-        Hier gibt es alle Neuigkeiten rund um die Angebote von INTIA. Außerdem sammeln wir hier, was andere über uns schreiben
+        Hier gibt es alle Neuigkeiten rund um die Angebote von INTIA. Außerdem sammeln wir hier, was andere über uns schreiben.
     image: /assets/img/landingpage/neuigkeiten.jpg
     icon: fa-newspaper
     link: /stories/
-    link_text: Zum den Neuigkeiten
+    link_text: Zu den Neuigkeiten
   - title: Mitmachen
     text: |
         Hier kannst Du Anregungen, Ideen, Kritik und Feedback an INTIA senden und selbst einsteigen. Übersicht unserer Community-Kanäle
