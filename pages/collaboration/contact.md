@@ -1,7 +1,7 @@
 ---
 title: Kontakt
 subtitle: |
-  Gibt es Fragen? Ist etwas unklar? Kannst Du zu einem Thema einen Beitrag leisten? Dann nimm über das Formular Kontakt mit uns auf. Wir suchen in unserem Team die richtige Ansprechpartner:in und melden uns wieder mit einer Antwort, so schnell es geht. Wenn Du magst, nehmen wir gerne Deine Kontaktdaten in unsere Datenbank auf.
+  Mach' mit und werde Teil des Netzwerks! Es geht um alles rund um digitale technische Alltagshilfen. Schon dabei sind: das INTIA-Projektteam, der Fachbeirat des Projekts und seine Praxispartner. Alle verbindet der Wunsch, sich untereinander und mit Fachkräften der Sozialen Arbeit und den beteiligten Wissenschaftler:innen auszutauschen und ein Netzwerk zu bilden.
 permalink: /contact/
 contact: true
 hero_tags: subpage

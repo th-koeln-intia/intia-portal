@@ -8,15 +8,10 @@ hero_tags: subpage post pdf
 hero_image: /assets/img/posts/messenger.jpg
 preview_image: /assets/img/posts/messenger.jpg
 subtitle: |
-  Forschungdsdaten erheben trotz Covid-19 Kontaktbeschränkungen: wie geht das mit einem Messenger? Das Projekt INTIA vergleicht verschiedene Messenger und prüft Möglichkeiten der Kostenübernahme für befragte Personen bei Bezahl-Versionen und Vorteile in der Datenerhebung von Lizenz-Käufen.
+  Forschungsdaten erheben trotz Covid-19 Kontaktbeschränkungen: Wie geht das mit einem Messenger? Covid-19 behindert die Zusammenarbeit mit Forschungspartnern und Zielgruppen: Welche Kommunikationswege garantieren Erreichbarkeit und Akzeptanz? Das Projekt INTIA vergleicht verschiedene Messenger und prüft Möglichkeiten der Kostenübernahme für befragte Personen bei Bezahl-Versionen und Vorteile in der Datenerhebung von Lizenz-Käufen.
 ---
 
-- Corona-Maßnahmen behindern Ihre Zusammenarbeit mit Forschungspartnern und Zielgruppen und Sie wollen auf eine digitale Kommunikation umstellen.
-- Nur telefonieren oder Emails schreiben kommt nicht infrage, aber welche Kommunikationswege garantieren sowohl Erreichbarkeit und Akzeptanz bei den Teilnehmenden als auch die Einhaltung von gesetzlichen und ethischen Datenschutz-Standards?
-- Das Projekt INTIA stellt eine Auswahlentscheidung entlang Kriterien wie Verbreitung, Verfügbarkeit, Kosten, technische Usability und besonders Vereinbarkeit mit der Datenschutzgrundverordnung vor.
-- Verglichen wurden die gängigsten Messenger, Möglichkeiten der Kostenübernahme für befragte Personen bei Bezahl-Versionen und Vorteile in der Datenerhebung von Lizenz-Käufen.
-
-Will man Sichtweisen von Menschen erforschen, so muss man mit ihnen in Kontakt treten, Interviews führen, teilnehmende Beobachtungen machen, eventuell Videoaufnahmen oder -analysen durchführen. Kontaktbeschränkungen, wie sie unter Covid-19 Präventionsmaßnahmen erlebt wurden lassen aber weder einen persönlichen Kontakt zu, noch ermöglichen sie, dass Forschende vor Ort Aufnahmen oder Beobachtungen anstellen. Wie kann man dennoch Kontakt halten oder Forschung betreiben?
+Will man Sichtweisen von Menschen erforschen, so muss man mit ihnen in Kontakt treten, Interviews führen, teilnehmende Beobachtungen machen, eventuell Videoaufnahmen oder -analysen durchführen. Kontaktbeschränkungen, wie sie unter Covid-19 Präventionsmaßnahmen erlebt wurden, lassen aber weder einen persönlichen Kontakt zu, noch ermöglichen sie, dass Forschende vor Ort Aufnahmen oder Beobachtungen anstellen. Wie kann man dennoch Kontakt halten oder Forschung betreiben?
 
 Eine Möglichkeit könnte es sein, mit Teilnehmenden eine Messenger-Kommunikation zu Forschungszwecken einzuführen. Unter welchen Bedingungen ist dies zulässig? Während im privaten Umfeld Fragen von Verbreitung, Verfügbarkeit, Kosten oder Erreichbarkeit vordergründig die Auswahlentscheidungen von Nutzern für einen Messenger beeinflussen, müssen Forschungs-und Bildungseinrichtungen neben derartigen Erwägungen zur Praktikabilität ebenso dem Datenschutz und der Schweigepflicht gerecht werden.
 
@@ -32,7 +27,7 @@ Diese vier Anwendungen zeichnen sich durch folgende Punkte im Unterschied zu vie
 - Sie haben eine hohe technische Funktionalität.
 - Sie machen keine eigene Infrastruktur erforderlich, weshalb diverse XMPP-Clients nicht getestet wurden.
 
-Neben den in der Einleitung genannten Aspekten zur Usability gab es zudem optional einen Pluspunkt, wenn beispielsweise technische Schnittstellen zur Anbindung von Bots vorhanden waren. Nach Testung der verschiedenen Eigenschaften der vier Messenger-Dienste ist das Fazit des Forschungsteams, dass zwar Whatsapp weiterhin von seiner extrem hohen Verbreitung und damit einer enormen Akzeptanz profitiert. Als gravierender Nachteil steht dem entgegen, dass personenbezogene Daten von Whatsapp gespeichert und verarbeitet werden, beispielsweise das gesamte Adressbuch auf den genutzten Smartphones, aber auch die Metadaten der Kommunikation. Das höchste Schutzniveau versendeter Daten sowohl in Bezug auf personenbezogene Informationen als auch der kommunizierten Inhalte wird von hingegen vom Messenger-Dienst Threema gewahrt.
+Neben den in der Einleitung genannten Aspekten zur Usability gab es zudem optional einen Pluspunkt, wenn beispielsweise technische Schnittstellen zur Anbindung von Bots vorhanden waren. Nach Testung der verschiedenen Eigenschaften der vier Messenger-Dienste ist das Fazit des Forschungsteams, dass zwar Whatsapp weiterhin von seiner extrem hohen Verbreitung und damit einer enormen Akzeptanz profitiert. Als gravierender Nachteil steht dem entgegen, dass personenbezogene Daten von Whatsapp gespeichert und verarbeitet werden, beispielsweise das gesamte Adressbuch auf den genutzten Smartphones, aber auch die Metadaten der Kommunikation. Das höchste Schutzniveau versendeter Daten sowohl in Bezug auf personenbezogene Informationen als auch der kommunizierten Inhalte wird hingegen vom Messenger-Dienst Threema gewahrt.
 
 ## Entscheidung für Threema-Work
 
