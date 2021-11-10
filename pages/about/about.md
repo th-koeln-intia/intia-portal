@@ -3,7 +3,7 @@ title: Plattform
 title_above: Über
 permalink: /about/
 subtitle: |
-  Die Plattform INTIA bietet Werkzeuge und Wissen zur partizipativen und inklusiven Technikentwicklung gemeinsam mit Jugendlichen in Einrichtungen der Sozialen Arbeit an.
+  Wie kann digitale Technik möglichst partizipativ und inklusiv mit ihren Anwender:innen entwickelt werden? Methoden, Werkzeuge und Wissen dazu gibt es auf dieser Plattform
 hero_tags: toppage
 ---
 
@@ -11,7 +11,7 @@ hero_tags: toppage
 
 Hier finden Fachkräfte der Sozialen Arbeit Unterstützung sowie Inspiration, wie sie ihren Arbeitsalltag mit Kindern und Jugendlichen in Einrichtungen der Sozialen Arbeit neu und aktiver gestalten können. Dabei steht das Mitmachen und das gemeinsame Arbeiten im Vordergrund.
 Entwickler:innen, die Materialien zur Technikentwicklung selbst gestalten wollen, finden hier ein Open Source Materialangebot zur Erprobung und weiteren Verwendung.
-Wissenschaftler:innen können hier sowohl den Beitrag von INTIA zum Wissenschaftsdiskurs zur partizipativen und inklusiven digitalen Technikentwicklung finden, als auch selbst wissenschaftliche Erkenntnisse einbringen und mit anderen in Austausch treten.
+Wissenschaftler:innen können hier den Beitrag von INTIA zum Wissenschaftsdiskurs zur partizipativen und inklusiven digitalen Technikentwicklung finden. Außerdem können sie selbst wissenschaftliche Erkenntnisse einbringen und mit anderen in Austausch treten.
 Und selbstverständlich richten sich die Angebote der Plattform auch an betroffene Jugendliche, die durch Spaß an Technik ihre Selbstwirksamkeit steigern wollen und darüber mit anderen reden möchten.
 
 {% include highlighter.html two-columns=true content="

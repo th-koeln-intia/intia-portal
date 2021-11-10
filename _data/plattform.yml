@@ -1,35 +1,35 @@
 sections:
   - title: Werkzeuge
     text: |
-      Werkzeuge und Material zum Entwickeln und Bauen eigener Lösungsideen: Methoden, Entwurfsmuster, Anleitungen
+      Alltagslösungen selber bauen? Hier gibt es Werkzeuge, Methoden und Anleitungen zum Weiterentwickeln
     image: /assets/img/landingpage/werkzeuge.jpg
     icon: fa-tools
     link: /werkzeuge/
     link_text: Zu den Werkzeugen
   - title: Lösungen
     text: |
-        Technische Lösungsvorschläge für Alltagsprobleme: Prototypen zum Nachbauen oder Weiterentwickeln
+        Alltagsprobleme selbst angehen? Hier gibt es Protoypen zum Nachbauen oder selbst erfinden
     image: /assets/img/landingpage/loesungen.jpg
     icon: fa-key
     link: /loesungen/
     link_text: Zu den Lösungen
   - title: Wissen
     text: |
-        Hintergrundwissen zur Technikentwicklung mit Jugendlichen: Begriffserklärungen, wissenschaftliche Texte und Veröffentlichungen
+        Etwas besser verstehen oder mehr Hintergrundwissen erwünscht? Begriffersklärungen, Wissenschaftliches und Veröffentlichungen
     image: /assets/img/landingpage/wissen.jpg
     icon: fa-briefcase
     link: /wissen/
     link_text: Zum Wissen
   - title: Neuigkeiten
     text: |
-        Eine Übersicht der Neuigkeiten auf der Plattform INTIA: Aktuelle Lösungsideen, neue Methoden, Veröffentlichungen und Projektberichte.
+        Hier gibt es alle Neuigkeiten rund um die Angebote von INTIA. Außerdem sammeln wir hier, was andere über uns schreiben
     image: /assets/img/landingpage/neuigkeiten.jpg
     icon: fa-newspaper
     link: /stories/
     link_text: Zum den Neuigkeiten
   - title: Mitmachen
     text: |
-        Das Kontaktformular, um Anregungen, Ideen, Kritik und Feedback an INTIA zu schicken sowie eine Übersicht unserer Community-Kanäle.
+        Hier kannst Du Anregungen, Ideen, Kritik und Feedback an INTIA senden und selbst einsteigen. Übersicht unserer Community-Kanäle
     image: /assets/img/landingpage/mitmachen.jpg
     icon: fa-hands-helping
     link: /contact/
