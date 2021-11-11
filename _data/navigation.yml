@@ -14,10 +14,10 @@
 #  dropdown:
 #    - name: Lösungen
 #      link: /loesungen/
-#- name: Wissen
-#  dropdown:
-#    - name: Wissen
-#      link: /wissen/
+- name: Wissen
+  dropdown:
+    - name: Wörterbuch
+      link: /glossary/
 - name: Aktuelles
   dropdown:
     - name: Neuigkeiten
