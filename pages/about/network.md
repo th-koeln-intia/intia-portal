@@ -30,14 +30,6 @@ Der Fachbeirat hat die Aufgabe, das Forschungsprojekt mit der Expertise seiner M
 
 Das Forschungsprojekt INTIA hat drei Wissenschaftspraxispartnerschaften (kurz WPKs), die von Anfang an dabei sind. Es sind die Diakonie Michaelshoven, die Evangelische Jugendhilfe Godesheim und die Fachstelle für Jugendmedienkultur (FJMK). In den Einrichtungen dieser Partner konnten Praxiseinsätze durchgeführt und gemeinsam an Forschungsfragen gearbeitet werden.
 
-  <a href="#" class="button is-rounded is-dark">
-      <span class="icon is-small">
-        <i class="fas fa-chevron-right fa-xs"></i>
-      </span>
-      <span>Text</span>
-  </a>
-  <div class="clear"></div>
-
 <div class="columns">       
   <div class="column is-4 is-round is-centered">
     <img src="/assets/img/logos/diakonie_michaelshoven.png" alt="placeholder" class="">
