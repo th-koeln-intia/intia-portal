@@ -2,8 +2,8 @@
 backend:
   name: github
   repo: th-koeln-intia/intia-portal
-  branch: gh-pages
-  site_domain: test.intia.de
+  branch: main
+  site_domain: unruffled-euclid-735769.netlify.app
 media_folder: 'assets/img/uploads'
 collections:
   - name: 'glossary'
