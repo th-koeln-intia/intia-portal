@@ -1,0 +1,20 @@
+# config.yml
+backend:
+  name: github
+  repo: th-koeln-intia/intia-portal
+media_folder: 'assets/img/uploads'
+collections:
+  - name: 'glossary'
+    label: 'Glossary'
+    folder: 'collections/_glossary'
+    create: true
+    slug: "{{slug}}"
+    fields:
+      -  {label: "Hero tags", name: "hero_tags", widget: "hidden", default: "subpage glossary"}
+      -  {label: "Überschrift", name: "title_above", widget: "hidden", default: "Wörterbuch"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Englischer Title", name: "english_title", widget: "string"}
+      - {label: "Letzte Änderung", name: "last_update", widget: "datetime"}
+      - {label: "Pop Up Text", name: "pop_up", widget: "string"}
+      - {label: "Wortstamm", name: "synonyms", widget: "list"}
+      - { label: 'Body', name: 'body', widget: 'markdown' }
