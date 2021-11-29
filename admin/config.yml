@@ -2,6 +2,8 @@
 backend:
   name: github
   repo: th-koeln-intia/intia-portal
+  branch: gh-pages
+  site_domain: test.intia.de
 media_folder: 'assets/img/uploads'
 collections:
   - name: 'glossary'
