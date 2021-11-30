@@ -16,7 +16,7 @@ jobs:
       url: https://${{ env.URL }}
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v2.4
+        uses: actions/checkout@v2.4.0
 
       - name: Using cache
         uses: actions/cache@v2
