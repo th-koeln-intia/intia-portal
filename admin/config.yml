@@ -35,5 +35,5 @@ collections:
       - {label: "Autor", name: "author", widget: "string"}
       - {label: "Header Bild", name: "hero_image", widget: "image", allow_multiple: false}
       - {label: "Vorschau Bild", name: "preview_image", widget: "image", allow_multiple: false}
-      - {label: "Kurzfassung/Abstrakt (max. 90 Zeichen)", name: "abstract", widget: "text", pattern: ['^.{90}$', "Maximal 90 Zeichen"]}
+      - {label: "Kurzfassung/Abstrakt (max. 90 Zeichen)", name: "subtitle", widget: "text", pattern: ['^.{90}$', "Maximal 90 Zeichen"]}
       - { label: 'Body', name: 'body', widget: 'markdown' }
