@@ -10,7 +10,7 @@ env:
 
 jobs:
   build-test:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-20.04
     steps:
       - name: Set GitHub Actions as Commit Author
         run: |
