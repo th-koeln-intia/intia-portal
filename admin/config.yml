@@ -13,7 +13,7 @@ collections:
     slug: "{{slug}}"
     fields:
       -  {label: "Hero tags", name: "hero_tags", widget: "hidden", default: "subpage glossary"}
-      -  {label: "Überschrift", name: "title_above", widget: "hidden", default: "Wörterbuch"}
+      -  {label: "Überschrift", name: "title_above", widget: "hidden", default: "WÖRTERBUCH"}
       - {label: "Veröffentlicht", name: "published", widget: "boolean", default: true}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Englischer Title", name: "english_title", widget: "string"}
@@ -21,4 +21,19 @@ collections:
       - {label: "Letzte Änderung", name: "last_update", widget: "datetime"}
       - {label: "Pop Up Text (Einfach & max. 90 Zeichen)", name: "subtitle", widget: "string", pattern: ['^.{90}$', "Maximal 90 Zeichen"]}
       - {label: "Kurzfassung/Abstrakt (Einfach & max. 400 Zeichen)", name: "abstract", widget: "text", pattern: ['^.{400}$', "Maximal 400 Zeichen"]}
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+  - name: 'stories'
+    label: 'Neuigkeiten'
+    folder: 'collections/_posts'
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - {label: "Hero tags", name: "hero_tags", widget: "hidden", default: "subpage post pdf"}
+      - {label: "Überschrift", name: "title_above", widget: "hidden", default: "AKTUELLES"}
+      - {label: "Veröffentlicht", name: "published", widget: "boolean", default: true}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Autor", name: "author", widget: "string"}
+      - {label: "Header Bild", name: "hero_image", widget: "image", allow_multiple: false}
+      - {label: "Vorschau Bild", name: "preview_image", widget: "image", allow_multiple: false}
+      - {label: "Kurzfassung/Abstrakt (max. 90 Zeichen)", name: "abstract", widget: "text", pattern: ['^.{90}$', "Maximal 90 Zeichen"]}
       - { label: 'Body', name: 'body', widget: 'markdown' }
