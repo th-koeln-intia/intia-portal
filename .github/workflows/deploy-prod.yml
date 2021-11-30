@@ -18,7 +18,7 @@ jobs:
           git config --global user.email github-actions@github.com
 
       - name: Checkout repo
-        uses: actions/checkout@v2
+        uses: actions/checkout@v2.4
 
       - name: Using cache
         uses: actions/cache@v2
@@ -35,7 +35,7 @@ jobs:
           target_path: "build"
 
       - name: Checkout Prod Target
-        uses: actions/checkout@v2
+        uses: actions/checkout@v2.4
         with:
           repository: th-koeln-intia/intia-prod
           path: "deploy"

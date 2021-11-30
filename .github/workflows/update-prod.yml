@@ -16,12 +16,12 @@ jobs:
       url: https://${{ env.URL }}
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v2.3.4
+        uses: actions/checkout@v2.4
         with:
           ref: "main"
 
       - name: Checkout repo
-        uses: actions/checkout@v2.3.4
+        uses: actions/checkout@v2.4
         with:
           ref: "production"
           path: "destination"
