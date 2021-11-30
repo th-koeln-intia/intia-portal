@@ -14,9 +14,11 @@ collections:
     fields:
       -  {label: "Hero tags", name: "hero_tags", widget: "hidden", default: "subpage glossary"}
       -  {label: "Überschrift", name: "title_above", widget: "hidden", default: "Wörterbuch"}
+      - {label: "Veröffentlicht", name: "published", widget: "boolean", default: true}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Englischer Title", name: "english_title", widget: "string"}
-      - {label: "Letzte Änderung", name: "last_update", widget: "datetime"}
-      - {label: "Pop Up Text", name: "pop_up", widget: "string"}
       - {label: "Wortstamm", name: "synonyms", widget: "list"}
+      - {label: "Letzte Änderung", name: "last_update", widget: "datetime"}
+      - {label: "Pop Up Text (Einfach & max. 90 Zeichen)", name: "subtitle", widget: "string", pattern: ['^.{90}$', "Maximal 90 Zeichen"]}
+      - {label: "Kurzfassung/Abstrakt (Einfach & max. 400 Zeichen)", name: "abstract", widget: "text", pattern: ['^.{400}$', "Maximal 400 Zeichen"]}
       - { label: 'Body', name: 'body', widget: 'markdown' }

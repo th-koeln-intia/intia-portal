@@ -10,12 +10,9 @@ title_above: Wörterbuch
 title: Partizipation
 english_title: Participation
 last_update: 11.11.2021
-pop_up: |
-  Partizipation bedeutet Entscheidungen mitzubestimmen.
 published: true
 subtitle: >
-  Partizipation bedeutet, dass Menschen an Entscheidungen mitwirken können und
-  dadurch ein Ergebnis beeinflussen können.
+  Partizipation bedeutet Entscheidungen mitzubestimmen.
 synonyms:
   - Einbeziehung
   - Beteiligung
