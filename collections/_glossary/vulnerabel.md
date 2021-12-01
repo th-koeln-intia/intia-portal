@@ -1,22 +1,17 @@
 ---
-abstract: >
-  Vulnerabel heißt verletzlich sein. Eine Person ist immer vulnerabel. Manche
-  Umstände verstärken das. Manche Personen werden zum Beispiel wegen ihrer
-  Herkunft benachteiligt. Dadurch sind sie vulnerabler als andere
-  Personen·gruppen. Auch die Jugendlichen aus dem Projekt INTIA sind Teil einer
-  vulnerablen Personen·gruppe. Das ist mit Hürden verbunden. Diese Hürden will
-  das Projekt INTIA durch technische Hilfs·mittel verringern.
-english_title: vulnerable
-published: true
-title_above: Wörterbuch
-last_update: 11.11.2021
-subtitle: >
-  Vulnerabel bedeutet, verletzlich zu sein. Ein Mensch ist immer vulnerabel.
 hero_tags: subpage glossary
+title_above: Wörterbuch
+published: true
 title: vulnerabel
+english_title: vulnerable
 synonyms:
-  - Verwundbarkeit
-  - Verletzbarkeit
+  - vulnerale
+last_update: 11.11.2021
+subtitle: Vulnerabel bedeutet, verletzlich zu sein. Ein Mensch ist immer vulnerabel.
+abstract: Vulnerabel heißt verletzlich sein. Eine Person ist immer vulnerabel.
+  Manche Umstände verstärken das. Manche Personen werden zum Beispiel wegen
+  ihrer Herkunft benachteiligt. Dadurch sind sie vulnerabler als andere
+  Personen·gruppen.
 ---
 
 # Bedeutung für das Projekt
