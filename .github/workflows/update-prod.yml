@@ -31,13 +31,17 @@ jobs:
         run: |
           rsync -Rr . destination
           cd destination
+          echo " 1 -------------------------"
           ls -a
+          echo " 2 -------------------------"
+          find . -name .git -type d -prune
+          echo " 3 -------------------------"
           git config --global user.name github-actions
           git config --global user.email github-actions@github.com
           git status
-          echo "-------------------------"
+          echo " 4 -------------------------"
           git add .
-          echo "-------------------------"
+          echo " 5 -------------------------"
           git status
           git commit -m $GITHUB_SHA
           git status
