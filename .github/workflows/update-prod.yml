@@ -33,6 +33,7 @@ jobs:
           cd destination
           git config --global user.name github-actions
           git config --global user.email github-actions@github.com
+          git status
           git add .
           git commit -m $GITHUB_SHA
           git status
