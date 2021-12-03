@@ -1,14 +1,15 @@
 ---
-title: Prototypen mit Jugendlichen entwickeln
-title_above: AKTUELLES
-author: Alena Schmier, Hanna Thielmann, Jan Seidler
-categories: News
-tags: news intia prototyping covid-19 inclusive behaviour-driven
 hero_tags: subpage post pdf
-hero_image: /assets/img/posts/messenger.jpg
-preview_image: /assets/img/posts/messenger.jpg
-subtitle: |
-  Methoden einer inklusiven Prototypenentwicklung mit Jugendlichen mit Beeinträchtigung. Das INTIA Projekt strebt eine Technikentwicklung an, die Jugendliche aus dem Kontext der Behinderten- und Jugendhilfe partizipativ mitgestalten.
+title_above: AKTUELLES
+published: true
+title: Prototypen mit Jugendlichen entwickeln
+author: Alena Schmier, Hanna Thielmann, Jan Seidler
+hero_image: /assets/img/uploads/prototypen_mit_jugendlichen.jpg
+preview_image: /assets/img/uploads/prototypen_mit_jugendlichen.jpg
+subtitle: Methoden einer inklusiven Prototypenentwicklung mit Jugendlichen mit
+  Beeinträchtigung.
+tags: news intia prototyping covid-19 inclusive behaviour-driven
+categories: News
 ---
 
 Es soll herausgefunden werden, welche digitalen bzw. technischen Hilfsmittel sich junge Menschen für ihren Alltag tatsächlich wünschen. Doch wie kann so ein Prozess der partizipativen Technikentwicklung gelingen? Beispielhaft wird ein Prozess dargestellt, der in einer Maßnahme zur beruflichen Qualifizierung mit einer Gruppe von jungen Menschen mit Förderbedarf und ihrer Anleiterin stattfand. Er beschreibt die Phasen einer inklusiven Prototypenentwicklung.
