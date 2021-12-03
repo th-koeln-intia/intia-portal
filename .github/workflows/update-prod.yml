@@ -29,19 +29,11 @@ jobs:
 
       - name: Push to production
         run: |
-          echo " -2 -------------------------"
-          ls -a
           rm -r destination
-          echo " -1 -------------------------"
-          find . -name .git -type d -prune
           rsync -Rr . destination
-          echo " 0 -------------------------"
-          ls -a
-          find . -name .git -type d -prune
           cd destination
           echo " 1 -------------------------"
           ls -a
-          echo " 2 -------------------------"
           find . -name .git -type d -prune
           echo " 3 -------------------------"
           git config --global user.name github-actions
