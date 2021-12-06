@@ -29,7 +29,7 @@ jobs:
 
       - name: Push to production
         run: |
-          rsync -Rr --exclude=.git --exclude=destination . destination
+          rsync -Rr --exclude=admin --exclude=destination . destination
           cd destination
           echo " 1 -------------------------"
           ls -a
