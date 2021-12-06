@@ -10,18 +10,18 @@ env:
 
 jobs:
   build-test:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-20.04
     environment:
       name: production
       url: https://${{ env.URL }}
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v2
+        uses: actions/checkout@v2.4.0
         with:
           ref: "main"
 
       - name: Checkout repo
-        uses: actions/checkout@v2
+        uses: actions/checkout@v2.4.0
         with:
           ref: "production"
           path: "destination"
@@ -29,12 +29,11 @@ jobs:
 
       - name: Push to production
         run: |
-          pwd
-          ls
-          rsync -Rr . destination
+          rm -r ./destination/*
+          rsync -Rr --exclude=.git --exclude=destination . destination
           cd destination
           git config --global user.name github-actions
-          git config --global user.email github-actions@github.com
+          git config --global user.email github-actions@github.com     
           git add .
           git commit -m $GITHUB_SHA
           git push

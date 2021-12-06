@@ -1,23 +1,22 @@
-style: landing-page-main-content
 sections:
   - title: Werkzeuge
     text: |
-      Sammlung aller Werkzeuge zum Selber-Bauen und Entwickeln eigener Lösungsideen: Methoden, Entwurfsmuster, Anleitungen.
-    image: https://via.placeholder.com/1200x800
+      Alltagslösungen selber bauen? Hier gibt es Werkzeuge, Methoden und Anleitungen zum Weiterentwickeln.
+    image: /assets/img/landingpage/werkzeuge.jpg
     icon: fa-tools
     link: /werkzeuge/
     link_text: Zu den Werkzeugen
   - title: Lösungen
     text: |
-        Ideen für technik-bezogene Alltagsprobleme als erste Prototypen: Building Blocks zum Nachbau von Prototypen oder Weiterverwendung sowie ein Baukasten (Toolkit) zur Bedarfserhebung.
-    image: https://via.placeholder.com/1200x800
+        Alltagsprobleme selbst angehen? Hier gibt es Protoypen zum Nachbauen oder selbst erfinden.
+    image: /assets/img/landingpage/loesungen.jpg
     icon: fa-key
     link: /loesungen/
     link_text: Zu den Lösungen
   - title: Wissen
     text: |
-        Erklärung der verwendeten Begriffe, wissenschaftliche Texte zu partizipativer und inklusiver Technikentwicklung und eigene Veröffentlichungen des Forschungsprojektes.
-    image: https://via.placeholder.com/1200x800
+        Etwas besser verstehen oder mehr Hintergrundwissen erwünscht? Begriffersklärungen, Wissenschaftliches und Veröffentlichungen
+    image: /assets/img/landingpage/wissen.jpg
     icon: fa-briefcase
-    link: /wissen/
+    link: /glossary/
     link_text: Zum Wissen

@@ -28,6 +28,7 @@ plugins:
   - jekyll-sass-converter
   - jekyll-titles-from-headings
   - jekyll-watch
+  - jekyll-hyperlinkify-glossary
 github: [metadata]
 sass:
   style: compressed
@@ -46,9 +47,18 @@ defaults:
     values:
       permalink: /stories/:title/
       layout: default
+  - scope:
+      type: glossary
+      path: _glossary
+    values:
+      permalink: /glossary/:title/
+      layout: default   
 
 # Collections
 collections_dir: collections
+collections:
+  glossary:
+    output: true
 
 # --------------------------- Includes and Excludes -------------------------- #
 

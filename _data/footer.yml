@@ -1,5 +1,5 @@
-- name: Kontakt
-  link: /contact/
+#- name: Kontakt
+#  link: /contact/
 - name: Über die Plattform
   link: /about/
 - name: Impressum
