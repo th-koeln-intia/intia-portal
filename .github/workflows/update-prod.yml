@@ -29,19 +29,10 @@ jobs:
 
       - name: Push to production
         run: |
-          rsync -Rr --exclude=admin --exclude=destination . destination
+          rsync -Rr --delete --exclude=CNAME --exclude=admin --exclude=destination . destination
           cd destination
-          echo " 1 -------------------------"
-          ls -a
-          find . -name .git -type d -prune
-          echo " 3 -------------------------"
           git config --global user.name github-actions
-          git config --global user.email github-actions@github.com
-          git status
-          echo " 4 -------------------------"
+          git config --global user.email github-actions@github.com     
           git add .
-          echo " 5 -------------------------"
-          git status
           git commit -m $GITHUB_SHA
-          git status
           git push
