@@ -6,7 +6,7 @@ on:
       - production
 
 env:
-  URL: tmp.intia.de
+  URL: intia.de
 
 jobs:
   build-test:
