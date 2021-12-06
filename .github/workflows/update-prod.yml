@@ -30,7 +30,7 @@ jobs:
       - name: Push to production
         run: |
           cd destination
-          rm -r .
+          rm -rf *
           rsync -Rr ../ .
           echo " 1 -------------------------"
           ls -a
