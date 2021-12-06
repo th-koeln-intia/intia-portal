@@ -29,9 +29,9 @@ jobs:
 
       - name: Push to production
         run: |
-          rm -r destination
-          rsync -Rr . destination
           cd destination
+          rm -r .
+          rsync -Rr ../ .
           echo " 1 -------------------------"
           ls -a
           find . -name .git -type d -prune
