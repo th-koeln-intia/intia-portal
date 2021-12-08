@@ -11,7 +11,7 @@ hero_tags: subpage
 
 ## Anschrift
 
-<img src="/assets/img/logos/th_dites.png">
+<img src="/assets/img/logos/TH_Single.png">
 Technische Hochschule Köln
 <br>
 Forschungsschwerpunkt DITES
