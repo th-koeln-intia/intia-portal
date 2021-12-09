@@ -61,3 +61,5 @@ Kortekaas, Caroline; Zurbrügg, Eva; Zorn, Isabel. (in Bearbeitung). Pilotstudie
 Zorn, Isabel; Schmidt, Marc; Wilk, Dennis; Rösch, Janina (2021): Digital participatory research with adolescents in youth service residential care under Covid-19 containment measures - A messenger-based digital research method. ECSWR. European Conference on Social Work Research (ECSWR 2021). Bukarest, Romania, 07.05.2021.
 
 Zorn, Isabel (2021-2021): Medienpädagogik für Fachkräfte und Medienbildung bei Menschen mit Komplexer Behinderung. Tagung der Stiftung Leben Pur. Digitalisierung und Menschen mit Komplexer Behinderung. Stiftung Leben Pur. Stiftung Leben Pur, 21.04.2021-26.04.2021. Online verfügbar unter https://www.stiftung-leben-pur.de/termine/tagungen-leben-pur/einzelansicht.html?tx_seminars_pi1[showUid]=111.
+
+Zorn, I. (2021). Medienpädagogik für Fachkräfte und Medienbildung für Menschen mit Komplexer Behinderung. In N.J. Maier-Michalitsch & A. Zuleger (Hrsg.), Digitalisierung und Menschen mit komplexer Behinderung (S. 32–52). Düsseldorf: verlag selbstbestimmtes leben.
