@@ -1,24 +1,22 @@
 ---
-abstract: >
-  Partizipation bedeutet Entscheidungen mitzubestimmen. Partizipation ist
-  wichtig für die Soziale Arbeit und das Forschungs·projekt INTIA. Das
-  Forschungs·projekt INTIA will partizipativ digitale Alltagshilfen entwickeln.
-  Das heißt: es ist wichtig, dass Teilnehmende im Projekt Entscheidungen treffen
-  können.
 hero_tags: subpage glossary
 title_above: Wörterbuch
+published: true
 title: Partizipation
 english_title: Participation
-last_update: 11.11.2021
-published: true
-subtitle: >
-  Partizipation bedeutet Entscheidungen mitzubestimmen.
 synonyms:
   - Einbeziehung
   - Beteiligung
   - Mitwirkung
   - Mitbestimmung
   - partizipativ
+last_update: 11.11.2021
+subtitle: Partizipation bedeutet Entscheidungen mitzubestimmen.
+abstract: "Partizipation bedeutet Entscheidungen mitzubestimmen. Partizipation
+  ist wichtig für die Soziale Arbeit und das Forschungs·projekt INTIA. Das
+  Forschungs·projekt INTIA will partizipativ digitale Alltagshilfen entwickeln.
+  Das heißt: es ist wichtig, dass Teilnehmende im Projekt Entscheidungen treffen
+  können."
 ---
 
 # Bedeutung für das Projekt

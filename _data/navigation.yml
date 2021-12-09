@@ -18,6 +18,8 @@
   dropdown:
     - name: Wörterbuch
       link: /glossary/
+    - name: Veröffentlichungen
+      link: /publications/
 - name: Aktuelles
   dropdown:
     - name: Neuigkeiten
