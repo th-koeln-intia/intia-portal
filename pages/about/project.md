@@ -13,7 +13,7 @@ Die Jugendlichen machen selbst mit und forschen gemeinsam mit dem Team der TH K�
 
 # Finanzielle Förderung
 
-Das Forschungsprojekt INTIA wird finanziell gefördert vom Bundesministerium für Bildung und Forschung (BMBF) von 2019-2023. Die Förderung ist in der Fördermaßnahme "Lebensqualität durch soziale Innovationen" (FH Sozial) . Das Projekt heisst: "Inklusive Entwicklung von Methoden und Technologien für digitale Hilfen zur Alltagsbewältigung in der Behinderten- und Erziehungshilfe (INTIA)". Du findest das Projekt unter dem Förderkennzeichen 13FH534SX7 im [Förderkatalog des Bundes](https://foerderportal.bund.de/foekat/jsp/StartAction.do?actionMode=list) auffindbar.
+Das Forschungsprojekt INTIA wird von 2019-2023 vom Bundesministerium für Bildung und Forschung (BMBF) finanziell gefördert. Die Förderung ist Teil der Fördermaßnahme "Lebensqualität durch soziale Innovationen" (FH Sozial). Das Projekt heisst: "Inklusive Entwicklung von Methoden und Technologien für digitale Hilfen zur Alltagsbewältigung in der Behinderten- und Erziehungshilfe (INTIA)" und ist unter dem Förderkennzeichen 13FH534SX7 im [Förderkatalog des Bundes](https://foerderportal.bund.de/foekat/jsp/StartAction.do?actionMode=list) auffindbar.
 
 <div class="highlighter min-height25p">
 
