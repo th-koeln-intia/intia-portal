@@ -13,16 +13,23 @@ Die Jugendlichen machen selbst mit und forschen gemeinsam mit dem Team der TH K�
 
 # Finanzielle Förderung
 
-Das Forschungsprojekt INTIA wird finanziell gefördert vom Bundesministerium für Bildung und Forschung (BMBF) von 2019-2023. Die Förderung ist in der Fördermaßnahme "Lebensqualität durch soziale Innovationen" (FH Sozial) . Das Projekt heisst: "Inklusive Entwicklung von Methoden und Technologien für digitale Hilfen zur Alltagsbewältigung in der Behinderten- und Erziehungshilfe (INTIA)". Du findest das Projekt unter dem Förderkennzeichen 13FH534SX7 im [Förderkatalog des Bundes](https://foerderportal.bund.de/foekat/jsp/StartAction.do?actionMode=list) auffindbar.
+Das Forschungsprojekt INTIA wird von 2019-2023 vom Bundesministerium für Bildung und Forschung (BMBF) finanziell gefördert. Die Förderung ist Teil der Fördermaßnahme "Lebensqualität durch soziale Innovationen" (FH Sozial). Das Projekt heisst: "Inklusive Entwicklung von Methoden und Technologien für digitale Hilfen zur Alltagsbewältigung in der Behinderten- und Erziehungshilfe (INTIA)" und ist unter dem Förderkennzeichen 13FH534SX7 im [Förderkatalog des Bundes](https://foerderportal.bund.de/foekat/jsp/StartAction.do?actionMode=list) auffindbar.
 
-<div class="highlighter min-height25p">
+{% include highlighter.html min-height25p=true content="
+
+<div class='columns'>
+<div class='column'>
 
 ## Das Bundesministerium für Bildung und Forschung (BMBF)
 
-<img src="https://www.bmbf.de/SiteGlobals/Frontend/Images/icons/_common/logo.svg;jsessionid=73771066A725D13D2D34C4D38E4A181D.live382?__blob=normal&v=3">
 BMBF ist die Abkürzung für Bundesminsterium für Bildung und Forschung. Das Ministerium ist eine Einrichtung der deutschen Regierung. Jedes Jahr hat das BMBF Geld zur Verfügung und unterstützt damit Projekte im Bereich Bildung und Forschung.
 
 </div>
+<div class='column'>
+  <img class='with-zone' src='/assets/img/logos/BMBF_logo.jpg'>
+</div>
+</div>
+"%}
 
 # Ansatz
 
