@@ -4,8 +4,8 @@ title_above: AKTUELLES
 published: true
 title: Die Plattform INTIA ist online
 author: Miriam Hafki
-hero_image: /assets/img/uploads/neuigkeiten-intia-ist-online.jfif
-preview_image: /assets/img/uploads/neuigkeiten-intia-ist-online.jfif
+hero_image: /assets/img/uploads/neuigkeiten-intia-ist-online.jpeg
+preview_image: /assets/img/uploads/neuigkeiten-intia-ist-online.jpeg
 subtitle: "Endlich ist es soweit: Die Plattform INTIA ist nun online und für
   alle verfügbar."
 ---
