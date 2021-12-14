@@ -17,10 +17,14 @@ abstract: Alltagsbewältigung bezieht sich auf das alltägliche Leben. Es geht
   werden.
 ---
 **Beschreibung** 
+
+
 Menschen mit Beeinträchtigen können Unterstützung zur Alltagsbewältigung erhalten. Mit dieser Unterstützung sollen sie ein selbstbestimmtes und selbstständiges Leben führen können.
 \[1]. Beispiele für solche Tätigkeiten sind Unterstützung bei alltäglichen Erledigungen, Haushalt, dem kulturellen und sozialen Leben oder bei der Gestaltung der Freizeit. Dadurch wird gesellschaftliche Teilhabe ermöglicht. Alltagsbewältigung ist eine Aufgabe \[2] und eine Methode \[3, p.54f.] der Sozialen Arbeit, der Kinder- und Jugendhilfe \[4] \[5]
 
 **Relevanz**
+
+
 Die Methoden und entwickelten Technologien des Projektes zielen darauf, Jugendliche bei ihrer Alltagsbewältigung zu unterstützen: Es werden Methoden zur Erhebung und Identifizierung von Bedarfen bei der Alltagsbewältigung entwickelt. Es werden Methoden zur Ideenfindung für Lösungen bei der Unterstützung der Alltagsbewältigung entwickelt.
 
 **Quellen**
