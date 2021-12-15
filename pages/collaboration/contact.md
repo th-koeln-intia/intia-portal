@@ -12,20 +12,26 @@ hero_tags: subpage
 ## Anschrift
 
 <img src="/assets/img/logos/TH_Single.png">
+
+[kontakt@intia.de](mailto:kontakt@intia.de)
+
+<br>
+oder
+<br>
+<br>
 Technische Hochschule Köln
 <br>
-Forschungsschwerpunkt DITES
+Fakultät für Angewandte Sozialwissenschaften
 <br>
+Forschungsprojekt INTIA
 <br>
-Capus Südstadt
+Gustav-Heinemann-Ufer 54
 <br>
-Ubierring 48
-<br>
-50678 Köln
+50968 Köln
 <a href="https://www.th-koeln.de/" class="button is-rounded is-dark" style="float: right">
-      <span class="icon is-small">
-        <i class="fas fa-external-link-alt fa-xs"></i>
-      </span>
-      <span>Zur TH Köln</span>
-  </a>
+<span class="icon is-small">
+<i class="fas fa-external-link-alt fa-xs"></i>
+</span>
+<span>Zur TH Köln</span>
+</a>
 '%}
