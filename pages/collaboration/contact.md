@@ -21,6 +21,10 @@ oder
 <br>
 Technische Hochschule Köln
 <br>
+Fakultät für Angewandte Sozialwissenschaften
+<br>
+Forschungsprojekt INTIA
+<br>
 Gustav-Heinemann-Ufer 54
 <br>
 50968 Köln
