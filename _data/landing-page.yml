@@ -4,7 +4,7 @@ sections:
       Alltagslösungen selber bauen? Hier gibt es Werkzeuge, Methoden und Anleitungen zum Weiterentwickeln.
     image: /assets/img/landingpage/werkzeuge.jpg
     icon: fa-tools
-    link: /werkzeuge/
+    link: /intia-case/
     link_text: Zu den Werkzeugen
   - title: Lösungen
     text: |

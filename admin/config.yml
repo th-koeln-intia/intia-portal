@@ -37,3 +37,17 @@ collections:
       - {label: "Vorschau Bild", name: "preview_image", widget: "image", allow_multiple: false}
       - {label: "Kurzfassung/Abstrakt (max. 200 Zeichen)", name: "subtitle", widget: "text", pattern: ['^.{0,200}$', "Maximal 200 Zeichen"]}
       - { label: 'Body', name: 'body', widget: 'markdown' }
+  - name: 'pages'
+    label: 'Seiten'
+    files:
+      - label: 'Veröffentlichungen'
+        name: 'publications'
+        file: 'pages/knowhow/publications.md'
+        fields: 
+          - {label: "Hero tags", name: "hero_tags", widget: "hidden", default: "subpage"}
+          - {label: "Überschrift", name: "title_above", widget: "hidden", default: "WISSEN"}
+          - {label: "URL", name: "permalink", widget: "hidden", default: "/publications/"}
+          - {label: "Glossar auf dieser Seite aktivieren", name: "jekyll-hyperlink-glossary", widget: "hidden", default: "false"}
+          - {label: Titel, name: title, widget: string}
+          - {label: Abstrakt, name: subtitle, widget: text}
+          - { label: 'Body', name: 'body', widget: 'markdown' }
