@@ -118,7 +118,9 @@ Außerdem befindet sich im Basis INTIA Koffer ein grundlegendes Technik-Kit. Die
 
 ## Analoger Koffer
 
-Diese Version des INTIA Koffers beinhaltet nur die Methoden-Sammlungen und Anleitungen. Er ist besonders geeignet für Einrichtungen, die bereits über Hardware verfügen oder sich selbst ausstatten.
+Diese reduzierte Version des INTIA Koffers beinhaltet nur die Methoden-Sammlungen und Anleitungen. Das heißt es sind keine Technik Elemente enthalten.
+
+Er richtet sich damit an Personen und Einrichtungen die keine Hardware benötigen. Dadurch ist er besonders geeignet für Einrichtungen, die bereits über Hardware verfügen oder sich selbst ausstatten möchten.
 
 "%}
 
