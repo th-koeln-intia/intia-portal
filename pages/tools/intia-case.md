@@ -28,8 +28,8 @@ Der Koffer ist eine Art Werkzeugkoffer. Er besteht aus verschiedenen analogen un
 
 Die Ideen des Koffers sind vielseitig: Er soll partizipative Probleme im Alltag aufdecken und Ideen entwickeln, wie man diese Probleme lösen kann. Am Ende soll diese Idee umgesetzt werden. Die Idee des Koffers hatten schon viele vorher. Es gibt aber einige Besonderheiten dieses Koffers:
 
-<div class="columns">
-  <div class="column is-4 is-round is-centered">
+<div class="columns is-vcentered">
+  <div class="column is-3 is-round is-centered is-offset-1">
     <img src="/assets/img/intia-case/intia-case-for-all.png" alt="placeholder" class="">
   </div>
 <div class="column">
@@ -42,8 +42,8 @@ Man muss keine Fachperson sein. Fähigkeiten wie Programmieren, Handwerken oder 
   </div>
   </div>
 
-  <div class="columns">
-  <div class="column is-4 is-round is-centered">
+  <div class="columns is-vcentered">
+  <div class="column is-3 is-round is-centered is-offset-1">
     <img src="/assets/img/intia-case/intia-case-mobile.png" alt="placeholder" class="">
   </div>
 <div class="column">
@@ -56,8 +56,8 @@ Der Koffer ist mobil. Er kann also überall hin mitgenommen werden.
   </div>
   </div>
 
-  <div class="columns">
-  <div class="column is-4 is-round is-centered">
+  <div class="columns is-vcentered">
+  <div class="column is-3 is-round is-centered is-offset-1">
     <img src="/assets/img/intia-case/intia-case-open.png" alt="placeholder" class="">
   </div>
 <div class="column">
@@ -70,8 +70,8 @@ Der Koffer und die dazugehörigen Elemente wurden auf Grundlage des OpenSource-P
   </div>
   </div>
 
-  <div class="columns">       
-  <div class="column is-4 is-round is-centered">
+  <div class="columns is-vcentered">       
+  <div class="column is-3 is-round is-centered is-offset-1">
     <img src="/assets/img/intia-case/intia-case-cost.png" alt="placeholder" class="">
   </div>
   <div class="column">
@@ -84,8 +84,8 @@ Was bringt die schönste Entwicklung, wenn sie für die meisten Menschen nicht b
   </div>
   </div>
 
-  <div class="columns">
- <div class="column is-4 is-round is-centered">
+  <div class="columns is-vcentered">
+ <div class="column is-3 is-round is-centered is-offset-1">
     <img src="/assets/img/intia-case/intia-case-modular.png" alt="placeholder" class="">
   </div>
   <div class="column">
