@@ -11,15 +11,15 @@ subtitle: |
 
 Der Koffer ist eine Art Werkzeugkoffer. Er besteht aus verschiedenen analogen und digitalen Elementen. Man könnte dne INTIA Koffer auch als kreative Box bezeichnen. Der INTIA Koffer ist für alle Menschen gedacht. Er soll dabei helfen, Ideen und Lösungen für den eigenen Alltag zu entwickeln. Es handelt sich bei dem INTIA Koffer um eine Möglichkeit, Personen niederschwellig an moderne Technologien heranzuführen.
 
-<div class="columns">
-<div class="column">
+<div class="columns is-centered is-desktop">
+<div class="column is-offset-1">
 <figure>
-  <img src="/assets/img/intia-case/intia-case-1.jpg" alt="Zettel mit technischen Begriffen liegen auf einem Tisch. Dort steht auch ein Bügeleisen.">
+  <img src="/assets/img/intia-case/intia-case-2.jpg" alt="Zettel mit technischen Begriffen liegen auf einem Tisch. Dort steht auch ein Bügeleisen." style="height:350px;">
 </figure>
 </div>
 <div class="column">
 <figure>
-  <img src="/assets/img/intia-case/intia-case-2.jpg" alt="Zettel mit technischen Begriffen liegen auf einem Tisch. Dort steht auch ein Bügeleisen.">
+  <img src="/assets/img/intia-case/intia-case-1.jpg" alt="Zettel mit technischen Begriffen liegen auf einem Tisch. Dort steht auch ein Bügeleisen." style="height:350px;">
 </figure>
 </div>
 </div>
