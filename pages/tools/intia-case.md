@@ -104,10 +104,7 @@ Zu Beginn der Entwicklung war es das Ziel, einen kleinen und einen großen INTIA
 
 Was macht einen Basis Koffer und dessen Erweiterbarkeit besser? Durch die Modularität kann jeder Koffer mit einfachen Schritten zu einem personalisierten Maxi Koffer erweitert werden. Diese Individualität steht im Einklang mit den Zielen des INTIA Koffers. Damit Interessierte aber nicht selbstständig jedes einzelne Element aussuchen müssen, sind hier Erweiterungen für den Basis INTIA Koffer angeführt.
 
-{% include highlighter.html min-height25p=true button="Mehr zum Basis Koffer" content="
-
-<div class='columns'>
-<div class='column'>
+{% include highlighter.html min-height25p=true button="Mehr zum Basis Koffer" image="/assets/img/landingpage/werkzeuge.jpg" content="
 
 ## Basis Koffer
 
@@ -115,27 +112,14 @@ Der Basis INTIA Koffer beinhaltet alle analogen Inhalte, die von INTIA entwickel
 
 Außerdem befindet sich im Basis INTIA Koffer ein grundlegendes Technik-Kit. Die Auswahl der Elemente ist dabei so getroffen worden, dass mit möglichst wenigen Elementen eine gute Nutzung gewährleitest wird. Dies fördert die Zugänglichkeit und vermeidet selten genutzte Zusatz-Hardware. Genau diese Eigenschaft ist typisch für die meisten edukativen Hardware-Sets. Die Priorität liegt hier auf jenen Technik-Elementen, die unerlässlich sind. Ein besonderes Augenmerk liegt auf der Qualität, nicht auf der Quantität der Elemente.
 
-</div>
-<div class='column'>
-  <img class='with-zone' src='/assets/img/landingpage/werkzeuge.jpg'>
-</div>
-</div>
 "%}
 
-{% include highlighter.html min-height25p=true button="Mehr zum analogen Koffer" content="
-
-<div class='columns'>
-<div class='column'>
+{% include highlighter.html min-height25p=true button="Mehr zum analogen Koffer" image="/assets/img/landingpage/werkzeuge.jpg" content="
 
 ## Analoger Koffer
 
 Diese Version des INTIA Koffers beinhaltet nur die Methoden-Sammlungen und Anleitungen. Er ist besonders geeignet für Einrichtungen, die bereits über Hardware verfügen oder sich selbst ausstatten.
 
-</div>
-<div class='column'>
-  <img class='with-zone' src='/assets/img/landingpage/werkzeuge.jpg'>
-</div>
-</div>
 "%}
 
 {% include highlighter.html min-height25p=true content="
@@ -147,30 +131,46 @@ Der Basis INTIA Koffer kann durch Sets erweitert werden. Je nach Bedarf und Inte
 ### Folgende Erweiterungs-Sets sind angedacht:
 
 <div class='columns'>
-<div class='column'>
-  <img class='with-zone' src='/assets/img/landingpage/werkzeuge.jpg'>
+<div class='column '>
+  <figure class='image'>
+    <img class='with-zone is-rounded' src='/assets/img/landingpage/werkzeuge.jpg'>
+  </figure>
+  <a href='#' class='button highlighter-column-button is-rounded is-dark'>
+      <span>Button Set</span>
+      <span class='icon is-small'>
+        <i class='fas fa-chevron-right fa-xs'></i>
+      </span>
+  </a>
 </div>
 <div class='column'>
-  <img class='with-zone' src='/assets/img/landingpage/werkzeuge.jpg'>
+  <figure class='image'>
+    <img class='with-zone is-rounded' src='/assets/img/landingpage/werkzeuge.jpg'>
+  </figure>
+  <a href='#' class='button highlighter-column-button is-rounded is-dark'>
+      <span>Button Set</span>
+      <span class='icon is-small'>
+        <i class='fas fa-chevron-right fa-xs'></i>
+      </span>
+  </a>
 </div>
 <div class='column'>
-  <img class='with-zone' src='/assets/img/landingpage/werkzeuge.jpg'>
+  <figure class='image'>
+    <img class='with-zone is-rounded' src='/assets/img/landingpage/werkzeuge.jpg'>
+  </figure>
+  <a href='#' class='button highlighter-column-button is-rounded is-dark'>
+      <span>Button Set</span>
+      <span class='icon is-small'>
+        <i class='fas fa-chevron-right fa-xs'></i>
+      </span>
+  </a>
 </div>
 </div>
 "%}
 
-{% include highlighter.html min-height25p=true button="Mehr zum INTIA Labor Koffer" content="
-
-<div class='columns'>
-<div class='column'>
+{% include highlighter.html min-height25p=true button="Mehr zum INTIA Labor Koffer" image="/assets/img/landingpage/werkzeuge.jpg" content="
 
 ## INTIA Labor Koffer
 
 Das Vorgehen und die Technik hinter dem INTIA Koffer muss nicht zwingend als mobile Lösung genutzt werden. Eine Integration in einem MakerSpace, Kreativ-Raum oder anderen Räumlichkeiten hat seine eigenen Vorteile. Mit dem BAsis INTIA Koffer und den Erweiterungs-Sets kann ein ganzer Raum als Labor eingerichtet werden. Dort kann stationär mit umfänglichem Material gearbeitet werden.
 
-</div>
-<div class='column'>
-  <img class='with-zone' src='/assets/img/landingpage/werkzeuge.jpg'>
-</div>
-</div>
 "%}
