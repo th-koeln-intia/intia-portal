@@ -6,6 +6,8 @@
       link: /project/
     - name: Netzwerk
       link: /network/
+    - name: Barrierefreiheit
+      link: /accessibility/
 - name: Werkzeuge
   dropdown:
     - name: Koffer
