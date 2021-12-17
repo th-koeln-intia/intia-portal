@@ -1,5 +1,5 @@
 ---
-title: Barrierefreiheit
+title: Barrierearm
 title_above: ÜBER
 permalink: /accessibility/
 subtitle: |

@@ -6,12 +6,12 @@
       link: /project/
     - name: Netzwerk
       link: /network/
-    - name: Barrierefreiheit
+    - name: Barrierearm
       link: /accessibility/
-- name: Werkzeuge
-  dropdown:
-    - name: Koffer
-      link: /intia-case/
+#- name: Werkzeuge
+#  dropdown:
+#    - name: Koffer
+#      link: /intia-case/
 #- name: Lösungen
 #  dropdown:
 #    - name: Lösungen
