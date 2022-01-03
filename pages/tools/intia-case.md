@@ -138,7 +138,7 @@ Der Basis INTIA Koffer kann durch Sets erweitert werden. Je nach Bedarf und Inte
     <img class='with-zone is-rounded' src='/assets/img/landingpage/werkzeuge.jpg'>
   </figure>
   <a href='#' class='button highlighter-column-button is-rounded is-dark'>
-      <span>Button Set</span>
+      <span>Knopf Set</span>
       <span class='icon is-small'>
         <i class='fas fa-chevron-right fa-xs'></i>
       </span>
@@ -149,7 +149,7 @@ Der Basis INTIA Koffer kann durch Sets erweitert werden. Je nach Bedarf und Inte
     <img class='with-zone is-rounded' src='/assets/img/landingpage/werkzeuge.jpg'>
   </figure>
   <a href='#' class='button highlighter-column-button is-rounded is-dark'>
-      <span>Button Set</span>
+      <span>Sensoren Set</span>
       <span class='icon is-small'>
         <i class='fas fa-chevron-right fa-xs'></i>
       </span>
@@ -160,7 +160,7 @@ Der Basis INTIA Koffer kann durch Sets erweitert werden. Je nach Bedarf und Inte
     <img class='with-zone is-rounded' src='/assets/img/landingpage/werkzeuge.jpg'>
   </figure>
   <a href='#' class='button highlighter-column-button is-rounded is-dark'>
-      <span>Button Set</span>
+      <span>Sprachassistenten Set</span>
       <span class='icon is-small'>
         <i class='fas fa-chevron-right fa-xs'></i>
       </span>
@@ -173,6 +173,6 @@ Der Basis INTIA Koffer kann durch Sets erweitert werden. Je nach Bedarf und Inte
 
 ## INTIA Labor Koffer
 
-Das Vorgehen und die Technik hinter dem INTIA Koffer muss nicht zwingend als mobile Lösung genutzt werden. Eine Integration in einem MakerSpace, Kreativ-Raum oder anderen Räumlichkeiten hat seine eigenen Vorteile. Mit dem BAsis INTIA Koffer und den Erweiterungs-Sets kann ein ganzer Raum als Labor eingerichtet werden. Dort kann stationär mit umfänglichem Material gearbeitet werden.
+Das Vorgehen und die Technik hinter dem INTIA Koffer muss nicht zwingend als mobile Lösung genutzt werden. Eine Integration in einem MakerSpace, Kreativ-Raum oder anderen Räumlichkeiten hat seine eigenen Vorteile. Mit dem Basis INTIA Koffer und den Erweiterungs-Sets kann ein ganzer Raum als Labor eingerichtet werden. Dort kann stationär mit umfänglichem Material gearbeitet werden.
 
 "%}
