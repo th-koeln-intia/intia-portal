@@ -123,3 +123,11 @@ Poster. Tag der Forschung der TH Köln. Köln.
 Rösch, Janina; Seidler, Jan; Thielmann, Hanna; Zorn, Isabel (2019):\
 **Inklusive partizipative Technikentwicklung am Beispiel InTiA.**\
 Vortrag im Forschungsforum der Fakultät für Angewandte Sozialwissenschaften, TH Köln. Köln.
+
+# Abschlussarbeiten
+
+Klein, Stefanie (2021):
+
+**"Herangehensweisen und Herausforderungen für die Teilhabe von Menschen mit Lernschwierigkeiten in der partizipativen Technologieentwicklung"**
+
+Masterarbeit Katholische Hochschule Nordrhein-Westfalen.
