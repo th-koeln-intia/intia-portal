@@ -2,7 +2,7 @@
 hero_tags: subpage post pdf
 title_above: AKTUELLES
 published: true
-title: INTIA Escape Game geschafft - INTIA Koffer testen im PIKSL Labor Köln
+title: INTIA Escape Game geschafft
 author: " INTIA Team"
 hero_image: /assets/img/uploads/neuigkeit-koffertermin-piksl-1.jpg
 preview_image: /assets/img/uploads/neuigkeit-koffertermin-piksl-1.jpg
