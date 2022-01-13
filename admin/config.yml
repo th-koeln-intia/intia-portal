@@ -12,7 +12,7 @@ collections:
     create: true
     slug: "{{slug}}"
     fields:
-      -  {label: "Hero tags", name: "hero_tags", widget: "hidden", default: "subpage glossary"}
+      -  {label: "Hero tags", name: "hero_tags", widget: "hidden", default: "subpage glossary pdf"}
       -  {label: "Überschrift", name: "title_above", widget: "hidden", default: "WÖRTERBUCH"}
       - {label: "Veröffentlicht", name: "published", widget: "boolean", default: true}
       - {label: "Title", name: "title", widget: "string"}
