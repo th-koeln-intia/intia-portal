@@ -126,14 +126,10 @@ Vortrag im Forschungsforum der Fakultät für Angewandte Sozialwissenschaften, T
 
 # Abschlussarbeiten
 
-Klein, Stefanie (2021):
+Klein, Stefanie (2021):\
+**Herangehensweisen und Herausforderungen für die Teilhabe von Menschen mit Lernschwierigkeiten in der partizipativen Technologieentwicklung.**\
+Masterarbeit Katholische Hochschule Nordrhein-Westfalen. Betreut von Prof. Dr. Isabel Zorn. Köln.
 
-**Herangehensweisen und Herausforderungen für die Teilhabe von Menschen mit Lernschwierigkeiten in der partizipativen Technologieentwicklung.**
-
-Masterarbeit Katholische Hochschule Nordrhein-Westfalen. Betreut von Prof. Dr. Isabel Zorn
-
-Heutz, Robin (2021):
-
-Empowermentprozesse bei Jugendlichen und Heranwachsenden mit Behinderung.
-
-Bachelorarbeit TH Köln. Betreut von Prof. Dr. Isabel Zorn
+Heutz, Robin (2021):\
+**Empowermentprozesse bei Jugendlichen und Heranwachsenden mit Behinderung.**\
+Bachelorarbeit Technische Hochschule Köln. Betreut von Prof. Dr. Isabel Zorn. Köln.
