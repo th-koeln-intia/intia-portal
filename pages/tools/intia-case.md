@@ -149,7 +149,7 @@ Der Basis INTIA Koffer kann durch Erweiterungen vergrößert werden. Je nach Bed
     <img class='with-zone is-rounded' src='/assets/img/landingpage/werkzeuge.jpg'>
   </figure>
   <a href='#' class='button highlighter-column-button is-rounded is-dark'>
-      <span>Sensoren-Set</span>
+      <span>Sensor-Set</span>
       <span class='icon is-small'>
         <i class='fas fa-chevron-right fa-xs'></i>
       </span>
@@ -160,7 +160,7 @@ Der Basis INTIA Koffer kann durch Erweiterungen vergrößert werden. Je nach Bed
     <img class='with-zone is-rounded' src='/assets/img/landingpage/werkzeuge.jpg'>
   </figure>
   <a href='#' class='button highlighter-column-button is-rounded is-dark'>
-      <span>Sprachassistenten-Set</span>
+      <span>Sprachassistent-Set</span>
       <span class='icon is-small'>
         <i class='fas fa-chevron-right fa-xs'></i>
       </span>
