@@ -11,6 +11,7 @@ subtitle: >
   internationalen Koferenzen. Aus diesem Grund sind einige Veröffentlichungen
   auf Englisch.
 ---
+
 # Buchkapitel, Paper und Artikel
 
 Kortekaas, Caroline; Zurbrügg, Eva; Zorn, Isabel. (in Bearbeitung):\
@@ -133,3 +134,11 @@ Masterarbeit Katholische Hochschule Nordrhein-Westfalen. Betreut von Prof. Dr. I
 Heutz, Robin (2021):\
 **Empowermentprozesse bei Jugendlichen und Heranwachsenden mit Behinderung.**\
 Bachelorarbeit Technische Hochschule Köln. Betreut von Prof. Dr. Isabel Zorn. Köln.
+
+Landgraf, Eric (2021):\
+**Realisierung eines offlinefähigen Open Source-Sprachassistenten zur Nutzung durch vulnerable Personengruppen.**\
+Praxisprojekt Technische Hochschule Köln. Betreut von Marc Schmidt, Dennis Wilk & Prof. Dr.-Ing. Stefan Bente. Köln.
+
+Klein, Florian (2022):\
+**Neustrukturierung und responsiv Umsetzung des INTIA Methoden-Radars in JavaScript.**\
+Praxisprojekt Technische Hochschule Köln. Betreut von Marc Schmidt & Prof. Dr.-Ing. Stefan Bente. Köln.
