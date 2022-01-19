@@ -100,17 +100,17 @@ Bei der Zusammenstellung und Entwicklung wurde darauf geachtet, dass Elemente au
 
 # Koffer Varianten
 
-Zu Beginn der Entwicklung war es das Ziel, einen kleinen und einen großen INTIA Koffer zu entwickeln. Im Verlauf der Entwicklung zeigte sich aber, dass dieser Ansatz nicht zu der Zielsetzung des Koffers passt. Inzwischen steht ein Basis INTIA Koffer im Fokus und dessen Erweiterbarkeit. Über die Erweiterbarkeit kann bald im Bereich Modularität mehr gelesen werden.
+Zu Beginn der Entwicklung war es das Ziel, einen kleinen und einen großen INTIA Koffer zu entwickeln. Im Verlauf zeigte sich aber, dass dieser Ansatz nicht zu der Zielsetzung des Koffers passt. Inzwischen steht ein Basis INTIA Koffer und dessen Erweiterbarkeit im Fokus.
 
-Was macht einen Basis INTIA Koffer und dessen Erweiterbarkeit besser? Durch die Modularität kann jeder Koffer mit einfachen Schritten zu einem personalisierten Maxi INTIA Koffer erweitert werden. Diese Individualität steht im Einklang mit den Zielen des INTIA Koffers. Damit Interessierte aber nicht selbstständig jedes einzelne Element aussuchen müssen, sind hier Erweiterungen für den Basis INTIA Koffer angeführt.
+Was macht einen Basis INTIA Koffer und dass man ihn erweitern kann besser? Durch die Modularität kann jeder INTIA Koffer in einfachen Schritten zu einem personalisierten Maxi Koffer werden. Diese Individualität steht im Einklang mit den Zielen des INTIA Koffers. Damit Interessierte aber nicht selbstständig jedes einzelne Element aussuchen und ausprobieren müssen, sind hier Erweiterungen für den Basis INTIA Koffer angeführt.
 
 {% include highlighter.html min-height25p=true button="Mehr zum Basis Koffer" image="/assets/img/landingpage/werkzeuge.jpg" content="
 
 ## Basis INTIA Koffer
 
-Der Basis INTIA Koffer beinhaltet alle analogen Inhalte, die von INTIA entwickelt wurden, also die verschiedenen methodischen Artefakte, wie die Methodensammlung und Sets, wie das BDP. Des Weiteren finden sich im Basis INTIA Koffer umfangreiche Anleitungen und eine Reihe von Aufgaben. Diese können für eine schnelle, selbstständige Einarbeitung oder Veranstaltungen genutzt werden.
+Der Basis INTIA Koffer beinhaltet alle analogen Inhalte, die von INTIA entwickelt wurden, also die verschiedenen methodischen Artefakte, wie die Methodensammlung und Sets. Des Weiteren finden sich im INTIA Koffer umfangreiche Anleitungen und eine Reihe von Aufgaben. Diese können für eine schnelle, selbstständige Einarbeitung oder für Veranstaltungen sofort genutzt werden.
 
-Außerdem befindet sich im Basis INTIA Koffer eine grundlegendes Sammlung aus technischen Bausteinen. Die Auswahl der Bausteine ist dabei so getroffen worden, dass mit möglichst wenigen Elementen eine gute Nutzung gewährleitest wird. Dies fördert die Zugänglichkeit und vermeidet selten genutzte Zusatz-Hardware. Genau diese Eigenschaft ist typisch für die meisten edukativen Hardware-Sets. Die Priorität liegt hier auf jenen Technik-Bausteinen, die unerlässlich sind. Ein besonderes Augenmerk liegt auf der Qualität, nicht auf der Quantität der Bausteine.
+Außerdem befindet sich im INTIA Koffer ein grundlegende Sammlung an Technik-Bausteinen. Die Auswahl ist dabei so getroffen worden, dass mit möglichst wenigen Bausteinen eine gute Nutzung gewährleitest wird. Dies fördert die Zugänglichkeit und vermeidet, dass zusätzliche Hardware gebraucht wird. Genau diese Eigenschaft ist typisch für die meisten edukativen Hardware Sets. Die Priorität liegt hier auf jenen Technik-Elementen, die unerlässlich sind. Ein besonderes Augenmerk liegt auf der Qualität, nicht auf der Quantität der Bausteine.
 
 "%}
 
@@ -118,7 +118,7 @@ Außerdem befindet sich im Basis INTIA Koffer eine grundlegendes Sammlung aus te
 
 ## Analoger INTIA Koffer
 
-Diese reduzierte Version des Basis INTIA Koffers beinhaltet nur die Methoden-Sammlungen und Anleitungen. Das heißt es sind keine Technik-Bausteine enthalten.
+Diese Version des INTIA Koffers beinhaltet nur die Methoden-Sammlungen und Anleitungen. Das heißt es sind keine Technik-Bausteine enthalten.
 
 Er richtet sich damit an Personen und Einrichtungen die keine Hardware benötigen. Dadurch ist er besonders geeignet für Einrichtungen, die bereits über Hardware verfügen oder sich selbst ausstatten möchten.
 
@@ -128,9 +128,9 @@ Er richtet sich damit an Personen und Einrichtungen die keine Hardware benötige
 
 ## INTIA Erweiterungen
 
-Der Basis INTIA Koffer kann durch Erweiterungen vergrößert werden. Je nach Bedarf und Interesse können so unterschiedliche Bausteine nachgekauft oder ergänz werden. Die INTIA Erweiterungen können nicht alleine genutzt werden.
+Der Basis INTIA Koffer kann durch INTIA Erweiterungen vergrößert werden. Je nach Bedarf und Interesse können so unterschiedliche Elemente nachgekauft oder ergänzt werden. Die Erweiterungen können nicht alleine genutzt werden.
 
-### Folgende INTIA Erweiterungen gibt es:
+### Es gibt bisher folgende INTIA Erweiterungen:
 
 <div class='columns'>
 <div class='column '>
