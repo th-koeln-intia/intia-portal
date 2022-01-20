@@ -160,7 +160,7 @@ Der Basis INTIA Koffer kann durch INTIA Erweiterungen vergrößert werden. Je na
     <img class='with-zone is-rounded' src='/assets/img/landingpage/werkzeuge.jpg'>
   </figure>
   <a href='#' class='button highlighter-column-button is-rounded is-dark'>
-      <span>Sprachassistens-Set</span>
+      <span>Sprachassistenz-Set</span>
       <span class='icon is-small'>
         <i class='fas fa-chevron-right fa-xs'></i>
       </span>
