@@ -104,9 +104,9 @@ Zu Beginn der Entwicklung war es das Ziel, einen kleinen und einen großen INTIA
 
 Was macht einen Basis INTIA Koffer und dass man ihn erweitern kann besser? Durch die Modularität kann jeder INTIA Koffer in einfachen Schritten zu einem personalisierten Maxi Koffer werden. Diese Individualität steht im Einklang mit den Zielen des INTIA Koffers. Damit Interessierte aber nicht selbstständig jedes einzelne Element aussuchen und ausprobieren müssen, sind hier Erweiterungen für den Basis INTIA Koffer angeführt.
 
-{% include highlighter.html min-height25p=true button="Mehr zum Basis Koffer" image="/assets/img/landingpage/werkzeuge.jpg" content="
+{% include highlighter.html min-height25p=true button="Mehr zum Basis Koffer" image="assets\img\intia-case\intia_koffer.jpg" content="
 
-## Basis INTIA Koffer
+## INTIA Methodensammlung
 
 Der Basis INTIA Koffer beinhaltet alle analogen Inhalte, die von INTIA entwickelt wurden, also die verschiedenen methodischen Artefakte, wie die Methodensammlung und Sets. Des Weiteren finden sich im INTIA Koffer umfangreiche Anleitungen und eine Reihe von Aufgaben. Diese können für eine schnelle, selbstständige Einarbeitung oder für Veranstaltungen sofort genutzt werden.
 
@@ -114,7 +114,7 @@ Außerdem befindet sich im INTIA Koffer ein grundlegende Sammlung an Technik-Bau
 
 "%}
 
-{% include highlighter.html min-height25p=true button="Mehr zum analogen Koffer" image="/assets/img/landingpage/werkzeuge.jpg" content="
+{% include highlighter.html min-height25p=true button="Mehr zum analogen Koffer" image="assets\img\intia-case\intia_methodensammlung.jpg" content="
 
 ## Analoger INTIA Koffer
 
@@ -157,7 +157,7 @@ Der Basis INTIA Koffer kann durch INTIA Erweiterungen vergrößert werden. Je na
 </div>
 <div class='column'>
   <figure class='image'>
-    <img class='with-zone is-rounded' src='/assets/img/landingpage/werkzeuge.jpg'>
+    <img class='with-zone is-rounded' src='assets\img\intia-case\intia_labor.jpg'>
   </figure>
   <a href='#' class='button highlighter-column-button is-rounded is-dark'>
       <span>Sprachassistenz-Set</span>
