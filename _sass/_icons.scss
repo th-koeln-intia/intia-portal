@@ -1,0 +1,21 @@
+// Custom Icons
+.icon-handshake:before {
+  @extend .custom-icon;
+  background: url(/assets/img/icons/handshake.svg) no-repeat;
+}
+.icon-briefcase:before {
+  @extend .custom-icon;
+  background: url(/assets/img/icons/briefcase.svg) no-repeat;
+}
+.icon-key:before {
+  @extend .custom-icon;
+  background: url(/assets/img/icons/key.svg) no-repeat;
+}
+.icon-newspaper:before {
+  @extend .custom-icon;
+  background: url(/assets/img/icons/newspaper.svg) no-repeat;
+}
+.icon-tools:before {
+  @extend .custom-icon;
+  background: url(/assets/img/icons/tools.svg) no-repeat;
+}
