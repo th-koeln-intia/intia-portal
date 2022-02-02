@@ -184,7 +184,7 @@ Es gibt bisher folgende INTIA-Erweiterungen:
 Dich interessieren nur die Methoden? Dann schau Dir die INTIA-Methodensammlung an! Bald gibt es einen eigenen Bereich für deren Anleitungen und Materialien. Die INTIA-Methodensammlung ist besonders geeignet für Einrichtungen, die bereits über Hardware verfügen oder sich selbst ausstatten.
 
 "%}
-{% include highlighter.html min-height25p=true button="Mehr zum INTIA Labor Koffer" image="/assets/img/intia-case/intia_labor.jpg" content="
+{% include highlighter.html min-height25p=true button_old="Mehr zum INTIA Labor Koffer" image="/assets/img/intia-case/intia_labor.jpg" content="
 
 ## INTIA-Koffer als Laborraum
 
