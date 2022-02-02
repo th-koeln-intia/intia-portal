@@ -44,7 +44,7 @@ GEM
     http_parser.rb (0.8.0)
     i18n (1.9.1)
       concurrent-ruby (~> 1.0)
-    intia-theme (0.1.40)
+    intia-theme (0.1.41)
       jekyll (~> 4.2)
     jekyll (4.2.1)
       addressable (~> 2.4)
