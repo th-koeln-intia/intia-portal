@@ -1,23 +1,39 @@
 ---
-title: Koffer
+title: INTIA-Koffer
 title_above: WERKZEUGE
 hero_tags: subpage
 permalink: /intia-case/
 subtitle: |
-  Der INTIA Koffer setzt sich aus verschiedenen Bausteinen zusammen. Damit kann jede:r eigene Lösungen entwickeln. Der Koffer lädt dazu ein, spielerisch Technik kennenzulernen. So kann Technik selbst verstanden und genutzt werden.
+  Der INTIA-Koffer setzt sich aus verschiedenen Bausteinen zusammen. Damit kann jede:r eigene Lösungen entwickeln. Der Koffer lädt dazu ein, spielerisch Technik kennenzulernen. So kann Technik selbst verstanden und genutzt werden.
 ---
 
-# Ziel des INTIA-Koffers  
-
-Der INTIA-Koffer setzt sich aus verschiedenen Bausteinen zusammen. Damit kann jede:r eigene Lösungen entwickeln. Der Koffer lädt dazu ein, spielerisch Technik kennenzulernen. So kann Technik selbst verstanden und genutzt werden.
-
-{% include highlighter.html min-height25p=false button_old="Mehr zum Basis Koffer" image="/assets/img/intia-case/intia-case-2.jpg" content=" 
-
-## Was ist der INTIA-Koffer?
+# Was ist der INTIA-Koffer?
 
 Der INTIA-Koffer ist eine Art Werkzeugkoffer. Er besteht aus verschiedenen analogen und digitalen Elementen. Man könnte den INTIA-Koffer auch als kreative Box bezeichnen. Der INTIA-Koffer ist für alle Menschen gedacht. Er soll dabei helfen, Ideen und Lösungen für den eigenen Alltag zu entwickeln. Es handelt sich bei dem INTIA-Koffer um eine Möglichkeit, Personen niederschwellig an moderne Technologien heranzuführen.
 
-"%}
+<a href='#modular' class='button highlighter-column-button is-rounded is-dark'>
+      <span>Zum INTIA-Koffer</span>
+      <span class='icon is-small'>
+        <i class='fas fa-chevron-right fa-xs'></i>
+      </span>
+  </a>
+
+<br>
+<br>
+<br>
+
+<div class="columns is-centered is-desktop">
+<div class="column is-offset-1">
+<figure>
+  <img src="/assets/img/intia-case/intia-case-2.jpg" alt="Zettel mit technischen Begriffen liegen auf einem Tisch. Dort steht auch ein Bügeleisen." style="height:350px;">
+</figure>
+</div>
+<div class="column">
+<figure>
+  <img src="/assets/img/intia-case/intia-case-1.jpg" alt="Zettel mit technischen Begriffen liegen auf einem Tisch. Dort steht auch ein Bügeleisen." style="height:350px;">
+</figure>
+</div>
+</div>
 
 <br>
 
@@ -95,18 +111,7 @@ Bei der Zusammenstellung und Entwicklung wurde darauf geachtet, dass Elemente au
   </div>
   </div>
 
-<div class="columns is-centered is-desktop">
-<div class="column is-offset-1">
-<figure>
-  <img src="/assets/img/intia-case/intia_koffer.jpg" alt="Zettel mit technischen Begriffen liegen auf einem Tisch. Dort steht auch ein Bügeleisen." style="height:350px;">
-</figure>
-</div>
-<div class="column">
-<figure>
-  <img src="/assets/img/intia-case/intia-case-1.jpg" alt="Zettel mit technischen Begriffen liegen auf einem Tisch. Dort steht auch ein Bügeleisen." style="height:350px;">
-</figure>
-</div>
-</div>
+
 
 # Der INTIA-Koffer
 
@@ -117,6 +122,7 @@ Außerdem befindet sich im INTIA-Koffer ein grundlegende Sammlung an Technik-Bau
 Zu Beginn der Entwicklung war es das Ziel, einen kleinen und einen großen INTIA-Koffer zu entwickeln. Im Verlauf zeigte sich aber, dass dieser Ansatz nicht zu der Zielsetzung des Koffers passt. Inzwischen steht ein INTIA-Koffer und dessen Erweiterbarkeit im Fokus.
 
 Was macht den INTIA-Koffer und dass man ihn erweitern kann besser? Durch die Modularität kann jeder INTIA-Koffer in einfachen Schritten zu einem personalisierten Koffer werden. Diese Individualität steht im Einklang mit den Zielen des INTIA-Koffers. Damit Interessierte aber nicht selbstständig jedes einzelne Element aussuchen und ausprobieren müssen, sind hier Erweiterungen für den INTIA-Koffer angeführt.
+
 
 {% include highlighter.html min-height25p=false content="
 
