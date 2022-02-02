@@ -129,9 +129,9 @@ Es gibt bisher folgende INTIA-Erweiterungen:
 ### Es gibt bisher folgende INTIA Erweiterungen:
 
 <div class='columns'>
-<div class='column is-one-third'>
+<div class='column is-one-third has-text-centered'>
   <figure class='image'>
-    <img class='with-zone has-text-centered' src='/assets/img/intia-case/icons/streamline-icon-touch-finger-1@500x500.png'>
+    <img class='with-zone' src='/assets/img/intia-case/icons/streamline-icon-touch-finger-1@500x500.png'>
   </figure>
   <!-- 
       <a href='#' class='button highlighter-column-button is-rounded is-dark'>
