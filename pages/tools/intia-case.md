@@ -104,9 +104,9 @@ Zu Beginn der Entwicklung war es das Ziel, einen kleinen und einen großen INTIA
 
 Was macht einen Basis INTIA Koffer und dass man ihn erweitern kann besser? Durch die Modularität kann jeder INTIA Koffer in einfachen Schritten zu einem personalisierten Maxi Koffer werden. Diese Individualität steht im Einklang mit den Zielen des INTIA Koffers. Damit Interessierte aber nicht selbstständig jedes einzelne Element aussuchen und ausprobieren müssen, sind hier Erweiterungen für den Basis INTIA Koffer angeführt.
 
-{% include highlighter.html min-height25p=true button="Mehr zum Basis Koffer" image="/assets/img/landingpage/werkzeuge.jpg" content="
+{% include highlighter.html min-height25p=true button="Mehr zum Basis Koffer" image="/assets/img/intia-case/intia_koffer.jpg" content="
 
-## Basis INTIA Koffer
+## INTIA Methodensammlung
 
 Der Basis INTIA Koffer beinhaltet alle analogen Inhalte, die von INTIA entwickelt wurden, also die verschiedenen methodischen Artefakte, wie die Methodensammlung und Sets. Des Weiteren finden sich im INTIA Koffer umfangreiche Anleitungen und eine Reihe von Aufgaben. Diese können für eine schnelle, selbstständige Einarbeitung oder für Veranstaltungen sofort genutzt werden.
 
@@ -114,7 +114,7 @@ Außerdem befindet sich im INTIA Koffer ein grundlegende Sammlung an Technik-Bau
 
 "%}
 
-{% include highlighter.html min-height25p=true button="Mehr zum analogen Koffer" image="/assets/img/landingpage/werkzeuge.jpg" content="
+{% include highlighter.html min-height25p=true button="Mehr zum analogen Koffer" image="/assets/img/intia-case/intia_methodensammlung.jpg" content="
 
 ## Analoger INTIA Koffer
 
@@ -133,9 +133,9 @@ Der Basis INTIA Koffer kann durch INTIA Erweiterungen vergrößert werden. Je na
 ### Es gibt bisher folgende INTIA Erweiterungen:
 
 <div class='columns'>
-<div class='column '>
+<div class='column is-one-thirdS'>
   <figure class='image'>
-    <img class='with-zone is-rounded' src='/assets/img/landingpage/werkzeuge.jpg'>
+    <img class='with-zone is-rounded' src='https://res.cloudinary.com/webalys/image/private/w_400,h_400,ar_1/f_auto/v1/icons/touchid/touch-finger-1-qqlip7u5be06la6cugusl7.png/touch-finger-1-b8rr949f367tiqccl5j9c.png'>
   </figure>
   <a href='#' class='button highlighter-column-button is-rounded is-dark'>
       <span>Knopf-Set</span>
@@ -144,9 +144,9 @@ Der Basis INTIA Koffer kann durch INTIA Erweiterungen vergrößert werden. Je na
       </span>
   </a>
 </div>
-<div class='column'>
+<div class='column is-one-third'>
   <figure class='image'>
-    <img class='with-zone is-rounded' src='/assets/img/landingpage/werkzeuge.jpg'>
+    <img class='with-zone is-rounded' src='https://res.cloudinary.com/webalys/image/private/w_400,h_400,ar_1/f_auto/v1/icons/smart-house/smart-house-open-door-v98f3vh79u0gvkkhqbrjoi.png/smart-house-open-door-mda55kl2vqnic0wsugqw.png'>
   </figure>
   <a href='#' class='button highlighter-column-button is-rounded is-dark'>
       <span>Sensor-Set</span>
@@ -155,12 +155,12 @@ Der Basis INTIA Koffer kann durch INTIA Erweiterungen vergrößert werden. Je na
       </span>
   </a>
 </div>
-<div class='column'>
+<div class='column is-one-third'>
   <figure class='image'>
-    <img class='with-zone is-rounded' src='/assets/img/landingpage/werkzeuge.jpg'>
+    <img class='with-zone is-rounded' src='https://res.cloudinary.com/webalys/image/private/w_400,h_400,ar_1/f_auto/v1/icons/help/browser-user-help-message-dag6ebobzn5efz0mi3wcjt.png/browser-user-help-message-b5asvuzjsis59ar42lfgkc.png'>
   </figure>
   <a href='#' class='button highlighter-column-button is-rounded is-dark'>
-      <span>Sprachassistens-Set</span>
+      <span>Sprachassistenz-Set</span>
       <span class='icon is-small'>
         <i class='fas fa-chevron-right fa-xs'></i>
       </span>
@@ -169,7 +169,7 @@ Der Basis INTIA Koffer kann durch INTIA Erweiterungen vergrößert werden. Je na
 </div>
 "%}
 
-{% include highlighter.html min-height25p=true button="Mehr zum INTIA Labor Koffer" image="/assets/img/landingpage/werkzeuge.jpg" content="
+{% include highlighter.html min-height25p=true button="Mehr zum INTIA Labor Koffer" image="/assets/img/intia-case/intia_labor.jpg" content="
 
 ## INTIA Labor
 
