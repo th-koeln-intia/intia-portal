@@ -135,7 +135,7 @@ Der Basis INTIA Koffer kann durch INTIA Erweiterungen vergrößert werden. Je na
 <div class='columns'>
 <div class='column is-one-thirdS'>
   <figure class='image'>
-    <img class='with-zone is-rounded' src='https://res.cloudinary.com/webalys/image/private/w_400,h_400,ar_1/f_auto/v1/icons/touchid/touch-finger-1-qqlip7u5be06la6cugusl7.png/touch-finger-1-b8rr949f367tiqccl5j9c.png'>
+    <img class='with-zone is-rounded' src='/assets/img/intia-case/icons/streamline-icon-touch-finger-1@500x500.png'>
   </figure>
   <a href='#' class='button highlighter-column-button is-rounded is-dark'>
       <span>Knopf-Set</span>
@@ -146,7 +146,7 @@ Der Basis INTIA Koffer kann durch INTIA Erweiterungen vergrößert werden. Je na
 </div>
 <div class='column is-one-third'>
   <figure class='image'>
-    <img class='with-zone is-rounded' src='https://res.cloudinary.com/webalys/image/private/w_400,h_400,ar_1/f_auto/v1/icons/smart-house/smart-house-open-door-v98f3vh79u0gvkkhqbrjoi.png/smart-house-open-door-mda55kl2vqnic0wsugqw.png'>
+    <img class='with-zone is-rounded' src='/assets/img/intia-case/icons/streamline-icon-smart-house-open-door@500x500.png'>
   </figure>
   <a href='#' class='button highlighter-column-button is-rounded is-dark'>
       <span>Sensor-Set</span>
@@ -157,7 +157,7 @@ Der Basis INTIA Koffer kann durch INTIA Erweiterungen vergrößert werden. Je na
 </div>
 <div class='column is-one-third'>
   <figure class='image'>
-    <img class='with-zone is-rounded' src='https://res.cloudinary.com/webalys/image/private/w_400,h_400,ar_1/f_auto/v1/icons/help/browser-user-help-message-dag6ebobzn5efz0mi3wcjt.png/browser-user-help-message-b5asvuzjsis59ar42lfgkc.png'>
+    <img class='with-zone is-rounded' src='/assets/img/intia-case/icons/streamline-icon-browser-user-help-message@500x500.png'>
   </figure>
   <a href='#' class='button highlighter-column-button is-rounded is-dark'>
       <span>Sprachassistenz-Set</span>
