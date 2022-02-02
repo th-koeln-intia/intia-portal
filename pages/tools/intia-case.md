@@ -104,7 +104,7 @@ Zu Beginn der Entwicklung war es das Ziel, einen kleinen und einen großen INTIA
 
 Was macht einen Basis INTIA Koffer und dass man ihn erweitern kann besser? Durch die Modularität kann jeder INTIA Koffer in einfachen Schritten zu einem personalisierten Maxi Koffer werden. Diese Individualität steht im Einklang mit den Zielen des INTIA Koffers. Damit Interessierte aber nicht selbstständig jedes einzelne Element aussuchen und ausprobieren müssen, sind hier Erweiterungen für den Basis INTIA Koffer angeführt.
 
-{% include highlighter.html min-height25p=true button="Mehr zum Basis Koffer" image="/assets/img/intia-case/intia_koffer.jpg" content="
+{% include highlighter.html min-height25p=true button_old="Mehr zum Basis Koffer" image="/assets/img/intia-case/intia_koffer.jpg" content=" 
 
 ## INTIA Methodensammlung
 
@@ -114,7 +114,7 @@ Außerdem befindet sich im INTIA Koffer ein grundlegende Sammlung an Technik-Bau
 
 "%}
 
-{% include highlighter.html min-height25p=true button="Mehr zum analogen Koffer" image="/assets/img/intia-case/intia_methodensammlung.jpg" content="
+{% include highlighter.html min-height25p=true button_old="Mehr zum analogen Koffer" image="/assets/img/intia-case/intia_methodensammlung.jpg" content="
 
 ## Analoger INTIA Koffer
 
@@ -137,34 +137,46 @@ Der Basis INTIA Koffer kann durch INTIA Erweiterungen vergrößert werden. Je na
   <figure class='image'>
     <img class='with-zone is-rounded' src='/assets/img/intia-case/icons/streamline-icon-touch-finger-1@500x500.png'>
   </figure>
-  <a href='#' class='button highlighter-column-button is-rounded is-dark'>
+  <!-- 
+      <a href='#' class='button highlighter-column-button is-rounded is-dark'>
+  -->
       <span>Knopf-Set</span>
+      <!-- 
       <span class='icon is-small'>
         <i class='fas fa-chevron-right fa-xs'></i>
       </span>
   </a>
+  -->
 </div>
 <div class='column is-one-third'>
   <figure class='image'>
     <img class='with-zone is-rounded' src='/assets/img/intia-case/icons/streamline-icon-smart-house-open-door@500x500.png'>
   </figure>
-  <a href='#' class='button highlighter-column-button is-rounded is-dark'>
+  <!-- 
+      <a href='#' class='button highlighter-column-button is-rounded is-dark'>
+      -->
       <span>Sensor-Set</span>
+      <!-- 
       <span class='icon is-small'>
         <i class='fas fa-chevron-right fa-xs'></i>
       </span>
   </a>
+  -->
 </div>
 <div class='column is-one-third'>
   <figure class='image'>
     <img class='with-zone is-rounded' src='/assets/img/intia-case/icons/streamline-icon-browser-user-help-message@500x500.png'>
   </figure>
-  <a href='#' class='button highlighter-column-button is-rounded is-dark'>
+  <!-- 
+      <a href='#' class='button highlighter-column-button is-rounded is-dark'>
+  -->
       <span>Sprachassistenz-Set</span>
+      <!-- 
       <span class='icon is-small'>
         <i class='fas fa-chevron-right fa-xs'></i>
       </span>
   </a>
+  -->
 </div>
 </div>
 "%}
