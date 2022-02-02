@@ -11,7 +11,7 @@ subtitle: |
 
 Der INTIA-Koffer setzt sich aus verschiedenen Bausteinen zusammen. Damit kann jede:r eigene Lösungen entwickeln. Der Koffer lädt dazu ein, spielerisch Technik kennenzulernen. So kann Technik selbst verstanden und genutzt werden.
 
-{% include highlighter.html min-height25p=true button_old="Mehr zum Basis Koffer" image="/assets/img/intia-case/intia-case-2.jpg" content=" 
+{% include highlighter.html min-height25p=false button_old="Mehr zum Basis Koffer" image="/assets/img/intia-case/intia-case-2.jpg" content=" 
 
 ## Was ist der INTIA-Koffer?
 
@@ -19,7 +19,7 @@ Der INTIA-Koffer ist eine Art Werkzeugkoffer. Er besteht aus verschiedenen analo
 
 "%}
 
-
+<br>
 
 # Prinzipien des INTIA-Koffers
 
@@ -118,7 +118,7 @@ Zu Beginn der Entwicklung war es das Ziel, einen kleinen und einen großen INTIA
 
 Was macht den INTIA-Koffer und dass man ihn erweitern kann besser? Durch die Modularität kann jeder INTIA-Koffer in einfachen Schritten zu einem personalisierten Koffer werden. Diese Individualität steht im Einklang mit den Zielen des INTIA-Koffers. Damit Interessierte aber nicht selbstständig jedes einzelne Element aussuchen und ausprobieren müssen, sind hier Erweiterungen für den INTIA-Koffer angeführt.
 
-{% include highlighter.html min-height25p=true content="
+{% include highlighter.html min-height25p=false content="
 
 ## INTIA-Erweiterungen
 
@@ -129,9 +129,9 @@ Es gibt bisher folgende INTIA-Erweiterungen:
 ### Es gibt bisher folgende INTIA Erweiterungen:
 
 <div class='columns'>
-<div class='column is-one-thirdS'>
+<div class='column is-one-third'>
   <figure class='image'>
-    <img class='with-zone is-rounded' src='/assets/img/intia-case/icons/streamline-icon-touch-finger-1@500x500.png'>
+    <img class='with-zone has-text-centered' src='/assets/img/intia-case/icons/streamline-icon-touch-finger-1@500x500.png'>
   </figure>
   <!-- 
       <a href='#' class='button highlighter-column-button is-rounded is-dark'>
@@ -144,9 +144,9 @@ Es gibt bisher folgende INTIA-Erweiterungen:
   </a>
   -->
 </div>
-<div class='column is-one-third'>
+<div class='column is-one-third has-text-centered'>
   <figure class='image'>
-    <img class='with-zone is-rounded' src='/assets/img/intia-case/icons/streamline-icon-smart-house-open-door@500x500.png'>
+    <img class='with-zone' src='/assets/img/intia-case/icons/streamline-icon-smart-house-open-door@500x500.png'>
   </figure>
   <!-- 
       <a href='#' class='button highlighter-column-button is-rounded is-dark'>
@@ -159,9 +159,9 @@ Es gibt bisher folgende INTIA-Erweiterungen:
   </a>
   -->
 </div>
-<div class='column is-one-third'>
+<div class='column is-one-third has-text-centered'>
   <figure class='image'>
-    <img class='with-zone is-rounded' src='/assets/img/intia-case/icons/streamline-icon-browser-user-help-message@500x500.png'>
+    <img class='with-zone' src='/assets/img/intia-case/icons/streamline-icon-browser-user-help-message@500x500.png'>
   </figure>
   <!-- 
       <a href='#' class='button highlighter-column-button is-rounded is-dark'>
@@ -177,14 +177,14 @@ Es gibt bisher folgende INTIA-Erweiterungen:
 </div>
 "%}
 
-{% include highlighter.html min-height25p=true button_old="Mehr zum analogen Koffer" image="/assets/img/intia-case/intia_methodensammlung.jpg" content="
+{% include highlighter.html min-height25p=false button_old="Mehr zum analogen Koffer" image="/assets/img/intia-case/intia_methodensammlung.jpg" content="
 
 ## INTIA-Methodensammlung
 
 Dich interessieren nur die Methoden? Dann schau Dir die INTIA-Methodensammlung an! Bald gibt es einen eigenen Bereich für deren Anleitungen und Materialien. Die INTIA-Methodensammlung ist besonders geeignet für Einrichtungen, die bereits über Hardware verfügen oder sich selbst ausstatten.
 
 "%}
-{% include highlighter.html min-height25p=true button_old="Mehr zum INTIA Labor Koffer" image="/assets/img/intia-case/intia_labor.jpg" content="
+{% include highlighter.html min-height25p=false button_old="Mehr zum INTIA Labor Koffer" image="/assets/img/intia-case/intia_labor.jpg" content="
 
 ## INTIA-Koffer als Laborraum
 
