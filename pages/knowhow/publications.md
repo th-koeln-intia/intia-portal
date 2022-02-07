@@ -11,7 +11,6 @@ subtitle: >
   internationalen Koferenzen. Aus diesem Grund sind einige Veröffentlichungen
   auf Englisch.
 ---
-
 # Buchkapitel, Paper und Artikel
 
 Kortekaas, Caroline; Zurbrügg, Eva; Zorn, Isabel. (in Bearbeitung):\
@@ -126,6 +125,9 @@ Rösch, Janina; Seidler, Jan; Thielmann, Hanna; Zorn, Isabel (2019):\
 Vortrag im Forschungsforum der Fakultät für Angewandte Sozialwissenschaften, TH Köln. Köln.
 
 # Abschlussarbeiten
+
+Gawlik, Jennifer (2020):\
+**Partizipative und inklusive Technologieentwicklungsprozesse aus der Perspektive der Sozialen Arbeit.** Bachelorarbeit Technische Hochschule Köln. Betreut von Prof. Dr. Isabel Zorn. Köln.
 
 Klein, Stefanie (2021):\
 **Herangehensweisen und Herausforderungen für die Teilhabe von Menschen mit Lernschwierigkeiten in der partizipativen Technologieentwicklung.**\
