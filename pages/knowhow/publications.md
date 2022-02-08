@@ -125,7 +125,7 @@ Rösch, Janina; Seidler, Jan; Thielmann, Hanna; Zorn, Isabel (2019):\
 **Inklusive partizipative Technikentwicklung am Beispiel InTiA.**\
 Vortrag im Forschungsforum der Fakultät für Angewandte Sozialwissenschaften, TH Köln. Köln.
 
-# Abschlussarbeiten
+# Abschluss- und Projektarbeiten
 
 Klein, Stefanie (2021):\
 **Herangehensweisen und Herausforderungen für die Teilhabe von Menschen mit Lernschwierigkeiten in der partizipativen Technologieentwicklung.**\
@@ -139,6 +139,18 @@ Landgraf, Eric (2021):\
 **Realisierung eines offlinefähigen Open Source-Sprachassistenten zur Nutzung durch vulnerable Personengruppen.**\
 Praxisprojekt Technische Hochschule Köln. Betreut von Marc Schmidt, Dennis Wilk & Prof. Dr.-Ing. Stefan Bente. Köln.
 
+Landgraf, Eric (2022):\
+**Eruierung von Anforderungen und Erfolgsbedingungen für einen Sprachassistentenmit Fokus auf deutschsprachige Nutzer über 65 Jahren.**\
+Bachelorarbeit Technische Hochschule Köln. Betreut von Marc Schmidt, Dennis Wilk & Prof. Dr.-Ing. Stefan Bente. Köln.
+
 Klein, Florian (2022):\
 **Neustrukturierung und responsiv Umsetzung des INTIA Methoden-Radars in JavaScript.**\
 Praxisprojekt Technische Hochschule Köln. Betreut von Marc Schmidt & Prof. Dr.-Ing. Stefan Bente. Köln.
+
+Klein, Florian (2022):\
+**Dynamische Skalierung von Elementen in einer Radar Visualisierung von Daten.**\
+Bachelorarbeit Technische Hochschule Köln. Betreut von Marc Schmidt & Prof. Dr.-Ing. Stefan Bente. Köln.
+
+Przygodzinski, Dawid (2022):\
+**Vergleich des Sprachassistenten Amazon Alexa mit Open Source Alternativen, am Beispiel von Mycroft.**\
+Bachelorarbeit Technische Hochschule Köln. Betreut von Marc Schmidt & Prof. Dr.-Ing. Stefan Bente. Köln.
