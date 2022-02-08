@@ -127,6 +127,9 @@ Vortrag im Forschungsforum der Fakultät für Angewandte Sozialwissenschaften, T
 
 # Abschluss- und Projektarbeiten
 
+Gawlik, Jennifer (2020):\
+**Partizipative und inklusive Technologieentwicklungsprozesse aus der Perspektive der Sozialen Arbeit.** Bachelorarbeit Technische Hochschule Köln. Betreut von Prof. Dr. Isabel Zorn. Köln.
+
 Klein, Stefanie (2021):\
 **Herangehensweisen und Herausforderungen für die Teilhabe von Menschen mit Lernschwierigkeiten in der partizipativen Technologieentwicklung.**\
 Masterarbeit Katholische Hochschule Nordrhein-Westfalen. Betreut von Prof. Dr. Isabel Zorn. Köln.
