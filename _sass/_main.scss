@@ -1,0 +1,19 @@
+// Font
+@charset "utf-8";
+$family-primary: "Verdana", sans-serif;
+// Colors
+//$primary: #d1e7d6 !default;
+$primary: #ffffff !default;
+$text: #000 !default;
+$title-color: #000 !default;
+//$primary-light: #e7f2ea;
+//$primary-light: #ffffff;
+$light: #e7f2ea;
+$primary-dark: #1e7d73;
+$dark: #09443e;
+
+// Specific styles
+@import "layout";
+@import "helper";
+@import "icons";
+@import "print";

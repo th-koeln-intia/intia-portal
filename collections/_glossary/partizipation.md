@@ -1,5 +1,5 @@
 ---
-hero_tags: subpage glossary
+hero_tags: subpage glossary pdf
 title_above: Wörterbuch
 published: true
 title: Partizipation
