@@ -167,7 +167,7 @@ Es gibt bisher folgende INTIA-Erweiterungen:
 </div>
 <div class='column is-one-third has-text-centered'>
   <figure class='image'>
-    <img class='with-zone' src='/assets/img/intia-case/icons/streamline-icon-browser-user-help-message@500x500.png'>
+    <img class='with-zone' src='/assets/img/intia-case/icons/sprachassistenz_schwarz_400px.png'>
   </figure>
   <!-- 
       <a href='#' class='button highlighter-column-button is-rounded is-dark'>
