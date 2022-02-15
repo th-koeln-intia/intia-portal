@@ -34,7 +34,7 @@ Dabei kannst du helfen! Mach deine eigenen Rätsel und schickt sie über das For
 
 ## Wie geht der Aufbau des Escape Games? 
 
-Das Escape Game ist fester Bestandteil des INTIA Koffers. Du kannst es starten, wenn der Koffer aktiviert ist. Es wird hier bald eine genaue Anleitung geben. 
+Das Escape Game ist fester Bestandteil des INTIA-Koffers. Du kannst es starten, wenn der Koffer aktiviert ist. Es wird hier bald eine genaue Anleitung geben. 
 
 ## Wie kann es nach dem Escape Game weiter gehen? 
 
