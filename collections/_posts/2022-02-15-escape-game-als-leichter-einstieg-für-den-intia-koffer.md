@@ -15,7 +15,7 @@ Das Ziel vom Escape Game ist, Zugang zu Technik zu bekommen. Als Spiel sorgt es 
 
 ## Was ist das Escape Game? 
 
-Das Escape Game ist ein niederschwelliger und spielerischer Einstieg für den INTIA Koffer. Es besteht aus mehreren Rätseln mit Smart Home Elementen. Durch das Tüfteln an den Rätseln lernt man neue Technik kennen. Dabei wird im besten Fall ganz vergessen, dass man mit Technik arbeitet. Die Technik-Scheu geht dabei ganz einfach verloren. Ebenfalls wird unterbewusst eine Wissensbasis aufgebaut. Wissen über technische Möglichkeiten ist eine Voraussetzung für Technikentwicklung. Und Wissen hilft beim Finden von neuen Ideen. 
+Das Escape Game ist ein niederschwelliger und spielerischer Einstieg für den INTIA-Koffer. Es besteht aus mehreren Rätseln mit Smart Home Elementen. Durch das Tüfteln an den Rätseln lernt man neue Technik kennen. Dabei wird im besten Fall ganz vergessen, dass man mit Technik arbeitet. Die Technik-Scheu geht dabei ganz einfach verloren. Ebenfalls wird unterbewusst eine Wissensbasis aufgebaut. Wissen über technische Möglichkeiten ist eine Voraussetzung für Technikentwicklung. Und Wissen hilft beim Finden von neuen Ideen. 
 
 ## Was gehört alles zum Escape Game? 
 
