@@ -44,6 +44,10 @@ jobs:
       - name: Push files to target
         run: |
           rm -r deploy/*
+          echo "Current path"
+          pwd
+          echo "Content of directory"
+          ls
           cp -r build/* deploy
           cd deploy
           echo ${{ env.URL }} > CNAME
