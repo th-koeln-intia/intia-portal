@@ -11,7 +11,7 @@ subtitle: Das Escape Game soll einen Zugang zu Technik ermöglichen. Spielerisch
 ---
 <!--StartFragment-->
 
-Das Ziel vom Escape Game ist es, Zugang zu Technik zu bekommen. Als Spiel sorgt es für ein natürliches Benutzen der Technik. Am Ende sollte man ein Gefühl für die Geräte haben und gleichzeitig die Scheu vor Technik verlieren.  
+Das Ziel vom Escape Game ist, Zugang zu Technik zu bekommen. Als Spiel sorgt es für ein natürliches Benutzen der Technik. Am Ende sollte man ein Gefühl für die Geräte haben und gleichzeitig die Scheu vor Technik verlieren.  
 
 ## Was ist das Escape Game? 
 
