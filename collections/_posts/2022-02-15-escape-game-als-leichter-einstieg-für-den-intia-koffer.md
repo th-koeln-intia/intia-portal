@@ -11,11 +11,11 @@ subtitle: Das Escape Game soll einen Zugang zu Technik ermöglichen. Spielerisch
 ---
 <!--StartFragment-->
 
-Das Ziel vom Escape Game ist es, Zugang zu Technik zu bekommen. Als Spiel sorgt es für ein natürliches Benutzen der Technik. Am Ende sollte man ein Gefühl für die Geräte haben und gleichzeitig die Scheu vor Technik verlieren.  
+Das Ziel vom Escape Game ist, Zugang zu Technik zu bekommen. Als Spiel sorgt es für ein natürliches Benutzen der Technik. Am Ende sollte man ein Gefühl für die Geräte haben und gleichzeitig die Scheu vor Technik verlieren.  
 
 ## Was ist das Escape Game? 
 
-Das Escape Game ist ein niederschwelliger und spielerischer Einstieg für den INTIA Koffer. Es besteht aus mehreren Rätseln mit Smart Home Elementen. Durch das Tüfteln an den Rätseln lernt man neue Technik kennen. Dabei wird im besten Fall ganz vergessen, dass man mit Technik arbeitet. Die Technik-Scheu geht dabei ganz einfach verloren. Ebenfalls wird unterbewusst eine Wissensbasis aufgebaut. Wissen über technische Möglichkeiten ist eine Voraussetzung für Technikentwicklung. Und Wissen hilft beim Finden von neuen Ideen. 
+Das Escape Game ist ein niederschwelliger und spielerischer Einstieg für den INTIA-Koffer. Es besteht aus mehreren Rätseln mit Smart Home Elementen. Durch das Tüfteln an den Rätseln lernt man neue Technik kennen. Dabei wird im besten Fall ganz vergessen, dass man mit Technik arbeitet. Die Technik-Scheu geht dabei ganz einfach verloren. Ebenfalls wird unterbewusst eine Wissensbasis aufgebaut. Wissen über technische Möglichkeiten ist eine Voraussetzung für Technikentwicklung. Und Wissen hilft beim Finden von neuen Ideen. 
 
 ## Was gehört alles zum Escape Game? 
 
@@ -34,7 +34,7 @@ Dabei kannst du helfen! Mach deine eigenen Rätsel und schickt sie über das For
 
 ## Wie geht der Aufbau des Escape Games? 
 
-Das Escape Game ist fester Bestandteil des INTIA Koffers. Du kannst es starten, wenn der Koffer aktiviert ist. Es wird hier bald eine genaue Anleitung geben. 
+Das Escape Game ist fester Bestandteil des INTIA-Koffers. Du kannst es starten, wenn der Koffer aktiviert ist. Es wird hier bald eine genaue Anleitung geben. 
 
 ## Wie kann es nach dem Escape Game weiter gehen? 
 
