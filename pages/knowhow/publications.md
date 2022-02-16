@@ -5,10 +5,10 @@ permalink: /publications/
 jekyll-hyperlink-glossary: false
 title: Veröffentlichungen
 subtitle: >
-  Hier sind alle Veröffentlichungen zu finden, die ihm Rahmen des Projektes
+  Hier sind alle Veröffentlichungen zu finden, die im Rahmen des Projektes
   INTIA entstanden und für den Inhalt dieser Plattform relevant sind. Sie
   reichen von klassischen Journalbeiträgen bis hin zu Präsentationen auf
-  internationalen Koferenzen. Aus diesem Grund sind einige Veröffentlichungen
+  internationalen Konferenzen. Aus diesem Grund sind einige Veröffentlichungen
   auf Englisch.
 ---
 
