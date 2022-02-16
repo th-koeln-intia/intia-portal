@@ -29,7 +29,7 @@ sections:
     link_text: Zu den Neuigkeiten
   - title: Mitmachen
     text: |
-        Hier kannst Du Anregungen, Ideen, Kritik und Feedback an INTIA senden und selbst einsteigen. Übersicht unserer Community-Kanäle
+        Hier kannst du Anregungen, Ideen, Kritik und Feedback an INTIA senden und selbst einsteigen. Übersicht unserer Community-Kanäle
     image: /assets/img/landingpage/mitmachen.jpg
     icon: icon-handshake
     link: /contact/
