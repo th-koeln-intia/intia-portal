@@ -2,7 +2,7 @@
 title: Koffermaterial für den physischen INTIA-Koffer
 title_above: WERKZEUGE
 hero_tags: subpage
-permalink: /intia-case-packaging/
+permalink: /intia-case/packaging/
 subtitle: |
   Die Bausteine brauchen natürlich eine "Verpackung" - den Koffer. Es gibt viele verschiedene Koffer. Sie unterscheiden sich in der Größe, der Form und dem Material. Jedes Material hat seine Vor- und Nachteile. Wer einen Koffer kaufen will, muss sich fragen: Was ist mir wichtig? Soll er außergewöhnlich aussehen? Soll er viel aushalten können? Oder muss er wasserdicht sein? 
   Hier werden drei unterschiedliche Koffer vorgestellt.
