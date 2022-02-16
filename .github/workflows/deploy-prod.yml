@@ -32,6 +32,7 @@ jobs:
         uses: helaili/jekyll-action@v2
         with:
           token: ${{ secrets.JEKYLL_TOKEN }}
+          target_branch: production
           target_path: "build"
 
       - name: Checkout Prod Target
