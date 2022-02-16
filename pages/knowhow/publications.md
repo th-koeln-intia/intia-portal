@@ -91,7 +91,7 @@ Schmidt, Marc, Rösch, Janina & Zorn, Isabel (2020):\
 In Hansen, C., Nürnberger, A. & Preim, B. (Hrsg.), Mensch und Computer 2020 - Workshopband. Bonn:Gesellschaft für Informatik e.V..DOI:10.18420/muc2020-ws109-359
 [DOI aufraufen](https://dx.doi.org/10.18420/muc2020-ws109-359)
 
-Bente, S., Fuhrer, Kornelius (2020):\
+Bente, Stefan, Fuhrer, Kornelius (2020):\
 **Digitale Ethik mal pragmatisch.**\
 OOP, München, 3.-7. Februar 2020.\
 [Eventinformation aufrufen](https://www.oop-konferenz.de/oop2020/programm/konferenzprogramm/sessiondetails/action/detail/session/mi-61-3/title/digitale-ethik-mal-pragmatisch-wie-man-gut-und-gleichzeitig-erfolgreich-sein-kann.html)
@@ -112,7 +112,7 @@ Zorn, Isabel (2020):\
 **Datenschutzfragen beim Einsatz von digitalen Tools in Bildungskontexten (z.B. während der COVID-19-Präventionsmaßnahmen).**\
 Ringvorlesung PH Freiburg Studium generale. PH Freiburg. PH Freiburg. Freiburg, 15.11.2020.
 
-Zorn, Isabel; Mager, Birgit; Bente, Stefan; Kohls, Christian (2020):
+Zorn, Isabel; Mager, Birgit; Bente, Stefan; Kohls, Christian (2020):\
 **INTIA Inklusive Entwicklung von Methoden und Technologien für digitale Hilfen zur Alltagsbewältigung in der Behinderten- und Erziehungshilfe.**\
 Poster. Tag der Forschung der TH Köln. Köln.
 
