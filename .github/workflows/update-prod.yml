@@ -31,6 +31,7 @@ jobs:
           rm -r ./destination/*
           rsync -Rr --exclude=.git --exclude=destination . destination
           cd destination
+          echo ${{ env.URL }} > CNAME
           git config --global user.name github-actions
           git config --global user.email github-actions@github.com     
           git add .
