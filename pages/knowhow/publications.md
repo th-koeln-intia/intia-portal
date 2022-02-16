@@ -112,6 +112,10 @@ Zorn, Isabel (2020):\
 **Datenschutzfragen beim Einsatz von digitalen Tools in Bildungskontexten (z.B. während der COVID-19-Präventionsmaßnahmen).**\
 Ringvorlesung PH Freiburg Studium generale. PH Freiburg. PH Freiburg. Freiburg, 15.11.2020.
 
+Zorn, Isabel; Mager, Birgit; Bente, Stefan; Kohls, Christian (2020):
+**INTIA Inklusive Entwicklung von Methoden und Technologien für digitale Hilfen zur Alltagsbewältigung in der Behinderten- und Erziehungshilfe.**\
+Poster. Tag der Forschung der TH Köln. Köln.
+
 Bente, Stefan, Egelhaaf, Baptiste & Zorn, Isabel, (2019):\
 **ELSI-Scrum als integrierte ELSI-by-Design-Entwicklungsmethode für Technologieprojekte.**\
 Mensch und Computer 2019 - Workshopband. Bonn: Gesellschaft für Informatik e.V.. DOI: 10.18420/muc2019-ws-629\
