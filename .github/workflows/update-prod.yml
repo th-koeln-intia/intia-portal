@@ -18,15 +18,14 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v2.4.0
         with:
-          ref: "main"
+          ref: "gh-pages"
 
-      - name: Checkout repo
+      - name: Checkout Prod Target
         uses: actions/checkout@v2.4.0
         with:
-          ref: "production"
+          repository: th-koeln-intia/intia-prod
           path: "destination"
           token: ${{ secrets.PAT }}
-
       - name: Push to production
         run: |
           rm -r ./destination/*
