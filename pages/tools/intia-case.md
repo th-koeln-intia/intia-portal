@@ -132,7 +132,7 @@ Der INTIA-Koffer kann durch INTIA-Erweiterungen vergrößert werden. Je nach Bed
 
 Es gibt bisher folgende INTIA-Erweiterungen:
 
-### Es gibt bisher folgende INTIA Erweiterungen:
+### Es gibt bisher folgende INTIA-Erweiterungen:
 
 <div class='columns'>
 <div class='column is-one-third has-text-centered'>
@@ -187,7 +187,7 @@ Es gibt bisher folgende INTIA-Erweiterungen:
 
 ## INTIA-Methodensammlung
 
-Dich interessieren nur die Methoden? Dann schau Dir die INTIA-Methodensammlung an! Bald gibt es einen eigenen Bereich für deren Anleitungen und Materialien. Die INTIA-Methodensammlung ist besonders geeignet für Einrichtungen, die bereits über Hardware verfügen oder sich selbst ausstatten.
+Dich interessieren nur die Methoden? Dann schau dir die INTIA-Methodensammlung an! Bald gibt es einen eigenen Bereich für deren Anleitungen und Materialien. Die INTIA-Methodensammlung ist besonders geeignet für Einrichtungen, die bereits über Hardware verfügen oder sich selbst ausstatten.
 
 "%}
 {% include highlighter.html min-height25p=false button_old="Mehr zum INTIA Labor Koffer" image="/assets/img/intia-case/intia_labor.jpg" content="
