@@ -33,7 +33,7 @@ BMBF ist die Abkürzung für Bundesminsterium für Bildung und Forschung. Das Mi
 
 # Ansatz
 
-Digitale Technik erleichtert den Alltag und lässt viele Menschen an etwas teilhaben, was ohne sie unerreicht bliebe. Sie hilft einigen selbständiger zu leben und eigene Entscheidungen zu treffen. Man kann bei etwas mitmachen ohne zu reisen und sich mit anderen verbünden, sogar onlinie neue Freunde finden. Aber nicht alle haben einen großen Nutzen von dieser Entwicklung von Technologien. Manche Menschen brauchen eine individuelle technische Lösung für ihr Zuhause, die es nicht als fertiges Produkt zu kaufen gibt. Das Projektteam versucht sie zu ermächtigen, technische Lösungen selbst zu erfinden und diese mit Spaß an der Sache gemeinsam mit ihnen zu gestalten.
+Digitale Technik erleichtert den Alltag und lässt viele Menschen an etwas teilhaben, was ohne sie unerreicht bliebe. Sie hilft einigen selbständiger zu leben und eigene Entscheidungen zu treffen. Man kann bei etwas mitmachen ohne zu reisen und sich mit anderen verbinden, sogar online neue Freunde finden. Aber nicht alle haben einen großen Nutzen von dieser Entwicklung von Technologien. Manche Menschen brauchen eine individuelle technische Lösung für ihr Zuhause, die es nicht als fertiges Produkt zu kaufen gibt. Das Projektteam versucht sie zu ermächtigen, technische Lösungen selbst zu erfinden und diese mit Spaß an der Sache gemeinsam mit ihnen zu gestalten.
 
 ## Vorgehen
 
