@@ -29,7 +29,7 @@ jobs:
             ${{ runner.os }}-gems-v2-
 
       - name: Build Site
-        uses: helaili/jekyll-action@d305e465c911226c731afb6db07c8bde20e03ced
+        uses: helaili/jekyll-action@v2
         with:
           token: ${{ secrets.JEKYLL_TOKEN }}
           target_path: "build"
