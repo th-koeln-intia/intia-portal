@@ -4,32 +4,46 @@ title_above: WERKZEUGE
 hero_tags: subpage
 permalink: /intia-case/packaging/
 subtitle: |
-  Die Bausteine brauchen natürlich eine "Verpackung" - den Koffer. Es gibt viele verschiedene Koffer. Sie unterscheiden sich in der Größe, der Form und dem Material. Jedes Material hat seine Vor- und Nachteile. Wer einen Koffer kaufen will, muss sich fragen: Was ist mir wichtig? Soll er außergewöhnlich aussehen? Soll er viel aushalten können? Oder muss er wasserdicht sein? 
-  Hier werden drei unterschiedliche Koffer vorgestellt.
+  Die Bausteine brauchen natürlich eine "Verpackung" - den Koffer. Es gibt verschieden Möglichkeiten mit unterschiedlichen Vorzügen. Hier werden einige Verpackungsoptionen vorgestellt.
 ---
 
-# Holz
+# Einleitung
 
-## KF-Holz
+Es gibt viele verschiedene Arten von Koffern. Sie unterscheiden sich in der Größe, der Form und vorallem dem Material. Diese Unterschiede bringen Vor- und Nachteile mit sich. Hierbei muss man insbesondere Berücksichtigen das die Verpackung des INTIA-Koffers als erstes Betrachtet, wie auch genutzt wird. Eine Sorgfältige Auswahl ist deshalb zu empfehlen.
+Wer einen Koffer kaufen will, muss sich fragen:
+
+- Was ist mir wichtig?
+- Soll er außergewöhnlich aussehen?
+- Soll er viel aushalten können?
+- Oder muss er wasserdicht sein?
+
+Hier werden neben den Anforderungen für den INTIA-Koffer drei unterschiedliche Koffer vorgestellt.
+
+# Anforderungen
+
+Für den INTIA-Koffer ist es wichtig das der Koffer gewisse Anforderungen erfüllt:
+
+- Mindestens X cm Hoch (Der Höchste Baustein ist XY mit Z cm höhe)
+- Bietet eine Mindestfläche von X cm² z.B. Y cm Breit und Z Tief
+- Ein Innenfutter aus schaumstoff ist empfehlenswert um die Nutzung zu erleichtern, wie auch die Bausteine vor Verutschen zu schützen.
+- Wenn der Koffer auch in Außenbereichen genutzt wird sollte das Material gegen Schmutz und Kälte geschützt sein.
+- Wenn der Koffer auch viel auf Reisen ist sollte man viel Wert auf die Halbarkeit legen (z.B. Koffer mit Kantenschoner)
+
+# Holz
 
 <figure>
   <img src="https://www.kf-geschenke.com/Upload/Shop/Articles/208.jpg" alt="Beispielkoffer aus Holz." class="content_image">
   <figcaption>Beispielkoffer aus Holz.</figcaption>
 </figure>
-
-https://www.kf-geschenke.com/produkte/holzkoffer-mit-klarlack-lackiert-42-x-32-x-10-cm.html
-
-- 42 X 32 X 10 CM
-- Holz
-- ohne Innenfutter
-- personalisierbar mit Druck oder Gravur
-- 23,10 EUR
-
 Ein Koffer aus Holz hat einen eigenen "Maker"-Charme. Da Holz und Technik durchaus gegensätzlich sind, ist diese Kombination auf den ersten Blick eher ungewöhnlich. Aber genau deshalb auch so spannend. Elemente können direkt an dem Koffer montiert werden. Zum Beispiel eine Glühbirnenfassung, die dann keine eigene Halterung mehr braucht. So ein Koffer kann auch sehr leicht individualisiert werden. Zum Beispiel durch Beschriften, Gravieren oder Bekleben.
 
 Das Material ist leider eher empfindlich. Daher muss man sorgsam damit umgehen.
 
-Das Innenfutter muss extra gekauft und selber eingesetzt werden, was zwar fummelig ist, aber gut machbar. Eine genaue Anleitung findest du bald hier.
+Für einen Holzkoffer ist der KF-Holzkoffer eine gute Option, der im obigen Bild zusehen ist und nachfolgend näher erklärt wird.
+
+## KF-Holzkoffer
+
+Der KF-Holzkoffer bietet einen schönen Holzkoffer im schlichten Design. Er wirkt robust und gibt eine gewisse Werkstatt Atmosphäre wieder. Das Innenfutter muss extra gekauft und selber eingesetzt werden, was zwar fummelig ist, aber gut machbar. Eine genaue Anleitung findest du bald hier.
 
 <div class="columns is-centered is-desktop">
 <div class="column is-offset-1">
@@ -43,6 +57,35 @@ Das Innenfutter muss extra gekauft und selber eingesetzt werden, was zwar fummel
 </figure>
 </div>
 </div>
+
+### Eigenschaften
+
+<table class="tb">
+    <tr>
+        <th>Link</th>
+        <td>https://www.kf-geschenke.com/produkte/holzkoffer-mit-klarlack-lackiert-42-x-32-x-10-cm.html</td>
+    </tr>
+    <tr>
+        <th>Material</th>
+        <td>Holz</td>
+    </tr>
+    <tr>
+        <th>Maße</th>
+        <td>42 X 32 X 10 cm</td>
+    </tr>
+    <tr>
+        <th>Preis</th>
+        <td>23,10 EUR</td>
+    </tr>
+    <tr>
+        <th>Innefutter</th>
+        <td>NEIN</td>
+    </tr>
+    <tr>
+        <th>Anmerkungen</th>
+        <td>Personalisierbar mit Druck oder Gravur</td>
+    </tr>
+</table>
 
 # Aluminium
 
