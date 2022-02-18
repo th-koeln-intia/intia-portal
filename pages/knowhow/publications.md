@@ -5,11 +5,10 @@ permalink: /publications/
 jekyll-hyperlink-glossary: false
 title: Veröffentlichungen
 subtitle: >
-  Hier sind alle Veröffentlichungen zu finden, die im Rahmen des Projektes
-  INTIA entstanden und für den Inhalt dieser Plattform relevant sind. Sie
-  reichen von klassischen Journalbeiträgen bis hin zu Präsentationen auf
-  internationalen Konferenzen. Aus diesem Grund sind einige Veröffentlichungen
-  auf Englisch.
+  Hier sind alle Veröffentlichungen zu finden, die im Rahmen des Projektes INTIA
+  entstanden und für den Inhalt dieser Plattform relevant sind. Sie reichen von
+  klassischen Journalbeiträgen bis hin zu Präsentationen auf internationalen
+  Konferenzen. Aus diesem Grund sind einige Veröffentlichungen auf Englisch.
 ---
 
 # Buchkapitel, Paper und Artikel
@@ -133,15 +132,15 @@ Vortrag im Forschungsforum der Fakultät für Angewandte Sozialwissenschaften, T
 
 Gawlik, Jennifer (2020):\
 **Partizipative und inklusive Technologieentwicklungsprozesse aus der Perspektive der Sozialen Arbeit.**\
-Bachelorarbeit Technische Hochschule Köln. Betreut von Prof. Dr. Isabel Zorn. Köln.
+Bachelorarbeit Technische Hochschule Köln. Betreut von Prof. Dr. Isabel Zorn und Prof. Dr. habil. Carmen Kaminsky. Köln.
 
 Klein, Stefanie (2021):\
 **Herangehensweisen und Herausforderungen für die Teilhabe von Menschen mit Lernschwierigkeiten in der partizipativen Technologieentwicklung.**\
-Masterarbeit Katholische Hochschule Nordrhein-Westfalen. Betreut von Prof. Dr. Isabel Zorn. Köln.
+Masterarbeit Katholische Hochschule Nordrhein-Westfalen. Betreut von Prof. Dr. Armin Wildfeuer und Prof. Dr. Isabel Zorn. Köln.
 
 Heutz, Robin (2021):\
 **Empowermentprozesse bei Jugendlichen und Heranwachsenden mit Behinderung.**\
-Bachelorarbeit Technische Hochschule Köln. Betreut von Prof. Dr. Isabel Zorn. Köln.
+Bachelorarbeit Technische Hochschule Köln. Betreut von Prof. Dr. Isabel Zorn und Caroline Kortekaas. Köln.
 
 Landgraf, Eric (2021):\
 **Realisierung eines offlinefähigen Open Source-Sprachassistenten zur Nutzung durch vulnerable Personengruppen.**\
