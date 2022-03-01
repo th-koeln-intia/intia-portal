@@ -3,7 +3,7 @@ hero_tags: subpage post pdf
 title_above: AKTUELLES
 published: false
 title: Anleitung Mini-Computer installieren
-author: Dennis Chrisitan Wilk
+author: Dennis Christian Wilk
 hero_image: /assets/img/uploads/dsc_0060.jpg
 preview_image: /assets/img/uploads/dsc_0060.jpg
 subtitle: sdfv
@@ -29,7 +29,6 @@ Das Betriebssystem wird auf den Raspberry geschrieben. Hier muss nicht viel beac
 * SD-Karten Image herunterladen (link!) 
 * SD-Karte in einen Computer geben  
 * Unter Windows die Software Etcher installieren und ausführen: <https://www.balena.io/etcher/> 
-*  
 * ![](https://wiki.th-koeln.de/download/attachments/27691881/image2022-1-14_13-44-25.png?version=1&modificationDate=1642418237042&api=v2)
 * Select Image - Die IMG-Datei auswählen, die zuvor von uns heruntergeladen wurde 
 * Select drive - Die SD-Karte auswählen 
@@ -42,7 +41,7 @@ Das Betriebssystem wird auf den Raspberry geschrieben. Hier muss nicht viel beac
 Der Mini-Computer läuft auch ohne Display und Gehäuse, also einer Plastikschale, die das Gerät schützt. Dennoch ist es empfehlenswert, das Gerät mit einem Case, einem Gehäuse oder einer Schale zu schützen. Das Gerät ist aber sehr stabil und daher das Risiko gering, das etwas kaputt geht, wenn kein Gehäuse drum ist. Wenn es also passiert, dass der Raspberry bereits da ist aber noch kein Case fertig ist, kann man ohne Sorge bereits die Installation durchführen und jeder Zeit die nachfolgenden Schritte nachholen. 
 
 * Display anschließen wie auf dem Bild mit Jumper-Kabel 
-*   
+*
 * ![](https://m.media-amazon.com/images/I/611iVBH-XFS._SL1500_.jpg)
 * Wenn im Case keine Lücke ist für das Display vorhanden ist, kann dieses nach Belieben raus gelöst werden (keine Angst!) - Unsere 3D-Druck-Case-Vorlage hat Lücken (Datei muss noch erstellt und hochgeladen werden!!!!) 
 * Display an dem Case befestigen 
@@ -64,8 +63,6 @@ Benötigt wird
 * Micro SD-Karte (min 16GB - 32+ wird empfohlen da hiermit ein Sprach Assistentent Upgrade einfacher wird!)
 * Netzteil für Raspberry
 
-
-
 # Installation
 
 Das Betriebssystem wird auf den Raspberry geschrieben. Hier muss nicht viel beachtet werden. Mit einem kleinen Programm wird eine Datei auf die SD-Karte geschrieben. NICHT die Datei auf die SD-Karte kopieren, das funktioniert nicht. In dem Prozess wird die SD-Karte Fomatiert (alle daten auf der SD-Karte werden gelöscht). Also bitte beachten das nichts drauf ist das wichtig ist!
@@ -79,8 +76,6 @@ Das Betriebssystem wird auf den Raspberry geschrieben. Hier muss nicht viel beac
 * Flash!
 * Warten bis es fertig ist
 * SD-Karte in den Raspberry
-
-
 
 # (opt aber empfohlen) Case und Display zusammen setzen
 
