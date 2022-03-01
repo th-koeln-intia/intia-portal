@@ -1,7 +1,7 @@
 ---
 hero_tags: subpage post pdf
 title_above: AKTUELLES
-published: true
+published: false
 title: Einkaufsliste für INTIA-Koffer
 author: Dennis Christian Wilk
 hero_image: /assets/img/uploads/dsc_0104.jpg
