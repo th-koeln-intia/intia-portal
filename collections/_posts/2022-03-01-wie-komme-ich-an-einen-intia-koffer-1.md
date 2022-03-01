@@ -1,7 +1,7 @@
 ---
 hero_tags: subpage post pdf
 title_above: AKTUELLES
-published: false
+published: true
 title: Wie komme ich an einen INTIA-Koffer?
 author: Dennis christian Wilk
 hero_image: /assets/img/uploads/dsc_0104.jpg
