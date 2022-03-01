@@ -6,10 +6,14 @@ title: Koffermaterial für den physischen INTIA-Koffer
 author: Dennis Christian Wilk
 hero_image: https://intia.de/assets/img/uploads/neuigkeit-koffertermin-piksl-1.jpg
 preview_image: https://intia.de/assets/img/uploads/neuigkeit-koffertermin-piksl-1.jpg
-subtitle: 'Die Bausteine brauchen natürlich eine "Verpackung" - den Koffer. Es
+subtitle: Die Bausteine brauchen natürlich eine "Verpackung" - den Koffer. Es
   gibt viele verschiedene Koffer. Sie unterscheiden sich in der Größe, der Form
-  und dem Material. '
+  und dem Material.
 ---
+!!! Yggi, Marc hatte hier schon was an der Darstellung der Inhalte rumgebastelt !!! -> https://test.intia.de/intia-case/packaging/
+
+\---
+
 Jedes Material hat seine Vor- und Nachteile. \
 Wer einen Koffer kaufen will, muss sich fragen: Was ist mir wichtig? Soll er außergewöhnlich aussehen? Soll er viel aushalten können? Oder muss er wasserdicht sein? 
 Hier werden drei unterschiedliche Koffer vorgestellt.
@@ -36,8 +40,6 @@ Das Innenfutter muss extra gekauft und selber eingesetzt werden, was zwar fummel
 
 ![](https://wiki.th-koeln.de/download/attachments/27691717/IMG_20210609_110839.jpg?version=1&modificationDate=1623223800884&api=v2) ![](https://wiki.th-koeln.de/download/attachments/27691717/IMG_20210609_110859.jpg?version=1&modificationDate=1623223817123&api=v2)
 
-
-
 # Aluminium
 
 **PEAKTECH 7270**
@@ -60,7 +62,7 @@ Der Koffer bietet genug Platz für die wichtigsten Elemente. Würde man auf die 
 
 Auf Grund des Preis-Leistungs-Verhältnisses bietet diese Variante das größte Potenzial.
 
-![](https://wiki.th-koeln.de/download/attachments/27691717/IMG_20210608_160114.jpg?version=1&modificationDate=1623223728520&api=v2) ![](https://wiki.th-koeln.de/download/attachments/27691717/IMG_20210608_160218.jpg?version=1&modificationDate=1623223845311&api=v2) 
+![](https://wiki.th-koeln.de/download/attachments/27691717/IMG_20210608_160114.jpg?version=1&modificationDate=1623223728520&api=v2) ![](https://wiki.th-koeln.de/download/attachments/27691717/IMG_20210608_160218.jpg?version=1&modificationDate=1623223845311&api=v2)
 
 # Plastik
 
