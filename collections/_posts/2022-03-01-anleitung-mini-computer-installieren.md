@@ -1,7 +1,7 @@
 ---
 hero_tags: subpage post pdf
 title_above: AKTUELLES
-published: false
+published: true
 title: Anleitung Mini-Computer installieren
 author: Dennis Christian Wilk
 hero_image: /assets/img/uploads/dsc_0060.jpg
