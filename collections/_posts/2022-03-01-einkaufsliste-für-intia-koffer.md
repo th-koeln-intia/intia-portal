@@ -29,6 +29,4 @@ Die nachfolgende Tabelle führt alle Bausteine aus dem INTIA-Baukasten auf. Es g
 
 Die nachfolgende Tabelle führt alle Bausteine aus dem INTIA-Baukasten auf. Es gibt manchmal mehrere Alternativen für einen Baustein. Zum Beispiel bei den Lampen. Hier kannst du entscheiden, welche Alternative du möchtest. Über die Spalte "Menge" kannst du genau das auswählen, was du brauchst. Das ermöglicht eine lebendige Planung für deinen INTIA-Koffer.
 
-![](https://wiki.th-koeln.de/download/resources/com.atlassian.confluence.extra.officeconnector%3Aviewxls/images/excel-editor-placeholder.png)
-
 <!--EndFragment-->
