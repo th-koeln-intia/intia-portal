@@ -51,7 +51,7 @@ defaults:
       type: glossary
       path: _glossary
     values:
-      permalink: /glossary/:title/
+      permalink: /knowhow/glossary/:title/
       layout: default   
 
 # Collections

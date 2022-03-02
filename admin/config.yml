@@ -46,7 +46,7 @@ collections:
         fields: 
           - {label: "Hero tags", name: "hero_tags", widget: "hidden", default: "subpage"}
           - {label: "Überschrift", name: "title_above", widget: "hidden", default: "WISSEN"}
-          - {label: "URL", name: "permalink", widget: "hidden", default: "/publications/"}
+          - {label: "URL", name: "permalink", widget: "hidden", default: "/knowhow/publications/"}
           - {label: "Glossar auf dieser Seite aktivieren", name: "jekyll-hyperlink-glossary", widget: "hidden", default: "false"}
           - {label: Titel, name: title, widget: string}
           - {label: Abstrakt, name: subtitle, widget: text}

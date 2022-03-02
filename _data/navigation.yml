@@ -1,13 +1,13 @@
 - name: Über
   dropdown:
     - name: Plattform
-      link: /about/
+      link: /about/plattform
     - name: Projekt
-      link: /project/
+      link: /about/project/
     - name: Netzwerk
-      link: /network/
+      link: /about/network/
     - name: Barrierearm
-      link: /accessibility/
+      link: /about/accessibility/
 - name: INTIA-Koffer
   dropdown:
     - name: Über
@@ -17,9 +17,9 @@
 - name: Werkzeuge
   dropdown:
     - name: Bausteine
-      link: /building_blocks/
+      link: /tools/building_blocks/
     - name: Methoden
-      link: /methods/
+      link: /tools/methods/
 #- name: Lösungen
 #  dropdown:
 #    - name: Lösungen
@@ -27,11 +27,11 @@
 - name: Wissen
   dropdown:
     - name: Wörterbuch
-      link: /glossary/
+      link: /knowhow/glossary/
     - name: Veröffentlichungen
-      link: /publications/
+      link: /knowhow/publications/
     - name: Anleitungen
-      link: /instructions/
+      link: /knowhow/instructions/
 - name: Aktuelles
   dropdown:
     - name: Neuigkeiten
@@ -39,4 +39,4 @@
 - name: Mitmachen
   dropdown:
     - name: Kontakt
-      link: /contact/
+      link: /collaboration/contact/

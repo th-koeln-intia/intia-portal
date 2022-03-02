@@ -1,7 +1,7 @@
 ---
 title: Plattform
 title_above: Über
-permalink: /about/
+permalink: /about/plattform
 subtitle: |
   Wie kann digitale Technik möglichst partizipativ und inklusiv mit ihren Anwender:innen entwickelt werden? Methoden, Werkzeuge und Wissen dazu gibt es auf dieser Plattform.
 hero_tags: toppage

@@ -1,7 +1,7 @@
 ---
 title: Barrierearm
 title_above: ÜBER
-permalink: /accessibility/
+permalink: /about/accessibility/
 subtitle: |
   Auf der Plattform INTIA sind Inhalte möglichst barrierearm. Das bedeutet die Sprache ist einfach und die verwendete Schrift ist gut lesbar. Wir bitten ausdrücklich um deine Mithilfe, wenn das nicht überall gut gelungen ist!
 hero_tags: subpage
@@ -25,4 +25,4 @@ Die Texte auf diese Plattform sind barrierearm, erfüllen jedoch nicht vollstän
 # Feedback und Kontakt
 
 Ist ein Text auf dieser Plattform nicht leicht verständlich und du möchtest uns das sagen? Oder möchtest du mehr Informationen über einen fachwissenschaftlichen Text? Bitte schreibe eine E-Mail an kontakt@intia.de. Dazu kannst du auch
-unser [Kontaktformular](/contact/) benutzen.
+unser [Kontaktformular](/collaboration/contact/) benutzen.

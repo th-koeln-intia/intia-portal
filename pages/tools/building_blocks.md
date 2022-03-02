@@ -2,7 +2,7 @@
 hero_tags: subpage
 title_above: AKTUELLES
 title: Bausteine
-permalink: /building_blocks/
+permalink: /tools/building_blocks/
 hero_image: /assets/img/uploads/image2022-2-10_12-42-54.png
 preview_image: /assets/img/uploads/image2022-2-10_12-42-54.png
 subtitle: Erfahre alle wichtigen Details über die Bausteine im INTIA-Koffer
@@ -14,7 +14,7 @@ Bausteine sind alle Elemente des INTIA-Koffers, die nicht auf Papier ausgedruckt
 
 ## Die Bausteine (Text + Fotos nebeneinander)
 
-Es gibt zwei Arten von Bausteinen. Zum einen die INTIA-Bausteine. Sie wurden im INTIA-Projekt entwickelt und du kannst sie nachbauen. Zum anderen Bausteine, die du schon fertig in Geschäften kaufen kannst. 
+Es gibt zwei Arten von Bausteinen. Zum einen die INTIA-Bausteine. Sie wurden im INTIA-Projekt entwickelt und du kannst sie nachbauen. Zum anderen Bausteine, die du schon fertig in Geschäften kaufen kannst.
 
 ### INTIA-Bausteine
 
@@ -26,9 +26,9 @@ Der Mini-Computer verbindet die Bausteine miteinander. Er ist die digitale Steue
 
 ![](https://wiki.th-koeln.de/download/attachments/27691761/image2022-2-10_12-43-46.png?version=1&modificationDate=1644493424968&api=v2)
 
-*Bildunterschrift: Der Mini-Computer*
+_Bildunterschrift: Der Mini-Computer_
 
-*Alt-Text: Der Mini-Computer ist die digitale Steuerzentrale des INTIA-Koffers.* 
+_Alt-Text: Der Mini-Computer ist die digitale Steuerzentrale des INTIA-Koffers._
 
 #### **Kiste**
 
@@ -36,9 +36,9 @@ Die Kisten besitzen einen Motor und können so geöffnet und verschlossen werden
 
 ![](https://wiki.th-koeln.de/download/attachments/27691761/image2022-2-10_12-41-1.png?version=1&modificationDate=1644493259684&api=v2)
 
-*Bildunterschrift: Die Kiste*
+_Bildunterschrift: Die Kiste_
 
-*Alt-Text: Dank des Motors können die Kisten geöffnet und verschlossen werden.*
+_Alt-Text: Dank des Motors können die Kisten geöffnet und verschlossen werden._
 
 ### Fertige Bausteine
 
@@ -50,9 +50,9 @@ Mit Knöpfen kannst du andere Bausteine ansteuern. Es gibt viele Arten von Knöp
 
 ![](https://wiki.th-koeln.de/download/attachments/27691761/image2022-2-10_12-39-38.png?version=1&modificationDate=1644493176185&api=v2)
 
-*Bildunterschrift: Ein Knopf*
+_Bildunterschrift: Ein Knopf_
 
-*Alt-Text: Es gibt unterschiedliche Knöpfe. Mit diesem Knopf können Bausteine gesteuert werden.*
+_Alt-Text: Es gibt unterschiedliche Knöpfe. Mit diesem Knopf können Bausteine gesteuert werden._
 
 #### Smarte Lampen
 
@@ -60,9 +60,9 @@ Smarte Lampen haben verschiedene Fähigkeiten: An - aus, hell - dunkel, Farbe ä
 
 ![](https://wiki.th-koeln.de/download/attachments/27691761/image2022-2-10_12-38-30.png?version=1&modificationDate=1644493108922&api=v2)
 
-*Bildunterschrift: Smarte Lampen*
+_Bildunterschrift: Smarte Lampen_
 
-*Alt-Text: Smarte Lampen können zum Beispiel mit einem Knopf bedient werden.* 
+_Alt-Text: Smarte Lampen können zum Beispiel mit einem Knopf bedient werden._
 
 #### Sensoren
 
@@ -70,8 +70,8 @@ Sensoren nehmen etwas wahr. Zum Beispiel eine Bewegung.
 
 ![](https://wiki.th-koeln.de/download/attachments/27691761/image2022-2-10_12-42-54.png?version=1&modificationDate=1644493372695&api=v2)
 
-*Bildunterschrift: Die Sensoren*
+_Bildunterschrift: Die Sensoren_
 
-*Alt-Text: Sensoren können beispielsweise Bewegungen wahrnehmen.*
+_Alt-Text: Sensoren können beispielsweise Bewegungen wahrnehmen._
 
 <!--EndFragment-->

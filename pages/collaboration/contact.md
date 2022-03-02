@@ -2,7 +2,7 @@
 title: Kontakt
 subtitle: |
   Mach' mit und werde Teil des Netzwerks! Es geht um alles rund um digitale technische Alltagshilfen. Schon dabei sind: das INTIA-Projektteam, der Fachbeirat des Projekts und seine Praxispartner. Alle verbindet der Wunsch, sich untereinander und mit Fachkräften der Sozialen Arbeit und den beteiligten Wissenschaftler:innen auszutauschen und ein Netzwerk zu bilden.
-permalink: /contact/
+permalink: /collaboration/contact/
 contact: true
 hero_tags: subpage
 ---
