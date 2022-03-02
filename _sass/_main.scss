@@ -25,10 +25,9 @@ $dark: #09443e;
 .tb th,
 .tb td {
   padding: 5px;
-  border: solid 1px $primary-dark;
+  border-bottom: solid 1px $primary-dark;
 }
 .tb th {
-  background-color: $primary-dark;
-  color: #ffffff;
   font-weight: bold;
+  padding-right: 2em;
 }

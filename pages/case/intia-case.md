@@ -55,54 +55,60 @@ Die Ideen des INTIA-Koffers sind vielseitig: Er kann partizipativ Probleme im Al
 
 Hier sind alle Elemente aufgelistet, die in den INTIA-Koffer gehören.
 
-## Anleitungen und Lehrmaterial
-
-- Inhaltsliste
-- Begrüßungs-Schreiben
-- Anleitung für einen vollständigen Kreativprozess
-- Einführung mit dem Escape Game
-- “Wie entwickle ich mein eigenes Escape Game”
-- Node-Red Cheat-Sheat
-- Node-Red Einführungen
-- Lehrmaterial zum Erlernen des Umgangs mit der Technik
-
-## Methoden
-
-- INTIA-Methodensammlung
-- INTIA-Nerv-Tagebuch-Block
-- INTIA-Impulskarten-Sets (Alltags-Karten + Bedürfnis-Karten)
-
-## Technik
-
-### Mini-Computer
-
-- Raspberry Pi
-- SD-Karte
-- Zigbee Stick
-- Display
-- Netzteil
-
-### Kommerzielle Bausteine
-
-- smarte Lampe
-- Knopf - komplex
-- Knöpfe - einfach
-- Türkontakt
-- smarte Steckdose
-- Temperatursensor
-- Erschütterungssensor
-- Bewegungssensor
-
-### INTIA-Bausteine
-
-- verschließbare Kiste
-- Keypad
-
-### Zubehör
-
-- Mehrfach-USB-Netzteil
-- Rasberry Pi Netzteil
-- Lampenfassung
+<table class="tb">
+    <tr>
+       <th>Anleitungen und Lehrmaterial</th>
+       <td>
+          <ul>
+          <li>Inhaltsliste</li>
+          <li>Begrüßungs-Schreiben</li>
+          <li>Anleitung für einen vollständigen Kreativprozess</li>
+          <li>Einführung mit dem Escape Game</li>
+          <li>“Wie entwickle ich mein eigenes Escape Game”</li>
+          <li>Node-Red Cheat-Sheat</li>
+          <li>Node-Red Einführungen</li>
+          <li>Lehrmaterial zum Erlernen des Umgangs mit der Technik</li>
+          </ul>
+        </td>
+    </tr>
+    <tr>
+        <th>Methoden</th>
+        <td>
+          <ul>
+          <li>INTIA-Methodensammlung</li>
+          <li>INTIA-Nerv-Tagebuch-Block</li>
+          <li>INTIA-Impulskarten-Sets (Alltags-Karten + Bedürfnis-Karten)</li>
+          </ul>
+        </td>
+    </tr>
+    <tr>
+       <th>Bausteine</th>
+       <td>
+          <ul>
+          <li>Mini-Computer</li>
+          <li>Lampe</li>
+          <li>Knöpfe</li>
+          <li>Türkontakt</li>
+          <li>Steckdose</li>
+          <li>Temperatursensor</li>
+          <li>Erschütterungssensor</li>
+          <li>Bewegungssensor</li>
+          <li>verschließbare Kiste</li>
+          <li>Keypad</li>
+          </ul>
+        </td>
+    </tr>
+    <tr>
+       <th>Sonstiges</th>
+       <td>
+          <ul>
+          <li>Netzteile</li>
+          <li>Lampenfassung</li>
+          <li>Display</li>
+          </ul>
+        </td>
+    </tr>
+</table>
 
 {% include highlighter.html min-height25p=false button_old="Mehr zum analogen Koffer" image="/assets/img/intia-case/intia_methodensammlung.jpg" content="
 
