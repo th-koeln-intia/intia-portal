@@ -65,7 +65,7 @@ Es gibt viele Möglichkeiten, wie du dich in die Community einbringen kannst. Wi
   <!-- 
       <a href='#' class='button highlighter-column-button is-rounded is-dark'>
   -->
-      <span>Knopf-Set</span>
+      <span>Aktuelle Veranstaltungen</span>
       <!-- 
       <span class='icon is-small'>
         <i class='fas fa-chevron-right fa-xs'></i>
@@ -80,7 +80,7 @@ Es gibt viele Möglichkeiten, wie du dich in die Community einbringen kannst. Wi
   <!-- 
       <a href='#' class='button highlighter-column-button is-rounded is-dark'>
       -->
-      <span>Sensor-Set</span>
+      <span>Der INTIA-Koffer bei PIKSL</span>
       <!-- 
       <span class='icon is-small'>
         <i class='fas fa-chevron-right fa-xs'></i>
@@ -95,7 +95,7 @@ Es gibt viele Möglichkeiten, wie du dich in die Community einbringen kannst. Wi
   <!-- 
       <a href='#' class='button highlighter-column-button is-rounded is-dark'>
   -->
-      <span>Sprachassistenz-Set</span>
+      <span>Fortbildungs Videos</span>
       <!-- 
       <span class='icon is-small'>
         <i class='fas fa-chevron-right fa-xs'></i>
