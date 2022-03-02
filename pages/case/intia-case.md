@@ -117,13 +117,6 @@ Hier sind alle Elemente aufgelistet, die in den INTIA-Koffer gehören.
 Dich interessieren die Methoden? Dann schau Dir die INTIA-Methodensammlung an! Bald gibt es einen eigenen Bereich für deren Anleitungen und Materialien. Die INTIA-Methodensammlung ist besonders geeignet für Einrichtungen, die bereits über Hardware verfügen oder sich selbst ausstatten.
 
 "%}
-{% include highlighter.html min-height25p=false button_old="Mehr zum INTIA Labor Koffer" image="/assets/img/intia-case/intia_labor.jpg" content="
-
-## INTIA-Koffer als Laborraum
-
-Das Vorgehen und die Technik hinter dem INTIA-Koffer muss nicht zwingend als mobile Lösung genutzt werden. Eine Integration in einem MakerSpace, Kreativ-Raum oder anderen Räumlichkeiten hat seine eigenen Vorteile. Mit dem INTIA-Koffer und den INTIA-Erweiterungen kann ein ganzer Raum als Laborraum eingerichtet werden. Dort kann stationär mit umfänglichem Material gearbeitet werden.
-
-"%}
 
 {% include highlighter.html min-height25p=false content="
 
@@ -182,4 +175,12 @@ Es gibt bisher folgende INTIA-Erweiterungen:
   -->
 </div>
 </div>
+"%}
+
+{% include highlighter.html min-height25p=false button_old="Mehr zum INTIA Labor Koffer" image="/assets/img/intia-case/intia_labor.jpg" content="
+
+## INTIA-Koffer als Laborraum
+
+Das Vorgehen und die Technik hinter dem INTIA-Koffer muss nicht zwingend als mobile Lösung genutzt werden. Eine Integration in einem MakerSpace, Kreativ-Raum oder anderen Räumlichkeiten hat seine eigenen Vorteile. Mit dem INTIA-Koffer und den INTIA-Erweiterungen kann ein ganzer Raum als Laborraum eingerichtet werden. Dort kann stationär mit umfänglichem Material gearbeitet werden.
+
 "%}
