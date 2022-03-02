@@ -4,22 +4,20 @@ title_above: INTIA-KOFFER
 hero_tags: subpage
 permalink: /intia-case/
 subtitle: |
-  Der INTIA-Koffer setzt sich aus verschiedenen Bausteinen zusammen. Damit kann jede:r eigene Lösungen entwickeln. Der Koffer lädt dazu ein, spielerisch Technik kennenzulernen. So kann Technik selbst verstanden und genutzt werden.
+  Der INTIA-Koffer setzt sich aus verschiedenen Bausteinen zusammen, mit welchen Technikideen entwickelt werden können: Smart Home Geräte (z.B. Fernbedienungen), Methoden und ein Technik-Escape-Game. Er lädt dazu ein, Technik spielerisch kennenzulernen und damit eigene Lösungen zu entwickeln. So kannst du dir zum Beispiel individuelle Lösungen für deinen Arbeitsalltag bauen.
 ---
 
 # Was ist der INTIA-Koffer?
 
 Der INTIA-Koffer ist eine Art Werkzeugkoffer. Er besteht aus verschiedenen analogen und digitalen Elementen. Man könnte den INTIA-Koffer auch als kreative Box bezeichnen. Der INTIA-Koffer ist für alle Menschen gedacht. Er soll dabei helfen, Ideen und Lösungen für den eigenen Alltag zu entwickeln. Es handelt sich bei dem INTIA-Koffer um eine Möglichkeit, Personen niederschwellig an moderne Technologien heranzuführen.
 
-# TODO: Der INTIA-Koffer
+Darüber hinaus können auch Fachkräfte von diesen technischen Lösungen profitieren. Dank des Koffers kann die Zielerreichung einer Selbstwirksamkeit und Selbstständigkeit erleichtert werden. Es handelt sich bei dem INTIA-Koffer nicht nur um didaktisches Lernmaterial. Der Koffer ist eine Toolbox um Alltagsprobleme in Verbindung mit einer technischen Lösung zu bauen.
 
-Der INTIA-Koffer beinhaltet umfangreiche Anleitungen und eine Methodensammlung. Diese können für eine schnelle, selbstständige Einarbeitung oder für Veranstaltungen sofort genutzt werden.
+Die Ideen des INTIA-Koffers sind vielseitig: Er eignet sich für alle, ist mobil, offen, kostengünstig und modular. Der INTIA-Koffer beinhaltet umfangreiche Anleitungen und eine Methodensammlung. Diese können für eine schnelle, selbstständige Einarbeitung oder für Veranstaltungen sofort genutzt werden.
 
-Außerdem befindet sich im INTIA-Koffer ein grundlegende Sammlung an Technik-Bausteinen. Die Auswahl ist dabei so getroffen worden, dass mit möglichst wenigen Bausteinen eine gute Nutzung möglich ist. Dies fördert die Zugänglichkeit und vermeidet, dass zusätzliche Hardware gebraucht wird. Genau diese Eigenschaft ist typisch für die meisten edukativen Hardware-Sets. Die Priorität liegt hier auf jenen Technik-Elementen, die unerlässlich sind. Ein besonderes Augenmerk liegt auf der Qualität, nicht auf der Quantität der Bausteine.
+Außerdem befindet sich im INTIA-Koffer eine grundlegende Sammlung an Technik-Bausteinen. Die Auswahl ist dabei so getroffen worden, dass mit möglichst wenigen Bausteinen eine gute Nutzung möglich ist. Dies fördert die Zugänglichkeit und vermeidet, dass zusätzliche Hardware gebraucht wird.
 
-Zu Beginn der Entwicklung war es das Ziel, einen kleinen und einen großen INTIA-Koffer zu entwickeln. Im Verlauf zeigte sich aber, dass dieser Ansatz nicht zu der Zielsetzung des Koffers passt. Inzwischen steht ein INTIA-Koffer und dessen Erweiterbarkeit im Fokus.
-
-Was macht den INTIA-Koffer und dass man ihn erweitern kann besser? Durch die Modularität kann jeder INTIA-Koffer in einfachen Schritten zu einem personalisierten Koffer werden. Diese Individualität steht im Einklang mit den Zielen des INTIA-Koffers. Damit Interessierte aber nicht selbstständig jedes einzelne Element aussuchen und ausprobieren müssen, sind hier Erweiterungen für den INTIA-Koffer angeführt.
+Dank seiner Modularität kann jeder Mensch den INTIA-Koffer in einfachen Schritten zu einem personalisierten Koffer machen. Diese Individualität steht im Einklang mit den Zielen des INTIA-Koffers. Damit Interessierte aber nicht selbstständig jedes einzelne Element aussuchen und ausprobieren müssen, sind hier Erweiterungen für den INTIA-Koffer angeführt.
 
 <a href='#modular' class='button highlighter-column-button is-rounded is-dark'>
       <span>Zum INTIA-Koffer</span>
@@ -116,7 +114,7 @@ Es gibt bisher folgende INTIA-Erweiterungen:
 
 ## INTIA-Methodensammlung
 
-Dich interessieren nur die Methoden? Dann schau dir die INTIA-Methodensammlung an! Bald gibt es einen eigenen Bereich für deren Anleitungen und Materialien. Die INTIA-Methodensammlung ist besonders geeignet für Einrichtungen, die bereits über Hardware verfügen oder sich selbst ausstatten.
+Dich interessieren die Methoden? Dann schau Dir die INTIA-Methodensammlung an! Bald gibt es einen eigenen Bereich für deren Anleitungen und Materialien. Die INTIA-Methodensammlung ist besonders geeignet für Einrichtungen, die bereits über Hardware verfügen oder sich selbst ausstatten.
 
 "%}
 {% include highlighter.html min-height25p=false button_old="Mehr zum INTIA Labor Koffer" image="/assets/img/intia-case/intia_labor.jpg" content="
