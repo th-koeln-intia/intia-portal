@@ -38,5 +38,7 @@
       link: /stories/
 - name: Mitmachen
   dropdown:
+    - name: Community
+      link: /collaboration/community/
     - name: Kontakt
       link: /collaboration/contact/
