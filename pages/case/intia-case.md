@@ -49,7 +49,7 @@ Die Ideen des INTIA-Koffers sind vielseitig: Er kann partizipativ Probleme im Al
 
 ## Für jeden
 
-Man muss keine Fachperson sein. Fähigkeiten wie Programmieren, Handwerken oder andere klassische Fähigkeiten, die vielen Entwicklungsprozessen zugrunde liegen, sind nebensächlich. Entwickelt wurde der INTIA-Koffer interdisziplinär und mit Teilnehmer:innen mit unterschiedlichen Förderbedarfen. Der Koffer ist für jeden gemacht.
+Interdisziplinär entwickelt und mit Teilnehmer:innen aus unterschiedlichsten Förderbedarfen. 
 
   <div class="clear"></div>
   </div>
@@ -63,7 +63,7 @@ Man muss keine Fachperson sein. Fähigkeiten wie Programmieren, Handwerken oder 
 
 ## Mobil
 
-Der INTIA-Koffer ist mobil. Er kann also überall hin mitgenommen werden.
+Überall hin mitnehmbar und sofort einsatzbereit.
 
   <div class="clear"></div>
   </div>
@@ -77,7 +77,7 @@ Der INTIA-Koffer ist mobil. Er kann also überall hin mitgenommen werden.
 
 ## Offen
 
-Der INTIA-Koffer und die dazugehörigen Elemente wurden auf Grundlage des Open Source-Prinzips entwickelt. Alle Eigenentwicklungen stehen frei zur Verfügung. Jeder ist eingeladen, mit zu entwickeln. Der INTIA-Koffer ist ein lebendiges Produkt, das jeder weiterentwickeln und verändern darf. 
+Der INTIA-Koffer ist ein lebendiges Produkt, das jeder weiterentwickeln und verändern darf. 
 
   <div class="clear"></div>
   </div>
@@ -91,7 +91,7 @@ Der INTIA-Koffer und die dazugehörigen Elemente wurden auf Grundlage des Open S
 
 ## Kostengünstig
 
-Was bringt die schönste Entwicklung, wenn sie für die meisten Menschen nicht bezahlbar ist? Der INTIA-Koffer wurde so zusammengestellt, dass er möglichst bezahlbar für die meisten ist. Die Elemente des Koffers haben alle ihren Zweck. Trotzdem kann der Koffer an die eigenen Bedürfnisse angepasst werden.  
+So zusammengestellt dass er möglichst bezahlbar ist und jeder Baustein seinen Zweck hat. 
 
   <div class="clear"></div>                          
   </div>
@@ -105,8 +105,7 @@ Was bringt die schönste Entwicklung, wenn sie für die meisten Menschen nicht b
 
 ## Modular
 
-Bei der Zusammenstellung und Entwicklung wurde darauf geachtet, dass Elemente austauschbar sind und der INTIA-Koffer erweiterbar ist. Somit kann der INTIA-Koffer sehr individell angepasst werden. Auch Elemente, die bisher nicht Teil des INTIA-Koffers sind, können selbständig hinzugefügt werden.
-
+Der INTIA-Koffer ist erweiterbar und alle Bausteine sind austauschbar.
   <div class="clear"></div>                          
   </div>
   </div>
