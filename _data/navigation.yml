@@ -13,7 +13,7 @@
     - name: Über
       link: /intia-case/
     - name: Kaufen
-      link: /buy/
+      link: /intia-case/buy/
 - name: Werkzeuge
   dropdown:
     - name: Bausteine
