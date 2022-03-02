@@ -295,13 +295,7 @@ Der KF-Holzkoffer bietet einen schönen Holzkoffer im schlichten Design. Er wirk
   <figcaption>Beispielkoffer aus Aluminium.</figcaption>
 </figure>
 
-https://www.reichelt.de/koffer-fuer-messgeraete-350-x-120-x-500-mm-peaktech-7270-p141222.html?&trstct=pos_1&nbc=1
 
-- 350 x 120 x 500 mm
-- Aluminium
-- Innenfutter (Schaumstoff)
-- abschließbar
-- 29,95 EUR
 
 Der Peaktech ist ein großer und stabiler Koffer. Er wirkt hochwertig und gewährleistet durch sein mitgeliefertes Polstermaterial Sicherheit - auch vor größeren Stürzen. Spritzwasser scheint kein Problem zu sein, allerdings sollte er nicht als wasserdicht betrachtet werden. Die Polsterung ist zwar nur eine Schicht, dennoch kann mit einigen Tricks auch hier schichtweise gearbeitet werden. Beispielsweise könnten Türkontakte oder Knöpfe zwei bis drei mal übereinander gestapelt werden.
 
@@ -329,7 +323,36 @@ Auf Grund des Preis-Leistungs-Verhältnisses bietet diese Variante das größte 
 </div>
 </div>
 
-# Plastik
+### Eigenschaften
+
+<table class="tb">
+    <tr>
+        <th>Link</th>
+        <td>https://www.reichelt.de/koffer-fuer-messgeraete-350-x-120-x-500-mm-peaktech-7270-p141222.html?&trstct=pos_1&nbc=1</td>
+    </tr>
+    <tr>
+        <th>Material</th>
+        <td>Aluminium</td>
+    </tr>
+    <tr>
+        <th>Maße</th>
+        <td>35 X 12 X 50 cm</td>
+    </tr>
+    <tr>
+        <th>Preis</th>
+        <td>29,95 EUR</td>
+    </tr>
+    <tr>
+        <th>Innefutter</th>
+        <td>JA</td>
+    </tr>
+    <tr>
+        <th>Anmerkungen</th>
+        <td>Abschließbar</td>
+    </tr>
+</table>
+
+# Kunststoff
 
 ## MAX 505S
 
@@ -346,14 +369,6 @@ Auf Grund des Preis-Leistungs-Verhältnisses bietet diese Variante das größte 
 </div>
 </div>
 
-https://www.reichelt.de/koffer-wasserdicht-polypropylen-555x211x428-mm-max-505s-p127556.html
-
-- 555 x 211 x 428 mm (Innenmaße: 500 x 350 x H 194 mm)
-- extrem stabile Polypropylen-Copolymer
-- wasserdicht, staubdicht, IP 67 zertifiziert
-- vorgestanzter Schaumstoff "Pick & Plug"
-- 79,58 €
-
 Der Max ist immens groß. Für einen Großteil der Usecases ist dieser viel zu schwer, zu groß und er bietet etwas zu viel Fassungsvermögen. Allerdings bedeutet das nicht, dass er gänzlich ungeeignet ist. Dieser Koffer ist wasserdicht und besitzt eine doppelte Schicht an Polsterung.
 
 Durch sein großes Fassungsvermögen bietet sich dieser Koffer für die platzintensivere Wireless-Variante des Koffers an. Dies unterschreibt auch die Wetterfestigkeit des Max. Zusätzlich können hier auch problemlos Maxi-Ausstattungen verpackt werden, wodurch auch die Arbeit mit fortgeschrittenen oder größeren Gruppen kein Problem ist.
@@ -361,3 +376,33 @@ Durch sein großes Fassungsvermögen bietet sich dieser Koffer für die platzint
 Des Weiteren kann dieser Koffer die richtige Variante sein, um den INTIA-Koffer zu präsentieren. Auf Grund der Beschaffenheit des Koffers ist er auch für größere Reisen geeignet. Außerdem könnte der Fokus des Koffer-Inhalts auf repräsentative Elemente gelegt werden - wie beispielsweise Prototypen. So wäre dieser Koffer beinahe ideal als Begleiter auf Tagungen und für andere Präsentationen. Nur Rollen würden den Transport noch komfortabler gestalten.
 
 Der vergleichsweise hohe Preis und das wirklich nicht besonders ansprechende Design lassen diesen Koffer eher für Anwendungen zurück, bei denen die Größe und die Robustheit besonders im Vordergrund stehen.
+
+
+### Eigenschaften
+
+<table class="tb">
+    <tr>
+        <th>Link</th>
+        <td>https://www.reichelt.de/koffer-wasserdicht-polypropylen-555x211x428-mm-max-505s-p127556.html</td>
+    </tr>
+    <tr>
+        <th>Material</th>
+        <td>Kunststoff</td>
+    </tr>
+    <tr>
+        <th>Maße</th>
+        <td>56 X 21 X 43 cm</td>
+    </tr>
+    <tr>
+        <th>Preis</th>
+        <td>79,58 EUR</td>
+    </tr>
+    <tr>
+        <th>Innefutter</th>
+        <td>JA</td>
+    </tr>
+    <tr>
+        <th>Anmerkungen</th>
+        <td>Extrem stabile Polypropylen-Copolymer. Wasserdicht, staubdicht, IP 67 zertifiziert</td>
+    </tr>
+</table>
