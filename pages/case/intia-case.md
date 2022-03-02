@@ -11,6 +11,16 @@ subtitle: |
 
 Der INTIA-Koffer ist eine Art Werkzeugkoffer. Er besteht aus verschiedenen analogen und digitalen Elementen. Man könnte den INTIA-Koffer auch als kreative Box bezeichnen. Der INTIA-Koffer ist für alle Menschen gedacht. Er soll dabei helfen, Ideen und Lösungen für den eigenen Alltag zu entwickeln. Es handelt sich bei dem INTIA-Koffer um eine Möglichkeit, Personen niederschwellig an moderne Technologien heranzuführen.
 
+# TODO: Der INTIA-Koffer
+
+Der INTIA-Koffer beinhaltet umfangreiche Anleitungen und eine Methodensammlung. Diese können für eine schnelle, selbstständige Einarbeitung oder für Veranstaltungen sofort genutzt werden.
+
+Außerdem befindet sich im INTIA-Koffer ein grundlegende Sammlung an Technik-Bausteinen. Die Auswahl ist dabei so getroffen worden, dass mit möglichst wenigen Bausteinen eine gute Nutzung möglich ist. Dies fördert die Zugänglichkeit und vermeidet, dass zusätzliche Hardware gebraucht wird. Genau diese Eigenschaft ist typisch für die meisten edukativen Hardware-Sets. Die Priorität liegt hier auf jenen Technik-Elementen, die unerlässlich sind. Ein besonderes Augenmerk liegt auf der Qualität, nicht auf der Quantität der Bausteine.
+
+Zu Beginn der Entwicklung war es das Ziel, einen kleinen und einen großen INTIA-Koffer zu entwickeln. Im Verlauf zeigte sich aber, dass dieser Ansatz nicht zu der Zielsetzung des Koffers passt. Inzwischen steht ein INTIA-Koffer und dessen Erweiterbarkeit im Fokus.
+
+Was macht den INTIA-Koffer und dass man ihn erweitern kann besser? Durch die Modularität kann jeder INTIA-Koffer in einfachen Schritten zu einem personalisierten Koffer werden. Diese Individualität steht im Einklang mit den Zielen des INTIA-Koffers. Damit Interessierte aber nicht selbstständig jedes einzelne Element aussuchen und ausprobieren müssen, sind hier Erweiterungen für den INTIA-Koffer angeführt.
+
 <a href='#modular' class='button highlighter-column-button is-rounded is-dark'>
       <span>Zum INTIA-Koffer</span>
       <span class='icon is-small'>
@@ -42,16 +52,6 @@ Der INTIA-Koffer ist eine Art Werkzeugkoffer. Er besteht aus verschiedenen analo
 Die Ideen des INTIA-Koffers sind vielseitig: Er kann partizipativ Probleme im Alltag aufdecken und Ideen entwickeln, wie man diese Probleme lösen kann. Am Ende kann diese Idee umgesetzt werden. Die Idee eines Koffers hatten schon viele vorher. Es gibt aber einige Besonderheiten des INTIA-Koffers:
 
 {% include callouts.html data="principles-callout" %}
-
-# Der INTIA-Koffer
-
-Der INTIA-Koffer beinhaltet umfangreiche Anleitungen und eine Methodensammlung. Diese können für eine schnelle, selbstständige Einarbeitung oder für Veranstaltungen sofort genutzt werden.
-
-Außerdem befindet sich im INTIA-Koffer ein grundlegende Sammlung an Technik-Bausteinen. Die Auswahl ist dabei so getroffen worden, dass mit möglichst wenigen Bausteinen eine gute Nutzung möglich ist. Dies fördert die Zugänglichkeit und vermeidet, dass zusätzliche Hardware gebraucht wird. Genau diese Eigenschaft ist typisch für die meisten edukativen Hardware-Sets. Die Priorität liegt hier auf jenen Technik-Elementen, die unerlässlich sind. Ein besonderes Augenmerk liegt auf der Qualität, nicht auf der Quantität der Bausteine.
-
-Zu Beginn der Entwicklung war es das Ziel, einen kleinen und einen großen INTIA-Koffer zu entwickeln. Im Verlauf zeigte sich aber, dass dieser Ansatz nicht zu der Zielsetzung des Koffers passt. Inzwischen steht ein INTIA-Koffer und dessen Erweiterbarkeit im Fokus.
-
-Was macht den INTIA-Koffer und dass man ihn erweitern kann besser? Durch die Modularität kann jeder INTIA-Koffer in einfachen Schritten zu einem personalisierten Koffer werden. Diese Individualität steht im Einklang mit den Zielen des INTIA-Koffers. Damit Interessierte aber nicht selbstständig jedes einzelne Element aussuchen und ausprobieren müssen, sind hier Erweiterungen für den INTIA-Koffer angeführt.
 
 {% include highlighter.html min-height25p=false content="
 
