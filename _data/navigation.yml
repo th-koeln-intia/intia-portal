@@ -8,18 +8,18 @@
       link: /network/
     - name: Barrierearm
       link: /accessibility/
-- name: Werkzeuge
+- name: INTIA-Koffer
   dropdown:
     - name: INTIA-Koffer
       link: /intia-case/
+    - name: Kaufen
+      link: /buy/
+- name: Werkzeuge
+  dropdown:
     - name: Bausteine
       link: /building_blocks/
     - name: Methoden
       link: /methods/
-    - name: Anleitungen
-      link: /instructions/
-    - name: Nutzen
-      link: /use/
 #- name: Lösungen
 #  dropdown:
 #    - name: Lösungen
@@ -30,6 +30,8 @@
       link: /glossary/
     - name: Veröffentlichungen
       link: /publications/
+    - name: Anleitungen
+      link: /instructions/
 - name: Aktuelles
   dropdown:
     - name: Neuigkeiten

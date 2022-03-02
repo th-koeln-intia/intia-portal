@@ -1,8 +1,8 @@
 ---
-title: Nutzen
-title_above: WERKZEUGE
+title: Kaufen
+title_above: INTIA-KOFFER
 hero_tags: subpage
-permalink: /use/
+permalink: /buy/
 subtitle: |
   Wie kommt man an einen INTIA-Koffer und wie stellt man diesen
   Zusammen? Diese Fragen werden auf dieser Seite beantwortet.

@@ -1,7 +1,8 @@
 ---
 hero_tags: subpage pdf
-title_above: WERKZEUGE
+title_above: WISSEN
 title: Anleitung Mini-Computer installieren
+permalink: /instructions/installation
 hero_image: /assets/img/uploads/dsc_0060.jpg
 preview_image: /assets/img/uploads/dsc_0060.jpg
 subtitle: sdfv

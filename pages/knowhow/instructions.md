@@ -1,6 +1,6 @@
 ---
 title: Anleitungen
-title_above: WERKZEUGE
+title_above: WISSEN
 hero_tags: subpage
 permalink: /instructions/
 subtitle: |
@@ -13,14 +13,14 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 ## Erstellen und einrichten des Koffers
 
-<a href='#' class='button is-dark is-rounded'>
+<a href='/instructions/first_use' class='button is-dark is-rounded'>
       <span>Anleitung der Erstinbetriebnahme des INTIA-Koffers</span>
       <span class='icon is-small'>
         <i class='fas fa-chevron-right fa-xs'></i>
       </span>
 </a>
 
-<a href='#' class='button is-dark is-rounded'>
+<a href='/instructions/installation' class='button is-dark is-rounded'>
       <span>Anleitung Mini-Computer installieren</span>
       <span class='icon is-small'>
         <i class='fas fa-chevron-right fa-xs'></i>

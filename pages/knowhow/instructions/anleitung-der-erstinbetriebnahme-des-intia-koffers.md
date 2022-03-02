@@ -1,7 +1,8 @@
 ---
 hero_tags: subpage pdf
-title_above: WERKZEUGE
+title_above: WISSEN
 title: Anleitung der Erstinbetriebnahme des INTIA-Koffers
+permalink: /instructions/first_use
 hero_image: /assets/img/uploads/neuigkeit-koffertermin-piksl-1.jpg
 preview_image: /assets/img/uploads/neuigkeit-koffertermin-piksl-1.jpg
 ---
