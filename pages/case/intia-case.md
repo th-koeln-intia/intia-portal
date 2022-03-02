@@ -19,8 +19,8 @@ Außerdem befindet sich im INTIA-Koffer eine grundlegende Sammlung an Technik-Ba
 
 Dank seiner Modularität kann jeder Mensch den INTIA-Koffer in einfachen Schritten zu einem personalisierten Koffer machen. Diese Individualität steht im Einklang mit den Zielen des INTIA-Koffers. Damit Interessierte aber nicht selbstständig jedes einzelne Element aussuchen und ausprobieren müssen, sind hier Erweiterungen für den INTIA-Koffer angeführt.
 
-<a href='#modular' class='button highlighter-column-button is-rounded is-dark'>
-      <span>Zum INTIA-Koffer</span>
+<a href='/intia-case/buy/' class='button highlighter-column-button is-rounded is-dark'>
+      <span>INTIA-Koffer Kaufen</span>
       <span class='icon is-small'>
         <i class='fas fa-chevron-right fa-xs'></i>
       </span>
@@ -50,6 +50,74 @@ Dank seiner Modularität kann jeder Mensch den INTIA-Koffer in einfachen Schritt
 Die Ideen des INTIA-Koffers sind vielseitig: Er kann partizipativ Probleme im Alltag aufdecken und Ideen entwickeln, wie man diese Probleme lösen kann. Am Ende kann diese Idee umgesetzt werden. Die Idee eines Koffers hatten schon viele vorher. Es gibt aber einige Besonderheiten des INTIA-Koffers:
 
 {% include callouts.html data="principles-callout" %}
+
+# Was steckt im INTIA-Koffer?
+
+Hier sind alle Elemente aufgelistet, die in den INTIA-Koffer gehören.
+
+## Anleitungen und Lehrmaterial
+
+- Inhaltsliste
+- Begrüßungs-Schreiben
+- Anleitung für einen vollständigen Kreativprozess
+- Einführung mit dem Escape Game
+- “Wie entwickle ich mein eigenes Escape Game”
+- Node-Red Cheat-Sheat
+- Node-Red Einführungen
+- Lehrmaterial zum Erlernen des Umgangs mit der Technik
+
+## Methoden
+
+- INTIA-Methodensammlung
+- INTIA-Nerv-Tagebuch-Block
+- INTIA-Impulskarten-Sets (Alltags-Karten + Bedürfnis-Karten)
+
+## Technik
+
+### Mini-Computer
+
+- Raspberry Pi
+- SD-Karte
+- Zigbee Stick
+- Display
+- Netzteil
+
+### Kommerzielle Bausteine
+
+- smarte Lampe
+- Knopf - komplex
+- Knöpfe - einfach
+- Türkontakt
+- smarte Steckdose
+- Temperatursensor
+- Erschütterungssensor
+- Bewegungssensor
+
+### INTIA-Bausteine
+
+- verschließbare Kiste
+- Keypad
+
+### Zubehör
+
+- Mehrfach-USB-Netzteil
+- Rasberry Pi Netzteil
+- Lampenfassung
+
+{% include highlighter.html min-height25p=false button_old="Mehr zum analogen Koffer" image="/assets/img/intia-case/intia_methodensammlung.jpg" content="
+
+## INTIA-Methodensammlung
+
+Dich interessieren die Methoden? Dann schau Dir die INTIA-Methodensammlung an! Bald gibt es einen eigenen Bereich für deren Anleitungen und Materialien. Die INTIA-Methodensammlung ist besonders geeignet für Einrichtungen, die bereits über Hardware verfügen oder sich selbst ausstatten.
+
+"%}
+{% include highlighter.html min-height25p=false button_old="Mehr zum INTIA Labor Koffer" image="/assets/img/intia-case/intia_labor.jpg" content="
+
+## INTIA-Koffer als Laborraum
+
+Das Vorgehen und die Technik hinter dem INTIA-Koffer muss nicht zwingend als mobile Lösung genutzt werden. Eine Integration in einem MakerSpace, Kreativ-Raum oder anderen Räumlichkeiten hat seine eigenen Vorteile. Mit dem INTIA-Koffer und den INTIA-Erweiterungen kann ein ganzer Raum als Laborraum eingerichtet werden. Dort kann stationär mit umfänglichem Material gearbeitet werden.
+
+"%}
 
 {% include highlighter.html min-height25p=false content="
 
@@ -108,19 +176,4 @@ Es gibt bisher folgende INTIA-Erweiterungen:
   -->
 </div>
 </div>
-"%}
-
-{% include highlighter.html min-height25p=false button_old="Mehr zum analogen Koffer" image="/assets/img/intia-case/intia_methodensammlung.jpg" content="
-
-## INTIA-Methodensammlung
-
-Dich interessieren die Methoden? Dann schau Dir die INTIA-Methodensammlung an! Bald gibt es einen eigenen Bereich für deren Anleitungen und Materialien. Die INTIA-Methodensammlung ist besonders geeignet für Einrichtungen, die bereits über Hardware verfügen oder sich selbst ausstatten.
-
-"%}
-{% include highlighter.html min-height25p=false button_old="Mehr zum INTIA Labor Koffer" image="/assets/img/intia-case/intia_labor.jpg" content="
-
-## INTIA-Koffer als Laborraum
-
-Das Vorgehen und die Technik hinter dem INTIA-Koffer muss nicht zwingend als mobile Lösung genutzt werden. Eine Integration in einem MakerSpace, Kreativ-Raum oder anderen Räumlichkeiten hat seine eigenen Vorteile. Mit dem INTIA-Koffer und den INTIA-Erweiterungen kann ein ganzer Raum als Laborraum eingerichtet werden. Dort kann stationär mit umfänglichem Material gearbeitet werden.
-
 "%}
