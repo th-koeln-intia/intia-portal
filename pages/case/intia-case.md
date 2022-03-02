@@ -1,5 +1,5 @@
 ---
-title: INTIA-Koffer
+title: Über den INTIA-Koffer
 title_above: INTIA-KOFFER
 hero_tags: subpage
 permalink: /intia-case/
