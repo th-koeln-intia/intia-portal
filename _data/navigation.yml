@@ -12,8 +12,14 @@
   dropdown:
     - name: INTIA-Koffer
       link: /intia-case/
-#    - name: Methoden
-#      link: /methods/
+    - name: Bausteine
+      link: /building_blocks/
+    - name: Methoden
+      link: /methods/
+    - name: Anleitungen
+      link: /instructions/
+    - name: Nutzen
+      link: /use/
 #- name: Lösungen
 #  dropdown:
 #    - name: Lösungen
