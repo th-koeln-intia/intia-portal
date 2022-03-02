@@ -41,6 +41,8 @@ Der INTIA-Koffer ist eine Art Werkzeugkoffer. Er besteht aus verschiedenen analo
 
 Die Ideen des INTIA-Koffers sind vielseitig: Er kann partizipativ Probleme im Alltag aufdecken und Ideen entwickeln, wie man diese Probleme lösen kann. Am Ende kann diese Idee umgesetzt werden. Die Idee eines Koffers hatten schon viele vorher. Es gibt aber einige Besonderheiten des INTIA-Koffers:
 
+{% include callouts.html data="principles-callout" %}
+
 <div class="columns is-vcentered">
   <div class="column is-3 is-round is-centered is-offset-1">
     <img src="/assets/img/intia-case/intia-case-for-all.png" alt="placeholder" class="">
@@ -77,7 +79,7 @@ Der INTIA-Koffer ist mobil. Er kann also überall hin mitgenommen werden.
 
 ## Offen
 
-Der INTIA-Koffer und die dazugehörigen Elemente wurden auf Grundlage des Open Source-Prinzips entwickelt. Alle Eigenentwicklungen stehen frei zur Verfügung. Jeder ist eingeladen, mit zu entwickeln. Der INTIA-Koffer ist ein lebendiges Produkt, das jeder weiterentwickeln und verändern darf. 
+Der INTIA-Koffer und die dazugehörigen Elemente wurden auf Grundlage des Open Source-Prinzips entwickelt. Alle Eigenentwicklungen stehen frei zur Verfügung. Jeder ist eingeladen, mit zu entwickeln. Der INTIA-Koffer ist ein lebendiges Produkt, das jeder weiterentwickeln und verändern darf.
 
   <div class="clear"></div>
   </div>
@@ -91,7 +93,7 @@ Der INTIA-Koffer und die dazugehörigen Elemente wurden auf Grundlage des Open S
 
 ## Kostengünstig
 
-Was bringt die schönste Entwicklung, wenn sie für die meisten Menschen nicht bezahlbar ist? Der INTIA-Koffer wurde so zusammengestellt, dass er möglichst bezahlbar für die meisten ist. Die Elemente des Koffers haben alle ihren Zweck. Trotzdem kann der Koffer an die eigenen Bedürfnisse angepasst werden.  
+Was bringt die schönste Entwicklung, wenn sie für die meisten Menschen nicht bezahlbar ist? Der INTIA-Koffer wurde so zusammengestellt, dass er möglichst bezahlbar für die meisten ist. Die Elemente des Koffers haben alle ihren Zweck. Trotzdem kann der Koffer an die eigenen Bedürfnisse angepasst werden.
 
   <div class="clear"></div>                          
   </div>
@@ -111,8 +113,6 @@ Bei der Zusammenstellung und Entwicklung wurde darauf geachtet, dass Elemente au
   </div>
   </div>
 
-
-
 # Der INTIA-Koffer
 
 Der INTIA-Koffer beinhaltet umfangreiche Anleitungen und eine Methodensammlung. Diese können für eine schnelle, selbstständige Einarbeitung oder für Veranstaltungen sofort genutzt werden.
@@ -122,7 +122,6 @@ Außerdem befindet sich im INTIA-Koffer ein grundlegende Sammlung an Technik-Bau
 Zu Beginn der Entwicklung war es das Ziel, einen kleinen und einen großen INTIA-Koffer zu entwickeln. Im Verlauf zeigte sich aber, dass dieser Ansatz nicht zu der Zielsetzung des Koffers passt. Inzwischen steht ein INTIA-Koffer und dessen Erweiterbarkeit im Fokus.
 
 Was macht den INTIA-Koffer und dass man ihn erweitern kann besser? Durch die Modularität kann jeder INTIA-Koffer in einfachen Schritten zu einem personalisierten Koffer werden. Diese Individualität steht im Einklang mit den Zielen des INTIA-Koffers. Damit Interessierte aber nicht selbstständig jedes einzelne Element aussuchen und ausprobieren müssen, sind hier Erweiterungen für den INTIA-Koffer angeführt.
-
 
 {% include highlighter.html min-height25p=false content="
 

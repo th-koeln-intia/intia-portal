@@ -1,0 +1,23 @@
+style: is-light
+height: is-medium
+items:
+  - title: Für jeden
+    icon: icon-for-all
+    description: >
+      Entwickelt wurde der INTIA-Koffer interdisziplinär und mit Teilnehmer:innen mit unterschiedlichen Förderbedarfen. Der Koffer ist für jeden gemacht.
+  - title: Mobil
+    icon: icon-mobile
+    description: >
+      Der INTIA-Koffer ist mobil. Er kann also überall hin mitgenommen werden.
+  - title: Offen
+    icon: icon-open
+    description: >
+      Der INTIA-Koffer und die dazugehörigen Elemente wurden auf Grundlage des Open Source-Prinzips entwickelt.
+  - title: Köstengünstig
+    icon: icon-cost
+    description: >
+      Was bringt die schönste Entwicklung, wenn sie für die meisten Menschen nicht bezahlbar ist? Der INTIA-Koffer wurde so zusammengestellt, dass er möglichst bezahlbar für die meisten ist.
+  - title: Modular
+    icon: icon-modular
+    description: >
+      Bei der Zusammenstellung und Entwicklung wurde darauf geachtet, dass Elemente austauschbar sind und der INTIA-Koffer erweiterbar ist.

@@ -1,4 +1,5 @@
 // Custom Icons
+// About Icons
 .icon-handshake:before {
   @extend .custom-icon;
   background: url(/assets/img/icons/handshake.svg) no-repeat;
@@ -18,4 +19,52 @@
 .icon-tools:before {
   @extend .custom-icon;
   background: url(/assets/img/icons/tools.svg) no-repeat;
+}
+
+// Principles Icons
+.callout-icon {
+  display: block;
+  margin-bottom: 3em;
+  width: 100%;
+  float: none;
+}
+.icon-for-all:before {
+  @extend .custom-icon;
+  background: url(/assets/img/intia-case/intia-case-for-all.png) no-repeat;
+  //TODO: Move this in default layout
+  background-size: contain;
+  width: 128px;
+  height: 128px;
+}
+.icon-mobile:before {
+  @extend .custom-icon;
+  background: url(/assets/img/intia-case/intia-case-mobile.png) no-repeat;
+  //TODO: Move this in default layout
+  background-size: contain;
+  width: 128px;
+  height: 128px;
+}
+.icon-open:before {
+  @extend .custom-icon;
+  background: url(/assets/img/intia-case/intia-case-open.png) no-repeat;
+  //TODO: Move this in default layout
+  background-size: contain;
+  width: 128px;
+  height: 128px;
+}
+.icon-cost:before {
+  @extend .custom-icon;
+  background: url(/assets/img/intia-case/intia-case-cost.png) no-repeat;
+  //TODO: Move this in default layout
+  background-size: contain;
+  width: 128px;
+  height: 128px;
+}
+.icon-modular:before {
+  @extend .custom-icon;
+  background: url(/assets/img/intia-case/intia-case-modular.png) no-repeat;
+  //TODO: Move this in default layout
+  background-size: contain;
+  width: 128px;
+  height: 128px;
 }
