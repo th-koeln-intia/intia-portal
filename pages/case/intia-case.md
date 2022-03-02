@@ -19,8 +19,8 @@ Außerdem befindet sich im INTIA-Koffer eine grundlegende Sammlung an Technik-Ba
 
 Dank seiner Modularität kann jeder Mensch den INTIA-Koffer in einfachen Schritten zu einem personalisierten Koffer machen. Diese Individualität steht im Einklang mit den Zielen des INTIA-Koffers. Damit Interessierte aber nicht selbstständig jedes einzelne Element aussuchen und ausprobieren müssen, sind hier Erweiterungen für den INTIA-Koffer angeführt.
 
-<a href='/intia-case/buy/' class='button highlighter-column-button is-rounded is-dark'>
-      <span>INTIA-Koffer Kaufen</span>
+<a href='/intia-case/buy' class='button highlighter-column-button is-rounded is-dark'>
+      <span>INTIA-Koffer kaufen</span>
       <span class='icon is-small'>
         <i class='fas fa-chevron-right fa-xs'></i>
       </span>
