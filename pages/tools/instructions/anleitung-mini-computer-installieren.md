@@ -1,9 +1,7 @@
 ---
-hero_tags: subpage post pdf
-title_above: AKTUELLES
-published: true
+hero_tags: subpage pdf
+title_above: WERKZEUGE
 title: Anleitung Mini-Computer installieren
-author: Dennis Christian Wilk
 hero_image: /assets/img/uploads/dsc_0060.jpg
 preview_image: /assets/img/uploads/dsc_0060.jpg
 subtitle: sdfv

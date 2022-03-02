@@ -1,12 +1,9 @@
 ---
-hero_tags: subpage post pdf
-title_above: AKTUELLES
-published: true
+hero_tags: subpage pdf
+title_above: WERKZEUGE
 title: Anleitung der Erstinbetriebnahme des INTIA-Koffers
-author: Dennis Christian Wilk
 hero_image: /assets/img/uploads/neuigkeit-koffertermin-piksl-1.jpg
 preview_image: /assets/img/uploads/neuigkeit-koffertermin-piksl-1.jpg
-subtitle: <sdvfd
 ---
 <!--StartFragment-->
 
