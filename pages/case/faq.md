@@ -8,6 +8,8 @@ subtitle: |
   Alle Fragen und Antworten auf einen Blick.
 ---
 
+{% include toc.html html=content %}
+
 ## Was kostet der INTIA-Koffer?
 
 <table class="tb">
