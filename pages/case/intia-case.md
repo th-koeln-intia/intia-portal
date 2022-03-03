@@ -7,6 +7,8 @@ subtitle: |
   Der INTIA-Koffer setzt sich aus verschiedenen Bausteinen zusammen, mit welchen Technikideen entwickelt werden können: Smart Home Geräte (z.B. Fernbedienungen), Methoden und ein Technik-Escape-Game. Er lädt dazu ein, Technik spielerisch kennenzulernen und damit eigene Lösungen zu entwickeln. So kannst du dir zum Beispiel individuelle Lösungen für deinen Arbeitsalltag bauen.
 ---
 
+{% include toc.html html=content %}
+
 # Was ist der INTIA-Koffer?
 
 Der INTIA-Koffer ist eine Art Werkzeugkoffer. Er besteht aus verschiedenen analogen und digitalen Elementen. Man könnte den INTIA-Koffer auch als kreative Box bezeichnen. Der INTIA-Koffer ist für alle Menschen gedacht. Er soll dabei helfen, Ideen und Lösungen für den eigenen Alltag zu entwickeln. Es handelt sich bei dem INTIA-Koffer um eine Möglichkeit, Personen niederschwellig an moderne Technologien heranzuführen.
