@@ -18,31 +18,6 @@ Aktuell kann man den INTIA-Koffer noch nicht direkt bekommen. Das wird sich aber
 
 Der INTIA-Koffer kann auch jetzt schon benutzt werden: Ihr könnt euren eigenen Koffer bauen! 
 
-## Die Einkaufliste
-
-Unter nachfolgendem Link werdet ihr zu der Webseite "Mein Online Wunschzettel" weitergeleitet.
-
-Hier findet ihr eine einfache Auflistung:
-
-<a href='https://www.meinonlinewunschzettel.de/?wz=dd67ce857592ad4' class='button highlighter-column-button is-rounded is-dark'>
-      <span>Zur Einkaufsliste auf "Mein Online Wunschzettel"</span>
-      <span class='icon is-small'>
-        <i class='fas fa-chevron-right fa-xs'></i>
-      </span>
-  </a>
-
-### Detailierter Auflistung
-
-Zu beachten ist, dass hier keine Alternativen dargestellt werden und Zusatzkosten wie die von Kabeln, 3D-Druck, Laser-Cuts und das Zusammenbauen einzelner Bausteine nicht abgebildet ist.
-Es gibt manchmal mehrere Alternativen für einen Baustein. Zum Beispiel bei den Lampen. Der nachfogende Download führt zu einer Excel-Tabelle. Diese Excel-Tabelle ermöglicht ein individuelleres Zusammenstellen und lebendige Planung. Wir empfehlen die Nutzung dieser Tabelle aber nur für Erfahrende Personen oder soche, die sich tiefer mit dem Thema beschäftigen möchten.
-
-<a href='https://wiki.th-koeln.de/download/resources/com.atlassian.confluence.extra.officeconnector%3Aviewxls/images/excel-editor-placeholder.png' class='button highlighter-column-button is-rounded is-dark'>
-      <span>Excel-Einkaufsliste herunterladen (TODO!)"</span>
-      <span class='icon is-small'>
-        <i class='fas fa-chevron-right fa-xs'></i>
-      </span>
-  </a>
-
 # Was kostet der INTIA-Koffer?
 
 Und wie viel kostet nun so ein INTIA-Koffer? Die Infos gibt es hier. Die Preise sind eine grobe Schätzung. Dennoch gibt die Tabelle einen Überblick darüber, wie teuer der Koffer und seine Erweiterungen etwa sind.
@@ -72,6 +47,31 @@ Und wie viel kostet nun so ein INTIA-Koffer? Die Infos gibt es hier. Die Preise 
         <td>~ ?</td>
     </tr>
 </table>
+
+## Die Einkaufliste
+
+Unter nachfolgendem Link werdet ihr zu der Webseite "Mein Online Wunschzettel" weitergeleitet.
+
+Hier findet ihr eine einfache Auflistung:
+
+<a href='https://www.meinonlinewunschzettel.de/?wz=dd67ce857592ad4' class='button highlighter-column-button is-rounded is-dark'>
+      <span>Zur Einkaufsliste auf "Mein Online Wunschzettel"</span>
+      <span class='icon is-small'>
+        <i class='fas fa-chevron-right fa-xs'></i>
+      </span>
+  </a>
+
+### Detailierter Auflistung
+
+Zu beachten ist, dass in der einfachen Auflistung keine Alternativen dargestellt werden und Zusatzkosten wie die von Kabeln, 3D-Druck, Laser-Cuts und das Zusammenbauen einzelner Bausteine nicht abgebildet sind.
+Es gibt manchmal mehrere Alternativen für einen Baustein. Zum Beispiel bei den Lampen. Der nachfogende Download führt zu einer Excel-Tabelle. Diese Excel-Tabelle ermöglicht ein individuelleres Zusammenstellen und lebendige Planung. Wir empfehlen die Nutzung dieser Tabelle aber nur für Erfahrende Personen oder soche, die sich tiefer mit dem Thema beschäftigen möchten.
+
+<a href='https://wiki.th-koeln.de/download/resources/com.atlassian.confluence.extra.officeconnector%3Aviewxls/images/excel-editor-placeholder.png' class='button highlighter-column-button is-rounded is-dark'>
+      <span>Excel-Einkaufsliste herunterladen (TODO!)"</span>
+      <span class='icon is-small'>
+        <i class='fas fa-chevron-right fa-xs'></i>
+      </span>
+  </a>
 
 ## Die Einkaufsliste nutzen
 
