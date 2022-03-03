@@ -17,17 +17,3 @@ $dark: #09443e;
 @import "helper";
 @import "icons";
 @import "print";
-
-// Temporarily for tables
-.tb {
-  border-collapse: collapse;
-}
-.tb th,
-.tb td {
-  padding: 5px;
-  border-bottom: solid 1px $primary-dark;
-}
-.tb th {
-  font-weight: bold;
-  padding-right: 2em;
-}
