@@ -42,6 +42,19 @@ subtitle: |
 Der INTIA-Koffer produziert beinahe keine laufenden Kosten. Sollten der Koffer und seine Elemente im dauerhaften Betreib genutzt werden, was gefahrlos möglich ist, ist der Stromverbrauch sehr gering.
 Allerdings können Dinge auch kaputt gehen. Wie teuer ist also das Ersetzen eines kaputten Elements im Koffer? Da die Technik-Bausteine so ausgewählt wurden, dass diese nicht zu teuer werden, ist ein Ersetzen nicht kostspielig. Knöpfe sind meinst nicht teurer als 7-15€, Glühbirnen 15-45€. Im gesamten Entwicklungszeitraum ist allerdings kein Baustein kaputt gegangen, sodass diese Fragen hoffentlich und weitestgehend hypothetisch sein sollten.
 
+<div class="faq">
+<input type="checkbox" id="faq-1">
+<label for="faq-1">
+
+## Gibt es laufende Kosten mit dem INTIA-Koffer?
+
+</label>
+
+Der INTIA-Koffer produziert beinahe keine laufenden Kosten. Sollten der Koffer und seine Elemente im dauerhaften Betreib genutzt werden, was gefahrlos möglich ist, ist der Stromverbrauch sehr gering.
+Allerdings können Dinge auch kaputt gehen. Wie teuer ist also das Ersetzen eines kaputten Elements im Koffer? Da die Technik-Bausteine so ausgewählt wurden, dass diese nicht zu teuer werden, ist ein Ersetzen nicht kostspielig. Knöpfe sind meinst nicht teurer als 7-15€, Glühbirnen 15-45€. Im gesamten Entwicklungszeitraum ist allerdings kein Baustein kaputt gegangen, sodass diese Fragen hoffentlich und weitestgehend hypothetisch sein sollten.
+
+</div>
+
 ## Wie kommt der Preis zustande?
 
 Eines der Kernziele ist, den INTIA-Koffer so günstig wie möglich anzubieten. Denn was bringt die schönste Technik, wenn sie sich niemand leisten kann? Damit Einrichtungen der Sozialen Arbeit den INTIA-Koffer nutzen können, sollte er 350€ nicht überschreiten. Der teuerste Baustein ist der Mini-Computer mit ca. 100€. Dennoch ist es verständlich, wenn der Koffer für den einen oder anderen zu teuer ist. Eine detaillierte Aufschlüsslung mit Preisen und unterschiedlichen Kaufempfehlungen findest du demnächst auf der Einkaufliste. Diese bieten wir nicht nur aus Transparenz-Gründen an. Sondern auch um die Möglichkeit zu bieten, den Koffer selbst zusammen zu stellen. Dadurch kann der Preis nicht nur angepasst werden, sondern jede:r hat die Möglichkeit, den Koffer auf die eigenen Ansprüche und Bedürfnisse zu individualisieren.
