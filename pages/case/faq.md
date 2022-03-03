@@ -2,6 +2,7 @@
 title: Häufig gestellte Fragen
 title_above: INTIA-KOFFER
 hero_tags: subpage
+toc: true
 permalink: /intia-case/faq/
 subtitle: |
   Alle Fragen und Antworten auf einen Blick.
@@ -12,7 +13,6 @@ subtitle: |
 <table class="tb">
     <tr>
         <th>Bezeichnung</th>
-        <th>Beschreibung</th>
         <th>Preis</th>
     </tr>
     <tr>
@@ -87,7 +87,7 @@ Für den INTIA-Koffer ist es wichtig das der Koffer gewisse Anforderungen erfül
 - Wenn der Koffer auch in Außenbereichen genutzt wird sollte das Material gegen Schmutz und Kälte geschützt sein.
 - Wenn der Koffer auch viel auf Reisen ist sollte man viel Wert auf die Halbarkeit legen (z.B. Koffer mit Kantenschoner)
 
-## Holz
+### Holz (KF-Holzkoffer)
 
 <figure>
   <img src="https://www.kf-geschenke.com/Upload/Shop/Articles/208.jpg" alt="Beispielkoffer aus Holz." class="content_image">
@@ -98,8 +98,6 @@ Ein Koffer aus Holz hat einen eigenen "Maker"-Charme. Da Holz und Technik durcha
 Das Material ist leider eher empfindlich. Daher muss man sorgsam damit umgehen.
 
 Für einen Holzkoffer ist der KF-Holzkoffer eine gute Option, der im obigen Bild zusehen ist und nachfolgend näher erklärt wird.
-
-## KF-Holzkoffer
 
 Der KF-Holzkoffer bietet einen schönen Holzkoffer im schlichten Design. Er wirkt robust und gibt eine gewisse Werkstatt Atmosphäre wieder. Das Innenfutter muss extra gekauft und selber eingesetzt werden, was zwar fummelig ist, aber gut machbar. Eine genaue Anleitung findest du bald hier.
 
@@ -115,8 +113,6 @@ Der KF-Holzkoffer bietet einen schönen Holzkoffer im schlichten Design. Er wirk
 </figure>
 </div>
 </div>
-
-### Eigenschaften
 
 <table class="tb">
     <tr>
@@ -145,7 +141,7 @@ Der KF-Holzkoffer bietet einen schönen Holzkoffer im schlichten Design. Er wirk
     </tr>
 </table>
 
-## Aluminium (PEAKTECH 7270)
+### Aluminium (PEAKTECH 7270)
 
 <figure>
   <img src="https://cdn-reichelt.de/bilder/web/xxl_ws/D100/PEAKTECH7270_01.png" alt="Beispielkoffer aus Aluminium." class="content_image">
@@ -177,8 +173,6 @@ Auf Grund des Preis-Leistungs-Verhältnisses bietet diese Variante das größte 
 </figure>
 </div>
 </div>
-
-### Eigenschaften
 
 <table class="tb">
     <tr>
@@ -230,9 +224,6 @@ Durch sein großes Fassungsvermögen bietet sich dieser Koffer für die platzint
 Des Weiteren kann dieser Koffer die richtige Variante sein, um den INTIA-Koffer zu präsentieren. Auf Grund der Beschaffenheit des Koffers ist er auch für größere Reisen geeignet. Außerdem könnte der Fokus des Koffer-Inhalts auf repräsentative Elemente gelegt werden - wie beispielsweise Prototypen. So wäre dieser Koffer beinahe ideal als Begleiter auf Tagungen und für andere Präsentationen. Nur Rollen würden den Transport noch komfortabler gestalten.
 
 Der vergleichsweise hohe Preis und das wirklich nicht besonders ansprechende Design lassen diesen Koffer eher für Anwendungen zurück, bei denen die Größe und die Robustheit besonders im Vordergrund stehen.
-
-
-### Eigenschaften
 
 <table class="tb">
     <tr>
