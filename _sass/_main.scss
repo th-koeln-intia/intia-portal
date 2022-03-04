@@ -25,3 +25,12 @@ $dark: #09443e;
   display: none;
   max-height: none !important;
 }
+.faq input[type="checkbox"]:checked ~ h2 ~ div {
+    display: inherit;
+}
+
+.faq div {
+    display: none;
+    max-height: none !important;
+    padding-left: 30px;
+}

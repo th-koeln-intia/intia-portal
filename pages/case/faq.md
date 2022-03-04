@@ -8,10 +8,15 @@ subtitle: |
   Alle Fragen und Antworten auf einen Blick.
 ---
 
-{% include toc.html html=content %}
+<div class="faq">
+<input type="checkbox" id="faq-1">
+<h2>
+<label for="faq-1">
+Was kostet der INTIA-Koffer?
+</label>
+</h2>
 
-## Was kostet der INTIA-Koffer?
-
+<div>
 <table class="tb">
     <tr>
         <th>Bezeichnung</th>
@@ -38,32 +43,43 @@ subtitle: |
         <td>~65€</td>
     </tr>
 </table>
+</div>
 
-## Gibt es laufende Kosten mit dem INTIA-Koffer?
 
-Der INTIA-Koffer produziert beinahe keine laufenden Kosten. Sollten der Koffer und seine Elemente im dauerhaften Betreib genutzt werden, was gefahrlos möglich ist, ist der Stromverbrauch sehr gering.
-Allerdings können Dinge auch kaputt gehen. Wie teuer ist also das Ersetzen eines kaputten Elements im Koffer? Da die Technik-Bausteine so ausgewählt wurden, dass diese nicht zu teuer werden, ist ein Ersetzen nicht kostspielig. Knöpfe sind meinst nicht teurer als 7-15€, Glühbirnen 15-45€. Im gesamten Entwicklungszeitraum ist allerdings kein Baustein kaputt gegangen, sodass diese Fragen hoffentlich und weitestgehend hypothetisch sein sollten.
+</div>
 
 <div class="faq">
-<input type="checkbox" id="faq-1">
+<input type="checkbox" id="faq-2">
 <h2>
-<label for="faq-1">
+<label for="faq-2">
 Gibt es laufende Kosten mit dem INTIA-Koffer?
 </label>
 </h2>
 
 Der INTIA-Koffer produziert beinahe keine laufenden Kosten. Sollten der Koffer und seine Elemente im dauerhaften Betreib genutzt werden, was gefahrlos möglich ist, ist der Stromverbrauch sehr gering.
 Allerdings können Dinge auch kaputt gehen. Wie teuer ist also das Ersetzen eines kaputten Elements im Koffer? Da die Technik-Bausteine so ausgewählt wurden, dass diese nicht zu teuer werden, ist ein Ersetzen nicht kostspielig. Knöpfe sind meinst nicht teurer als 7-15€, Glühbirnen 15-45€. Im gesamten Entwicklungszeitraum ist allerdings kein Baustein kaputt gegangen, sodass diese Fragen hoffentlich und weitestgehend hypothetisch sein sollten.
-
 </div>
 
-## Wie kommt der Preis zustande?
+<div class="faq">
+<input type="checkbox" id="faq-3">
+<h2>
+<label for="faq-3">
+Wie kommt der Preis zustande?
+</label>
+</h2>
 
 Eines der Kernziele ist, den INTIA-Koffer so günstig wie möglich anzubieten. Denn was bringt die schönste Technik, wenn sie sich niemand leisten kann? Damit Einrichtungen der Sozialen Arbeit den INTIA-Koffer nutzen können, sollte er 350€ nicht überschreiten. Der teuerste Baustein ist der Mini-Computer mit ca. 100€. Dennoch ist es verständlich, wenn der Koffer für den einen oder anderen zu teuer ist. Eine detaillierte Aufschlüsslung mit Preisen und unterschiedlichen Kaufempfehlungen findest du demnächst auf der Einkaufliste. Diese bieten wir nicht nur aus Transparenz-Gründen an. Sondern auch um die Möglichkeit zu bieten, den Koffer selbst zusammen zu stellen. Dadurch kann der Preis nicht nur angepasst werden, sondern jede:r hat die Möglichkeit, den Koffer auf die eigenen Ansprüche und Bedürfnisse zu individualisieren.
 
 Ein abschließender Hinweis: Der INTIA-Koffer wurde so zusammengestellt, dass er für grundlegende Funktionen und Anwendungen geeignet ist. Außerdem wurde das Augenmerk vor allem auf Qualität gelegt, anders als bei anderen Technik-Kits auf dem Markt. Der Koffer enthält nur das, was auch tatsächlich gebraucht wird. Wenn man mehr oder andere Elemente braucht, kann der INTIA-Koffer zusätzlich mit den Erweiterungs-Sets und individuellen Ergänzungen ausgestattet werden. Meldet euch gerne über das Kontaktformular und erzählt von euren Bedürfnissen.
+</div>
 
-## Wie entscheide ich mich?
+<div class="faq">
+<input type="checkbox" id="faq-4">
+<h2>
+<label for="faq-4">
+Wie entscheide ich mich?
+</label>
+</h2>
 
 Mit welchem INTIA Koffer kannst du genau das machen, was du dir vorgestellt hast? Was solltest du bedenken, um dich für deinen Koffer zu entscheiden? Hier stellen wir drei mögliche Szenarien einer Nutzung vor, die häufig als Feedback in unseren Tests auftraten und vielleicht auch deine Fragen vor der Anschaffung beantworten:
 
@@ -78,9 +94,16 @@ Bau deinen eigenen Koffer, der am besten auf deine Bedürfnisse passt! Die Infor
 **C: "Du verfügst über einen festen Ort / ein Labor, wo du vorhandene Ausstattung benutzen kannst oder neue hinzu anschaffen möchtest. Warum also einen beweglichen Koffer nehmen?"**
 
 Der INTIA Koffer ist im Prinzip ein mobiles Alltagslabor und kann fest in einen Raum integriert werden. Seine Elemente wie der Raspberry Pi (Mini-Computer) kann fest ins WLAN einer Einrichtung integriert werden. Die Technik des INTIA Koffers kann mit den vorhandenen Strukturen des Raums dauerhaft verbunden werden. So könntest du z.B. die Decken-Lampe über den INTIA Koffer steuern.
+</div>
 
-## Welchen Koffer kaufe ich für meinen INTIA-Koffer?
-
+<div class="faq">
+<input type="checkbox" id="faq-5">
+<h2>
+<label for="faq-5">
+Welchen Koffer kaufe ich für meinen INTIA-Koffer?
+</label>
+</h2>
+<div>
 Es gibt viele verschiedene Arten von Koffern. Sie unterscheiden sich in der Größe, der Form und vorallem dem Material. Diese Unterschiede bringen Vor- und Nachteile mit sich. Hierbei muss man insbesondere Berücksichtigen das die Verpackung des INTIA-Koffers als erstes Betrachtet, wie auch genutzt wird. Eine Sorgfältige Auswahl ist deshalb zu empfehlen.
 Wer einen Koffer kaufen will, muss sich fragen:
 
@@ -91,7 +114,7 @@ Wer einen Koffer kaufen will, muss sich fragen:
 
 Hier werden neben den Anforderungen für den INTIA-Koffer drei unterschiedliche Koffer vorgestellt.
 
-## Anforderungen
+### Anforderungen
 
 Für den INTIA-Koffer ist es wichtig das der Koffer gewisse Anforderungen erfüllt:
 
@@ -215,7 +238,7 @@ Auf Grund des Preis-Leistungs-Verhältnisses bietet diese Variante das größte 
     </tr>
 </table>
 
-## Kunststoff (MAX 505S)
+### Kunststoff (MAX 505S)
 
 <div class="columns is-centered is-desktop">
 <div class="column is-offset-1">
@@ -264,3 +287,5 @@ Der vergleichsweise hohe Preis und das wirklich nicht besonders ansprechende Des
         <td>Extrem stabile Polypropylen-Copolymer. Wasserdicht, staubdicht, IP 67 zertifiziert</td>
     </tr>
 </table>
+</div>
+</div>
