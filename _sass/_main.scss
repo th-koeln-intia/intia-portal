@@ -17,3 +17,11 @@ $dark: #09443e;
 @import "helper";
 @import "icons";
 @import "print";
+
+.faq input[type="checkbox"]:checked ~ h2 ~ p {
+  display: inherit;
+}
+.faq p {
+  display: none;
+  max-height: none !important;
+}

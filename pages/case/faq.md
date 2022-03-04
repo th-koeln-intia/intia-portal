@@ -46,11 +46,11 @@ Allerdings können Dinge auch kaputt gehen. Wie teuer ist also das Ersetzen eine
 
 <div class="faq">
 <input type="checkbox" id="faq-1">
+<h2>
 <label for="faq-1">
-
-## Gibt es laufende Kosten mit dem INTIA-Koffer?
-
+Gibt es laufende Kosten mit dem INTIA-Koffer?
 </label>
+</h2>
 
 Der INTIA-Koffer produziert beinahe keine laufenden Kosten. Sollten der Koffer und seine Elemente im dauerhaften Betreib genutzt werden, was gefahrlos möglich ist, ist der Stromverbrauch sehr gering.
 Allerdings können Dinge auch kaputt gehen. Wie teuer ist also das Ersetzen eines kaputten Elements im Koffer? Da die Technik-Bausteine so ausgewählt wurden, dass diese nicht zu teuer werden, ist ein Ersetzen nicht kostspielig. Knöpfe sind meinst nicht teurer als 7-15€, Glühbirnen 15-45€. Im gesamten Entwicklungszeitraum ist allerdings kein Baustein kaputt gegangen, sodass diese Fragen hoffentlich und weitestgehend hypothetisch sein sollten.
@@ -73,12 +73,11 @@ Es ist am einfachsten einfach unserer Kaufempfehlung zu folgen. Er bietet ein g
 
 **B: "Du bist bereits Technik erfahrener und hast einen gute Vorstellung was du braucht. Eventuell hast du bereits mit anderen Technik-Sets gearbeitet"**
 
-Bau deinen eigenen Koffer, der am besten auf deine Bedürfnisse passt! Die Informationen zum INTIA Koffer können dabei als Inspiration helfen, die ideale Technik auszuwählen und sie miteinander zu kombinieren. Unsere Einkaufsliste ist so aufgebaut das du einfach Elemente ändern kannst. Später folgt hier ein Link zur Einkaufsliste. 
+Bau deinen eigenen Koffer, der am besten auf deine Bedürfnisse passt! Die Informationen zum INTIA Koffer können dabei als Inspiration helfen, die ideale Technik auszuwählen und sie miteinander zu kombinieren. Unsere Einkaufsliste ist so aufgebaut das du einfach Elemente ändern kannst. Später folgt hier ein Link zur Einkaufsliste.
 
 **C: "Du verfügst über einen festen Ort / ein Labor, wo du vorhandene Ausstattung benutzen kannst oder neue hinzu anschaffen möchtest. Warum also einen beweglichen Koffer nehmen?"**
 
 Der INTIA Koffer ist im Prinzip ein mobiles Alltagslabor und kann fest in einen Raum integriert werden. Seine Elemente wie der Raspberry Pi (Mini-Computer) kann fest ins WLAN einer Einrichtung integriert werden. Die Technik des INTIA Koffers kann mit den vorhandenen Strukturen des Raums dauerhaft verbunden werden. So könntest du z.B. die Decken-Lampe über den INTIA Koffer steuern.
-
 
 ## Welchen Koffer kaufe ich für meinen INTIA-Koffer?
 
@@ -215,7 +214,6 @@ Auf Grund des Preis-Leistungs-Verhältnisses bietet diese Variante das größte 
         <td>Abschließbar</td>
     </tr>
 </table>
-
 
 ## Kunststoff (MAX 505S)
 
