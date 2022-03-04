@@ -21,16 +21,21 @@ $dark: #09443e;
 .faq input[type="checkbox"]:checked ~ h2 ~ p {
   display: inherit;
 }
+
+.faq h2 {
+    padding-top: 40px;
+}
 .faq p {
   display: none;
   max-height: none !important;
 }
-.faq input[type="checkbox"]:checked ~ h2 ~ div {
+.faq input[type="checkbox"]:checked ~ h2 ~ div.faq-hide {
     display: inherit;
 }
 
-.faq div {
+.faq div.faq-hide {
     display: none;
     max-height: none !important;
     padding-left: 30px;
+    padding-bottom: 50px;
 }

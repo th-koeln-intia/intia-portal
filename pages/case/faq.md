@@ -16,7 +16,7 @@ Was kostet der INTIA-Koffer?
 </label>
 </h2>
 
-<div>
+<div class="faq-hide">
 <table class="tb">
     <tr>
         <th>Bezeichnung</th>
@@ -103,7 +103,7 @@ Der INTIA Koffer ist im Prinzip ein mobiles Alltagslabor und kann fest in einen 
 Welchen Koffer kaufe ich für meinen INTIA-Koffer?
 </label>
 </h2>
-<div>
+<div class="faq-hide">
 Es gibt viele verschiedene Arten von Koffern. Sie unterscheiden sich in der Größe, der Form und vorallem dem Material. Diese Unterschiede bringen Vor- und Nachteile mit sich. Hierbei muss man insbesondere Berücksichtigen das die Verpackung des INTIA-Koffers als erstes Betrachtet, wie auch genutzt wird. Eine Sorgfältige Auswahl ist deshalb zu empfehlen.
 Wer einen Koffer kaufen will, muss sich fragen:
 
