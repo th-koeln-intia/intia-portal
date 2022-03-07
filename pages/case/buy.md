@@ -30,21 +30,24 @@ Und wie viel kostet nun so ein INTIA-Koffer? Die Infos gibt es hier. Die Preise 
     </tr>
     <tr>
         <td>INTIA-Koffer</td>
-        <td>Der Mini-Computer, eine Auswahl einfacher Bausteine und alle analogen Materialien. <br /> 
-            Masse: 25 X 17 X 7 cm <br />
+        <td>Der Mini-Computer, eine Auswahl einfacher Bausteine und alle analogen Materialien.<br /> 
+            Masse: 25 X 17 X 7 cm<br />
             Gewicht: 2,3 kg</td>
         <td>~350€</td>
     </tr>
     <tr>
         <td>INTIA-Erweiterung: Knopf-Set</td>
+        <td>Eine Auswahl verschiedener Knöpfe, Schalter und Fernbedienungen.<td>
         <td>~100€</td>
     </tr>
     <tr>
         <td>INTIA-Erweiterung: Sensor-Set</td>
+        <td>Eine Auswahl verschiedener Sensoren. Bewegungsmelder, Türkontakte, Temperatursensoren und mehr. <td>
         <td>~125€</td>
     </tr>
     <tr>
         <td>INTIA-Erweiterung: Sprachassistenz-Set</td>
+        <td>Der Mini-Computer kann hiermit zu einem Sprachassistenten umgerüstet werden.<td>  
         <td>~65€</td>
     </tr>
     <tr>
@@ -54,7 +57,7 @@ Und wie viel kostet nun so ein INTIA-Koffer? Die Infos gibt es hier. Die Preise 
     </tr>
     <tr>
         <td>INTIA als Laborraum ausstatten</td>
-        <td>Alles aus dem INTIA-Baukasten und der INTIA-Methodensammlung, um einen Raum als Laborraum auszustatten. Der Umfang und der Preis hängen davon ab, was du brauchst oder möchtest.</td>
+        <td>Alles aus dem INTIA-Baukasten und der INTIA-Methodensammlung, um einen Raum als Laborraum auszustatten. Der Umfang und der Preis hängen davon ab, was du             brauchst oder möchtest.</td>
         <td>~ ?</td>
     </tr>
 </table>
