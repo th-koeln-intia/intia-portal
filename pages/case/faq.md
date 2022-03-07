@@ -41,7 +41,8 @@ Was kostet der INTIA-Koffer?
     <tr>
         <td>INTIA-Methodensammlung</td>
         <td>~65€</td>
-      
+    </tr>
+    <tr>
         <td>INTIA als Laborraum ausstatten</td>
         <td>~ ?</td>
     </tr>
