@@ -9,6 +9,29 @@ subtitle: |
 ---
 
 <div class="faq">
+<input type="checkbox" id="faq-4">
+<h2>
+<label for="faq-4">
+Wie entscheide ich mich?
+</label>
+</h2>
+
+Mit welchem INTIA Koffer kannst du genau das machen, was du dir vorgestellt hast? Was solltest du bedenken, um dich für deinen Koffer zu entscheiden? Hier stellen wir drei mögliche Szenarien einer Nutzung vor, die häufig als Feedback in unseren Tests auftraten und vielleicht auch deine Fragen vor der Anschaffung beantworten:
+
+**A: "Du hast noch keine Erfahrung, möchtest aber gerne etwas Neues ausprobieren."**
+
+Es ist am einfachsten einfach unserer Kaufempfehlung zu folgen. Er bietet ein gutes Fundament für den Einstieg und gleichzeitig ist er sehr flexibel. Natürlich kann der Koffer auch später erweitert und geändert werden.
+
+**B: "Du bist bereits Technik erfahrener und hast einen gute Vorstellung was du braucht. Eventuell hast du bereits mit anderen Technik-Sets gearbeitet"**
+
+Bau deinen eigenen Koffer, der am besten auf deine Bedürfnisse passt! Die Informationen zum INTIA Koffer können dabei als Inspiration helfen, die ideale Technik auszuwählen und sie miteinander zu kombinieren. Unsere Einkaufsliste ist so aufgebaut das du einfach Elemente ändern kannst. Später folgt hier ein Link zur Einkaufsliste.
+
+**C: "Du verfügst über einen festen Ort / ein Labor, wo du vorhandene Ausstattung benutzen kannst oder neue hinzu anschaffen möchtest. Warum also einen beweglichen Koffer nehmen?"**
+
+Der INTIA Koffer ist im Prinzip ein mobiles Alltagslabor und kann fest in einen Raum integriert werden. Seine Elemente wie der Raspberry Pi (Mini-Computer) kann fest ins WLAN einer Einrichtung integriert werden. Die Technik des INTIA Koffers kann mit den vorhandenen Strukturen des Raums dauerhaft verbunden werden. So könntest du z.B. die Decken-Lampe über den INTIA Koffer steuern.
+</div>
+
+<div class="faq">
 <input type="checkbox" id="faq-1">
 <h2>
 <label for="faq-1">
@@ -77,28 +100,6 @@ Eines der Kernziele ist, den INTIA-Koffer so günstig wie möglich anzubieten. D
 Ein abschließender Hinweis: Der INTIA-Koffer wurde so zusammengestellt, dass er für grundlegende Funktionen und Anwendungen geeignet ist. Außerdem wurde das Augenmerk vor allem auf Qualität gelegt, anders als bei anderen Technik-Kits auf dem Markt. Der INTIA-Koffer enthält nur das, was auch tatsächlich gebraucht wird. Wenn man mehr oder andere Elemente braucht, kann der INTIA-Koffer zusätzlich mit den Erweiterungs-Sets und individuellen Ergänzungen ausgestattet werden. Meldet euch gerne über das Kontaktformular und erzählt von euren Bedürfnissen.
 </div>
 
-<div class="faq">
-<input type="checkbox" id="faq-4">
-<h2>
-<label for="faq-4">
-Wie entscheide ich mich?
-</label>
-</h2>
-
-Mit welchem INTIA Koffer kannst du genau das machen, was du dir vorgestellt hast? Was solltest du bedenken, um dich für deinen Koffer zu entscheiden? Hier stellen wir drei mögliche Szenarien einer Nutzung vor, die häufig als Feedback in unseren Tests auftraten und vielleicht auch deine Fragen vor der Anschaffung beantworten:
-
-**A: "Du hast noch keine Erfahrung, möchtest aber gerne etwas Neues ausprobieren."**
-
-Es ist am einfachsten einfach unserer Kaufempfehlung zu folgen. Er bietet ein gutes Fundament für den Einstieg und gleichzeitig ist er sehr flexibel. Natürlich kann der Koffer auch später erweitert und geändert werden.
-
-**B: "Du bist bereits Technik erfahrener und hast einen gute Vorstellung was du braucht. Eventuell hast du bereits mit anderen Technik-Sets gearbeitet"**
-
-Bau deinen eigenen Koffer, der am besten auf deine Bedürfnisse passt! Die Informationen zum INTIA Koffer können dabei als Inspiration helfen, die ideale Technik auszuwählen und sie miteinander zu kombinieren. Unsere Einkaufsliste ist so aufgebaut das du einfach Elemente ändern kannst. Später folgt hier ein Link zur Einkaufsliste.
-
-**C: "Du verfügst über einen festen Ort / ein Labor, wo du vorhandene Ausstattung benutzen kannst oder neue hinzu anschaffen möchtest. Warum also einen beweglichen Koffer nehmen?"**
-
-Der INTIA Koffer ist im Prinzip ein mobiles Alltagslabor und kann fest in einen Raum integriert werden. Seine Elemente wie der Raspberry Pi (Mini-Computer) kann fest ins WLAN einer Einrichtung integriert werden. Die Technik des INTIA Koffers kann mit den vorhandenen Strukturen des Raums dauerhaft verbunden werden. So könntest du z.B. die Decken-Lampe über den INTIA Koffer steuern.
-</div>
 
 <div class="faq">
 <input type="checkbox" id="faq-5">
@@ -188,13 +189,11 @@ Der KF-Holzkoffer bietet einen schönen Holzkoffer im schlichten Design. Er wirk
   <img src="https://cdn-reichelt.de/bilder/web/xxl_ws/D100/PEAKTECH7270_01.png" alt="Beispielkoffer aus Aluminium." class="content_image">
   <figcaption>Beispielkoffer aus Aluminium.</figcaption>
 </figure>
-
 Der Peaktech ist ein großer und stabiler Koffer. Er wirkt hochwertig und gewährleistet durch sein mitgeliefertes Polstermaterial Sicherheit - auch vor größeren Stürzen. Spritzwasser scheint kein Problem zu sein, allerdings sollte er nicht als wasserdicht betrachtet werden. Die Polsterung ist zwar nur eine Schicht, dennoch kann mit einigen Tricks auch hier schichtweise gearbeitet werden. Beispielsweise könnten Türkontakte oder Knöpfe zwei bis drei mal übereinander gestapelt werden.
 
 Leider wirkt der Koffer nicht sonderlich ansprechend - dem könnte aber mit ein paar Stickern entgegen gewirkt werden. Auch das Gewicht des Koffers ist ebenfalls im Rahmen.
-
+  
 Der Koffer bietet genug Platz für die wichtigsten Elemente. Würde man auf die Smarte-Kiste verzichten, ist sogar eine Variante mit doppeltem Inhalt denkbar.
-
 Auf Grund des Preis-Leistungs-Verhältnisses bietet diese Variante das größte Potenzial.
 
 <div class="columns is-centered is-desktop">
@@ -212,8 +211,7 @@ Auf Grund des Preis-Leistungs-Verhältnisses bietet diese Variante das größte 
 <figure>
   <img src="/assets/img/intia-case/packaging/intia-case-comparison-with-aluminium.jpg" alt="INTIA-Koffer vergleich zwischen Holz und Aluminium." style="height:350px;">
 </figure>
-</div>
-</div>
+
 
 <table class="tb">
     <tr>
@@ -254,9 +252,6 @@ Auf Grund des Preis-Leistungs-Verhältnisses bietet diese Variante das größte 
 <figure>
   <img src="https://cdn-reichelt.de/bilder/web/xxl_ws/D300/MAX_02.png" alt="Koffer aus Kunststoff mit Schaumfüllung." style="height:350px;">
 </figure>
-</div>
-</div>
-
 Der Max ist immens groß. Für einen Großteil der Usecases ist dieser viel zu schwer, zu groß und er bietet etwas zu viel Fassungsvermögen. Allerdings bedeutet das nicht, dass er gänzlich ungeeignet ist. Dieser Koffer ist wasserdicht und besitzt eine doppelte Schicht an Polsterung.
 
 Durch sein großes Fassungsvermögen bietet sich dieser Koffer für die platzintensivere Wireless-Variante des Koffers an. Dies unterschreibt auch die Wetterfestigkeit des Max. Zusätzlich können hier auch problemlos Maxi-Ausstattungen verpackt werden, wodurch auch die Arbeit mit fortgeschrittenen oder größeren Gruppen kein Problem ist.
@@ -291,5 +286,3 @@ Der vergleichsweise hohe Preis und das wirklich nicht besonders ansprechende Des
         <td>Extrem stabile Polypropylen-Copolymer. Wasserdicht, staubdicht, IP 67 zertifiziert</td>
     </tr>
 </table>
-</div>
-</div>
