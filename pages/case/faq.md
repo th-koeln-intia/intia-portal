@@ -25,11 +25,7 @@ Was kostet der INTIA-Koffer?
     <tr>
         <td>INTIA-Koffer</td>
         <td>~350€</td>
-    </tr>
-    <tr>
-        <td>INTIA-Methodensammlung</td>
-        <td>~65€</td>
-    </tr>
+   </tr>
     <tr>
         <td>INTIA-Erweiterung: Knopf-Set</td>
         <td>~100€</td>
@@ -41,6 +37,13 @@ Was kostet der INTIA-Koffer?
     <tr>
         <td>INTIA-Erweiterung: Sprachassistenz-Set</td>
         <td>~65€</td>
+    </tr>
+    <tr>
+        <td>INTIA-Methodensammlung</td>
+        <td>~65€</td>
+      
+        <td>INTIA als Laborraum ausstatten</td>
+        <td>~ ?</td>
     </tr>
 </table>
 </div>
@@ -56,7 +59,7 @@ Gibt es laufende Kosten mit dem INTIA-Koffer?
 </label>
 </h2>
 
-Der INTIA-Koffer produziert beinahe keine laufenden Kosten. Sollten der Koffer und seine Elemente im dauerhaften Betreib genutzt werden, was gefahrlos möglich ist, ist der Stromverbrauch sehr gering.
+Der INTIA-Koffer produziert beinahe keine laufenden Kosten. Sollten der Koffer und seine Elemente im dauerhaften Betreib genutzt werden, ist der Stromverbrauch sehr gering.
 Allerdings können Dinge auch kaputt gehen. Wie teuer ist also das Ersetzen eines kaputten Elements im Koffer? Da die Technik-Bausteine so ausgewählt wurden, dass diese nicht zu teuer werden, ist ein Ersetzen nicht kostspielig. Knöpfe sind meinst nicht teurer als 7-15€, Glühbirnen 15-45€. Im gesamten Entwicklungszeitraum ist allerdings kein Baustein kaputt gegangen, sodass diese Fragen hoffentlich und weitestgehend hypothetisch sein sollten.
 </div>
 
@@ -70,7 +73,7 @@ Wie kommt der Preis zustande?
 
 Eines der Kernziele ist, den INTIA-Koffer so günstig wie möglich anzubieten. Denn was bringt die schönste Technik, wenn sie sich niemand leisten kann? Damit Einrichtungen der Sozialen Arbeit den INTIA-Koffer nutzen können, sollte er 350€ nicht überschreiten. Der teuerste Baustein ist der Mini-Computer mit ca. 100€. Dennoch ist es verständlich, wenn der Koffer für den einen oder anderen zu teuer ist. Eine detaillierte Aufschlüsslung mit Preisen und unterschiedlichen Kaufempfehlungen findest du demnächst auf der Einkaufliste. Diese bieten wir nicht nur aus Transparenz-Gründen an. Sondern auch um die Möglichkeit zu bieten, den Koffer selbst zusammen zu stellen. Dadurch kann der Preis nicht nur angepasst werden, sondern jede:r hat die Möglichkeit, den Koffer auf die eigenen Ansprüche und Bedürfnisse zu individualisieren.
 
-Ein abschließender Hinweis: Der INTIA-Koffer wurde so zusammengestellt, dass er für grundlegende Funktionen und Anwendungen geeignet ist. Außerdem wurde das Augenmerk vor allem auf Qualität gelegt, anders als bei anderen Technik-Kits auf dem Markt. Der Koffer enthält nur das, was auch tatsächlich gebraucht wird. Wenn man mehr oder andere Elemente braucht, kann der INTIA-Koffer zusätzlich mit den Erweiterungs-Sets und individuellen Ergänzungen ausgestattet werden. Meldet euch gerne über das Kontaktformular und erzählt von euren Bedürfnissen.
+Ein abschließender Hinweis: Der INTIA-Koffer wurde so zusammengestellt, dass er für grundlegende Funktionen und Anwendungen geeignet ist. Außerdem wurde das Augenmerk vor allem auf Qualität gelegt, anders als bei anderen Technik-Kits auf dem Markt. Der INTIA-Koffer enthält nur das, was auch tatsächlich gebraucht wird. Wenn man mehr oder andere Elemente braucht, kann der INTIA-Koffer zusätzlich mit den Erweiterungs-Sets und individuellen Ergänzungen ausgestattet werden. Meldet euch gerne über das Kontaktformular und erzählt von euren Bedürfnissen.
 </div>
 
 <div class="faq">
