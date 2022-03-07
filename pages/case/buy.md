@@ -36,6 +36,18 @@ Und wie viel kostet nun so ein INTIA-Koffer? Die Infos gibt es hier. Die Preise 
         <td>~350€</td>
     </tr>
     <tr>
+        <td>INTIA-Erweiterung: Knopf-Set</td>
+        <td>~100€</td>
+    </tr>
+    <tr>
+        <td>INTIA-Erweiterung: Sensor-Set</td>
+        <td>~125€</td>
+    </tr>
+    <tr>
+        <td>INTIA-Erweiterung: Sprachassistenz-Set</td>
+        <td>~65€</td>
+    </tr>
+    <tr>
         <td>INTIA-Methodensammlung</td>
         <td>Alle analogen Materialien im hochwertigen Druck (ohne Bausteine). Ideal für Selbst-Bastler, MakerSpaces, Kreativ-Räume und Innovations-Labore!</td>
         <td>~65€</td>
