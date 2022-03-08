@@ -5,12 +5,12 @@ hero_tags: subpage
 permalink: /intia-case/buy/
 subtitle: |
   Wie kommt man an einen INTIA-Koffer und wie stellt man diesen
-  Zusammen? Diese Fragen werden auf dieser Seite beantwortet.
+  zusammen? Diese Fragen werden auf dieser Seite beantwortet.
 ---
 
 # Wie komme ich an einen INTIA-Koffer?
 
-Der INTIA-Koffer bietet viele Möglichkeiten für Technikentwicklung. Doch wie kann man einen INTIA-Koffer bekomme?
+Der INTIA-Koffer bietet viele Möglichkeiten für Technikentwicklung. Doch wie kann man einen INTIA-Koffer bekommen?
 
 ## Wo gibt es den INTIA-Koffer?
 
