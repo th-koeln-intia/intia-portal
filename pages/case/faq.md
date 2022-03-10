@@ -5,8 +5,7 @@ hero_tags: subpage
 toc: true
 permalink: /intia-case/faq/
 subtitle: |
-  Alle Fragen und Antworten auf einen Blick.
----
+Alle Fragen und Antworten zum INTIA-Koffer findest du hier auf einen Blick.---
 
 <div class="faq">
 <input type="checkbox" id="faq-4">
@@ -16,8 +15,8 @@ Wie entscheide ich mich?
 </label>
 </h2>
 
-Mit welchem INTIA Koffer kannst du genau das machen, was du dir vorgestellt hast? Was solltest du bedenken, um dich für deinen Koffer zu entscheiden? Hier stellen wir drei mögliche Szenarien einer Nutzung vor, die häufig als Feedback in unseren Tests auftraten und vielleicht auch deine Fragen vor der Anschaffung beantworten:
-
+Mit welchem INTIA-Koffer kannst du genau das machen, was du dir vorgestellt hast? Was solltest du bedenken, um dich für deinen Koffer zu entscheiden? Hier stellen wir drei mögliche Szenarien einer Nutzung vor, die häufig als Feedback in unseren Tests auftraten und vielleicht auch deine Fragen vor der Anschaffung beantworten:
+  
 **A: "Du hast noch keine Erfahrung, möchtest aber gerne etwas Neues ausprobieren."**
 
 Es ist am einfachsten einfach unserer Kaufempfehlung zu folgen. Er bietet ein gutes Fundament für den Einstieg und gleichzeitig ist er sehr flexibel. Natürlich kann der Koffer auch später erweitert und geändert werden.
@@ -81,10 +80,7 @@ Was kostet der INTIA-Koffer?
 <label for="faq-2">
 Gibt es laufende Kosten mit dem INTIA-Koffer?
 </label>
-</h2>
-
-Der INTIA-Koffer produziert beinahe keine laufenden Kosten. Sollten der Koffer und seine Elemente im dauerhaften Betreib genutzt werden, ist der Stromverbrauch sehr gering.
-Allerdings können Dinge auch kaputt gehen. Wie teuer ist also das Ersetzen eines kaputten Elements im Koffer? Da die Technik-Bausteine so ausgewählt wurden, dass diese nicht zu teuer werden, ist ein Ersetzen nicht kostspielig. Knöpfe sind meinst nicht teurer als 7-15€, Glühbirnen 15-45€. Im gesamten Entwicklungszeitraum ist allerdings kein Baustein kaputt gegangen, sodass diese Fragen hoffentlich und weitestgehend hypothetisch sein sollten.
+</h2>Der INTIA-Koffer produziert beinahe keine laufenden Kosten. Sollten der Koffer und seine Elemente im dauerhaften Betreib genutzt werden, ist der Stromverbrauch sehr gering. Allerdings können Dinge auch kaputt gehen. Wie teuer ist also das Ersetzen eines kaputten Elements im Koffer? Da die Technik-Bausteine so ausgewählt wurden, dass diese nicht zu teuer werden, ist ein Ersetzen nicht kostspielig. Knöpfe sind meinst nicht teurer als 7-15€, Glühbirnen 15-45€. Im gesamten Entwicklungszeitraum ist allerdings kein Baustein kaputt gegangen, sodass diese Fragen hoffentlich und weitestgehend hypothetisch sein sollten.
 </div>
 
 <div class="faq">
@@ -109,25 +105,24 @@ Welchen Koffer kaufe ich für meinen INTIA-Koffer?
 </label>
 </h2>
 <div class="faq-hide">
-Es gibt viele verschiedene Arten von Koffern. Sie unterscheiden sich in der Größe, der Form und vorallem dem Material. Diese Unterschiede bringen Vor- und Nachteile mit sich. Hierbei muss man insbesondere Berücksichtigen das die Verpackung des INTIA-Koffers als erstes Betrachtet, wie auch genutzt wird. Eine Sorgfältige Auswahl ist deshalb zu empfehlen.
-Wer einen Koffer kaufen will, muss sich fragen:
+Es gibt viele verschiedene Arten von Koffern. Sie unterscheiden sich in der Größe, der Form und vor allem dem Material. Diese Unterschiede bringen Vor- und Nachteile mit sich. Hierbei muss man insbesondere berücksichtigen, dass die Verpackung des INTIA-Koffers als erstes betrachtet und genutzt wird. Eine sorgfältige Auswahl ist deshalb zu empfehlen. Wer einen Koffer kaufen will, muss sich zunächst fragen:
 
-- Was ist mir wichtig?
+- Was ist mir besonders wichtig?
 - Soll er außergewöhnlich aussehen?
 - Soll er viel aushalten können?
-- Oder muss er wasserdicht sein?
+- Muss er wasserdicht sein?
 
 Hier werden neben den Anforderungen für den INTIA-Koffer drei unterschiedliche Koffer vorgestellt.
 
-### Anforderungen
+### Anforderungen an den INTIA-Koffer
 
-Für den INTIA-Koffer ist es wichtig das der Koffer gewisse Anforderungen erfüllt:
+Ein Koffer, der zu einem INTIA-Koffer werden soll, muss gewisse Anforderungen erfüllen:
 
-- Mindestens X cm Hoch (Der Höchste Baustein ist XY mit Z cm höhe)
-- Bietet eine Mindestfläche von X cm² z.B. Y cm Breit und Z Tief
-- Ein Innenfutter aus schaumstoff ist empfehlenswert um die Nutzung zu erleichtern, wie auch die Bausteine vor Verutschen zu schützen.
-- Wenn der Koffer auch in Außenbereichen genutzt wird sollte das Material gegen Schmutz und Kälte geschützt sein.
-- Wenn der Koffer auch viel auf Reisen ist sollte man viel Wert auf die Halbarkeit legen (z.B. Koffer mit Kantenschoner)
+- Mindestens X cm hoch (der höchste Baustein ist XY mit Z cm hoch)
+- Bietet eine Mindestfläche von X cm² z.B. Y cm breit und Z tief
+- Ein Innenfutter aus Schaumstoff ist empfehlenswert um die Nutzung zu erleichtern und die Bausteine vor dem Verrutschen zu schützen.
+- Wenn der Koffer auch in Außenbereichen genutzt wird, sollte das Material gegen Schmutz und Kälte schützen können.
+- Wenn der Koffer viel auf Reisen mitgenommen werden soll, sollte man Wert auf die Robustheit des Koffers legen (z.B. Koffer mit Kantenschoner).
 
 ### Holz (KF-Holzkoffer)
 
