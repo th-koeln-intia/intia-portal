@@ -186,5 +186,6 @@ Dich interessieren die Methoden? Dann schau dir die INTIA-Methodensammlung an! B
 
 ## INTIA-Koffer als Laborraum
 
-Der INTIA-Koffer und die INTIA-Erweiterungen müssen nicht mobil genutzt werden. Du kannst auch einen ganzen Raum als Laborraum damit einrichten. Dort kannst du dann stationär und dauerhaft mit dem gesamten Material arbeiten. Du kannst den INTIA-Koffer und seine Erweiterungen natürlich auch in einen schon bestehenden MakerSpace oder Kreativ-Raum integrieren. 
+Der INTIA-Koffer und die INTIA-Erweiterungen müssen nicht mobil genutzt werden. Du kannst auch einen ganzen Raum als Laborraum damit einrichten. Dort kannst du dann stationär und dauerhaft mit dem gesamten Material arbeiten. Du kannst den INTIA-Koffer und seine Erweiterungen natürlich auch in einen schon bestehenden MakerSpace oder Kreativ-Raum integrieren.
+
 " %}
