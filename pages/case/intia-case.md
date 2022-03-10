@@ -121,7 +121,6 @@ Hier sind alle Elemente aufgelistet, die in den INTIA-Koffer gehören.
 
 Der INTIA-Koffer kann durch INTIA-Erweiterungen vergrößert werden. Je nach Bedarf und Interesse können so unterschiedliche Elemente nachgekauft oder ergänzt werden. Die Erweiterungen können nicht alleine genutzt werden.
 
-
 ### Es gibt bisher folgende INTIA-Erweiterungen:
 
 <div class='columns'>
@@ -175,11 +174,9 @@ Der INTIA-Koffer kann durch INTIA-Erweiterungen vergrößert werden. Je nach Bed
 
 {% include highlighter.html min-height25p=false button_old="Mehr zum INTIA Labor Koffer" image="/assets/img/intia-case/intia_labor.jpg" content="
 
-
 - Knopf-Set: Eine Auswahl verschiedener Knöpfe, Schalter und Fernbedienungen.
 - Sensor-Set: Eine Auswahl verschiedener Sensoren. Bewegungsmelder, Türkontakte, Temperatursensoren und mehr. 
 - Sprachassistenz-Set: Der Mini-Computer kann hiermit zu einem Sprachassistenten umgerüstet werden.
-
 
 
 ## INTIA-Methodensammlung
