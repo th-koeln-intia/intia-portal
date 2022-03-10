@@ -53,7 +53,7 @@ Die Ideen des INTIA-Koffers sind vielseitig: Er eignet sich für alle, ist mobil
 
 Die Ideen des INTIA-Koffers sind vielseitig: Er kann partizipativ Probleme im Alltag aufdecken und Ideen entwickeln, wie man diese Probleme lösen kann. Am Ende kann diese Idee umgesetzt werden. Die Idee eines Koffers hatten schon viele vorher. Es gibt aber einige Besonderheiten des INTIA-Koffers:
 
-{% include callouts.html data="principles-callout" %}
+{% include callouts.html data="principles-callout"%}
 
 # Was steckt im INTIA-Koffer?
 
@@ -116,12 +116,14 @@ Hier sind alle Elemente aufgelistet, die in den INTIA-Koffer gehören.
 
 {% include highlighter.html min-height25p=false button_old="Mehr zum analogen Koffer" image="/assets/img/intia-case/intia_methodensammlung.jpg" content="
 
-
 ## INTIA-Erweiterungen
 
 Der INTIA-Koffer kann durch INTIA-Erweiterungen vergrößert werden. Je nach Bedarf und Interesse können so unterschiedliche Elemente nachgekauft oder ergänzt werden. Die Erweiterungen können nicht alleine genutzt werden.
 
 ### Es gibt bisher folgende INTIA-Erweiterungen:
+- Knopf-Set: Eine Auswahl verschiedener Knöpfe, Schalter und Fernbedienungen.
+- Sensor-Set: Eine Auswahl verschiedener Sensoren. Bewegungsmelder, Türkontakte, Temperatursensoren und mehr. 
+- Sprachassistenz-Set: Der Mini-Computer kann hiermit zu einem Sprachassistenten umgerüstet werden.
 
 <div class='columns'>
 <div class='column is-one-third has-text-centered'>
@@ -174,11 +176,6 @@ Der INTIA-Koffer kann durch INTIA-Erweiterungen vergrößert werden. Je nach Bed
 
 {% include highlighter.html min-height25p=false button_old="Mehr zum INTIA Labor Koffer" image="/assets/img/intia-case/intia_labor.jpg" content="
 
-- Knopf-Set: Eine Auswahl verschiedener Knöpfe, Schalter und Fernbedienungen.
-- Sensor-Set: Eine Auswahl verschiedener Sensoren. Bewegungsmelder, Türkontakte, Temperatursensoren und mehr. 
-- Sprachassistenz-Set: Der Mini-Computer kann hiermit zu einem Sprachassistenten umgerüstet werden.
-
-
 ## INTIA-Methodensammlung
 
 Dich interessieren die Methoden? Dann schau dir die INTIA-Methodensammlung an! Bald gibt es einen eigenen Bereich für deren Anleitungen und Materialien. 
@@ -186,7 +183,6 @@ Dich interessieren die Methoden? Dann schau dir die INTIA-Methodensammlung an! B
 "%}
 
 {% include highlighter.html min-height25p=false content="
-
 
 ## INTIA-Koffer als Laborraum
 
