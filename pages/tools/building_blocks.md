@@ -16,11 +16,11 @@ Bausteine sind alle Elemente des INTIA-Koffers, die nicht auf Papier ausgedruckt
 
 Es gibt zwei Arten von Bausteinen. Zum einen die INTIA-Bausteine. Sie wurden im INTIA-Projekt entwickelt und du kannst sie nachbauen. Zum anderen Bausteine, die du schon fertig in Geschäften kaufen kannst.
 
-### INTIA-Bausteine
+## INTIA-Bausteine
 
 Unsere Eigenentwicklungen besitzen Fähigkeiten und Eigenschaften, die es auf dem Markt entweder nicht oder zu einem sehr hohen Preis zu kaufen gibt. Wir haben uns daher bemüht, dass die INTIA-Bausteine einfach zu bauen sind.
 
-#### Mini-Computer
+### Mini-Computer
 
 Der Mini-Computer verbindet die Bausteine miteinander. Er ist die digitale Steuerzentrale des INTIA-Koffers. Daher ist er zwingend notwendig für die Nutzung der anderen Bausteine.
 
@@ -30,7 +30,7 @@ _Bildunterschrift: Der Mini-Computer_
 
 _Alt-Text: Der Mini-Computer ist die digitale Steuerzentrale des INTIA-Koffers._
 
-#### **Kiste**
+### **Kiste**
 
 Die Kisten besitzen einen Motor und können so geöffnet und verschlossen werden. Du kannst zum Beispiel dein Handy darin einschließen, damit es dich nicht ablenkt.
 
@@ -40,11 +40,11 @@ _Bildunterschrift: Die Kiste_
 
 _Alt-Text: Dank des Motors können die Kisten geöffnet und verschlossen werden._
 
-### Fertige Bausteine
+## Fertige Bausteine
 
 Fertigbausteine sind nicht nur einfach zu beschaffen. Sie sind auch einfach in der Benutzung und haben oft weitere nützliche Eigenschaften. Manche fertige Bausteine sind zum Beispiel bereits batteriebetrieben.
 
-#### Knöpfe
+### Knöpfe
 
 Mit Knöpfen kannst du andere Bausteine ansteuern. Es gibt viele Arten von Knöpfen - mit verschiedenen Funktionen.
 
@@ -54,7 +54,7 @@ _Bildunterschrift: Ein Knopf_
 
 _Alt-Text: Es gibt unterschiedliche Knöpfe. Mit diesem Knopf können Bausteine gesteuert werden._
 
-#### Smarte Lampen
+### Smarte Lampen
 
 Smarte Lampen haben verschiedene Fähigkeiten: An - aus, hell - dunkel, Farbe ändern. Du kannst sie unter anderem mit einem Knopf bedienen.
 
@@ -64,7 +64,7 @@ _Bildunterschrift: Smarte Lampen_
 
 _Alt-Text: Smarte Lampen können zum Beispiel mit einem Knopf bedient werden._
 
-#### Sensoren
+### Sensoren
 
 Sensoren nehmen etwas wahr. Zum Beispiel eine Bewegung.
 
