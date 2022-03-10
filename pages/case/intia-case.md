@@ -181,6 +181,7 @@ Der INTIA-Koffer kann durch INTIA-Erweiterungen vergrößert werden. Je nach Bed
 - Sprachassistenz-Set: Der Mini-Computer kann hiermit zu einem Sprachassistenten umgerüstet werden.
 
 
+
 ## INTIA-Methodensammlung
 
 Dich interessieren die Methoden? Dann schau dir die INTIA-Methodensammlung an! Bald gibt es einen eigenen Bereich für deren Anleitungen und Materialien. 
