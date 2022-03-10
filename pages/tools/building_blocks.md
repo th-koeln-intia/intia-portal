@@ -8,11 +8,11 @@ preview_image: /assets/img/uploads/image2022-2-10_12-42-54.png
 subtitle: Erfahre alle wichtigen Details über die Bausteine im INTIA-Koffer
 ---
 
-## Was sind Bausteine? (Textblock)
+## Was sind Bausteine?
 
 Bausteine sind alle Elemente des INTIA-Koffers, die nicht auf Papier ausgedruckt werden. Die meisten Bausteine brauchen Strom und haben daher einen Stecker oder Batterien. Mit Bausteinen kann man Prototypen bauen. Alles übrige im INTIA-Koffer sind Methoden, Material für diese Methoden oder Anleitungen.
 
-## Die Bausteine (Text + Fotos nebeneinander)
+## Die Bausteine
 
 Es gibt zwei Arten von Bausteinen. Zum einen die INTIA-Bausteine. Sie wurden im INTIA-Projekt entwickelt und du kannst sie nachbauen. Zum anderen Bausteine, die du schon fertig in Geschäften kaufen kannst.
 
