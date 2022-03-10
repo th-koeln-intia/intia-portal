@@ -106,13 +106,13 @@ Der INTIA-Koffer enthält nicht nur digitale Technik, sondern auch jede Menge an
 
 Sind alle Inhalte des INTIA-Koffers beisammen, kann es noch nicht sofort losgehen. Aber keine Sorge - es ist viel einfacher als es scheint und der Koffer ist bald einsatzbereit! So solltest du vorgehen:
 
-Zuerst die Innenausstattung des Koffers mit einer Schaumstoff-Einlage zurecht machen. Es soll ja später alles seine Ordnung haben. 
-Die noch leere SD-Karte muss für den Mini-Computer mit Daten von unserer Plattform ausgestattet werden.
-Den Mini-Computer nun erstmalig einrichten.
-Nun den Mini-Computer aufrufen und alles für das Hinzufügen der smarten Geräte vorbereiten. 
-Alle smarten Technik-Elemente aus der Verpackung holen und vor den Koffer legen. Jedes Gerät nacheinander koppeln. Wenn eines fertig gekoppelt ist, kommt es in den Koffer. So kommst du nicht durcheinander.
-Jetzt in Node-RED die INTIA Nodes für das Escape Game hinzufügen.
-Am besten das Escape Game aufbauen und einmal spielen. Danach einen Funktionstest aller Teile machen.
-Fertig! Der Koffer ist startklar.
+- Zuerst die Innenausstattung des Koffers mit einer Schaumstoff-Einlage zurecht machen. Es soll ja später alles seine Ordnung haben. 
+- Die noch leere SD-Karte muss für den Mini-Computer mit Daten von unserer Plattform ausgestattet werden.
+- Den Mini-Computer nun erstmalig einrichten.
+- Nun den Mini-Computer aufrufen und alles für das Hinzufügen der smarten Geräte vorbereiten. 
+- Alle smarten Technik-Elemente aus der Verpackung holen und vor den Koffer legen. Jedes Gerät nacheinander koppeln. Wenn eines fertig gekoppelt ist, kommt es in den Koffer. So kommst du nicht durcheinander.
+- Jetzt in Node-RED die INTIA Nodes für das Escape Game hinzufügen.
+- Am besten das Escape Game aufbauen und einmal spielen. Danach einen Funktionstest aller Teile machen.
+- Fertig! Der Koffer ist startklar.
 
 Weiterführende Links zu den einzelnen Punkten folgen in Kürze.
