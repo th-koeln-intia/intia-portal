@@ -4,8 +4,7 @@ title_above: INTIA-KOFFER
 hero_tags: subpage
 permalink: /intia-case/buy/
 subtitle: |
-  Wie kommt man an einen INTIA-Koffer und wie stellt man diesen
-  zusammen? Diese Fragen werden auf dieser Seite beantwortet.
+  Wie kommt man an einen INTIA-Koffer und wie stellt man diesen zusammen? Diese Fragen werden hier beantwortet. 
 ---
 
 # Wie komme ich an einen INTIA-Koffer?
@@ -64,9 +63,9 @@ Und wie viel kostet nun so ein INTIA-Koffer? Die Infos gibt es hier. Die Preise 
 
 ## Die Einkaufliste
 
-Unter nachfolgendem Link werdet ihr zu der Webseite "Mein Online Wunschzettel" weitergeleitet.
+Unter nachfolgendem Link wirst du zu der Webseite "Mein Online Wunschzettel" weitergeleitet.
 
-Hier findet ihr eine einfache Auflistung:
+Hier findest du eine einfache Auflistung:
 
 <a href='https://www.meinonlinewunschzettel.de/?wz=dd67ce857592ad4' class='button highlighter-column-button is-rounded is-dark'>
       <span>Zur Einkaufsliste auf "Mein Online Wunschzettel"</span>
@@ -75,10 +74,9 @@ Hier findet ihr eine einfache Auflistung:
       </span>
   </a>
 
-### Detailierter Auflistung
+### Detaillierter Auflistung
 
-Zu beachten ist, dass in der einfachen Auflistung keine Alternativen dargestellt werden und Zusatzkosten wie die von Kabeln, 3D-Druck, Laser-Cuts und das Zusammenbauen einzelner Bausteine nicht abgebildet sind.
-Es gibt manchmal mehrere Alternativen für einen Baustein. Zum Beispiel bei den Lampen. Der nachfogende Download führt zu einer Excel-Tabelle. Diese Excel-Tabelle ermöglicht ein individuelleres Zusammenstellen und lebendige Planung. Wir empfehlen die Nutzung dieser Tabelle aber nur für Erfahrende Personen oder soche, die sich tiefer mit dem Thema beschäftigen möchten.
+Zu beachten ist, dass in der einfachen Auflistung keine Alternativen dargestellt werden und Zusatzkosten wie die von Kabeln, 3D-Druck, Laser-Cuts und das Zusammenbauen einzelner Bausteine nicht abgebildet sind. Es gibt manchmal mehrere Alternativen für einen Baustein. Zum Beispiel bei den Lampen. Der nachfolgende Download führt zu einer Excel-Tabelle. Diese Excel-Tabelle ermöglicht ein individuelles Zusammenstellen und somit lebendige Planung. Wir empfehlen die Nutzung dieser Tabelle allerdings nur für erfahrene Personen oder solche, die sich tiefer mit dem Thema beschäftigen möchten.
 
 <a href='https://wiki.th-koeln.de/download/resources/com.atlassian.confluence.extra.officeconnector%3Aviewxls/images/excel-editor-placeholder.png' class='button highlighter-column-button is-rounded is-dark'>
       <span>Excel-Einkaufsliste herunterladen (TODO!)"</span>
@@ -108,13 +106,13 @@ Der INTIA-Koffer enthält nicht nur digitale Technik, sondern auch jede Menge an
 
 Sind alle Inhalte des INTIA-Koffers beisammen, kann es noch nicht sofort losgehen. Aber keine Sorge - es ist viel einfacher als es scheint und der Koffer ist bald einsatzbereit! So solltest du vorgehen:
 
-1. Zuerst die Innenausstattung des Koffers mit einer Schaumstoff-Einlage zurecht machen. Es soll ja später alles seine Ordnung haben. 
-2. Die noch leere SD-Karte muss für den Mini-Computer mit Daten von unserer Plattform ausgestattet werden.
-3. Den Mini-Computer nun erstmalig einrichten.
-4. Nun den Mini-Computer aufrufen und alles für das Hinzufügen der smarten Geräte vorbereiten. 
-5. Alle smarten Technik-Elemente aus der Verpackung holen und vor den Koffer legen. Jedes Gerät nacheinander koppeln. Wenn eines fertig gekoppelt ist, kommt es in den Koffer. So kommst du nicht durcheinander.
-6. Jetzt in Node-RED die INTIA Nodes für das Escape Game hinzufügen.
-7. Am besten das Escape Game aufbauen und einmal spielen. Danach einen Funktionstest aller Teile machen.
-8. Fertig! Der Koffer ist startklar.
+Zuerst die Innenausstattung des Koffers mit einer Schaumstoff-Einlage zurecht machen. Es soll ja später alles seine Ordnung haben. 
+Die noch leere SD-Karte muss für den Mini-Computer mit Daten von unserer Plattform ausgestattet werden.
+Den Mini-Computer nun erstmalig einrichten.
+Nun den Mini-Computer aufrufen und alles für das Hinzufügen der smarten Geräte vorbereiten. 
+Alle smarten Technik-Elemente aus der Verpackung holen und vor den Koffer legen. Jedes Gerät nacheinander koppeln. Wenn eines fertig gekoppelt ist, kommt es in den Koffer. So kommst du nicht durcheinander.
+Jetzt in Node-RED die INTIA Nodes für das Escape Game hinzufügen.
+Am besten das Escape Game aufbauen und einmal spielen. Danach einen Funktionstest aller Teile machen.
+Fertig! Der Koffer ist startklar.
 
 Weiterführende Links zu den einzelnen Punkten folgen in Kürze.
