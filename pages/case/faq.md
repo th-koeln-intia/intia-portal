@@ -2,10 +2,10 @@
 title: Häufig gestellte Fragen
 title_above: INTIA-KOFFER
 hero_tags: subpage
-toc: true
 permalink: /intia-case/faq/
 subtitle: |
-Alle Fragen und Antworten zum INTIA-Koffer findest du hier auf einen Blick.---
+  Alle Fragen und Antworten zum INTIA-Koffer findest du hier auf einen Blick.
+---
 
 <div class="faq">
 <input type="checkbox" id="faq-4">
@@ -16,7 +16,7 @@ Wie entscheide ich mich?
 </h2>
 
 Mit welchem INTIA-Koffer kannst du genau das machen, was du dir vorgestellt hast? Was solltest du bedenken, um dich für deinen Koffer zu entscheiden? Hier stellen wir drei mögliche Szenarien einer Nutzung vor, die häufig als Feedback in unseren Tests auftraten und vielleicht auch deine Fragen vor der Anschaffung beantworten:
-  
+
 **A: "Du hast noch keine Erfahrung, möchtest aber gerne etwas Neues ausprobieren."**
 
 Es ist am einfachsten einfach unserer Kaufempfehlung zu folgen. Er bietet ein gutes Fundament für den Einstieg und gleichzeitig ist er sehr flexibel. Natürlich kann der Koffer auch später erweitert und geändert werden.
@@ -28,6 +28,7 @@ Bau deinen eigenen Koffer, der am besten auf deine Bedürfnisse passt! Die Infor
 **C: "Du verfügst über einen festen Ort / ein Labor, wo du vorhandene Ausstattung benutzen kannst oder neue hinzu anschaffen möchtest. Warum also einen beweglichen Koffer nehmen?"**
 
 Der INTIA Koffer ist im Prinzip ein mobiles Alltagslabor und kann fest in einen Raum integriert werden. Seine Elemente wie der Raspberry Pi (Mini-Computer) kann fest ins WLAN einer Einrichtung integriert werden. Die Technik des INTIA Koffers kann mit den vorhandenen Strukturen des Raums dauerhaft verbunden werden. So könntest du zum Beispiel die Decken-Lampe über den INTIA Koffer steuern.
+
 </div>
 
 <div class="faq">
@@ -71,7 +72,6 @@ Was kostet der INTIA-Koffer?
 </table>
 </div>
 
-
 </div>
 
 <div class="faq">
@@ -80,7 +80,10 @@ Was kostet der INTIA-Koffer?
 <label for="faq-2">
 Gibt es laufende Kosten mit dem INTIA-Koffer?
 </label>
-</h2>Der INTIA-Koffer produziert beinahe keine laufenden Kosten. Sollten der Koffer und seine Elemente im dauerhaften Betreib genutzt werden, ist der Stromverbrauch sehr gering. Allerdings können Dinge auch kaputt gehen. Wie teuer ist also das Ersetzen eines kaputten Elements im Koffer? Da die Technik-Bausteine so ausgewählt wurden, dass diese nicht zu teuer werden, ist ein Ersetzen nicht kostspielig. Knöpfe sind meinst nicht teurer als 7-15€, Glühbirnen 15-45€. Im gesamten Entwicklungszeitraum ist allerdings kein Baustein kaputt gegangen, sodass diese Fragen hoffentlich und weitestgehend hypothetisch sein sollten.
+</h2>
+
+Der INTIA-Koffer produziert beinahe keine laufenden Kosten. Sollten der Koffer und seine Elemente im dauerhaften Betreib genutzt werden, ist der Stromverbrauch sehr gering. Allerdings können Dinge auch kaputt gehen. Wie teuer ist also das Ersetzen eines kaputten Elements im Koffer? Da die Technik-Bausteine so ausgewählt wurden, dass diese nicht zu teuer werden, ist ein Ersetzen nicht kostspielig. Knöpfe sind meinst nicht teurer als 7-15€, Glühbirnen 15-45€. Im gesamten Entwicklungszeitraum ist allerdings kein Baustein kaputt gegangen, sodass diese Fragen hoffentlich und weitestgehend hypothetisch sein sollten.
+
 </div>
 
 <div class="faq">
@@ -94,8 +97,8 @@ Wie kommt der Preis zustande?
 Eines der Kernziele ist, den INTIA-Koffer so günstig wie möglich anzubieten. Denn was bringt die schönste Technik, wenn sie sich niemand leisten kann? Damit Einrichtungen der Sozialen Arbeit den INTIA-Koffer nutzen können, sollte er 350€ nicht überschreiten. Der teuerste Baustein ist der Mini-Computer mit ca. 100€. Dennoch ist es verständlich, wenn der Koffer für den einen oder anderen zu teuer ist. Eine detaillierte Aufschlüsslung mit Preisen und unterschiedlichen Kaufempfehlungen findest du demnächst auf der Einkaufliste. Diese bieten wir nicht nur aus Transparenz-Gründen an. Sondern auch um die Möglichkeit zu bieten, den Koffer selbst zusammen zu stellen. Dadurch kann der Preis nicht nur angepasst werden, sondern jede:r hat die Möglichkeit, den Koffer auf die eigenen Ansprüche und Bedürfnisse zu individualisieren.
 
 Ein abschließender Hinweis: Der INTIA-Koffer wurde so zusammengestellt, dass er für grundlegende Funktionen und Anwendungen geeignet ist. Außerdem wurde das Augenmerk vor allem auf Qualität gelegt, anders als bei anderen Technik-Kits auf dem Markt. Der INTIA-Koffer enthält nur das, was auch tatsächlich gebraucht wird. Wenn man mehr oder andere Elemente braucht, kann der INTIA-Koffer zusätzlich mit den Erweiterungs-Sets und individuellen Ergänzungen ausgestattet werden. Meldet euch gerne über das Kontaktformular und erzählt von euren Bedürfnissen.
-</div>
 
+</div>
 
 <div class="faq">
 <input type="checkbox" id="faq-5">
@@ -187,7 +190,7 @@ Der KF-Holzkoffer bietet einen schönen Holzkoffer im schlichten Design. Er wirk
 Der Peaktech ist ein großer und stabiler Koffer. Er wirkt hochwertig und gewährleistet durch sein mitgeliefertes Polstermaterial Sicherheit - auch vor größeren Stürzen. Spritzwasser scheint kein Problem zu sein, allerdings sollte er nicht als wasserdicht betrachtet werden. Die Polsterung ist zwar nur eine Schicht, dennoch kann mit einigen Tricks auch hier schichtweise gearbeitet werden. Beispielsweise könnten Türkontakte oder Knöpfe zwei bis drei mal übereinander gestapelt werden.
 
 Leider wirkt der Koffer nicht sonderlich ansprechend - dem könnte aber mit ein paar Stickern entgegen gewirkt werden. Auch das Gewicht des Koffers ist ebenfalls im Rahmen.
-  
+
 Der Koffer bietet genug Platz für die wichtigsten Elemente. Würde man auf die Smarte-Kiste verzichten, ist sogar eine Variante mit doppeltem Inhalt denkbar.
 Auf Grund des Preis-Leistungs-Verhältnisses bietet diese Variante das größte Potenzial.
 
@@ -206,7 +209,6 @@ Auf Grund des Preis-Leistungs-Verhältnisses bietet diese Variante das größte 
 <figure>
   <img src="/assets/img/intia-case/packaging/intia-case-comparison-with-aluminium.jpg" alt="INTIA-Koffer vergleich zwischen Holz und Aluminium." style="height:350px;">
 </figure>
-
 
 <table class="tb">
     <tr>
