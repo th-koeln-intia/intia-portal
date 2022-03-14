@@ -30,8 +30,6 @@ Und wie viel kostet nun so ein INTIA-Koffer? Die Infos gibt es hier. Die Preise 
     <tr>
         <td>INTIA-Koffer</td>
         <td>Der Mini-Computer, eine Auswahl einfacher Bausteine und alle analogen Materialien.<br /> 
-            Masse: 25 X 17 X 7 cm<br />
-            Gewicht: 2,3 kg</td>
         <td>~350€</td>
     </tr>
     <tr>
