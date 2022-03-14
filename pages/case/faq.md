@@ -283,3 +283,6 @@ Der vergleichsweise hohe Preis und das wirklich nicht besonders ansprechende Des
         <td>Extrem stabile Polypropylen-Copolymer. Wasserdicht, staubdicht, IP 67 zertifiziert</td>
     </tr>
 </table>
+</div>
+
+</div>
