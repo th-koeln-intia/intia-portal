@@ -186,7 +186,7 @@ Dich interessieren die Methoden? Dann schau dir die INTIA-Methodensammlung an! B
 
 " %}
 
-{% include highlighter.html min-height25p=false button_old="Mehr zum INTIA Labor Koffer" image="/assets/img/intia-case/intia_labor.jpg" content="
+{% include highlighter.html min-height25p=false button_old="Mehr zum INTIA Labor Koffer" image="assets/img/intia-case/intia-case-1.jpg" content="
 
 ## INTIA-Koffer als Laborraum
 
