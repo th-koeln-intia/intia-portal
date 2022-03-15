@@ -4,7 +4,7 @@ title_above: AKTUELLES
 title: Bausteine
 permalink: /tools/building_blocks/
 preview_image: /assets/img/uploads/image2022-2-10_12-42-54.png
-subtitle: Erfahre alle wichtigen Details über die Bausteine im INTIA-Koffer
+subtitle: Erfahre alle wichtigen Details über die Bausteine im INTIA-Koffer.
 ---
 
 ## Was sind Bausteine?
