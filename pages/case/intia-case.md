@@ -49,13 +49,13 @@ Die Ideen des INTIA-Koffers sind vielseitig: Er eignet sich für alle, ist mobil
 
 <br>
 
-# Prinzipien des INTIA-Koffers
+## Prinzipien des INTIA-Koffers
 
 Die Ideen des INTIA-Koffers sind vielseitig: Er kann partizipativ Probleme im Alltag aufdecken und Ideen entwickeln, wie man diese Probleme lösen kann. Am Ende kann diese Idee umgesetzt werden. Die Idee eines Koffers hatten schon viele vorher. Es gibt aber einige Besonderheiten des INTIA-Koffers:
 
 {% include callouts.html data="principles-callout" %}
 
-# Was steckt im INTIA-Koffer?
+## Was steckt im INTIA-Koffer?
 
 Hier sind alle Elemente aufgelistet, die in den INTIA-Koffer gehören.
 
