@@ -96,7 +96,7 @@ Die Einkaufsliste enthält alle notwendigen Angaben und ist nach Produktgruppen 
 
 Leider können aktuell nicht alle Einzelteile bei einem Anbieter bestellt werden. Dennoch soll unsere Liste den Einkauf möglichst einfach machen. Es kann dabei sinnvoll sein zu entscheiden, ob man anstelle nach Kosten auch nach dem Anbieter geht: Wenn du alles oder möglichst viele Produkte bei einem Shop bekommst, kann das sinnvoller und wegen der Versandkosten immer noch günstiger sein, als sich stets für den niedrigsten Preis zu entscheiden. Außerdem können einige Elemente auch in Geschäften vor Ort wie Baumärkte, Elektrofachgeschäfte oder manchmal sogar beim Discounter gekauft werden.
 
-## Was kommt noch in den Koffer? Material ausdrucken
+## Was kommt noch in den Koffer?
 
 Der INTIA-Koffer enthält nicht nur digitale Technik, sondern auch jede Menge analoge Materialien. Die meisten davon kannst du selbst ausdrucken. Wenn du aber zum Beispiel Karten häufiger benutzen möchtest, lohnt es sich, diese in einer Druckerei oder einem Copy Shop auf festerem Papier oder Pappe auszudrucken oder sie zu laminieren.
 
