@@ -24,3 +24,10 @@ $dark: #09443e;
 .highlighter img.is-rounded {
   padding: 0;
 }
+
+.hero.is-primary
+  a:not(.button):not(.dropdown-item):not(.tag):not(.pagination-link.is-current),
+.hero.is-primary strong {
+  color: $dark;
+  text-decoration: underline;
+}
