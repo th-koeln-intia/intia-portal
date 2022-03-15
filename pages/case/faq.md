@@ -209,6 +209,8 @@ Auf Grund des Preis-Leistungs-Verhältnisses bietet diese Variante das größte 
 <figure>
   <img src="/assets/img/intia-case/packaging/intia-case-comparison-with-aluminium.jpg" alt="INTIA-Koffer vergleich zwischen Holz und Aluminium." style="height:350px;">
 </figure>
+</div>
+</div>
 
 <table class="tb">
     <tr>
@@ -249,6 +251,8 @@ Auf Grund des Preis-Leistungs-Verhältnisses bietet diese Variante das größte 
 <figure>
   <img src="https://cdn-reichelt.de/bilder/web/xxl_ws/D300/MAX_02.png" alt="Koffer aus Kunststoff mit Schaumfüllung." style="height:350px;">
 </figure>
+</div>
+</div>
 Der Max ist immens groß. Für einen Großteil der Usecases ist dieser viel zu schwer, zu groß und er bietet etwas zu viel Fassungsvermögen. Allerdings bedeutet das nicht, dass er gänzlich ungeeignet ist. Dieser Koffer ist wasserdicht und besitzt eine doppelte Schicht an Polsterung.
 
 Durch sein großes Fassungsvermögen bietet sich dieser Koffer für die platzintensivere Wireless-Variante des Koffers an. Dies unterschreibt auch die Wetterfestigkeit des Max. Zusätzlich können hier auch problemlos Maxi-Ausstattungen verpackt werden, wodurch auch die Arbeit mit fortgeschrittenen oder größeren Gruppen kein Problem ist.
@@ -283,6 +287,4 @@ Der vergleichsweise hohe Preis und das wirklich nicht besonders ansprechende Des
         <td>Extrem stabile Polypropylen-Copolymer. Wasserdicht, staubdicht, IP 67 zertifiziert</td>
     </tr>
 </table>
-</div>
-
 </div>
