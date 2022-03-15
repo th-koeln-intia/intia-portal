@@ -185,9 +185,9 @@ Der INTIA-Koffer kann durch INTIA-Erweiterungen vergrößert werden. Je nach Bed
 
 " %}
 
-## Weiteres
+## Weitere Varianten
 
-Hier noch weitere Möglichkeiten und Ausgedöns die aus der Arbeit von INTIA und der entwicklung des INTIA-Koffers entstanden sind.
+Es gibt noch weitere Möglichkeiten und alternative Nutzungen, die im Zuge der Entwicklung des INTIA-Koffers entstanden sind. Zum einen die INTIA-Methodensammlung, zum anderen den INTIA-Koffer als Laborraum. 
 
 {% include highlighter.html min-height25p=false button_old="Mehr zum INTIA Labor Koffer" image="/assets/img/intia-case/intia_labor.jpg" content="
 
