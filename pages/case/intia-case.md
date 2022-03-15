@@ -131,9 +131,6 @@ Der INTIA-Koffer kann durch INTIA-Erweiterungen vergrößert werden. Je nach Bed
 {% include highlighter.html min-height25p=false button_old="Mehr zum analogen Koffer" content="
 
 ### Es gibt bisher folgende INTIA-Erweiterungen:
-- Knopf-Set: Eine Auswahl verschiedener Knöpfe, Schalter und Fernbedienungen.
-- Sensor-Set: Eine Auswahl verschiedener Sensoren. Bewegungsmelder, Türkontakte, Temperatursensoren und mehr. 
-- Sprachassistenz-Set: Der Mini-Computer kann hiermit zu einem Sprachassistenten umgerüstet werden.
 
 <div class='columns'>
 <div class='column is-one-third has-text-centered'>
@@ -143,7 +140,8 @@ Der INTIA-Koffer kann durch INTIA-Erweiterungen vergrößert werden. Je nach Bed
   <!-- 
       <a href='#' class='button highlighter-column-button is-rounded is-dark'>
   -->
-      <span>Knopf-Set</span>
+      <h3>Knopf-Set</h3>
+      Eine Auswahl verschiedener Knöpfe, Schalter und Fernbedienungen.
       <!-- 
       <span class='icon is-small'>
         <i class='fas fa-chevron-right fa-xs'></i>
@@ -158,7 +156,8 @@ Der INTIA-Koffer kann durch INTIA-Erweiterungen vergrößert werden. Je nach Bed
   <!-- 
       <a href='#' class='button highlighter-column-button is-rounded is-dark'>
       -->
-      <span>Sensor-Set</span>
+      <h3>Sensor-Set</h3>
+      Eine Auswahl verschiedener Sensoren. Bewegungsmelder, Türkontakte, Temperatursensoren und mehr.
       <!-- 
       <span class='icon is-small'>
         <i class='fas fa-chevron-right fa-xs'></i>
@@ -173,7 +172,8 @@ Der INTIA-Koffer kann durch INTIA-Erweiterungen vergrößert werden. Je nach Bed
   <!-- 
       <a href='#' class='button highlighter-column-button is-rounded is-dark'>
   -->
-      <span>Sprachassistenz-Set</span>
+      <h3>Sprachassistenz-Set</h3>
+      Der Mini-Computer kann hiermit zu einem Sprachassistenten umgerüstet werden.
       <!-- 
       <span class='icon is-small'>
         <i class='fas fa-chevron-right fa-xs'></i>
