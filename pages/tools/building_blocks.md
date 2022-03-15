@@ -4,7 +4,7 @@ title_above: AKTUELLES
 title: Bausteine
 permalink: /tools/building_blocks/
 preview_image: /assets/img/uploads/image2022-2-10_12-42-54.png
-subtitle: Erfahre alle wichtigen Details über die Bausteine im INTIA-Koffer
+subtitle: Erfahre alle wichtigen Details über die Bausteine im INTIA-Koffer.
 ---
 
 ## Was sind Bausteine?
@@ -60,7 +60,7 @@ Smarte Lampen haben verschiedene Fähigkeiten: An - aus, hell - dunkel, Farbe ä
 Sensoren nehmen etwas wahr. Zum Beispiel ein Tür-Kontakt.
 <figure>
 <img src="/assets/img/tools/building_blocks/tuer_kontakt.jpg" alt="Sensoren können beispielsweise Bewegungen wahrnehmen." class="content_image">
-<figcaption>Die Sensoren</figcaption>
+<figcaption>Ein Türkontakt, der eine smarte Lampe bedient.</figcaption>
 </figure>
 
 <!--EndFragment-->
