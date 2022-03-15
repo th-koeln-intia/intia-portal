@@ -17,3 +17,9 @@ $dark: #09443e;
 @import "helper";
 @import "icons";
 @import "print";
+
+
+.hero.is-primary a:not(.button):not(.dropdown-item):not(.tag):not(.pagination-link.is-current), .hero.is-primary strong {
+  color: $dark;
+  text-decoration: underline;
+}

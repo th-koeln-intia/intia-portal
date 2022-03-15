@@ -23,7 +23,7 @@ Unsere Eigenentwicklungen besitzen Fähigkeiten und Eigenschaften, die es auf de
 
 Der Mini-Computer verbindet die Bausteine miteinander. Er ist die digitale Steuerzentrale des INTIA-Koffers. Daher ist er zwingend notwendig für die Nutzung der anderen Bausteine.
 <figure>
-<img src="/assets/img/tools/building_blocks/mini_computer.png" alt="Der Mini-Computer ist die digitale Steuerzentrale des INTIA-Koffers." class="content_image">
+<img src="/assets/img/tools/building_blocks/mini_computer.jpg" alt="Der Mini-Computer ist die digitale Steuerzentrale des INTIA-Koffers." class="content_image">
 <figcaption>Der Mini-Computer</figcaption>
 </figure>
 
@@ -31,7 +31,7 @@ Der Mini-Computer verbindet die Bausteine miteinander. Er ist die digitale Steue
 
 Die Kisten besitzen einen Motor und können so geöffnet und verschlossen werden. Du kannst zum Beispiel dein Handy darin einschließen, damit es dich nicht ablenkt.
 <figure>
-<img src="/assets/img/tools/building_blocks/kiste_mit_motor.png" alt="Dank des Motors können die Kisten geöffnet und verschlossen werden." class="content_image">
+<img src="/assets/img/tools/building_blocks/kiste_mit_motor.jpg" alt="Dank des Motors können die Kisten geöffnet und verschlossen werden." class="content_image">
 <figcaption>Die Kiste</figcaption>
 </figure>
 
@@ -43,7 +43,7 @@ Fertigbausteine sind nicht nur einfach zu beschaffen. Sie sind auch einfach in d
 
 Mit Knöpfen kannst du andere Bausteine ansteuern. Es gibt viele Arten von Knöpfen - mit verschiedenen Funktionen.
 <figure>
-<img src="/assets/img/tools/building_blocks/knopf.png" alt="Es gibt unterschiedliche Knöpfe. Mit diesem Knopf können Bausteine gesteuert werden." class="content_image">
+<img src="/assets/img/tools/building_blocks/knopf.jpg" alt="Es gibt unterschiedliche Knöpfe. Mit diesem Knopf können Bausteine gesteuert werden." class="content_image">
 <figcaption>Ein Knopf</figcaption>
 </figure>
 
@@ -51,7 +51,7 @@ Mit Knöpfen kannst du andere Bausteine ansteuern. Es gibt viele Arten von Knöp
 
 Smarte Lampen haben verschiedene Fähigkeiten: An - aus, hell - dunkel, Farbe ändern. Du kannst sie unter anderem mit einem Knopf bedienen.
 <figure>
-<img src="/assets/img/tools/building_blocks/smarte_lampen.png" alt="Smarte Lampen können zum Beispiel mit einem Knopf bedient werden." class="content_image">
+<img src="/assets/img/tools/building_blocks/smarte_lampen.jpg" alt="Smarte Lampen können zum Beispiel mit einem Knopf bedient werden." class="content_image">
 <figcaption>Smarte Lampen</figcaption>
 </figure>
 
@@ -59,7 +59,7 @@ Smarte Lampen haben verschiedene Fähigkeiten: An - aus, hell - dunkel, Farbe ä
 
 Sensoren nehmen etwas wahr. Zum Beispiel ein Tür-Kontakt.
 <figure>
-<img src="/assets/img/tools/building_blocks/tuer_kontakt.png" alt="Sensoren können beispielsweise Bewegungen wahrnehmen." class="content_image">
+<img src="/assets/img/tools/building_blocks/tuer_kontakt.jpg" alt="Sensoren können beispielsweise Bewegungen wahrnehmen." class="content_image">
 <figcaption>Die Sensoren</figcaption>
 </figure>
 
