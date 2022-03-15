@@ -115,7 +115,7 @@ Hier sind alle Elemente aufgelistet, die in den INTIA-Koffer gehören.
 </table>
 
 
-{% include highlighter.html min-height25p=false button_old="Mehr zum analogen Koffer" image="/assets/img/intia-case/intia_methodensammlung.jpg" content="
+{% include highlighter.html min-height25p=false button_old="Mehr zum analogen Koffer" content="
 
 ## INTIA-Erweiterungen
 
