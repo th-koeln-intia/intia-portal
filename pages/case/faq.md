@@ -288,3 +288,4 @@ Der vergleichsweise hohe Preis und das wirklich nicht besonders ansprechende Des
     </tr>
 </table>
 </div>
+</div>
