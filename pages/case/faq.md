@@ -23,11 +23,11 @@ Es ist am einfachsten einfach unserer Kaufempfehlung zu folgen. Er bietet ein g
 
 **B: "Du bist bereits Technik erfahrener und hast einen gute Vorstellung was du braucht. Eventuell hast du bereits mit anderen Technik-Sets gearbeitet"**
 
-Bau deinen eigenen Koffer, der am besten auf deine Bedürfnisse passt! Die Informationen zum INTIA Koffer können dabei als Inspiration helfen, die ideale Technik auszuwählen und sie miteinander zu kombinieren. Unsere Einkaufsliste ist so aufgebaut das du einfach Elemente ändern kannst. Später folgt hier ein Link zur Einkaufsliste.
+Bau deinen eigenen Koffer, der am besten auf deine Bedürfnisse passt! Die Informationen zum INTIA-Koffer können dabei als Inspiration helfen, die ideale Technik auszuwählen und sie miteinander zu kombinieren. Unsere Einkaufsliste ist so aufgebaut das du einfach Elemente ändern kannst. Später folgt hier ein Link zur Einkaufsliste.
 
 **C: "Du verfügst über einen festen Ort / ein Labor, wo du vorhandene Ausstattung benutzen kannst oder neue hinzu anschaffen möchtest. Warum also einen beweglichen Koffer nehmen?"**
 
-Der INTIA Koffer ist im Prinzip ein mobiles Alltagslabor und kann fest in einen Raum integriert werden. Seine Elemente wie der Raspberry Pi (Mini-Computer) kann fest ins WLAN einer Einrichtung integriert werden. Die Technik des INTIA Koffers kann mit den vorhandenen Strukturen des Raums dauerhaft verbunden werden. So könntest du zum Beispiel die Decken-Lampe über den INTIA Koffer steuern.
+Der INTIA Koffer ist im Prinzip ein mobiles Alltagslabor und kann fest in einen Raum integriert werden. Seine Elemente wie der Raspberry Pi (Mini-Computer) kann fest ins WLAN einer Einrichtung integriert werden. Die Technik des INTIA-Koffers kann mit den vorhandenen Strukturen des Raums dauerhaft verbunden werden. So könntest du zum Beispiel die Decken-Lampe über den INTIA-Koffer steuern.
 
 </div>
 
