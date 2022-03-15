@@ -114,12 +114,21 @@ Hier sind alle Elemente aufgelistet, die in den INTIA-Koffer gehören.
     </tr>
 </table>
 
-
-{% include highlighter.html min-height25p=false button_old="Mehr zum analogen Koffer" content="
+<br>
+Eine genauere Liste mit allenen Elementen mit direktem Bestelllink findet ihr hier:
+<br><br>
+<a href='/intia-case/buy' class='button highlighter-column-button is-rounded is-dark'>
+      <span>INTIA-Koffer kaufen</span>
+      <span class='icon is-small'>
+        <i class='fas fa-chevron-right fa-xs'></i>
+      </span>
+  </a>
 
 ## INTIA-Erweiterungen
 
 Der INTIA-Koffer kann durch INTIA-Erweiterungen vergrößert werden. Je nach Bedarf und Interesse können so unterschiedliche Elemente nachgekauft oder ergänzt werden. Die Erweiterungen können nicht alleine genutzt werden.
+
+{% include highlighter.html min-height25p=false button_old="Mehr zum analogen Koffer" content="
 
 ### Es gibt bisher folgende INTIA-Erweiterungen:
 - Knopf-Set: Eine Auswahl verschiedener Knöpfe, Schalter und Fernbedienungen.
@@ -176,19 +185,22 @@ Der INTIA-Koffer kann durch INTIA-Erweiterungen vergrößert werden. Je nach Bed
 
 " %}
 
+## Weiteres
+
+Hier noch weitere Möglichkeiten und Ausgedöns die aus der Arbeit von INTIA und der entwicklung des INTIA-Koffers entstanden sind.
 
 {% include highlighter.html min-height25p=false button_old="Mehr zum INTIA Labor Koffer" image="/assets/img/intia-case/intia_labor.jpg" content="
 
-## INTIA-Methodensammlung
+### INTIA-Methodensammlung
 
 Dich interessieren die Methoden? Dann schau dir die INTIA-Methodensammlung an! Bald gibt es einen eigenen Bereich für deren Anleitungen und Materialien. 
 
 
 " %}
 
-{% include highlighter.html min-height25p=false button_old="Mehr zum INTIA Labor Koffer" image="assets/img/intia-case/intia-case-1.jpg" content="
+{% include highlighter.html min-height25p=false button_old="Mehr zum INTIA Labor Koffer" image="/assets/img/intia-case/intia-case-1.jpg" content="
 
-## INTIA-Koffer als Laborraum
+### INTIA-Koffer als Laborraum
 
 Der INTIA-Koffer und die INTIA-Erweiterungen müssen nicht mobil genutzt werden. Du kannst auch einen ganzen Raum als Laborraum damit einrichten. Dort kannst du dann stationär und dauerhaft mit dem gesamten Material arbeiten. Du kannst den INTIA-Koffer und seine Erweiterungen natürlich auch in einen schon bestehenden MakerSpace oder Kreativ-Raum integrieren.
 
