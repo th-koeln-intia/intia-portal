@@ -67,7 +67,7 @@ Was kostet der INTIA-Koffer?
     </tr>
     <tr>
         <td>INTIA als Laborraum ausstatten</td>
-        <td>~ ?</td>
+        <td>ab 1400€</td>
     </tr>
 </table>
 </div>
@@ -121,10 +121,9 @@ Hier werden neben den Anforderungen für den INTIA-Koffer drei unterschiedliche 
 
 Ein Koffer, der zu einem INTIA-Koffer werden soll, muss gewisse Anforderungen erfüllen:
 
-- Mindestens X cm hoch (der höchste Baustein ist XY mit Z cm hoch)
-- Bietet eine Mindestfläche von X cm² z.B. Y cm breit und Z tief
-- Ein Innenfutter aus Schaumstoff ist empfehlenswert um die Nutzung zu erleichtern und die Bausteine vor dem Verrutschen zu schützen.
-- Wenn der Koffer auch in Außenbereichen genutzt wird, sollte das Material gegen Schmutz und Kälte schützen können.
+- Der Koffers muss so groß sein, dass alle Bausteine ausreichend Platz haben. Zu groß sollte er aber nicht sein.
+- Ein Innenfutter aus Schaumstoff ist empfehlenswert. So kannst du leicht Ordnung halten und die Bausteine können nicht so leicht verrutschen.
+- Wenn der Koffer auch draußen genutzt oder viel transportiert wird, sollte das Material gegen Schmutz, Nässe und Kälte schützen können.
 - Wenn der Koffer viel auf Reisen mitgenommen werden soll, sollte man Wert auf die Robustheit des Koffers legen (z.B. Koffer mit Kantenschoner).
 
 ### Holz (KF-Holzkoffer)
@@ -245,6 +244,7 @@ Auf Grund des Preis-Leistungs-Verhältnisses bietet diese Variante das größte 
 <div class="column is-offset-1">
 <figure>
   <img src="https://cdn-reichelt.de/bilder/web/xxl_ws/D300/MAX505.png" alt="Koffer aus Kunststoff." style="height:350px;">
+  <figcaption>Beispielkoffer aus Kunststoff.</figcaption>
 </figure>
 </div>
 <div class="column">
@@ -253,13 +253,11 @@ Auf Grund des Preis-Leistungs-Verhältnisses bietet diese Variante das größte 
 </figure>
 </div>
 </div>
-Der Max ist immens groß. Für einen Großteil der Usecases ist dieser viel zu schwer, zu groß und er bietet etwas zu viel Fassungsvermögen. Allerdings bedeutet das nicht, dass er gänzlich ungeeignet ist. Dieser Koffer ist wasserdicht und besitzt eine doppelte Schicht an Polsterung.
+Der Max ist sehr groß. Für einen Großteil der Anwendungen ist er zu schwer, zu groß und er bietet etwas zu viel Fassungsvermögen für den reinen Inhalt des INTIA-Koffers. Aber dadurch haben hier die INTIA-Erweiterungen problemlos Platz.
 
-Durch sein großes Fassungsvermögen bietet sich dieser Koffer für die platzintensivere Wireless-Variante des Koffers an. Dies unterschreibt auch die Wetterfestigkeit des Max. Zusätzlich können hier auch problemlos Maxi-Ausstattungen verpackt werden, wodurch auch die Arbeit mit fortgeschrittenen oder größeren Gruppen kein Problem ist.
+Dieser Koffer ist wasserdicht und besitzt eine doppelte Schicht an Polsterung. Daher ist er Koffer auch für größere Reisen geeignet. Außerdem könnte der Fokus des Kofferinhalts auf repräsentative Elemente gelegt werden - wie beispielsweise Prototypen. So wäre dieser Koffer beinahe ideal als Begleiter auf Tagungen und für andere Präsentationen. Nur Rollen würden den Transport noch komfortabler gestalten.
 
-Des Weiteren kann dieser Koffer die richtige Variante sein, um den INTIA-Koffer zu präsentieren. Auf Grund der Beschaffenheit des Koffers ist er auch für größere Reisen geeignet. Außerdem könnte der Fokus des Koffer-Inhalts auf repräsentative Elemente gelegt werden - wie beispielsweise Prototypen. So wäre dieser Koffer beinahe ideal als Begleiter auf Tagungen und für andere Präsentationen. Nur Rollen würden den Transport noch komfortabler gestalten.
-
-Der vergleichsweise hohe Preis und das wirklich nicht besonders ansprechende Design lassen diesen Koffer eher für Anwendungen zurück, bei denen die Größe und die Robustheit besonders im Vordergrund stehen.
+Wenn die Größe und die Robustheit besonders im Vordergrund stehen, dann rechtfertigt es den vergleichsweise hohe Preis.
 
 <table class="tb">
     <tr>
