@@ -4,11 +4,11 @@ items:
   - title: Für jeden
     icon: icon-for-all
     description: >
-       Interdisziplinär entwickelt und mit Teilnehmenden aus unterschiedlichen Kontexten.
+       Interdisziplinär entwickelt mit Teilnehmenden aus unterschiedlichen Kontexten.
   - title: Mobil
     icon: icon-mobile
     description: >
-      Überall hin mitnehmbar und sofort einsatzbereit.
+      Kann überall mit hingenommen werden und ist sofort einsatzbereit.
   - title: Offen
     icon: icon-open
     description: >
@@ -20,4 +20,4 @@ items:
   - title: Modular
     icon: icon-modular
     description: >
-      Erweiterbar und alle Bausteine sind austauschbar.
+      Erweiterbar und alle seine Bausteine können ausgetauscht werden.
