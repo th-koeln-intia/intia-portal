@@ -187,13 +187,13 @@ Der INTIA-Koffer kann durch INTIA-Erweiterungen vergrößert werden. Je nach Bed
 
 ## Weitere Varianten
 
-Es gibt noch weitere Möglichkeiten und alternative Nutzungen, die im Zuge der Entwicklung des INTIA-Koffers entstanden sind. Zum einen die INTIA-Methodensammlung, zum anderen den INTIA-Koffer als Laborraum. 
+Es gibt noch weitere Möglichkeiten und alternative Nutzungen des INTIA-Koffers. Zum einen die INTIA-Methodensammlung, zum anderen den INTIA-Koffer als Laborraum. 
 
 {% include highlighter.html min-height25p=false image="/assets/img/intia-case/intia_labor.jpg" content="
 
 ### INTIA-Methodensammlung
 
-Dich interessieren die Methoden? Dann schau dir die INTIA-Methodensammlung an! Bald gibt es einen eigenen Bereich für deren Anleitungen und Materialien. 
+Dich interessieren vor allem die Methoden? Dann schau dir die INTIA-Methodensammlung an! Bald gibt es einen eigenen Bereich für deren Anleitungen und Materialien. 
 
 
 " %}
@@ -202,6 +202,6 @@ Dich interessieren die Methoden? Dann schau dir die INTIA-Methodensammlung an! B
 
 ### INTIA-Koffer als Laborraum
 
-Der INTIA-Koffer und die INTIA-Erweiterungen müssen nicht mobil genutzt werden. Du kannst auch einen ganzen Raum als Laborraum damit einrichten. Dort kannst du dann stationär und dauerhaft mit dem gesamten Material arbeiten. Du kannst den INTIA-Koffer und seine Erweiterungen natürlich auch in einen schon bestehenden MakerSpace oder Kreativ-Raum integrieren.
+Der INTIA-Koffer und die INTIA-Erweiterungen müssen nicht mobil genutzt werden. Du kannst auch einen ganzen Raum als Laborraum damit einrichten! Dort kannst du dann stationär und dauerhaft mit dem gesamten Material arbeiten. Du kannst den INTIA-Koffer und seine Erweiterungen natürlich auch in einen schon bestehenden MakerSpace oder Kreativ-Raum integrieren.
 
 " %}
