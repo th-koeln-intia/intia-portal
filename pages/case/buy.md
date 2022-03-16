@@ -73,7 +73,7 @@ Hier findest du eine einfache Auflistung:
 {% include button.html label='Zur Einkaufsliste auf "Mein Online Wunschzettel"' link='https://www.meinonlinewunschzettel.de/?wz=dd67ce857592ad4' %}
 
 
-{% include highlighter.html min-height25p=false button="Excel-Einkaufsliste herunterladen" link='/assets/files/einkaufsliste.xlsx' content="
+{% include highlighter.html min-height25p=false button="Excel-Einkaufsliste herunterladen" button_link='/assets/files/einkaufsliste.xlsx' content="
 
 ### Detaillierter Auflistung
 
