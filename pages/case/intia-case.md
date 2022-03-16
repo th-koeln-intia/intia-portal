@@ -128,7 +128,7 @@ Eine genauere Liste mit allenen Elementen mit direktem Bestelllink findet ihr hi
 
 Der INTIA-Koffer kann durch INTIA-Erweiterungen vergrößert werden. Je nach Bedarf und Interesse können so unterschiedliche Elemente nachgekauft oder ergänzt werden. Die Erweiterungen können nicht alleine genutzt werden.
 
-{% include highlighter.html min-height25p=false button_old="Mehr zum analogen Koffer" content="
+{% include highlighter.html min-height25p=false content="
 
 ### Es gibt bisher folgende INTIA-Erweiterungen:
 
@@ -189,7 +189,7 @@ Der INTIA-Koffer kann durch INTIA-Erweiterungen vergrößert werden. Je nach Bed
 
 Es gibt noch weitere Möglichkeiten und alternative Nutzungen, die im Zuge der Entwicklung des INTIA-Koffers entstanden sind. Zum einen die INTIA-Methodensammlung, zum anderen den INTIA-Koffer als Laborraum. 
 
-{% include highlighter.html min-height25p=false button_old="Mehr zum INTIA Labor Koffer" image="/assets/img/intia-case/intia_labor.jpg" content="
+{% include highlighter.html min-height25p=false image="/assets/img/intia-case/intia_labor.jpg" content="
 
 ### INTIA-Methodensammlung
 
@@ -198,7 +198,7 @@ Dich interessieren die Methoden? Dann schau dir die INTIA-Methodensammlung an! B
 
 " %}
 
-{% include highlighter.html min-height25p=false button_old="Mehr zum INTIA Labor Koffer" image="/assets/img/intia-case/intia-case-1.jpg" content="
+{% include highlighter.html min-height25p=false image="/assets/img/intia-case/intia-case-1.jpg" content="
 
 ### INTIA-Koffer als Laborraum
 
