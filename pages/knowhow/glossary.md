@@ -8,4 +8,4 @@ hero_tags: subpage
 jekyll-hyperlink-glossary: false
 ---
 
-{% include glossary.html %}
+{% include glossary.html button="Mehr lesen" %}
