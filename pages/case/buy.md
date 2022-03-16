@@ -11,11 +11,16 @@ subtitle: |
 
 Der INTIA-Koffer bietet viele Möglichkeiten für Technikentwicklung. Doch wie kann man einen INTIA-Koffer bekommen?
 
+
+{% include highlighter.html min-height25p=false content="
+
 ## Wo gibt es den INTIA-Koffer?
 
 Aktuell kann man den INTIA-Koffer noch nicht direkt bekommen. Das wird sich aber hoffentlich noch ändern.
 
 Der INTIA-Koffer kann auch jetzt schon benutzt werden: Ihr könnt euren eigenen Koffer bauen! 
+
+" %}
 
 # Was kostet der INTIA-Koffer?
 
@@ -55,7 +60,7 @@ Und wie viel kostet nun so ein INTIA-Koffer? Die Infos gibt es hier. Die Preise 
     <tr>
         <td>INTIA als Laborraum ausstatten</td>
         <td>Alles aus dem INTIA-Baukasten und der INTIA-Methodensammlung, um einen Raum als Laborraum auszustatten. Der Umfang und der Preis hängen davon ab, was du             brauchst oder möchtest.</td>
-        <td>~ ?</td>
+        <td>>1.400€</td>
     </tr>
 </table>
 
@@ -64,7 +69,7 @@ Und wie viel kostet nun so ein INTIA-Koffer? Die Infos gibt es hier. Die Preise 
 Unter nachfolgendem Link wirst du zu der Webseite "Mein Online Wunschzettel" weitergeleitet.
 
 Hier findest du eine einfache Auflistung:
-
+<div></div>
 <a href='https://www.meinonlinewunschzettel.de/?wz=dd67ce857592ad4' class='button highlighter-column-button is-rounded is-dark'>
       <span>Zur Einkaufsliste auf "Mein Online Wunschzettel"</span>
       <span class='icon is-small'>
@@ -72,18 +77,20 @@ Hier findest du eine einfache Auflistung:
       </span>
   </a>
 
+  
+{% include button.html label=include.button %}
+
+
+{% include highlighter.html min-height25p=false button="Excel-Einkaufsliste herunterladen" content="
+
 ### Detaillierter Auflistung
 
 Zu beachten ist, dass in der einfachen Auflistung keine Alternativen dargestellt werden und Zusatzkosten wie die von Kabeln, 3D-Druck, Laser-Cuts und das Zusammenbauen einzelner Bausteine nicht abgebildet sind. Es gibt manchmal mehrere Alternativen für einen Baustein. Zum Beispiel bei den Lampen. Der nachfolgende Download führt zu einer Excel-Tabelle. Diese Excel-Tabelle ermöglicht ein individuelles Zusammenstellen und somit lebendige Planung. Wir empfehlen die Nutzung dieser Tabelle allerdings nur für erfahrene Personen oder solche, die sich tiefer mit dem Thema beschäftigen möchten.
 
-<a href='https://wiki.th-koeln.de/download/resources/com.atlassian.confluence.extra.officeconnector%3Aviewxls/images/excel-editor-placeholder.png' class='button highlighter-column-button is-rounded is-dark'>
-      <span>Excel-Einkaufsliste herunterladen (TODO!)"</span>
-      <span class='icon is-small'>
-        <i class='fas fa-chevron-right fa-xs'></i>
-      </span>
-  </a>
+" %}
 
-## Die Einkaufsliste nutzen
+
+### Die Einkaufsliste nutzen
 
 Wir sind bemüht, hier aktuelle Links zu den vorgeschlagenen Produkten zu präsentieren. Der Markt dieser technischen Produkte ist sehr schnelllebig und verändert sich permanent. Details wie Preise und Artikel-Bezeichnungen haben nur eine kurze Lebensdauer und sind schnell veraltet. Tatsächlich hat das aber viele Vorteile für dich:
 
@@ -92,13 +99,16 @@ Wir sind bemüht, hier aktuelle Links zu den vorgeschlagenen Produkten zu präse
 
 Die Einkaufsliste enthält alle notwendigen Angaben und ist nach Produktgruppen gegliedert. Die Produktauswahl wird mit regelmäßig aktualisierten Links angeboten. Gibt es zwei ähnliche Produkte, beschreibt ein Kurzhinweis worin sie sich unterscheiden. Es braucht also kein tiefes Fachwissen, um selbst über die bereitgestellten Links etwas einzukaufen.
 
-## Teile für den INTIA-Koffer bestellen oder kaufen
+### Teile für den INTIA-Koffer bestellen oder kaufen
 
 Leider können aktuell nicht alle Einzelteile bei einem Anbieter bestellt werden. Dennoch soll unsere Liste den Einkauf möglichst einfach machen. Es kann dabei sinnvoll sein zu entscheiden, ob man anstelle nach Kosten auch nach dem Anbieter geht: Wenn du alles oder möglichst viele Produkte bei einem Shop bekommst, kann das sinnvoller und wegen der Versandkosten immer noch günstiger sein, als sich stets für den niedrigsten Preis zu entscheiden. Außerdem können einige Elemente auch in Geschäften vor Ort wie Baumärkte, Elektrofachgeschäfte oder manchmal sogar beim Discounter gekauft werden.
 
+{% include highlighter.html min-height25p=false content="
 ## Was kommt noch in den Koffer?
 
 Der INTIA-Koffer enthält nicht nur digitale Technik, sondern auch jede Menge analoge Materialien. Die meisten davon kannst du selbst ausdrucken. Wenn du aber zum Beispiel Karten häufiger benutzen möchtest, lohnt es sich, diese in einer Druckerei oder einem Copy Shop auf festerem Papier oder Pappe auszudrucken oder sie zu laminieren.
+
+" %}
 
 ## Wenn alles da ist: den Koffer einräumen
 
