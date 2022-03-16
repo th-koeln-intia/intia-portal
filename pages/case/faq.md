@@ -241,7 +241,7 @@ Auf Grund des Preis-Leistungs-Verhältnisses bietet diese Variante das größte 
 ### Kunststoff (MAX 505S)
 
 <figure>
-  <img src="https://cdn-reichelt.de/bilder/web/xxl_ws/D300/MAX505.png" alt="Koffer aus Kunststoff." style="height:350px;">
+  <img src="https://cdn-reichelt.de/bilder/web/xxl_ws/D300/MAX505.png" alt="Koffer aus Kunststoff." class="content_image">
   <figcaption>Beispielkoffer aus Kunststoff.</figcaption>
 </figure>
 Der Max ist sehr groß. Für einen Großteil der Anwendungen ist er zu schwer, zu groß und er bietet etwas zu viel Fassungsvermögen für den reinen Inhalt des INTIA-Koffers. Aber dadurch haben hier die INTIA-Erweiterungen problemlos Platz.
@@ -251,7 +251,7 @@ Dieser Koffer ist wasserdicht und besitzt eine doppelte Schicht an Polsterung. D
 Wenn die Größe und die Robustheit besonders im Vordergrund stehen, dann rechtfertigt es den vergleichsweise hohe Preis.
 
 <div class="column">
-  <figure>
+<figure>
   <img src="https://cdn-reichelt.de/bilder/web/xxl_ws/D300/MAX_02.png" alt="Koffer aus Kunststoff mit Schaumfüllung." style="height:350px;">
 </figure>
 </div>
