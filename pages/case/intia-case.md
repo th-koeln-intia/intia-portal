@@ -135,7 +135,7 @@ Der INTIA-Koffer kann durch INTIA-Erweiterungen vergrößert werden. Je nach Bed
 <div class='columns'>
 <div class='column is-one-third has-text-centered'>
   <figure class='image'>
-    <img class='with-zone' src='/assets/img/intia-case/icons/streamline-icon-touch-finger-1@500x500.png'>
+    <img class='with-zone' src='/assets/img/intia-case/icons/sl_touch_400px.png'>
   </figure>
   <!-- 
       <a href='#' class='button highlighter-column-button is-rounded is-dark'>
@@ -151,7 +151,7 @@ Der INTIA-Koffer kann durch INTIA-Erweiterungen vergrößert werden. Je nach Bed
 </div>
 <div class='column is-one-third has-text-centered'>
   <figure class='image'>
-    <img class='with-zone' src='/assets/img/intia-case/icons/streamline-icon-smart-house-open-door@500x500.png'>
+    <img class='with-zone' src='/assets/img/intia-case/icons/sl_smart-door_400px.png'>
   </figure>
   <!-- 
       <a href='#' class='button highlighter-column-button is-rounded is-dark'>
