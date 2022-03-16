@@ -22,7 +22,7 @@ Der INTIA-Koffer kann auch jetzt schon benutzt werden: Ihr könnt euren eigenen 
 
 " %}
 
-# Was kostet der INTIA-Koffer?
+## Was kostet der INTIA-Koffer?
 
 Und wie viel kostet nun so ein INTIA-Koffer? Die Infos gibt es hier. Die Preise sind eine grobe Schätzung. Dennoch gibt die Tabelle einen Überblick darüber, wie teuer der Koffer und seine Erweiterungen etwa sind.
 
@@ -70,18 +70,10 @@ Unter nachfolgendem Link wirst du zu der Webseite "Mein Online Wunschzettel" wei
 
 Hier findest du eine einfache Auflistung:
 <div></div>
-<a href='https://www.meinonlinewunschzettel.de/?wz=dd67ce857592ad4' class='button highlighter-column-button is-rounded is-dark'>
-      <span>Zur Einkaufsliste auf "Mein Online Wunschzettel"</span>
-      <span class='icon is-small'>
-        <i class='fas fa-chevron-right fa-xs'></i>
-      </span>
-  </a>
-
-  
-{% include button.html label=include.button %}
+{% include button.html label='Zur Einkaufsliste auf "Mein Online Wunschzettel"' link='https://www.meinonlinewunschzettel.de/?wz=dd67ce857592ad4' %}
 
 
-{% include highlighter.html min-height25p=false button="Excel-Einkaufsliste herunterladen" content="
+{% include highlighter.html min-height25p=false button="Excel-Einkaufsliste herunterladen" link='/assets/files/einkaufsliste.xlsx' content="
 
 ### Detaillierter Auflistung
 

@@ -18,6 +18,10 @@ $dark: #09443e;
 @import "icons";
 @import "print";
 
+.highlighter h3 {
+  padding-top: 0;
+}
+
 .column.is-5 .highlighter {
   margin-top: 0;
 }
