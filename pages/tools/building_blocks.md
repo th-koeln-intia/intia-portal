@@ -57,7 +57,7 @@ Smarte Lampen haben verschiedene Fähigkeiten: An - aus, hell - dunkel, Farbe ä
 
 ### Sensoren
 
-Sensoren nehmen etwas wahr. Zum Beispiel nimmt ein Türkontakt den Zustand einer Türe war. Offen oder geschlossen.
+Sensoren nehmen etwas wahr. Zum Beispiel nimmt ein Türkontakt den Zustand einer Türe wahr. Offen oder geschlossen.
 <figure>
 <img src="/assets/img/tools/building_blocks/tuer_kontakt.jpg" alt="Sensoren können beispielsweise Bewegungen wahrnehmen." class="content_image">
 <figcaption>Ein Türkontakt, der eine smarte Lampe bedient.</figcaption>
