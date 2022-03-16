@@ -57,7 +57,7 @@ Die Ideen des INTIA-Koffers sind vielseitig: Er kann partizipativ Probleme im Al
 
 ## Was steckt im INTIA-Koffer?
 
-Hier sind alle Elemente aufgelistet, die in den INTIA-Koffer gehören.
+Hier sind alle Elemente aufgelistet, die sich im INTIA-Koffer befinden.
 
 <table class="tb">
     <tr>
@@ -69,8 +69,8 @@ Hier sind alle Elemente aufgelistet, die in den INTIA-Koffer gehören.
           <li>Anleitung für einen vollständigen Kreativprozess</li>
           <li>Einführung mit dem Escape Game</li>
           <li>“Wie entwickle ich mein eigenes Escape Game”</li>
-          <li>Node-Red Cheat-Sheat</li>
           <li>Node-Red Einführungen</li>
+          <li>Node-Red Spickzettel</li>
           <li>Lehrmaterial zum Erlernen des Umgangs mit der Technik</li>
           </ul>
         </td>
@@ -81,7 +81,7 @@ Hier sind alle Elemente aufgelistet, die in den INTIA-Koffer gehören.
           <ul>
           <li>INTIA-Methodensammlung</li>
           <li>INTIA-Nerv-Tagebuch</li>
-          <li>INTIA-Impulskarten (Alltagskarten + Bedürfniskarten)</li>
+          <li>INTIA-Impulskarten</li>
           </ul>
         </td>
     </tr>
