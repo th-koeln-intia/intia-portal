@@ -104,7 +104,7 @@ Ein abschließender Hinweis: Der INTIA-Koffer wurde so zusammengestellt, dass er
 <input type="checkbox" id="faq-5">
 <h2>
 <label for="faq-5">
-Welchen Koffer kaufe ich für meinen INTIA-Koffer?
+Welche Kofferart kaufe ich für meinen INTIA-Koffer?
 </label>
 </h2>
 <div class="faq-hide">
