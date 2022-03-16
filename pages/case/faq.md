@@ -248,9 +248,6 @@ Auf Grund des Preis-Leistungs-Verhältnisses bietet diese Variante das größte 
 </figure>
 </div>
 <div class="column">
-<figure>
-  <img src="https://cdn-reichelt.de/bilder/web/xxl_ws/D300/MAX_02.png" alt="Koffer aus Kunststoff mit Schaumfüllung." style="height:350px;">
-</figure>
 </div>
 </div>
 Der Max ist sehr groß. Für einen Großteil der Anwendungen ist er zu schwer, zu groß und er bietet etwas zu viel Fassungsvermögen für den reinen Inhalt des INTIA-Koffers. Aber dadurch haben hier die INTIA-Erweiterungen problemlos Platz.
@@ -259,6 +256,14 @@ Dieser Koffer ist wasserdicht und besitzt eine doppelte Schicht an Polsterung. D
 
 Wenn die Größe und die Robustheit besonders im Vordergrund stehen, dann rechtfertigt es den vergleichsweise hohe Preis.
 
+</div>
+<div class="column">
+<figure>
+  <img src="https://cdn-reichelt.de/bilder/web/xxl_ws/D300/MAX_02.png" alt="Koffer aus Kunststoff mit Schaumfüllung." style="height:350px;">
+</figure>
+</div>
+</div>
+  
 <table class="tb">
     <tr>
         <th>Link</th>
