@@ -250,9 +250,11 @@ Dieser Koffer ist wasserdicht und besitzt eine doppelte Schicht an Polsterung. D
 
 Wenn die Größe und die Robustheit besonders im Vordergrund stehen, dann rechtfertigt es den vergleichsweise hohe Preis.
 
-<figure>
+<div class="column">
+  <figure>
   <img src="https://cdn-reichelt.de/bilder/web/xxl_ws/D300/MAX_02.png" alt="Koffer aus Kunststoff mit Schaumfüllung." style="height:350px;">
 </figure>
+</div>
   
 <table class="tb">
     <tr>
