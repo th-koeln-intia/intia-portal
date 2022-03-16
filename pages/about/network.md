@@ -40,7 +40,7 @@ Das Forschungsprojekt INTIA hat drei Wissenschaftspraxispartnerschaften (kurz WP
 
 Seit 70 Jahren gibt es die Diakonie Michaelshoven. Sie setzt sich für soziale Belange ein. In über 200 Einrichtungen begleiten, fördern und betreuen die Mitarbeiter:innen viele Menschen
 
-  <a href="#" class="button is-rounded is-dark">
+  <a href="https://www.diakonie-michaelshoven.de/" class="button is-rounded is-dark">
       <span>Website</span>
       <span class="icon is-small">
         <i class="fas fa-external-link-alt fa-xs"></i>
@@ -60,7 +60,7 @@ Seit 70 Jahren gibt es die Diakonie Michaelshoven. Sie setzt sich für soziale B
 
 Die Evangelischen Jugendhilfe Godesheim ist ein Jugendhilfeverbund. Sie ist in dem Bereich der Kinder-, Jugend-, Behinderten- und Gesundheitshilfe tätig.
 
-  <a href="#" class="button is-rounded is-dark">
+  <a href="https://www.godesheim.de/" class="button is-rounded is-dark">
       <span>Website</span>
       <span class="icon is-small">
         <i class="fas fa-external-link-alt fa-xs"></i>
@@ -80,7 +80,7 @@ Die Evangelischen Jugendhilfe Godesheim ist ein Jugendhilfeverbund. Sie ist in d
 
 Die Fachstelle für Jugendmedienkultur NRW unterstützt Bildungseinrichtungen und Institutionen. Die FJMK hilft bei der Gestaltung der medienpädagogischen Arbeit.
 
-  <a href="#" class="button is-rounded is-dark">
+  <a href="https://www.jugendmedienkultur-nrw.de/" class="button is-rounded is-dark">
       <span>Website</span>
       <span class="icon is-small">
         <i class="fas fa-external-link-alt fa-xs"></i>
