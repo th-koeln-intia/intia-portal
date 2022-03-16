@@ -115,7 +115,7 @@ Hier sind alle Elemente aufgelistet, die sich im INTIA-Koffer befinden.
 </table>
 
 <br>
-Eine genauere Liste mit allenen Elementen mit direktem Bestelllink findet ihr hier:
+Eine genauere Liste mit allen Elementen mit direktem Link zum bestellen findet man hier:
 <br><br>
 <a href='/intia-case/buy' class='button highlighter-column-button is-rounded is-dark'>
       <span>INTIA-Koffer kaufen</span>
