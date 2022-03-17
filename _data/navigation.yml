@@ -32,8 +32,8 @@
       link: /knowhow/glossary/
     - name: Veröffentlichungen
       link: /knowhow/publications/
-    - name: Anleitungen
-      link: /knowhow/instructions/
+#    - name: Anleitungen
+#      link: /knowhow/instructions/
 - name: Aktuelles
   dropdown:
     - name: Neuigkeiten
