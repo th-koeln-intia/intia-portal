@@ -18,8 +18,8 @@
       link: /intia-case/faq/
 - name: Werkzeuge
   dropdown:
-#    - name: Bausteine
-#      link: /tools/building_blocks/
+    - name: Bausteine
+      link: /tools/building_blocks/
 #    - name: Methoden
 #      link: /tools/methods/
 #- name: Lösungen
