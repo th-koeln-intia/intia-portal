@@ -7,7 +7,7 @@ hero_link: /about/
 hero_link_text: Mehr über INTIA
 hero_tags: home
 permalink: /
-story_slider: true
+story_slider: Aktuelles
 story_slider_button: Mehr lesen
 ---
 
