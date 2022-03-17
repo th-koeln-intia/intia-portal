@@ -62,5 +62,3 @@ Sensoren nehmen etwas wahr. Zum Beispiel nimmt ein Türkontakt den Zustand einer
 <img src="/assets/img/tools/building_blocks/tuer_kontakt.jpg" alt="Sensoren können beispielsweise Bewegungen wahrnehmen." class="content_image">
 <figcaption>Ein Türkontakt, der eine smarte Lampe bedient.</figcaption>
 </figure>
-
-<!--EndFragment-->
