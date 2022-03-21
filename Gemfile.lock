@@ -128,9 +128,8 @@ GEM
       faraday (> 0.8, < 2.0)
     terminal-table (2.0.0)
       unicode-display_width (~> 1.1, >= 1.1.1)
-    thread_safe (0.3.6)
-    tzinfo (1.2.9)
-      thread_safe (~> 0.1)
+    tzinfo (2.0.4)
+      concurrent-ruby (~> 1.0)
     tzinfo-data (1.2022.1)
       tzinfo (>= 1.0.0)
     unicode-display_width (1.8.0)
@@ -156,7 +155,7 @@ DEPENDENCIES
   jekyll-sitemap
   jekyll-titles-from-headings
   jekyll-watch
-  tzinfo (~> 1.2)
+  tzinfo
   tzinfo-data
   wdm (~> 0.1.1)
 
