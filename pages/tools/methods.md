@@ -29,7 +29,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
 
-RADAR
+<div id="radar"></div>
 
 # Methodenliste
 
@@ -40,3 +40,10 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 ## Methode 2
 
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+
+<script>
+let config = {{ site.data.radar-config | jsonify }};
+let structure = {{ site.data.radar-structure | jsonify }};
+let entries = {{ site.data.radar-entries | jsonify }}; 
+createRadar(config, structure, entries);
+</script>
