@@ -22,21 +22,15 @@ Diese Säule der Modularisierbarkeit ist schnell erläutert. Eine Selbstentwick
 
 Für 10-15€ ist eine Fertiglösung in jeglicher Hinsicht überlegen: Ansprechendes Design, kabellos, zuverlässig und schnell eingebunden. Dank dieser Charakteristika ist es auch für Nicht-Techniker:innen möglich, die Bausteine des INTIA-Koffers zu erweitern. Es spricht also einiges für Fertiglösungen, statt aufwendig DiY-Hardware zu basten.  
 
-
-
 **“Dumme” Hardware-Elemente** 
 
 Im Kontext des Smart-Homes wird oft von smarter, also kluger Hardware geredet. Dies ist aber eine Bezeichnung, die oft zu Fehlschlüssen führt. Die “kluge Glühbirne” besitzt keine Intelligenz. Man kann mit ihr alleine nicht mal einen Wecker oder Schalt-Zeiten einstellen. Smart-Hardware kann Befehle ausführen. Dafür braucht es aber eine Art Steuerung. Das Smarte am Smart-Home ist also die Schaltzentrale, das Gateway, der Computer im Zentrum. Etwas, was alle Geräte steuert und koordiniert.  
 
 Dieses Konzept wird im Koffer adaptiert. Alle Geräte werden möglichst funktionsarm konzipiert bzw. eingebunden. Somit verhalten sich die Elemente im Koffer wie Arme und Beine – und der Mini-Computer ist das Gehirn. Diese Konzeption ermöglicht einen leichten Austausch. Mit wenigen Schritten kann eine Glühbirne durch ein Display getauscht oder ein weiterer Button dazwischengeschaltet werden. Dies fördert auch die Selbst-Entwicklung von Geräten. Auch wenn Fertiglösungen bevorzugt werden, ist es manchmal notwendig, ein DiY-Element zu erstellen und einzubinden. Ein Beispiel hierfür sind Sensoren, die Auskunft über Pflanzen und Erde geben. Das zu bauende Element muss nur einfachste Informationen versenden. Der Sensor weiß nicht, ob die Pflanze Wasser braucht. Die Verarbeitung dieser Informationen wird komplett vom zentralen Mini-Computer übernommen. 
 
-
-
 **Limitationen** 
 
 Zum einen sollten alle Fertig-Lösungen das Zigbee-Protokoll beherrschen. Dabei sollte darauf geachtet werden, dass sich die Geräte auf der Kompatibilitätsseite von Zigbee2MQTT befinden. <https://www.zigbee2mqtt.io/supported-devices/> Sollte dies nicht der Fall sein, ist es aber sehr wahrscheinlich, dass eine Kompatibilität bald hinzugefügt wird - dieses Projekt ist sehr lebendig und hoch aktiv. Zum anderen müssen alle DiY-Lösungen mittels MQTT kommunizieren. 
-
-
 
 **How-To-Anleitungen** 
 
@@ -44,6 +38,8 @@ Diese sehr einfachen, klaren Prinzipien müssen auch für wenig Technik-affine M
 
 * Wie entscheide ich, ob sich eine neue Komponente (irgendwas Neues von IKEA o.ä.) als Modul eignet? 
 * Wenn es sich eignet: Wie binde ich das neue Modul ein? 
+
+
 
 **Fazit zur Modularisierung** 
 
