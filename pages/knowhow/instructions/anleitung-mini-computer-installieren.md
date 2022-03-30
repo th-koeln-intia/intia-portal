@@ -5,12 +5,12 @@ title: Anleitung Mini-Computer installieren
 permalink: /knowhow/instructions/installation
 hero_image: /assets/img/uploads/dsc_0060.jpg
 preview_image: /assets/img/uploads/dsc_0060.jpg
-subtitle: sdfv
+subtitle: Bevor es mit der Erstinbetriebnahme des INTIA-Koffers losgehen kann, muss der Mini-Computer installiert werden. Dazu findest du hier die Anleitung.
 ---
 
 <!--StartFragment-->
 
-Bevor es mit der Erstinbetriebnahme des INTIA-Koffers losgehen kann, muss der Mini-Computer installiert werden. Dazu findest du hier die Anleitung.
+
 
 # Vorbereitung 
 

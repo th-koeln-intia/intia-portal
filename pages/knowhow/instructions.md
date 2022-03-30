@@ -20,7 +20,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
       </span>
 </a>
 
-<a href='/instructions/installation' class='button is-dark is-rounded'>
+<a href='/knowhow/instructions/installation' class='button is-dark is-rounded'>
       <span>Anleitung Mini-Computer installieren</span>
       <span class='icon is-small'>
         <i class='fas fa-chevron-right fa-xs'></i>
