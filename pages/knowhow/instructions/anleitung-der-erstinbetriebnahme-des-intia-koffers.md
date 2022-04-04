@@ -86,7 +86,7 @@ EscapeGame
 
 - Nun ein internetfähiges Endgerät (PC, Tablet, Smartphone) mit dem WLAN verbinden, mit dem der Mini-Computer verbunden ist
 - Bei Mobilgeräten kann es zu Problemen kommen, wenn das WLAN keinen Internetzugriff dabei bietet. Die Mobilen Daten zu deaktivieren kann helfen
-- In den Browser die Zahlenfolge eingeben, die auf dem Gerät angezeigt wird und dem Anhang ":1880/ui" bzw. "192.168.1.100:1880/ui". Eine Seite sollte sich öffnen
+- In den Browser die Zahlenfolge eingeben, die auf dem Gerät angezeigt wird und dem Anhang ":1880/ui" beispielsweise "192.168.1.100:1880/ui". Eine Seite sollte sich öffnen
 - Nun können die Glühbirnen hinzugefügt werden. Dafür findest du bald hier eine Anleitung.
 
 Nun können alle anderen Smart-Geräte hinzugefügt werden.
