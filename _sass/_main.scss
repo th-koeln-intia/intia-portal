@@ -18,6 +18,13 @@ $dark: #09443e;
 @import "icons";
 @import "print";
 
+h4 {
+  font-weight: 300;
+  font-size: 1.7rem;
+  padding-top: 50px;
+  padding-bottom: 30px;
+}
+
 .highlighter h3 {
   padding-top: 0;
 }
