@@ -46,12 +46,14 @@ defaults:
       path: _posts
     values:
       permalink: /stories/:title/
+      path: [Aktuelles, Neuigkeiten]
       layout: default
   - scope:
       type: glossary
       path: _glossary
     values:
       permalink: /knowhow/glossary/:title/
+      breadcrumbs: [Wissen, Wörterbuch]
       layout: default   
 
 # Collections

@@ -1,6 +1,6 @@
 ---
 hero_tags: subpage post pdf
-title_above: AKTUELLES
+title_above: Aktuelles
 published: true
 title: Forschung remote über Messenger
 author: Marc Schmidt

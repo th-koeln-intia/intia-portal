@@ -1,6 +1,6 @@
 ---
 hero_tags: subpage pdf
-title_above: WISSEN
+title_above: Wissen
 title: Anleitung zum Packen des INTIA-Koffers
 permalink: /knowhow/instructions/how_to_pack
 hero_image: /assets/img/uploads/dsc_0060.jpg
@@ -23,7 +23,6 @@ Sensoren, Knöpfe und andere Technik-Blöcke
 INTIA-Karten-Sets
 Kabel
 
-
 ## Aufbau der Einzelelemente
 
 ### Leuchtmittel und Fassung
@@ -33,19 +32,16 @@ Bei Gu10
 Fassung zusammen bauen oder Fertig erwerben
 Glühbirne einsetzen und als eine Einheit in den Koffer
 
-
 ### Mini-Computer
 
 als vorberitung muss der Mini-Computer noch nicht fertig sein
 Arbeit mit dem Leern gehäuse reicht aus
-
 
 ### Bausteine
 
 wir empfehlen zwar einen grund stock an Blöcken, da muss aber jeder entscheiden welche Blöcke in den Koffer für einen selbst kommen
 Blöcke sollten grob Sorteirt werden
 Blöcke können im Koffer übereinader gestappelt werden
-
 
 ## Einsatz in den Koffer
 

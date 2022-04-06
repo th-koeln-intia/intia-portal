@@ -1,6 +1,6 @@
 ---
 title: Community
-title_above: MITMACHEN
+title_above: Mitmachen
 hero_tags: subpage
 permalink: /collaboration/community/
 subtitle: |

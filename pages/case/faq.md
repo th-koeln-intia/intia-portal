@@ -1,6 +1,6 @@
 ---
 title: Häufig gestellte Fragen
-title_above: INTIA-KOFFER
+title_above: INTIA-Koffer
 hero_tags: subpage
 permalink: /intia-case/faq/
 subtitle: |
@@ -244,6 +244,7 @@ Der Max ist sehr groß. Für einen Großteil der Anwendungen ist er zu schwer, z
 Dieser Koffer ist wasserdicht und besitzt eine doppelte Schicht an Polsterung. Daher ist er Koffer auch für größere Reisen geeignet. Außerdem könnte der Fokus des Kofferinhalts auf repräsentative Elemente gelegt werden - wie beispielsweise Prototypen. So wäre dieser Koffer beinahe ideal als Begleiter auf Tagungen und für andere Präsentationen. Nur Rollen würden den Transport noch komfortabler gestalten.
 
 Wenn die Größe und die Robustheit besonders im Vordergrund stehen, dann rechtfertigt es den vergleichsweise hohe Preis.
+
 <figure>
   <img src="https://cdn-reichelt.de/bilder/web/xxl_ws/D300/MAX_02.png" alt="Koffer aus Kunststoff mit Schaumfüllung." class="content_image">
 </figure>

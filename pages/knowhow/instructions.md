@@ -1,6 +1,6 @@
 ---
 title: Anleitungen
-title_above: WISSEN
+title_above: Wissen
 hero_tags: subpage
 permalink: /knowhow/instructions/
 subtitle: |

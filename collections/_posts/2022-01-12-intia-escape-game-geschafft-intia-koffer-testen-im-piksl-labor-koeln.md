@@ -1,6 +1,6 @@
 ---
 hero_tags: subpage post pdf
-title_above: AKTUELLES
+title_above: Aktuelles
 published: true
 title: INTIA Escape Game geschafft
 author: " INTIA Team"

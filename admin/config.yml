@@ -13,7 +13,7 @@ collections:
     slug: "{{slug}}"
     fields:
       -  {label: "Hero tags", name: "hero_tags", widget: "hidden", default: "subpage glossary pdf"}
-      -  {label: "Überschrift", name: "title_above", widget: "hidden", default: "WÖRTERBUCH"}
+      -  {label: "Überschrift", name: "title_above", widget: "hidden", default: "Wörterbuch"}
       - {label: "Veröffentlicht", name: "published", widget: "boolean", default: true}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Englischer Title", name: "english_title", widget: "string"}
@@ -29,7 +29,7 @@ collections:
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
       - {label: "Hero tags", name: "hero_tags", widget: "hidden", default: "subpage post pdf"}
-      - {label: "Überschrift", name: "title_above", widget: "hidden", default: "AKTUELLES"}
+      - {label: "Überschrift", name: "title_above", widget: "hidden", default: "Aktuelles"}
       - {label: "Veröffentlicht", name: "published", widget: "boolean", default: true}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Autor", name: "author", widget: "string"}
@@ -45,7 +45,7 @@ collections:
         file: 'pages/knowhow/publications.md'
         fields: 
           - {label: "Hero tags", name: "hero_tags", widget: "hidden", default: "subpage"}
-          - {label: "Überschrift", name: "title_above", widget: "hidden", default: "WISSEN"}
+          - {label: "Überschrift", name: "title_above", widget: "hidden", default: "Wissen"}
           - {label: "URL", name: "permalink", widget: "hidden", default: "/knowhow/publications/"}
           - {label: "Glossar auf dieser Seite aktivieren", name: "jekyll-hyperlink-glossary", widget: "hidden", default: "false"}
           - {label: Titel, name: title, widget: string}

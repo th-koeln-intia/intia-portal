@@ -1,6 +1,6 @@
 ---
 title: Methoden
-title_above: WERKZEUGE
+title_above: Werkzeuge
 hero_tags: subpage
 permalink: /tools/methods/
 subtitle: |

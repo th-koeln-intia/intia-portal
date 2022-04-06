@@ -1,6 +1,6 @@
 ---
 hero_tags: subpage post pdf
-title_above: AKTUELLES
+title_above: Aktuelles
 published: true
 title: Prototypen mit Jugendlichen entwickeln
 author: Alena Schmier, Hanna Thielmann, Jan Seidler
@@ -43,10 +43,11 @@ Der Prozess zur Entwicklung der Prototypen erfolgte in verschiedenen Phasen:
 
 5. **Phase: Validierung**
    Um herauszufinden, ob jener abgeleitete Bedarf auch für die anderen MEs als potenziell relevant erachtet wird, sollte dieser in einem zweiten Termin, eine Woche später, auf Richtigkeit geprüft und der Gedanke in Zuge dessen mittels Behaviour-Driven Prototyping (BDP) technisch spezifiziert werden. Das BDP beantwortet die Frage „Wie lassen sich technische Lösungsideen aus einem gegebenen Bedarf prototypisieren?“ Die Forscher:innen des INTIA Teams schreiben hierfür zunächst das erfasste Problem auf eine Tafel: „Es nervt mich, wenn ich die Anleiterin suchen muss. Als Qualifikant in der Küche möchte ich die Anleiterin nicht suchen müssen. Damit ich keine wertvolle Arbeitszeit verschwende.“ So wird der Bedarf auf eine möglichst einfache Art vor den Augen der MEs definiert und veranschaulicht. Auf einer anderen Tafel werden Prototyping-Karten aufgehängt, um anhand existierender Technologien technische Lösungsideen zu prototypisieren. In Zuge dessen werden die Jugendlichen Folgendes gefragt: „Wenn ich einen Knopf drücke, dann geht eine Lampe – …?“. Eine der MEs antwortet darauf „an“ oder „aus.“. Diese Aussage nutzen die Workshop-Leiter:innen, um die Gruppe zu fragen, ob sie wissen, wie dies das geschilderte Problem lösen könnte.
-   
+
    Daraufhin wird überlegt, was für Eigenschaften das Rufsystem haben sollte und wie z.B. Reize (Töne, Licht) zum Rufen der Anleiter:in genutzt werden könnten. Dies warf Fragen wie: „Soll das Licht flackern?“ „Soll das System einen Joystick haben?“ oder „Würdet ihr in ein Mikrofon reinsprechen?“ auf. Bei diesen Überlegungen beteiligten sich die MEs unterschiedlich viel. Einige schienen mit Freude teilzunehmen, andere ließen sich eher schwer für die Geschehnisse begeistern und waren im Verlauf zurückhaltender. Um den MEs die weiteren spezifischeren Überlegungen so anschaulich wie möglich zu gestalten, wurde vor dem Termin ein erster Prototyp entwickelt, um haptisch und visuell die Funktionen und möglichen Hürden besser greifbar zu machen. Dieser Prototyp bestand aus einem Knopf (Sendegerät) und einem aufleuchtenden Licht (Empfängergerät), wenn der Knopf gedrückt wird. Zur weiteren Visualisierung hat die Anleiterin das Empfängergerät in der Hand gehalten und die MEs haben gemeinsam mit den Workshop-Leiter:innen überlegt, wo der Knopf am besten platziert werden sollte, damit er möglichst für alle Qualifikant:innen erreichbar ist. Alle sind gemeinsam durch die Arbeitsbereiche gelaufen und die Workshop-Leiter:innen fragten in die Gruppe, wo der Knopf am besten platziert werden solle. Einer der MEs entgegnete daraufhin: „Lieber an der Wand. Da würd‘s keinen stören.“ Daraufhin hielt der Moderator das Sendegerät an die Wand und es wurde gemeinsam ausgetüftelt, welche Höhe oder Ort des Knopfes für alle passend wäre.
-   
+
    Durch das BDP, welches u.a. sowohl das Testen des Prototypen als auch die Verknüpfung einer Idee bis hin zur Prototypisierung umfasst, konnten weitere notwendige Funktionen und Gegebenheiten für den Prototypen erhoben werden. Dadurch konnte mit dem BDP die Schwelle zur Partizipation bei der Technikentwicklung deutlich verringert werden, auch wenn nicht in Gänze, da die technischen Lösungsideen der MEs durch die INTIA Mitarbeiter:innen, wie Hardware verdrahten und Software programmieren, noch umgesetzt werden mussten.
+
 6. **Anpassung des Prototypen**
    Mit den Anregungen der MEs sollte der Prototyp in einem nächsten Schritt an jene erfassten Voraussetzungen angepasst werden und erneut mit den ME erprobt werden. Leider konnten durch die Corona-bedingte Schließung der Einrichtung sowie das Aufteilen der MEs in unterschiedliche Betriebe auf Grundlage des Bundesteilhabegesetzes, diese weiteren Iterationen mit der Einrichtung nicht mehr durchgeführt werden, denn es fanden in der Qualifizierungsmaßnahme keine gemeinsamen Arbeitseinheiten mehr statt.
 

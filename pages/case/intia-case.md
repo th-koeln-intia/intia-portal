@@ -1,10 +1,10 @@
 ---
 title: Über den INTIA-Koffer
-title_above: INTIA-KOFFER
+title_above: INTIA-Koffer
 hero_tags: subpage
 permalink: /intia-case/
 subtitle: |
-  Mit dem INTIA-Koffer kannst du dir individuelle, technische Lösungen bauen. Er lädt dazu ein, Technik spielerisch kennenzulernen. So kannst du damit zum Beispiel individuelle Lösungen für deinen Arbeitsalltag entwickeln.  
+  Mit dem INTIA-Koffer kannst du dir individuelle, technische Lösungen bauen. Er lädt dazu ein, Technik spielerisch kennenzulernen. So kannst du damit zum Beispiel individuelle Lösungen für deinen Arbeitsalltag entwickeln.
 ---
 
 # Was ist der INTIA-Koffer?
@@ -12,12 +12,13 @@ subtitle: |
 Der INTIA-Koffer ist eine Art Werkzeugkoffer. Man könnte ihn auch als kreative Box bezeichnen. Seine Inhalte sorgen für eine schnelle und selbstständige Einarbeitung und können sofort für die Anwendung genutzt werden.
 Er besteht aus verschiedenen analogen und digitalen Elementen:
 <br>
+
 - eine Sammlung an grundlegenden Technik-Bausteinen (Smart Home Geräte)
 - ein Escape Game aus den Bausteinen des Koffers
 - umfangreiche Anleitungen
 - eine Methodensammlung
 - Beispiele für ganze Prozesse einer kreativen und inklusiven Technik-Entwicklung
-<br>
+  <br>
 
 Der INTIA-Koffer führt spielerisch und niederschwellig an moderne Technik heran. Außerdem kann er dabei helfen, Ideen und Lösungen für den eigenen Alltag zu entwickeln. Dabei kann für Jugendliche oder andere Klient:innen zum Beispiel die Zielerreichung ihrer Selbstwirksamkeit und Selbstständigkeit vereinfacht werden. Andererseits können auch Fachkräfte ihre Arbeitsprozesse durch technische Hilfsmittel ergänzen und so ihren Arbeitsalltag erleichtern.
 
@@ -187,14 +188,13 @@ Der INTIA-Koffer kann durch INTIA-Erweiterungen vergrößert werden. Je nach Bed
 
 ## Weitere Varianten
 
-Es gibt noch weitere Möglichkeiten und alternative Nutzungen des INTIA-Koffers. Zum einen die INTIA-Methodensammlung, zum anderen den INTIA-Koffer als Laborraum. 
+Es gibt noch weitere Möglichkeiten und alternative Nutzungen des INTIA-Koffers. Zum einen die INTIA-Methodensammlung, zum anderen den INTIA-Koffer als Laborraum.
 
 {% include highlighter.html min-height25p=false image="/assets/img/intia-case/intia-case-1.jpg" content="
 
 ### INTIA-Methodensammlung
 
-Dich interessieren vor allem die Methoden? Dann schau dir die INTIA-Methodensammlung an! Bald gibt es einen eigenen Bereich für deren Anleitungen und Materialien. 
-
+Dich interessieren vor allem die Methoden? Dann schau dir die INTIA-Methodensammlung an! Bald gibt es einen eigenen Bereich für deren Anleitungen und Materialien.
 
 " %}
 

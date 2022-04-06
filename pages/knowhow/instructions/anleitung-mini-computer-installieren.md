@@ -1,6 +1,6 @@
 ---
 hero_tags: subpage pdf
-title_above: WISSEN
+title_above: Wissen
 title: Anleitung Mini-Computer installieren
 permalink: /knowhow/instructions/installation
 hero_image: /assets/img/uploads/dsc_0060.jpg
@@ -9,8 +9,6 @@ subtitle: Bevor es mit der Erstinbetriebnahme des INTIA-Koffers losgehen kann, m
 ---
 
 <!--StartFragment-->
-
-
 
 ## Vorbereitung 
 

@@ -1,6 +1,6 @@
 ---
 hero_tags: subpage
-title_above: WISSEN
+title_above: Wissen
 permalink: /knowhow/publications/
 jekyll-hyperlink-glossary: false
 title: Veröffentlichungen
