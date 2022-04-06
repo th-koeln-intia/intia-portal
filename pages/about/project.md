@@ -13,11 +13,11 @@ Die Jugendlichen machen selbst mit und forschen gemeinsam mit dem Team der TH K�
 
 # Der Projekt-Ansatz
 
-Digitale Technik erleichtert den Alltag und lässt viele Menschen an etwas teilhaben, was ohne sie unerreicht bliebe. Sie hilft einigen selbständiger zu leben und eigene Entscheidungen zu treffen. Man kann bei etwas mitmachen ohne zu reisen und sich mit anderen verbinden, sogar online neue Freunde finden. Aber nicht alle haben einen großen Nutzen von dieser Entwicklung von Technologien. Manche Menschen brauchen eine individuelle technische Lösung für ihr Zuhause, die es nicht als fertiges Produkt zu kaufen gibt. Das Projektteam versucht sie zu ermächtigen, technische Lösungen selbst zu erfinden und diese mit Spaß an der Sache gemeinsam mit ihnen zu gestalten. 
+Digitale Technik erleichtert den Alltag und lässt viele Menschen an etwas teilhaben, was ohne sie unerreicht bliebe. Sie hilft einigen selbständiger zu leben und eigene Entscheidungen zu treffen. Man kann bei etwas mitmachen ohne zu reisen und sich mit anderen verbinden, sogar online neue Freunde finden. Aber nicht alle haben einen großen Nutzen von dieser Entwicklung von Technologien. Manche Menschen brauchen eine individuelle technische Lösung für ihr Zuhause, die es nicht als fertiges Produkt zu kaufen gibt. Das Projektteam versucht sie zu ermächtigen, technische Lösungen selbst zu erfinden und diese mit Spaß an der Sache gemeinsam mit ihnen zu gestalten.
 
 #### Das Vorgehen
 
-Das Projektteam besucht Jugendliche in Wohneinrichtungen der Sozialen Arbeit, um gemeinsam in Workshops zu arbeiten. In einer Art Alltagslabor werden die Lücken, wo eine technische Lösung fehlt, gemeinsam erforscht und als Bedarf genauer definiert. Gemeinsam entwickeln Projektteam und jugendliche Mitentwickler:innen einen ersten technischen Prototypen, den es so vorher noch nicht gab. Ziel des Projektes ist es, eigene technische Lösungen in Form eines mobilen Laborkoffers anderen Einrichtungen der Sozialen Arbeit zur Verfügung zu stellen, inklusive Anleitung, Beschreibung der Methoden und Konzept. Alle wissenschaftlich interessante Fragen aus diesem Vorgehen werden auf dieser Plattform gesammelt und Fachkräften der Sozialen Arbeit, anderen Betroffenen sowie Selbsthilfeinitiativen und Technikexpert*innen angeboten. In Form von Werkzeugen, Wissen und Lösungen bietet hier das Projektteam seine Ergebnisse zur eigenen Nutzung, zum Nachbau und Weiterentwicklung als Open Source Material an.
+Das Projektteam besucht Jugendliche in Wohneinrichtungen der Sozialen Arbeit, um gemeinsam in Workshops zu arbeiten. In einer Art Alltagslabor werden die Lücken, wo eine technische Lösung fehlt, gemeinsam erforscht und als Bedarf genauer definiert. Gemeinsam entwickeln Projektteam und jugendliche Mitentwickler:innen einen ersten technischen Prototypen, den es so vorher noch nicht gab. Ziel des Projektes ist es, eigene technische Lösungen in Form eines mobilen Laborkoffers anderen Einrichtungen der Sozialen Arbeit zur Verfügung zu stellen, inklusive Anleitung, Beschreibung der Methoden und Konzept. Alle wissenschaftlich interessante Fragen aus diesem Vorgehen werden auf dieser Plattform gesammelt und Fachkräften der Sozialen Arbeit, anderen Betroffenen sowie Selbsthilfeinitiativen und Technikexpert\*innen angeboten. In Form von Werkzeugen, Wissen und Lösungen bietet hier das Projektteam seine Ergebnisse zur eigenen Nutzung, zum Nachbau und Weiterentwicklung als Open Source Material an.
 
 #### Besondere Herausforderungen
 
@@ -27,7 +27,46 @@ Während der Corona Pandemie konnten die geplanten Projektarbeiten aufgrund umfa
 
 ### INTIA wird von unterschiedlichen Menschen – Wissenschaftler:innen, Fachkräften der Sozialen Arbeit, (Forschungs)Einrichtungen und Betroffenen – vorangetrieben, die Hand in Hand zusammenarbeiten.
 
-<img src="/assets/img/about/INTIA_Netzwerkgrafik_final_Zeichenfläche 1.png" alt="placeholder" class="">
+<!-- <img src="/assets/img/about/netzwerkgrafik.png" alt="placeholder" class="" > -->
+
+<svg style="width: 100%;" version="1.1" xmlns="http://www.w3.org/2000/svg"  viewBox="0 0 2500 2500">
+  <image width="2500" height="2500" href="/assets/img/about/netzwerkgrafik.png"></image>
+
+  <defs>
+    <style>
+      polygon:hover {
+	    cursor:pointer;
+	  }
+      polygon {
+        opacity: 0.01;
+      }
+    </style>
+  </defs>
+
+  <a xlink:href="#fjmk">
+   <polygon points="1325,233,1326,234,1323,554,1365,611,1517,654,1641,729,1713,723,1921,482,1920,405,1714,273,1548,210,1398,179,1325,235" />
+  </a>
+  <a xlink:href="#godesheim">
+   <polygon points="1959,498,1960,499,1740,752,1735,812,1818,923,1877,1059,1951,1091,2251,1042,2301,971,2200,724,2041,509,1962,499,1956,502" />
+  </a>
+  <a xlink:href="#michaelshoven">
+   <polygon points="1903,1185,1904,1186,1899,1349,1869,1483,1893,1547,2160,1702,2259,1675,2328,1425,2333,1128,2259,1079,1946,1131,1905,1186" />
+  </a>
+  <a xlink:href="#bmbf">
+   <polygon points="1771,1641,1766,1649,1627,1757,1523,1814,1488,1881,1588,2189,1688,2213,1927,2080,2112,1893,2087,1800,1833,1636,1768,1643" />
+  </a>
+  <a xlink:href="#fachbeirat">
+   <polygon points="1171,236,1174,253,1175,559,1129,612,931,679,742,837,638,1015,593,1202,603,1365,632,1480,601,1553,325,1705,244,1677,169,1385,173,1133,198,975,316,696,416,551,527,442,637,357,802,267,1028,191,1103,177,1174,247" />
+  </a>
+  <a xlink:href="#fachbeirat">
+   <polygon points="1171,236,1174,253,1175,559,1129,612,931,679,742,837,638,1015,593,1202,603,1365,632,1480,601,1553,325,1705,244,1677,169,1385,173,1133,198,975,316,696,416,551,527,442,637,357,802,267,1028,191,1103,177,1174,247" />
+  </a>
+  <a xlink:href="#intia">
+    <circle cx="1249" cy="1235" r="488" opacity="0" />
+  </a>
+</svg>
+
+<a id="intia" class="anchor"></a>
 
 <div class="highlighter">
 
@@ -66,10 +105,7 @@ Das INTIA-Projektteam besteht aus ungefähr zehn Personen aus unterschiedlichen 
 </div>
 </div>
 
-
 </div>
-
-
 
 <div class="highlighter">
 
@@ -82,6 +118,8 @@ Das Forschungsprojekt INTIA hat drei Wissenschaftspraxispartnerschaften (kurz WP
     <img src="/assets/img/logos/diakonie_michaelshoven.png" alt="placeholder" class="">
   </div>
 <div class="column">
+
+<a id="michaelshoven" class="anchor"></a>
 
 ## Diakonie Michaelshoven
 
@@ -103,6 +141,8 @@ Seit 70 Jahren gibt es die Diakonie Michaelshoven. Sie setzt sich für soziale B
   </div>
 <div class="column">
 
+<a id="godesheim" class="anchor"></a>
+
 ## Evangelische Jugendhilfe Godesheim
 
 Die Evangelischen Jugendhilfe Godesheim ist ein Jugendhilfeverbund. Sie ist in dem Bereich der Kinder-, Jugend-, Behinderten- und Gesundheitshilfe tätig.
@@ -123,6 +163,8 @@ Die Evangelischen Jugendhilfe Godesheim ist ein Jugendhilfeverbund. Sie ist in d
   </div>
 <div class="column">
 
+<a id="fjmk" class="anchor"></a>
+
 ## Fachstelle für Jugendmedienkultur (FJMK)
 
 Die Fachstelle für Jugendmedienkultur NRW unterstützt Bildungseinrichtungen und Institutionen. Die FJMK hilft bei der Gestaltung der medienpädagogischen Arbeit.
@@ -139,6 +181,8 @@ Die Fachstelle für Jugendmedienkultur NRW unterstützt Bildungseinrichtungen un
 
 </div>
 
+<a id="fachbeirat" class="anchor"></a>
+
 <div class="highlighter">
 
 # Fachbeirat
@@ -150,6 +194,8 @@ Der Fachbeirat hat die Aufgabe, das Forschungsprojekt mit der Expertise seiner M
 # Finanzielle Förderung
 
 Das Forschungsprojekt INTIA wird von 2019-2023 vom Bundesministerium für Bildung und Forschung (BMBF) finanziell gefördert. Die Förderung ist Teil der Fördermaßnahme "Lebensqualität durch soziale Innovationen" (FH Sozial). Das Projekt heisst: "Inklusive Entwicklung von Methoden und Technologien für digitale Hilfen zur Alltagsbewältigung in der Behinderten- und Erziehungshilfe (INTIA)" und ist unter dem Förderkennzeichen 13FH534SX7 im [Förderkatalog des Bundes](https://foerderportal.bund.de/foekat/jsp/StartAction.do?actionMode=list) auffindbar.
+
+<a id="bmbf" class="anchor"></a>
 
 {% include highlighter.html min-height25p=true content="
 
@@ -166,4 +212,3 @@ BMBF ist die Abkürzung für Bundesminsterium für Bildung und Forschung. Das Mi
 </div>
 </div>
 "%}
-
