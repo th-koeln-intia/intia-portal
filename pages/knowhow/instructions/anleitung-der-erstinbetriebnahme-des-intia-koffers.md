@@ -1,6 +1,7 @@
 ---
 hero_tags: subpage pdf
-title_above: Wissen
+title_above: Anleitungen
+breadcrumbs: [Wissen, Anleitungen]
 title: Anleitung der Erstinbetriebnahme des INTIA-Koffers
 permalink: /knowhow/instructions/first_use
 hero_image: /assets/img/uploads/neuigkeit-koffertermin-piksl-1.jpg

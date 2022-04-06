@@ -1,6 +1,7 @@
 ---
 hero_tags: subpage pdf
-title_above: Wissen
+title_above: Anleitungen
+breadcrumbs: [Wissen, Anleitungen]
 title: Anleitung Mini-Computer installieren
 permalink: /knowhow/instructions/installation
 hero_image: /assets/img/uploads/dsc_0060.jpg
