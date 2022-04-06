@@ -7,11 +7,11 @@ subtitle: |
 hero_tags: subpage
 ---
 
-## Jugendliche als Expert:innen
+# Jugendliche als Expert:innen
 
 Die Jugendlichen machen selbst mit und forschen gemeinsam mit dem Team der TH Köln. Denn nur die Jugendlichen selbst wissen, was sie in ihrem Leben und besonders dort wo sie wohnen verbessern können. Zusammen mit dem INTIA Team der TH Köln erfinden sie technische oder digitale Hilfen für den Alltag von Jugendlichen. Über drei Jahre (2019 bis 2022) bekommt INTIA Fördergelder, damit die Wissenschaftler:innen der TH Köln und Jugendliche zusammen arbeiten können.
 
-## Der Projekt-Ansatz
+# Der Projekt-Ansatz
 
 Digitale Technik erleichtert den Alltag und lässt viele Menschen an etwas teilhaben, was ohne sie unerreicht bliebe. Sie hilft einigen selbständiger zu leben und eigene Entscheidungen zu treffen. Man kann bei etwas mitmachen ohne zu reisen und sich mit anderen verbinden, sogar online neue Freunde finden. Aber nicht alle haben einen großen Nutzen von dieser Entwicklung von Technologien. Manche Menschen brauchen eine individuelle technische Lösung für ihr Zuhause, die es nicht als fertiges Produkt zu kaufen gibt. Das Projektteam versucht sie zu ermächtigen, technische Lösungen selbst zu erfinden und diese mit Spaß an der Sache gemeinsam mit ihnen zu gestalten. 
 
