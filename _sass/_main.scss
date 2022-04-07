@@ -20,11 +20,14 @@ $dark: #09443e;
 
 h4 {
   font-weight: 300;
-  font-size: 1.7rem;
+  font-size: 2.3rem;
   padding-top: 50px;
   padding-bottom: 30px;
+  letter-spacing: -0.04rem;
 }
-
+strong {
+  color: #000;
+}
 .highlighter h3 {
   padding-top: 0;
 }

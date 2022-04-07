@@ -138,49 +138,22 @@ Der INTIA-Koffer kann durch INTIA-Erweiterungen vergrößert werden. Je nach Bed
   <figure class='image'>
     <img class='with-zone' src='/assets/img/intia-case/icons/sl_touch_400px.png'>
   </figure>
-  <!-- 
-      <a href='#' class='button highlighter-column-button is-rounded is-dark'>
-  -->
       <h3>Knopf-Set</h3>
       Eine Auswahl verschiedener Knöpfe, Schalter und Fernbedienungen.
-      <!-- 
-      <span class='icon is-small'>
-        <i class='fas fa-chevron-right fa-xs'></i>
-      </span>
-  </a>
-  -->
 </div>
 <div class='column is-one-third has-text-centered'>
   <figure class='image'>
     <img class='with-zone' src='/assets/img/intia-case/icons/sl_smart-door_400px.png'>
   </figure>
-  <!-- 
-      <a href='#' class='button highlighter-column-button is-rounded is-dark'>
-      -->
       <h3>Sensor-Set</h3>
       Eine Auswahl verschiedener Sensoren. Bewegungsmelder, Türkontakte, Temperatursensoren und mehr.
-      <!-- 
-      <span class='icon is-small'>
-        <i class='fas fa-chevron-right fa-xs'></i>
-      </span>
-  </a>
-  -->
 </div>
 <div class='column is-one-third has-text-centered'>
   <figure class='image'>
     <img class='with-zone' src='/assets/img/intia-case/icons/sprachassistenz_schwarz_400px.png'>
   </figure>
-  <!-- 
-      <a href='#' class='button highlighter-column-button is-rounded is-dark'>
-  -->
       <h3>Sprachassistenz-Set</h3>
       Der Mini-Computer kann hiermit zu einem Sprachassistenten umgerüstet werden.
-      <!-- 
-      <span class='icon is-small'>
-        <i class='fas fa-chevron-right fa-xs'></i>
-      </span>
-  </a>
-  -->
 </div>
 </div>
 

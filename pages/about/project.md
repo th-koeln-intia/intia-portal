@@ -27,9 +27,9 @@ Während der Corona Pandemie konnten die geplanten Projektarbeiten aufgrund umfa
 
 ### INTIA wird von unterschiedlichen Menschen – Wissenschaftler:innen, Fachkräften der Sozialen Arbeit, (Forschungs)Einrichtungen und Betroffenen – vorangetrieben, die Hand in Hand zusammenarbeiten.
 
-<!-- <img src="/assets/img/about/netzwerkgrafik.png" alt="placeholder" class="" > -->
+<!-- <img src="/assets/img/about/netzwerkgrafik.png" alt="placeholder" class="content_image" > -->
 
-<svg style="width: 100%;" version="1.1" xmlns="http://www.w3.org/2000/svg"  viewBox="0 0 2500 2500">
+<svg style="width: 85%; text-align: center; margin-left: auto; margin-right: auto; display: block;" version="1.1" xmlns="http://www.w3.org/2000/svg"  viewBox="0 0 2500 2500">
   <image width="2500" height="2500" href="/assets/img/about/netzwerkgrafik.png"></image>
 
   <defs>
@@ -79,29 +79,33 @@ Das INTIA-Projektteam besteht aus ungefähr zehn Personen aus unterschiedlichen 
   <figure class='image'>
     <img class='with-zone is-rounded' src='/assets/img/about/team/IZ.jpg'>
   </figure>
-      <h3>Prof. Dr. Isabel Zorn</h3>
-      SOZIALE ARBEIT
+      <strong>Prof. Dr. Isabel Zorn</strong>
+      <br><br>
+      <small>SOZIALE ARBEIT</small>
 </div>
 <div class='column is-one-quarter has-text-centered'>
   <figure class='image'>
     <img class='with-zone is-rounded' src='/assets/img/about/team/SB.jpg'>
   </figure>
-      <h3>Prof. Dr. Stefan Bente</h3>
-      INFORMATIK
+      <strong>Prof. Dr. Stefan Bente</strong>
+      <br><br>
+      <small>INFORMATIK</small>
 </div>
 <div class='column is-one-quarter has-text-centered'>
   <figure class='image'>
     <img class='with-zone is-rounded' src='/assets/img/about/team/BM.jpg'>
   </figure>
-      <h3>Prof. Birgit Mager</h3>
-      SERVICE DESIGN
+      <strong>Prof. Birgit Mager</strong>
+      <br><br>
+      <small>SERVICE DESIGN</small>
 </div>
 <div class='column is-one-quarter has-text-centered'>
   <figure class='image'>
     <img class='with-zone is-rounded' src='/assets/img/about/team/CK.jpg'>
   </figure>
-      <h3>Prof. Dr. Christian Kohls</h3>
-      SOZIOTECHNIK
+      <strong>Prof. Dr. Christian Kohls</strong>
+      <br><br>
+      <small>SOZIOTECHNIK</small>
 </div>
 </div>
 
@@ -202,13 +206,13 @@ Das Forschungsprojekt INTIA wird von 2019-2023 vom Bundesministerium für Bildun
 <div class='columns'>
 <div class='column'>
 
-## Das Bundesministerium für Bildung und Forschung (BMBF)
+### Das Bundesministerium für Bildung und Forschung (BMBF)
 
 BMBF ist die Abkürzung für Bundesminsterium für Bildung und Forschung. Das Ministerium ist eine Einrichtung der deutschen Regierung. Jedes Jahr hat das BMBF Geld zur Verfügung und unterstützt damit Projekte im Bereich Bildung und Forschung.
 
 </div>
 <div class='column'>
-  <img class='with-zone' src='/assets/img/logos/BMBF_logo.jpg'>
+  <img class='with-zone' src='/assets/img/logos/BMBF_logo.jpg' style='padding-right: 0rem;'>
 </div>
 </div>
 "%}
