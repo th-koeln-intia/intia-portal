@@ -60,3 +60,18 @@ a.normal {
   padding-top:120px;
   margin-top:-120px;
 }
+
+.breadcrumb ul, .breadcrumb ol {
+  padding-top: 0.7rem;
+  padding-bottom: 0.7rem;
+  font-size: 0.95rem;
+}
+.green-version .breadcrumb li+li::before {
+  color: #000;
+  padding-bottom: 0.2rem;
+}
+
+.breadcrumb li:first-child a {
+  color: #000;
+  padding-top: 0.1rem;
+}

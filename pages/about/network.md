@@ -5,30 +5,60 @@ permalink: /about/network/
 subtitle: |
   Die Plattform INTIA unterstützt den Aufbau eines Netzwerks mit Interesse an digitalen und technischen Alltagshilfen. Schon dabei sind: das INTIA-Projektteam, der Fachbeirat des Projekts und seine Praxispartner. Alle verbindet der Wunsch, sich untereinander und mit Fachkräften der Sozialen Arbeit und den beteiligten Wissenschaftler:innen auszutauschen und ein Netzwerk zu bilden. Gemeinsam kann das Netzwerk wachsen.
 hero_tags: subpage
-hero_image: /assets/img/about/network.jpg
 ---
 
-<div class="highlighter">
+# INTIA erleben
 
-# Projektteam
+Text Text Text
 
-Das INTIA-Projektteam besteht aus ungefähr zehn Personen aus unterschiedlichen Fachdisziplinen. Die Professor:innen sind: Prof. Dr. lsabel Zorn (Fakultät für Angewandte Sozialwissenschaften, Schwerpunkte Digitale Medienbildung in der Sozialen Arbeit), Prof. Dr. Stefan Bente (Fakultät für lnformatik und lngenieurwissenschaften, Schwerpunkt Softwaretechnik), Prof. Birgit Mager (Fakultät für Kulturwissenschaften, Köln lnternational School of Design KISD, Schwerpunkt Service Design) und Prof. Dr. Christian Kohls (Fakultät for lnformatik und lngenieurwissenschaften, Schwerpunkt Soziotechnische Systeme). Hinzu kommen wissenschaftliche Mitarbeiter:innen aus allen vier wissenschaftlichen Disziplinen. Sie heißen Hanna Thielmann, Carola Janda und Caroline Kortekaas (Fakultät für Angewandte Sozialwissenschaften), Marc Schmidt, Dennis Wilk und Jan Seidler (Fakultät für lnformatik und lngenieurwissenschaften) sowie Janina Rösch (Köln lnternational School of Design KISD). Unterstützt werden alle von den Hilfskräften Miriam Hafki und Johannes Jülich (Fakultät für Angewandte Sozialwissenschaften) und Duane Maurer (Köln lnternational School of Design KISD).
-
+<div class='columns'>
+<div class='column is-one-third has-text-centered'>
+  <figure class='image'>
+    <img class='with-zone' src='/assets/img/about/network/Austauschkanal.SVG'>
+  </figure>
+      <h3>Austauschkanal</h3>
+      Austausch über das INTIA Material und persönliche Fragen im <strong>Austauschkanal</strong>
+</div>
+<div class='column is-one-third has-text-centered'>
+  <figure class='image'>
+    <img class='with-zone' src='/assets/img/about/network/Makerspace.SVG'>
+  </figure>
+      <h3>Makerspace</h3>
+      Bestandteile des INTIA-Koffers individualisieren und selbst produzieren im <strong>Maker Space Bonn</strong>
+</div>
+<div class='column is-one-third has-text-centered'>
+  <figure class='image'>
+    <img class='with-zone' src='/assets/img/about/network/Videos.SVG'>
+  </figure>
+      <h3>Videos</h3>
+      Mehr über die INTIA-Produkte und ihre Nutzung lernen in den <strong>Fortbildungsvideos</strong>
+</div>
 </div>
 
 <div class="highlighter">
 
-# Fachbeirat
+## Abschlusstagung
 
-Der Fachbeirat hat die Aufgabe, das Forschungsprojekt mit der Expertise seiner Mitglieder zu unterstützen und zu beraten. Zum Fachbeirat gehören Dr. Tom Bieling (HAW Hamburg), Prof. Dr. Ingo Bosse (Selfmade, TU Dortmund), Dr. Julius Deutsch (Kommhelp e.V.), Fabian Hesterberg (Institut für Inklusive Bildung NRW), Prof. Dr. Heidi Schelhowe † (FabLab Uni Bremen), Gerhard Seiler (Think Tank iRights.Lab) und Bernhard Spelten (PIKSL).
+<div class='columns'>
+<div class='column is-one-third has-text-centered'>
+  <figure class='image'>
+    <img class='with-zone' src='/assets/img/intia-case/icons/sl_touch_400px.png'>
+  </figure>
+      <h3>Knopf-Set</h3>
+      Eine Auswahl verschiedener Knöpfe, Schalter und Fernbedienungen.
+</div>
+<div class='column is-two-third has-text-centered'>
+  text text text
+</div>
 
 </div>
 
+</div>
+
+
+# Im Netzwerk schon dabei
+
 <div class="highlighter">
-
-# Praxispartner
-
-Das Forschungsprojekt INTIA hat drei Wissenschaftspraxispartnerschaften (kurz WPKs), die von Anfang an dabei sind. Es sind die Diakonie Michaelshoven, die Evangelische Jugendhilfe Godesheim und die Fachstelle für Jugendmedienkultur (FJMK). In den Einrichtungen dieser Partner konnten Praxiseinsätze durchgeführt und gemeinsam an Forschungsfragen gearbeitet werden.
 
 <div class="columns">       
   <div class="column is-4 is-round is-centered">
@@ -36,7 +66,7 @@ Das Forschungsprojekt INTIA hat drei Wissenschaftspraxispartnerschaften (kurz WP
   </div>
 <div class="column">
 
-## Diakonie Michaelshoven
+## intra Bonn
 
 Seit 70 Jahren gibt es die Diakonie Michaelshoven. Sie setzt sich für soziale Belange ein. In über 200 Einrichtungen begleiten, fördern und betreuen die Mitarbeiter:innen viele Menschen
 
@@ -56,7 +86,7 @@ Seit 70 Jahren gibt es die Diakonie Michaelshoven. Sie setzt sich für soziale B
   </div>
 <div class="column">
 
-## Evangelische Jugendhilfe Godesheim
+## PIKSL Köln
 
 Die Evangelischen Jugendhilfe Godesheim ist ein Jugendhilfeverbund. Sie ist in dem Bereich der Kinder-, Jugend-, Behinderten- und Gesundheitshilfe tätig.
 
@@ -76,7 +106,7 @@ Die Evangelischen Jugendhilfe Godesheim ist ein Jugendhilfeverbund. Sie ist in d
   </div>
 <div class="column">
 
-## Fachstelle für Jugendmedienkultur (FJMK)
+## Institut für Inklusive Bildung
 
 Die Fachstelle für Jugendmedienkultur NRW unterstützt Bildungseinrichtungen und Institutionen. Die FJMK hilft bei der Gestaltung der medienpädagogischen Arbeit.
 

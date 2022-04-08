@@ -193,13 +193,27 @@ Die Fachstelle für Jugendmedienkultur NRW unterstützt Bildungseinrichtungen un
 
 Der Fachbeirat hat die Aufgabe, das Forschungsprojekt mit der Expertise seiner Mitglieder zu unterstützen und zu beraten. Zum Fachbeirat gehören 
 
-<strong>Dr. Julius Deutsch</strong> (<a href="https://www.kommhelp.de/" class="normal">Kommhelp e.V.</a>)<br>
-<strong>Prof. Dr. Heidi Schelhowe</strong> † (<a href="https://www.uni-bremen.de/kooperationen/uni-schule/schuelerinnen-und-schueler/mathematik-und-informatik-trifft-schule-mit-schule/fablab" class="normal">FabLab Uni Bremen</a>)<br>
-<strong>Dr. Tom Bieling</strong> (<a href="https://www.haw-hamburg.de/" class="normal">HAW Hamburg</a>)<br>
-<strong>Bernhard Spelten</strong> (<a href="https://piksl.net/ed/" class="normal">PIKSL</a>)<br>
-<strong>Gerhard Seiler</strong> (<a href="https://www.irights-lab.de/" class="normal">Think Tank iRights.Lab</a>)<br>
-<strong>Prof. Dr. Ingo Bosse</strong> (<a href="https://kme.reha.tu-dortmund.de/forschung/projekte/abgeschlossene-projekte/selfmade/" class="normal">Selfmade, TU Dortmund</a>)<br>
-<strong>Fabian Hesterberg</strong> (<a href="https://nrw.inklusive-bildung.org/" class="normal">Institut für Inklusive Bildung NRW</a>)<br>
+<strong>Dr. Julius Deutsch</strong> (<a href="https://www.kommhelp.de/" class="normal">Kommhelp e.V.<span class="icon is-small">
+    <i class="fas icon-external fa-xs invert"></i>
+    </span></a>)<br>
+<strong>Prof. Dr. Heidi Schelhowe</strong> † (<a href="https://www.uni-bremen.de/kooperationen/uni-schule/schuelerinnen-und-schueler/mathematik-und-informatik-trifft-schule-mit-schule/fablab" class="normal">FabLab Uni Bremen<span class="icon is-small">
+    <i class="fas icon-external fa-xs invert"></i>
+    </span></a>)<br>
+<strong>Dr. Tom Bieling</strong> (<a href="https://www.haw-hamburg.de/" class="normal">HAW Hamburg<span class="icon is-small">
+    <i class="fas icon-external fa-xs invert"></i>
+    </span></a>)<br>
+<strong>Bernhard Spelten</strong> (<a href="https://piksl.net/ed/" class="normal">PIKSL<span class="icon is-small">
+    <i class="fas icon-external fa-xs invert"></i>
+    </span></a>)<br>
+<strong>Gerhard Seiler</strong> (<a href="https://www.irights-lab.de/" class="normal">Think Tank iRights.Lab<span class="icon is-small">
+    <i class="fas icon-external fa-xs invert"></i>
+    </span></a>)<br>
+<strong>Prof. Dr. Ingo Bosse</strong> (<a href="https://kme.reha.tu-dortmund.de/forschung/projekte/abgeschlossene-projekte/selfmade/" class="normal">Selfmade, TU Dortmund<span class="icon is-small">
+    <i class="fas icon-external fa-xs invert"></i>
+    </span></a>)<br>
+<strong>Fabian Hesterberg</strong> (<a href="https://nrw.inklusive-bildung.org/" class="normal">Institut für Inklusive Bildung NRW<span class="icon is-small">
+    <i class="fas icon-external fa-xs invert"></i>
+    </span></a>)<br>
 
 </div>
 
