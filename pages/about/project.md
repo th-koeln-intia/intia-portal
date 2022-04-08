@@ -29,7 +29,7 @@ Während der Corona Pandemie konnten die geplanten Projektarbeiten aufgrund umfa
 
 <!-- <img src="/assets/img/about/netzwerkgrafik.png" alt="placeholder" class="content_image" > -->
 
-<svg style="width: 85%; text-align: center; margin-left: auto; margin-right: auto; display: block;" version="1.1" xmlns="http://www.w3.org/2000/svg"  viewBox="0 0 2500 2500">
+<svg style="width: 75%; text-align: center; margin-left: auto; margin-right: auto; display: block;" version="1.1" xmlns="http://www.w3.org/2000/svg"  viewBox="0 0 2500 2500">
   <image width="2500" height="2500" href="/assets/img/about/netzwerkgrafik.png"></image>
 
   <defs>
@@ -80,7 +80,7 @@ Das INTIA-Projektteam besteht aus ungefähr zehn Personen aus unterschiedlichen 
     <img class='with-zone is-rounded' src='/assets/img/about/team/IZ.jpg'>
   </figure>
       <strong>Prof. Dr. Isabel Zorn</strong>
-      <br><br>
+      <br>
       <small>SOZIALE ARBEIT</small>
 </div>
 <div class='column is-one-quarter has-text-centered'>
@@ -88,7 +88,7 @@ Das INTIA-Projektteam besteht aus ungefähr zehn Personen aus unterschiedlichen 
     <img class='with-zone is-rounded' src='/assets/img/about/team/SB.jpg'>
   </figure>
       <strong>Prof. Dr. Stefan Bente</strong>
-      <br><br>
+      <br>
       <small>INFORMATIK</small>
 </div>
 <div class='column is-one-quarter has-text-centered'>
@@ -96,7 +96,7 @@ Das INTIA-Projektteam besteht aus ungefähr zehn Personen aus unterschiedlichen 
     <img class='with-zone is-rounded' src='/assets/img/about/team/BM.jpg'>
   </figure>
       <strong>Prof. Birgit Mager</strong>
-      <br><br>
+      <br>
       <small>SERVICE DESIGN</small>
 </div>
 <div class='column is-one-quarter has-text-centered'>
@@ -104,7 +104,7 @@ Das INTIA-Projektteam besteht aus ungefähr zehn Personen aus unterschiedlichen 
     <img class='with-zone is-rounded' src='/assets/img/about/team/CK.jpg'>
   </figure>
       <strong>Prof. Dr. Christian Kohls</strong>
-      <br><br>
+      <br>
       <small>SOZIOTECHNIK</small>
 </div>
 </div>
@@ -191,7 +191,15 @@ Die Fachstelle für Jugendmedienkultur NRW unterstützt Bildungseinrichtungen un
 
 # Fachbeirat
 
-Der Fachbeirat hat die Aufgabe, das Forschungsprojekt mit der Expertise seiner Mitglieder zu unterstützen und zu beraten. Zum Fachbeirat gehören Dr. Tom Bieling (HAW Hamburg), Prof. Dr. Ingo Bosse (Selfmade, TU Dortmund), Dr. Julius Deutsch (Kommhelp e.V.), Fabian Hesterberg (Institut für Inklusive Bildung NRW), Prof. Dr. Heidi Schelhowe † (FabLab Uni Bremen), Gerhard Seiler (Think Tank iRights.Lab) und Bernhard Spelten (PIKSL).
+Der Fachbeirat hat die Aufgabe, das Forschungsprojekt mit der Expertise seiner Mitglieder zu unterstützen und zu beraten. Zum Fachbeirat gehören 
+
+<strong>Dr. Julius Deutsch</strong> (<a href="https://www.kommhelp.de/" class="normal">Kommhelp e.V.</a>)<br>
+<strong>Prof. Dr. Heidi Schelhowe</strong> † (<a href="https://www.uni-bremen.de/kooperationen/uni-schule/schuelerinnen-und-schueler/mathematik-und-informatik-trifft-schule-mit-schule/fablab" class="normal">FabLab Uni Bremen</a>)<br>
+<strong>Dr. Tom Bieling</strong> (<a href="https://www.haw-hamburg.de/" class="normal">HAW Hamburg</a>)<br>
+<strong>Bernhard Spelten</strong> (<a href="https://piksl.net/ed/" class="normal">PIKSL</a>)<br>
+<strong>Gerhard Seiler</strong> (<a href="https://www.irights-lab.de/" class="normal">Think Tank iRights.Lab</a>)<br>
+<strong>Prof. Dr. Ingo Bosse</strong> (<a href="https://kme.reha.tu-dortmund.de/forschung/projekte/abgeschlossene-projekte/selfmade/" class="normal">Selfmade, TU Dortmund</a>)<br>
+<strong>Fabian Hesterberg</strong> (<a href="https://nrw.inklusive-bildung.org/" class="normal">Institut für Inklusive Bildung NRW</a>)<br>
 
 </div>
 
@@ -206,7 +214,7 @@ Das Forschungsprojekt INTIA wird von 2019-2023 vom Bundesministerium für Bildun
 <div class='columns'>
 <div class='column'>
 
-### Das Bundesministerium für Bildung und Forschung (BMBF)
+### BMBF
 
 BMBF ist die Abkürzung für Bundesminsterium für Bildung und Forschung. Das Ministerium ist eine Einrichtung der deutschen Regierung. Jedes Jahr hat das BMBF Geld zur Verfügung und unterstützt damit Projekte im Bereich Bildung und Forschung.
 
