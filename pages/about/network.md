@@ -13,22 +13,22 @@ Text Text Text
 
 <div class='columns'>
 <div class='column is-one-third has-text-centered'>
-  <figure class='image'>
-    <img class='with-zone' src='/assets/img/about/network/Austauschkanal.SVG'>
+  <figure class='image '>
+    <img style="width: 50%; padding: 1rem; text-align: center; margin-left: auto; margin-right: auto; display: block; object-fit: scale-down;" class='with-zone green_bg is-round' src='/assets/img/about/network/Austauschkanal.SVG'>
   </figure>
       <h3>Austauschkanal</h3>
       Austausch über das INTIA Material und persönliche Fragen im <strong>Austauschkanal</strong>
 </div>
 <div class='column is-one-third has-text-centered'>
   <figure class='image'>
-    <img class='with-zone' src='/assets/img/about/network/Makerspace.SVG'>
+    <img style="width: 50%; padding: 1rem; text-align: center; margin-left: auto; margin-right: auto; display: block; object-fit: scale-down;" class='with-zone green_bg is-round' src='/assets/img/about/network/Makerspace.SVG'>
   </figure>
       <h3>Makerspace</h3>
       Bestandteile des INTIA-Koffers individualisieren und selbst produzieren im <strong>Maker Space Bonn</strong>
 </div>
 <div class='column is-one-third has-text-centered'>
   <figure class='image'>
-    <img class='with-zone' src='/assets/img/about/network/Videos.SVG'>
+    <img style="width: 50%; padding: 1rem; text-align: center; margin-left: auto; margin-right: auto; display: block; object-fit: scale-down;" class='with-zone green_bg is-round' src='/assets/img/about/network/Videos.SVG'>
   </figure>
       <h3>Videos</h3>
       Mehr über die INTIA-Produkte und ihre Nutzung lernen in den <strong>Fortbildungsvideos</strong>
@@ -42,10 +42,10 @@ Text Text Text
 <div class='columns'>
 <div class='column is-one-third has-text-centered'>
   <figure class='image'>
-    <img class='with-zone' src='/assets/img/intia-case/icons/sl_touch_400px.png'>
+    <img class='with-zone' src='/assets/img/about/network/Veranstaltungen.SVG'>
   </figure>
-      <h3>Knopf-Set</h3>
-      Eine Auswahl verschiedener Knöpfe, Schalter und Fernbedienungen.
+     Do, 09.06.2022<br>
+     09:00 bis 12:30 Uhr
 </div>
 <div class='column is-two-third has-text-centered'>
   text text text
@@ -62,7 +62,7 @@ Text Text Text
 
 <div class="columns">       
   <div class="column is-4 is-round is-centered">
-    <img src="/assets/img/logos/diakonie_michaelshoven.png" alt="placeholder" class="">
+    <img style="object-fit: scale-down;" src="/assets/img/about/network/intra-Logo.png" alt="placeholder" class="">
   </div>
 <div class="column">
 
@@ -70,7 +70,7 @@ Text Text Text
 
 Seit 70 Jahren gibt es die Diakonie Michaelshoven. Sie setzt sich für soziale Belange ein. In über 200 Einrichtungen begleiten, fördern und betreuen die Mitarbeiter:innen viele Menschen
 
-  <a href="https://www.diakonie-michaelshoven.de/" class="button is-rounded is-dark">
+  <a href="https://www.bonn.de/themen-entdecken/soziales-gesellschaft/intraggmbh.php" class="button is-rounded is-dark">
       <span>Website</span>
       <span class="icon is-small">
         <i class="fas fa-external-link-alt fa-xs"></i>
@@ -82,7 +82,7 @@ Seit 70 Jahren gibt es die Diakonie Michaelshoven. Sie setzt sich für soziale B
 
   <div class="columns">       
   <div class="column is-4 is-round is-centered">
-    <img src="/assets/img/logos/ev_jugendhilfe_godesheim.png" alt="placeholder" class="">
+    <img style="object-fit: scale-down;" src="/assets/img/about/network/PIKSL-Logo.png" alt="placeholder" class="">
   </div>
 <div class="column">
 
@@ -90,7 +90,7 @@ Seit 70 Jahren gibt es die Diakonie Michaelshoven. Sie setzt sich für soziale B
 
 Die Evangelischen Jugendhilfe Godesheim ist ein Jugendhilfeverbund. Sie ist in dem Bereich der Kinder-, Jugend-, Behinderten- und Gesundheitshilfe tätig.
 
-  <a href="https://www.godesheim.de/" class="button is-rounded is-dark">
+  <a href="https://piksl.net/ed/standorte/koeln/" class="button is-rounded is-dark">
       <span>Website</span>
       <span class="icon is-small">
         <i class="fas fa-external-link-alt fa-xs"></i>
@@ -102,7 +102,7 @@ Die Evangelischen Jugendhilfe Godesheim ist ein Jugendhilfeverbund. Sie ist in d
 
   <div class="columns">       
   <div class="column is-4 is-round is-centered">
-    <img src="/assets/img/logos/fjmk.png" alt="placeholder" class="">
+    <img src="/assets/img/about/network/IBB_Logo.jpg" alt="placeholder" class="">
   </div>
 <div class="column">
 
@@ -110,7 +110,7 @@ Die Evangelischen Jugendhilfe Godesheim ist ein Jugendhilfeverbund. Sie ist in d
 
 Die Fachstelle für Jugendmedienkultur NRW unterstützt Bildungseinrichtungen und Institutionen. Die FJMK hilft bei der Gestaltung der medienpädagogischen Arbeit.
 
-  <a href="https://www.jugendmedienkultur-nrw.de/" class="button is-rounded is-dark">
+  <a href="https://nrw.inklusive-bildung.org/de/startseite-1" class="button is-rounded is-dark">
       <span>Website</span>
       <span class="icon is-small">
         <i class="fas fa-external-link-alt fa-xs"></i>
