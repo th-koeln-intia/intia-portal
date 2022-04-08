@@ -1,4 +1,15 @@
 // Custom Icons
+// Button Icons
+.icon-download:before {
+  @extend .custom-button-icons;
+  background: url(/assets/img/icons/download.svg) no-repeat;
+}
+.icon-external:before {
+  @extend .custom-button-icons;
+  background: url(/assets/img/icons/external.svg) no-repeat;
+  transform: rotate(-90deg);
+}
+
 // About Icons
 .icon-handshake:before {
   @extend .custom-icon;

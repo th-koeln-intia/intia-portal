@@ -129,12 +129,8 @@ Das Forschungsprojekt INTIA hat drei Wissenschaftspraxispartnerschaften (kurz WP
 
 Seit 70 Jahren gibt es die Diakonie Michaelshoven. Sie setzt sich für soziale Belange ein. In über 200 Einrichtungen begleiten, fördern und betreuen die Mitarbeiter:innen viele Menschen
 
-  <a href="https://www.diakonie-michaelshoven.de/" class="button is-rounded is-dark">
-      <span>Website</span>
-      <span class="icon is-small">
-        <i class="fas fa-external-link-alt fa-xs"></i>
-      </span>
-  </a>
+{% include button.html label="Website" link="https://www.diakonie-michaelshoven.de/" type="external" %}
+
   <div class="clear"></div>                          
   </div>
   </div>
@@ -151,12 +147,8 @@ Seit 70 Jahren gibt es die Diakonie Michaelshoven. Sie setzt sich für soziale B
 
 Die Evangelischen Jugendhilfe Godesheim ist ein Jugendhilfeverbund. Sie ist in dem Bereich der Kinder-, Jugend-, Behinderten- und Gesundheitshilfe tätig.
 
-  <a href="https://www.godesheim.de/" class="button is-rounded is-dark">
-      <span>Website</span>
-      <span class="icon is-small">
-        <i class="fas fa-external-link-alt fa-xs"></i>
-      </span>
-  </a>
+{% include button.html label="Website" link="https://www.godesheim.de/" type="external" %}
+
   <div class="clear"></div>                          
   </div>
   </div>
@@ -173,12 +165,8 @@ Die Evangelischen Jugendhilfe Godesheim ist ein Jugendhilfeverbund. Sie ist in d
 
 Die Fachstelle für Jugendmedienkultur NRW unterstützt Bildungseinrichtungen und Institutionen. Die FJMK hilft bei der Gestaltung der medienpädagogischen Arbeit.
 
-  <a href="https://www.jugendmedienkultur-nrw.de/" class="button is-rounded is-dark">
-      <span>Website</span>
-      <span class="icon is-small">
-        <i class="fas fa-external-link-alt fa-xs"></i>
-      </span>
-  </a>
+{% include button.html label="Website" link="https://www.jugendmedienkultur-nrw.de/" type="external" %}
+
   <div class="clear"></div>                          
   </div>
   </div>
@@ -191,29 +179,29 @@ Die Fachstelle für Jugendmedienkultur NRW unterstützt Bildungseinrichtungen un
 
 # Fachbeirat
 
-Der Fachbeirat hat die Aufgabe, das Forschungsprojekt mit der Expertise seiner Mitglieder zu unterstützen und zu beraten. Zum Fachbeirat gehören 
+Der Fachbeirat hat die Aufgabe, das Forschungsprojekt mit der Expertise seiner Mitglieder zu unterstützen und zu beraten. Zum Fachbeirat gehören
 
 <strong>Dr. Julius Deutsch</strong> (<a href="https://www.kommhelp.de/" class="normal">Kommhelp e.V.<span class="icon is-small">
-    <i class="fas icon-external fa-xs invert"></i>
-    </span></a>)<br>
+<i class="fas icon-external fa-xs"></i>
+</span></a>)<br>
 <strong>Prof. Dr. Heidi Schelhowe</strong> † (<a href="https://www.uni-bremen.de/kooperationen/uni-schule/schuelerinnen-und-schueler/mathematik-und-informatik-trifft-schule-mit-schule/fablab" class="normal">FabLab Uni Bremen<span class="icon is-small">
-    <i class="fas icon-external fa-xs invert"></i>
-    </span></a>)<br>
+<i class="fas icon-external fa-xs"></i>
+</span></a>)<br>
 <strong>Dr. Tom Bieling</strong> (<a href="https://www.haw-hamburg.de/" class="normal">HAW Hamburg<span class="icon is-small">
-    <i class="fas icon-external fa-xs invert"></i>
-    </span></a>)<br>
+<i class="fas icon-external fa-xs"></i>
+</span></a>)<br>
 <strong>Bernhard Spelten</strong> (<a href="https://piksl.net/ed/" class="normal">PIKSL<span class="icon is-small">
-    <i class="fas icon-external fa-xs invert"></i>
-    </span></a>)<br>
+<i class="fas icon-external fa-xs"></i>
+</span></a>)<br>
 <strong>Gerhard Seiler</strong> (<a href="https://www.irights-lab.de/" class="normal">Think Tank iRights.Lab<span class="icon is-small">
-    <i class="fas icon-external fa-xs invert"></i>
-    </span></a>)<br>
+<i class="fas icon-external fa-xs"></i>
+</span></a>)<br>
 <strong>Prof. Dr. Ingo Bosse</strong> (<a href="https://kme.reha.tu-dortmund.de/forschung/projekte/abgeschlossene-projekte/selfmade/" class="normal">Selfmade, TU Dortmund<span class="icon is-small">
-    <i class="fas icon-external fa-xs invert"></i>
-    </span></a>)<br>
+<i class="fas icon-external fa-xs"></i>
+</span></a>)<br>
 <strong>Fabian Hesterberg</strong> (<a href="https://nrw.inklusive-bildung.org/" class="normal">Institut für Inklusive Bildung NRW<span class="icon is-small">
-    <i class="fas icon-external fa-xs invert"></i>
-    </span></a>)<br>
+<i class="fas icon-external fa-xs"></i>
+</span></a>)<br>
 
 </div>
 
