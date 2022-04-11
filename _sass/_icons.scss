@@ -1,4 +1,12 @@
 // Custom Icons
+// Searchbar icon
+.icon-search:before {
+  @extend .custom-button-icons;
+  background: url(/assets/img/icons/search.svg) no-repeat;
+  width: 32px;
+  height: 32px;
+  filter: invert(35%) sepia(93%) saturate(355%) hue-rotate(124deg) brightness(93%) contrast(88%);
+}
 // Button Icons
 .icon-download:before {
   @extend .custom-button-icons;
