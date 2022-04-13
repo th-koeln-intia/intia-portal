@@ -84,3 +84,10 @@ img.is-round {
 .green_bg {
   background-color: #e7f2ea;
 }
+//update table
+.tb th, .tb td {
+  padding-right: 2em;
+}
+.tb td:last-child {
+  padding-right: 5px;
+}

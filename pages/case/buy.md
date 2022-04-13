@@ -24,32 +24,32 @@ Und wie viel kostet nun so ein INTIA-Koffer? Die Infos gibt es hier. Die Preise 
         <th>Preis</th>
     </tr>
     <tr>
-        <td>INTIA-Koffer</td>
+        <td><strong>INTIA-Koffer</strong></td>
         <td>Der Mini-Computer, eine Auswahl einfacher Bausteine und alle analogen Materialien.<br /> 
         <td>~ 350 €</td>
     </tr>
     <tr>
-        <td>INTIA-Erweiterung: Knopf-Set</td>
+        <td>INTIA-Erweiterung: <strong>Knopf-Set</strong></td>
         <td>Eine Auswahl verschiedener Knöpfe, Schalter und Fernbedienungen.</td>
         <td>~ 100 €</td>
     </tr>
     <tr>
-        <td>INTIA-Erweiterung: Sensor-Set</td>
+        <td>INTIA-Erweiterung: <strong>Sensor-Set</strong></td>
         <td>Eine Auswahl verschiedener Sensoren. Bewegungsmelder, Türkontakte, Temperatursensoren und mehr.</td>
         <td>~ 125 €</td>
     </tr>
     <tr>
-        <td>INTIA-Erweiterung: Sprachassistenz-Set</td>
+        <td>INTIA-Erweiterung: <strong>Sprachassistenz-Set</strong></td>
         <td>Der Mini-Computer kann hiermit zu einem Sprachassistenten umgerüstet werden.</td>
         <td>~ 65 €</td>
     </tr>
     <tr>
-        <td>INTIA-Methodensammlung</td>
+        <td><strong>INTIA-Methodensammlung</strong></td>
         <td>Alle analogen Materialien im hochwertigen Druck (ohne Bausteine). Ideal für Selbst-Bastler, MakerSpaces, Kreativ-Räume und Innovations-Labore!</td>
         <td>~ 65 €</td>
     </tr>
     <tr>
-        <td>INTIA als Laborraum ausstatten</td>
+        <td><strong>INTIA als Laborraum ausstatten</strong></td>
         <td>Alles aus dem INTIA-Baukasten und der INTIA-Methodensammlung, um einen Raum als Laborraum auszustatten. Der Umfang und der Preis hängen davon ab, was du             brauchst oder möchtest.</td>
         <td> ab 1.400 €</td>
     </tr>
