@@ -2,9 +2,9 @@
 title: Wörterbuch
 title_above: Wissen
 permalink: /knowhow/glossary/
+hero_tags: toppage
 subtitle: |
   Ist etwas unklar? Hier findest du eine Übersicht über die häufig genutzte Begriffe in Bezug auf INTIA.
-hero_tags: subpage
 jekyll-hyperlink-glossary: false
 ---
 

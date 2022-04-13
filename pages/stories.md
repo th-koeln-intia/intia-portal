@@ -6,7 +6,7 @@ subtitle: |
 permalink: /stories/
 latest-story: true
 stories_button: Mehr lesen
-hero_tags: subpage
+hero_tags: toppage
 ---
 
 # Ältere Einträge

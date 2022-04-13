@@ -1,5 +1,5 @@
 ---
-title: Willkommen auf INTIA,
+title: Willkommen auf INTIA
 subtitle: |
   der Plattform für Menschen aus der Sozialen Arbeit, Informatik und Wissenschaft! Hier werden gemeinsam mit Jugendlichen inklusive Technikideen für den Alltag (INTIA) entwickelt und eingesetzt.
 hero_image: /assets/img/landingpage/start.jpg

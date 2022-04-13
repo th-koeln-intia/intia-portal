@@ -2,9 +2,9 @@
 title: Barrierearm
 title_above: Über
 permalink: /about/accessibility/
+hero_tags: toppage
 subtitle: |
   Auf der Plattform INTIA sind Inhalte möglichst barrierearm. Das bedeutet die Sprache ist einfach und die verwendete Schrift ist gut lesbar. Wir bitten ausdrücklich um deine Mithilfe, wenn das nicht überall gut gelungen ist!
-hero_tags: subpage
 ---
 
 Alle angebotenen Texte auf der Plattform sollen möglichst für alle zugänglich und verständlich sein. Darum haben wir die Sprache angepasst und möglichst einfach gemacht. Diese zusätzlichen Funktionen erleichtern die Nutzung der Plattform INTIA:

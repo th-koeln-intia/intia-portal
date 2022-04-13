@@ -1,9 +1,9 @@
 ---
-hero_tags: subpage
 title_above: Wissen
 permalink: /knowhow/publications/
 jekyll-hyperlink-glossary: false
 title: Veröffentlichungen
+hero_tags: toppage
 subtitle: >
   Hier sind alle Veröffentlichungen zu finden, die im Rahmen des Projektes INTIA
   entstanden und für den Inhalt dieser Plattform relevant sind. Sie reichen von

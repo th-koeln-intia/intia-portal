@@ -1,8 +1,8 @@
 ---
 title: Häufig gestellte Fragen
 title_above: INTIA-Koffer
-hero_tags: subpage
 permalink: /intia-case/faq/
+hero_tags: toppage
 subtitle: |
   Alle Fragen und Antworten zum INTIA-Koffer findest du hier auf einen Blick.
 ---

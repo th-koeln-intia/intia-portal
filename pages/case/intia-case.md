@@ -1,8 +1,8 @@
 ---
 title: Über den INTIA-Koffer
 title_above: INTIA-Koffer
-hero_tags: subpage
 permalink: /intia-case/
+hero_tags: toppage
 subtitle: |
   Mit dem INTIA-Koffer kannst du dir individuelle, technische Lösungen bauen. Er lädt dazu ein, Technik spielerisch kennenzulernen. So kannst du damit zum Beispiel individuelle Lösungen für deinen Arbeitsalltag entwickeln.
 ---
