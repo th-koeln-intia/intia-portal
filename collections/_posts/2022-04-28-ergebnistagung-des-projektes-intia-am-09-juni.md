@@ -26,6 +26,8 @@ Sie forschen zu inklusivem Arbeiten in Technikprozessen und möchten Methoden ke
 
 Am **Donnerstag 09.06.2022 von 09:00 Uhr bis 13:30 Uhr** laden wir Sie herzlich zur **virtuellen Ergebnistagung** zur Diskussion dieser Fragen ein. 
 
+![Am 09. Juni findet die Ergebnistagung des Projektes INTIA statt.](/assets/img/uploads/intia_abschlusstagung_neuigkeiten_visual.jpg "Die virtuelle Ergebnistagung des Projektes INTIA findet am 09. Juni 2022 statt.")
+
 Das interdisziplinäre Team des Forschungsprojektes INTIA – „Inklusive Entwicklung von Methoden und Technologien für digitale Hilfen zur Alltagsbewältigung in der Behinderten- und Erziehungshilfe“, gefördert durch das Bundesministerium für Bildung und Forschung (BMBF), stellt gegen Ende des Projekts die Ergebnisse vor und lädt zu einer offenen Diskussion über den theoretischen Forschungsrahmen, Praxisbezüge sowie nachhaltige Anschlussperspektiven ein. 
 
 Vorgestellt werden die wissenschaftlichen Erkenntnisse und entwickelten Produkte und Methoden des BMBF-geförderten Forschungs- und Entwicklungsprojekts **INTIA – Inklusive Entwicklung von Methoden und Technologien für Hilfen zur Alltagsbewältigung in der Behinderten- und Erziehungshilfe.** 
