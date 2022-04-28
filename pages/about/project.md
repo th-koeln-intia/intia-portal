@@ -25,7 +25,7 @@ Während der Corona Pandemie konnten die geplanten Projektarbeiten aufgrund umfa
 
 # Beteiligte
 
-### INTIA wird von unterschiedlichen Menschen – Wissenschaftler:innen, Fachkräften der Sozialen Arbeit, (Forschungs)Einrichtungen und Betroffenen – vorangetrieben, die Hand in Hand zusammenarbeiten.
+INTIA wird von unterschiedlichen Menschen – Wissenschaftler:innen, Fachkräften der Sozialen Arbeit, (Forschungs)Einrichtungen und Betroffenen – vorangetrieben, die Hand in Hand zusammenarbeiten.
 
 <!-- <img src="/assets/img/about/netzwerkgrafik.png" alt="placeholder" class="content_image" > -->
 
@@ -79,7 +79,11 @@ Das INTIA-Projektteam besteht aus ungefähr zehn Personen aus unterschiedlichen 
   <figure class='image'>
     <img class='with-zone is-rounded' src='/assets/img/about/team/IZ.jpg'>
   </figure>
-      <strong>Prof. Dr. Isabel Zorn</strong>
+      <strong>
+      Prof. Dr. 
+      <br>
+      Isabel Zorn
+      </strong>
       <br>
       <small>SOZIALE ARBEIT</small>
 </div>
@@ -87,7 +91,11 @@ Das INTIA-Projektteam besteht aus ungefähr zehn Personen aus unterschiedlichen 
   <figure class='image'>
     <img class='with-zone is-rounded' src='/assets/img/about/team/SB.jpg'>
   </figure>
-      <strong>Prof. Dr. Stefan Bente</strong>
+      <strong>
+      Prof. Dr. 
+      <br>
+      Stefan Bente
+      </strong>
       <br>
       <small>INFORMATIK</small>
 </div>
@@ -95,7 +103,10 @@ Das INTIA-Projektteam besteht aus ungefähr zehn Personen aus unterschiedlichen 
   <figure class='image'>
     <img class='with-zone is-rounded' src='/assets/img/about/team/BM.jpg'>
   </figure>
-      <strong>Prof. Birgit Mager</strong>
+      <strong>
+      Prof. <br>
+      Birgit Mager
+      </strong>
       <br>
       <small>SERVICE DESIGN</small>
 </div>
@@ -103,7 +114,11 @@ Das INTIA-Projektteam besteht aus ungefähr zehn Personen aus unterschiedlichen 
   <figure class='image'>
     <img class='with-zone is-rounded' src='/assets/img/about/team/CK.jpg'>
   </figure>
-      <strong>Prof. Dr. Christian Kohls</strong>
+      <strong>
+      Prof. Dr. 
+      <br>
+      Christian Kohls
+      </strong>
       <br>
       <small>SOZIOTECHNIK</small>
 </div>
@@ -181,25 +196,25 @@ Die Fachstelle für Jugendmedienkultur NRW unterstützt Bildungseinrichtungen un
 
 Der Fachbeirat hat die Aufgabe, das Forschungsprojekt mit der Expertise seiner Mitglieder zu unterstützen und zu beraten. Zum Fachbeirat gehören
 
-<strong>Dr. Julius Deutsch</strong> (<a href="https://www.kommhelp.de/" class="normal">Kommhelp e.V.<span class="icon is-small">
-<i class="fas icon-external fa-xs"></i>
-</span></a>)<br>
-<strong>Prof. Dr. Heidi Schelhowe</strong> † (<a href="https://www.uni-bremen.de/kooperationen/uni-schule/schuelerinnen-und-schueler/mathematik-und-informatik-trifft-schule-mit-schule/fablab" class="normal">FabLab Uni Bremen<span class="icon is-small">
-<i class="fas icon-external fa-xs"></i>
-</span></a>)<br>
 <strong>Dr. Tom Bieling</strong> (<a href="https://www.haw-hamburg.de/" class="normal">HAW Hamburg<span class="icon is-small">
-<i class="fas icon-external fa-xs"></i>
-</span></a>)<br>
-<strong>Bernhard Spelten</strong> (<a href="https://piksl.net/ed/" class="normal">PIKSL<span class="icon is-small">
-<i class="fas icon-external fa-xs"></i>
-</span></a>)<br>
-<strong>Gerhard Seiler</strong> (<a href="https://www.irights-lab.de/" class="normal">Think Tank iRights.Lab<span class="icon is-small">
 <i class="fas icon-external fa-xs"></i>
 </span></a>)<br>
 <strong>Prof. Dr. Ingo Bosse</strong> (<a href="https://kme.reha.tu-dortmund.de/forschung/projekte/abgeschlossene-projekte/selfmade/" class="normal">Selfmade, TU Dortmund<span class="icon is-small">
 <i class="fas icon-external fa-xs"></i>
 </span></a>)<br>
+<strong>Dr. Julius Deutsch</strong> (<a href="https://www.kommhelp.de/" class="normal">Kommhelp e.V.<span class="icon is-small">
+<i class="fas icon-external fa-xs"></i>
+</span></a>)<br>
 <strong>Fabian Hesterberg</strong> (<a href="https://nrw.inklusive-bildung.org/" class="normal">Institut für Inklusive Bildung NRW<span class="icon is-small">
+<i class="fas icon-external fa-xs"></i>
+</span></a>)<br>
+<strong>Prof. Dr. Heidi Schelhowe</strong> † (<a href="https://www.uni-bremen.de/kooperationen/uni-schule/schuelerinnen-und-schueler/mathematik-und-informatik-trifft-schule-mit-schule/fablab" class="normal">FabLab Uni Bremen<span class="icon is-small">
+<i class="fas icon-external fa-xs"></i>
+</span></a>)<br>
+<strong>Gerhard Seiler</strong> (<a href="https://www.irights-lab.de/" class="normal">Think Tank iRights.Lab<span class="icon is-small">
+<i class="fas icon-external fa-xs"></i>
+</span></a>)<br>
+<strong>Bernhard Spelten</strong> (<a href="https://piksl.net/ed/" class="normal">PIKSL<span class="icon is-small">
 <i class="fas icon-external fa-xs"></i>
 </span></a>)<br>
 
