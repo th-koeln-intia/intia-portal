@@ -4,8 +4,8 @@
       link: /about/plattform
     - name: Projekt
       link: /about/project/
-#    - name: Netzwerk
-#      link: /about/network/
+    - name: Netzwerk
+      link: /about/network/
     - name: Barrierearm
       link: /about/accessibility/
 - name: INTIA-Koffer
@@ -20,8 +20,8 @@
   dropdown:
     - name: Bausteine
       link: /tools/building_blocks/
-#    - name: Methoden
-#      link: /tools/methods/
+    - name: Methoden
+      link: /tools/methods/
 #- name: Lösungen
 #  dropdown:
 #    - name: Lösungen
@@ -32,15 +32,15 @@
       link: /knowhow/glossary/
     - name: Veröffentlichungen
       link: /knowhow/publications/
-#    - name: Anleitungen
-#      link: /knowhow/instructions/
+    - name: Anleitungen
+      link: /knowhow/instructions/
 - name: Aktuelles
   dropdown:
     - name: Neuigkeiten
       link: /stories/
 - name: Mitmachen
   dropdown:
-#    - name: Community
-#      link: /collaboration/community/
+    - name: Community
+      link: /collaboration/community/
     - name: Kontakt
       link: /collaboration/contact/
