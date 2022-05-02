@@ -199,7 +199,7 @@ Der Fachbeirat hat die Aufgabe, das Forschungsprojekt mit der Expertise seiner M
 <strong>Dr. Tom Bieling</strong> (<a href="https://www.haw-hamburg.de/" class="normal">HAW Hamburg<span class="icon is-small">
 <i class="fas icon-external fa-xs"></i>
 </span></a>)<br>
-<strong>Prof. Dr. Ingo Bosse</strong> (<a href="https://kme.reha.tu-dortmund.de/forschung/projekte/abgeschlossene-projekte/selfmade/" class="normal">Selfmade, TU Dortmund<span class="icon is-small">
+<strong>Prof. Dr. Ingo Bosse</strong> (<a href="https://www.hfh.ch/" class="normal">Interkantonale Hochschule für Heilpädagogik<span class="icon is-small">
 <i class="fas icon-external fa-xs"></i>
 </span></a>)<br>
 <strong>Dr. Julius Deutsch</strong> (<a href="https://www.kommhelp.de/" class="normal">Kommhelp e.V.<span class="icon is-small">
