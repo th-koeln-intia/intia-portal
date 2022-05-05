@@ -14,21 +14,21 @@ Text Text Text
 <div class='columns'>
 <div class='column is-one-third has-text-centered'>
   <figure class='image '>
-    <img style="width: 50%; padding: 1rem; text-align: center; margin-left: auto; margin-right: auto; display: block; object-fit: scale-down;" class='with-zone green_bg is-round' src='/assets/img/about/network/Austauschkanal.SVG'>
+    <img style="width: 50%; padding: 1rem; text-align: center; margin-left: auto; margin-right: auto; display: block; object-fit: scale-down;" class='with-zone green_bg is-round' src='/assets/img/about/network/austauschkanal_400px.png'>
   </figure>
       <h3>Austauschkanal</h3>
       Austausch über das INTIA Material und persönliche Fragen im <strong>Austauschkanal</strong>
 </div>
 <div class='column is-one-third has-text-centered'>
   <figure class='image'>
-    <img style="width: 50%; padding: 1rem; text-align: center; margin-left: auto; margin-right: auto; display: block; object-fit: scale-down;" class='with-zone green_bg is-round' src='/assets/img/about/network/Makerspace.SVG'>
+    <img style="width: 50%; padding: 1rem; text-align: center; margin-left: auto; margin-right: auto; display: block; object-fit: scale-down;" class='with-zone green_bg is-round' src='/assets/img/about/network/makerspace_400px.png'>
   </figure>
       <h3>Makerspace</h3>
       Bestandteile des INTIA-Koffers individualisieren und selbst produzieren im <strong>Maker Space Bonn</strong>
 </div>
 <div class='column is-one-third has-text-centered'>
   <figure class='image'>
-    <img style="width: 50%; padding: 1rem; text-align: center; margin-left: auto; margin-right: auto; display: block; object-fit: scale-down;" class='with-zone green_bg is-round' src='/assets/img/about/network/Videos.SVG'>
+    <img style="width: 50%; padding: 1rem; text-align: center; margin-left: auto; margin-right: auto; display: block; object-fit: scale-down;" class='with-zone green_bg is-round' src='/assets/img/about/network/video_400px.png'>
   </figure>
       <h3>Videos</h3>
       Mehr über die INTIA-Produkte und ihre Nutzung lernen in den <strong>Fortbildungsvideos</strong>
