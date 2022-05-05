@@ -18,6 +18,10 @@ $dark: #09443e;
 @import "icons";
 @import "print";
 
+h1 {
+  font-weight: 300;
+}
+
 h4 {
   font-weight: 300;
   font-size: 2.3rem;
@@ -39,6 +43,10 @@ a.normal {
 }
 .highlighter h3 {
   padding-top: 0;
+}
+.column {
+  display: block;
+  padding: 1.2rem;
 }
 
 .column.is-5 .highlighter {
