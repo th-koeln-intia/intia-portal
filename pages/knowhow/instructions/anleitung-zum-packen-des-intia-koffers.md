@@ -6,56 +6,56 @@ title: Anleitung zum Packen des INTIA-Koffers
 permalink: /knowhow/instructions/how_to_pack
 hero_image: /assets/img/uploads/dsc_0060.jpg
 preview_image: /assets/img/uploads/dsc_0060.jpg
-subtitle: sdfv
+subtitle: Wenn du dich dazu entschieden hast, dir einen INTIA-Koffer zuzulegen und du bereits alles dafür gekauft hast, kann es an das Packen des Koffers gehen. Hier erfährst du, wie du den physischen Koffer packen kannst. Zu diesem Zweck musst du natürlich schon alles gekauft und dich entschieden haben, welcher Koffer es sein soll.
 ---
 
 <!--StartFragment-->
 
 ## Vorbereitung
 
-Hier packen wir den physischen Koffer zusammen. Und zu diesem Zweck müssen wir bereits alles gekauft haben und uns entschieden haben welcher Koffer es sein soll. Was benötigen wir:
+Das benötigst du:
 
-Koffer
-Würfelschaum (manchmal bereits beim Koffer dabei)
-Smarte-Lampen
-Lampenfassungen
-Mini-Computer mit oder ohne Gehäuse
-Sensoren, Knöpfe und andere Technik-Blöcke
-INTIA-Karten-Sets
-Kabel
+- Koffer
+- Würfelschaum (manchmal bereits beim Koffer dabei)
+- Smarte Lampen
+- Lampenfassungen
+- Mini-Computer, mit oder ohne Gehäuse
+- Sensoren, Knöpfe und andere Bausteine
+- INTIA-Karten-Sets
+- Kabel
 
 ## Aufbau der Einzelelemente
 
 ### Leuchtmittel und Fassung
 
-Wenn man sich für e27 entschieden hat, dann sind Fassung und Glühbirne besser seperat im Kofffer zu verstauen
-Bei Gu10
-Fassung zusammen bauen oder Fertig erwerben
-Glühbirne einsetzen und als eine Einheit in den Koffer
+- Wenn man sich für e27 entschieden hat, dann sind Fassung und Lampe besser separat im Koffer zu verstauen
+- Bei Gu10
+  - Fassung zusammen bauen oder Fertig erwerben
+  - Glühbirne einsetzen und als eine Einheit in den Koffer geben
 
 ### Mini-Computer
 
-als vorberitung muss der Mini-Computer noch nicht fertig sein
-Arbeit mit dem Leern gehäuse reicht aus
+- Als Vorbereitung muss der Mini-Computer noch nicht fertig sein
+- Das leere Gehäuse reicht zunächst aus
 
 ### Bausteine
 
-wir empfehlen zwar einen grund stock an Blöcken, da muss aber jeder entscheiden welche Blöcke in den Koffer für einen selbst kommen
-Blöcke sollten grob Sorteirt werden
-Blöcke können im Koffer übereinader gestappelt werden
+- Wir empfehlen zwar einen Grundstock an Bausteinen, aber es muss jeder selbst entscheiden, welche Bausteine in den eigenen Koffer kommen sollen
+- Die Bausteine sollten grob sortiert werden
+- Die Bausteine können im Koffer auch übereinander gestapelt werden
 
-## Einsatz in den Koffer
+## In den Koffer einsetzen
 
-Wenn Würfelschaumstoff noch nichtim Koffer diesen eisnetzen
-Lieber enger als Locker einsetzen
-Alle geräte grob auflegen (hier foto wie wir es gemacht haben)
-Einige Blöcke lasen sich übereiander Stappeln - bitte versuchen nur ähnliche Blöcke zu stappeln damit es nicht zu verwirrung und suchen kommt
-Je nach Koffer kann auch in den Deckel elemente verstaut werden - hier beachtend as die spannung höher sein muss damit nix fällt
-Stecker können so eingesetzt werden das die Stifte genau zwischen die Schaumstoffblöcke passen (FOTO)
-Nun Blöcke raus Lösen
-Mit den Größten elementen anfangen
-nach dem lösen die Geräte bereits einsetzen - dies gibt dem ganzen stabilität beim weiteren lösen.
-Die losen Würfel nicht sofort entsorgen. Die können genutzt werden um zb Runde Objekte zu Stützen.
-Falsch gelöste Würfel können mit etwas Klebstoff wieder befästigt werden
+- Wenn der Würfelschaumstoff noch nicht im Koffer ist, diesen zuerst einsetzen
+- Lieber enger als locker einsetzen
+- Alle Geräte grob auflegen
+- Einige Bausteine lassen sich übereinander stapeln. Bitte versuche, nur ähnliche Bausteine zu stapeln, damit es nicht zu Verwirrung und Suchen kommt
+- Je nach Koffer können auch im Deckel des Koffers Elemente verstaut werden. Hier musst du beachten, dass die Spannung höher sein muss, damit nichts aus dem Deckel rausfällt
+- Stecker können so eingesetzt werden, dass die Stifte genau zwischen die Schaumstoffblöcke passen
+- Nun Blöcke herauslösen
+  - Mit den größten Elementen anfangen
+  - Nach dem Lösen die Geräte bereits einsetzen - dies gibt dem Ganzen Stabilität beim weiteren Lösen
+  - Die losen Würfel nicht sofort entsorgen. Die können genutzt werden um z.B. runde Objekte zu stützen
+  - Falsch gelöste Würfel können mit etwas Klebstoff wieder befestigt werden
 
 <!--EndFragment-->
