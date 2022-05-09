@@ -1,7 +1,7 @@
 ---
 title: Netzwerk
-title_above: Über
-permalink: /about/network/
+title_above: Mitmachen
+permalink: /collaboration/network/
 hero_tags: toppage
 subtitle: |
   Du möchtest dich mit anderen INTIA Nutzenden vernetzen und austauschen? Deine INTIA-Geschichte erzählen? Oder Feedback zu etwas geben? Das alles ist im INTIA-Netzwerk möglich und eine wichtige Hilfe für alle anderen Nutzenden und Entwickler:innen von INTIA! Hier erfährst du, wo das INTIA-Netzwerk zu finden ist.

@@ -4,8 +4,6 @@
       link: /about/plattform
     - name: Projekt
       link: /about/project/
-    - name: Netzwerk
-      link: /about/network/
     - name: Barrierearm
       link: /about/accessibility/
 - name: INTIA-Koffer
@@ -42,5 +40,7 @@
   dropdown:
     - name: Community
       link: /collaboration/community/
+    - name: Netzwerk
+      link: /collaboration/network/
     - name: Kontakt
       link: /collaboration/contact/
