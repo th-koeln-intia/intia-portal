@@ -25,7 +25,7 @@ Während der Corona Pandemie konnten die geplanten Projektarbeiten aufgrund umfa
 
 # Beteiligte
 
-INTIA wird von unterschiedlichen Menschen – Wissenschaftler:innen, Fachkräften der Sozialen Arbeit, (Forschungs)Einrichtungen und Betroffenen – vorangetrieben, die Hand in Hand zusammenarbeiten.
+<h4> INTIA wird von unterschiedlichen Menschen – Wissenschaftler:innen, Fachkräften der Sozialen Arbeit, (Forschungs)Einrichtungen und Betroffenen – vorangetrieben, die Hand in Hand zusammenarbeiten.</h4>
 
 <!-- <img src="/assets/img/about/netzwerkgrafik.png" alt="placeholder" class="content_image" > -->
 
@@ -132,8 +132,8 @@ Das INTIA-Projektteam besteht aus ungefähr zehn Personen aus unterschiedlichen 
 
 Das Forschungsprojekt INTIA hat drei Wissenschaftspraxispartnerschaften (kurz WPKs), die von Anfang an dabei sind. Es sind die Diakonie Michaelshoven, die Evangelische Jugendhilfe Godesheim und die Fachstelle für Jugendmedienkultur (FJMK). In den Einrichtungen dieser Partner konnten Praxiseinsätze durchgeführt und gemeinsam an Forschungsfragen gearbeitet werden.
 
-<div class="columns">       
-  <div class="column is-4 is-round is-centered">
+<div style="margin: 3rem 0 3rem 0" class="columns">       
+  <div style="margin-right: 3rem;" class="column is-4 is-round is-centered">
     <img src="/assets/img/logos/diakonie_michaelshoven.png" alt="placeholder" class="">
   </div>
 <div class="column">
@@ -150,8 +150,8 @@ Seit 70 Jahren gibt es die Diakonie Michaelshoven. Sie setzt sich für soziale B
   </div>
   </div>
 
-  <div class="columns">       
-  <div class="column is-4 is-round is-centered">
+  <div style="margin: 3rem 0 3rem 0" class="columns">       
+  <div style="margin-right: 3rem;" class="column is-4 is-round is-centered">
     <img src="/assets/img/logos/ev_jugendhilfe_godesheim.png" alt="placeholder" class="">
   </div>
 <div class="column">
@@ -168,8 +168,8 @@ Die Evangelischen Jugendhilfe Godesheim ist ein Jugendhilfeverbund. Sie ist in d
   </div>
   </div>
 
-  <div class="columns">       
-  <div class="column is-4 is-round is-centered">
+  <div style="margin: 3rem 0 3rem 0" class="columns">       
+  <div style="margin-right: 3rem;" class="column is-4 is-round is-centered">
     <img src="/assets/img/logos/fjmk.png" alt="placeholder" class="">
   </div>
 <div class="column">
