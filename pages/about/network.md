@@ -18,21 +18,21 @@ Das INTIA-Netzwerk besteht aus allen Menschen, die Interesse an INTIA haben: Ega
   <figure class='image '>
     <img style="width: 50%; padding: 1.6rem; text-align: center; margin-left: auto; margin-right: auto; display: block; object-fit: scale-down;" class='with-zone green_bg is-round' src='/assets/img/about/network/austauschkanal_400px.png'>
   </figure>
-      <h3>Austauschkanal</h3>
+      <h3><center>Austauschkanal</center></h3>
       Austausch über das INTIA Material und persönliche Fragen im <strong>Austauschkanal</strong>
 </div>
 <div class='column is-one-third has-text-centered'>
   <figure class='image'>
     <img style="width: 50%; padding: 1.6rem; text-align: center; margin-left: auto; margin-right: auto; display: block; object-fit: scale-down;" class='with-zone green_bg is-round' src='/assets/img/about/network/makerspace_400px.png'>
   </figure>
-      <h3>Makerspace</h3>
+      <h3><center>Makerspace</center></h3>
       Bestandteile des INTIA-Koffers individualisieren und selbst produzieren im <strong>Maker Space Bonn</strong>
 </div>
 <div class='column is-one-third has-text-centered'>
   <figure class='image'>
     <img style="width: 50%; padding: 1.6rem; text-align: center; margin-left: auto; margin-right: auto; display: block; object-fit: scale-down;" class='with-zone green_bg is-round' src='/assets/img/about/network/video_400px.png'>
   </figure>
-      <h3>Videos</h3>
+      <h3><center>Videos</center></h3>
       Mehr über die INTIA-Produkte und ihre Nutzung lernen in den <strong>Fortbildungsvideos</strong>
 </div>
 </div>
@@ -50,7 +50,7 @@ Das INTIA-Netzwerk besteht aus allen Menschen, die Interesse an INTIA haben: Ega
         09:00 bis 12:30 Uhr
     </div>
     <div class='column is-two-third'>
-      Im Juni findet die digtale INTIA Abschlusstagung statt, bei welcher via Zoom einge INTIA-Ergebnisse präsentiert werden. Jede:r kann (kostenlos) teilnehmen. 
+      <h4>Im Juni findet die digtale INTIA Abschlusstagung statt, bei welcher via Zoom einge INTIA-Ergebnisse präsentiert werden. Jede:r kann (kostenlos) teilnehmen. </h4>
     <br>
     <br>
 

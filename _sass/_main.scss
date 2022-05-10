@@ -30,6 +30,9 @@ a.normal {
   color: #000;
   text-decoration: underline;
 }
+.highlighter h2 {
+  text-align: left;
+}
 .highlighter h3 {
   padding-top: 0;
 }
@@ -43,6 +46,9 @@ a.normal {
 }
 .highlighter img.is-rounded {
   padding: 0;
+}
+.highlighter img {
+  padding: 2rem;
 }
 
 .hero.is-primary
@@ -89,11 +95,14 @@ img.is-round {
   padding-right: 5px;
 }
 
-.column {
-  display: block;
-  padding: 2.2rem;
-}
-
 .card-content p {
   padding-left: 65px;
+}
+
+.highlighter img.with-zone {
+  margin-left: auto;
+  margin-right: auto;  
+  padding-top: 0;
+  padding-bottom: 1rem;
+  float: none;
 }

@@ -138,21 +138,21 @@ Der INTIA-Koffer kann durch INTIA-Erweiterungen vergrößert werden. Je nach Bed
   <figure class='image'>
     <img class='with-zone' src='/assets/img/intia-case/icons/sl_touch_400px.png'>
   </figure>
-      <h3>Knopf-Set</h3>
+      <h3><center>Knopf-Set</center></h3>
       Eine Auswahl verschiedener Knöpfe, Schalter und Fernbedienungen.
 </div>
 <div class='column is-one-third has-text-centered'>
   <figure class='image'>
     <img class='with-zone' src='/assets/img/intia-case/icons/sl_smart-door_400px.png'>
   </figure>
-      <h3>Sensor-Set</h3>
+      <h3><center>Sensor-Set</center></h3>
       Eine Auswahl verschiedener Sensoren. Bewegungsmelder, Türkontakte, Temperatursensoren und mehr.
 </div>
 <div class='column is-one-third has-text-centered'>
   <figure class='image'>
     <img class='with-zone' src='/assets/img/intia-case/icons/sprachassistenz_schwarz_400px.png'>
   </figure>
-      <h3>Sprachassistenz-Set</h3>
+      <h3><center>Sprachassistenz-Set</center></h3>
       Der Mini-Computer kann hiermit zu einem Sprachassistenten umgerüstet werden.
 </div>
 </div>
