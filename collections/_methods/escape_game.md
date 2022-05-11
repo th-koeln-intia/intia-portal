@@ -9,6 +9,76 @@ subtitle: Das Escape Game besteht aus Rätseln, die aus Smart Home Technik beste
 abstract: Das Escape Game besteht aus Rätseln, die aus Smart Home Technik bestehen. So werden die Teilnehmenden mit den verschiedenen Funktionen und Steuerungen der Bausteine vertraut gemacht. Durch das neue Wissen können sie anschließend selbst Ideen für neue Technologien entwickeln, die ihnen bei der Alltagsbewältigung helfen.
 ---
 
+<table class="tb">
+    <tr>
+        <th><strong>Ziel der Methode</strong></th>
+        <th>
+
+- Smart Home Elementen kennen lernen
+- Berührungsängste abbauen und Spaß an Technik vermitteln
+- Grundlage für Technikentwicklung legen
+
+</th>
+    </tr>
+    <tr>
+      <td><strong>Phase</strong></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><strong>Altersgruppe</strong></td>
+      <td>10 - 99</td>
+    </tr>
+    <tr>
+      <td><strong>Gruppengröße</strong></td>
+      <td>max. 5 pro Gruppe</td>
+    </tr>
+    <tr>
+      <td><strong>Sozialform</strong></td>
+      <td>Einzel oder Kleingruppe</td>
+    </tr>
+    <tr>
+      <td><strong>Dauer</strong></td>
+      <td>
+      <strong>
+      Vorbereitung: etwa 1 Minute<br>
+      ...<br>
+      Durchführung: etwa ca 40-60 Minunten<br>
+      ...<br>
+      Nachbereitung: etwa 15 Minuten<br>
+      ...
+      </strong>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Material</strong></td>
+      <td>
+- INTIA Koffer
+- Anleitung Escape Game
+- Liste aller Bausteine
+- Aufbauanleitung
+- Rätsel Beschreibung
+- Rätsel Blätter
+- Tipps
+- mindestens ein internetfähiges Handy
+- Kugelschreiber o.ä. zum resetten des Routers
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Sonstiges</strong></td>
+      <td>
+- freier Platz auf einem Tisch für das Materialx notfalls den Boden nutzen
+-  vier gut erreichbare Stromanschlüsse benötigtx ideal ist eine
+Mehrfachsteckdose
+- kein Internet notwendig! Der zugehörige Mini Router macht ein eigenes
+WLAN auf
+- kein technisches Vorwissen nötig! Die Anleitungen führen durch Aufbau
+und Durchführung der Rätsel
+- bei geringer Frustrationstoleranz sollten (zum Einstieg) leichte Rätsel
+mit schnellem Erfolg gewählt werden
+      </td>
+    </tr>
+</table>
+
 # Anleitung
 
 Zur Durchführung des Escpae Games sind einige Vorbereitungen notwendig. Was vor, während und
@@ -28,6 +98,7 @@ benötigten Materialien und Anleitung sind hier auf intia.de zu finden. Viel Spa
 3. Alle benötigten bereit legen
 4. Die Bausteine nach aufbauen und das ausgedruckte Material bereit legen
 5. Empfehlung: Das Escape Game einmal durchspielen. So kannst du testen, ob alles klappt! Falls es Probleme gibt, kannst du in der nach einer Lösung gucken.
+<br><br>
 
 
 #### Durchführung
@@ -36,10 +107,12 @@ benötigten Materialien und Anleitung sind hier auf intia.de zu finden. Viel Spa
 2. Die Rätsel werden, soweit es geht, selbständig von den Teilnehmenden durchgeführt. Die Moderation sollte nur eingreifen, wenn die Teilnehmenden von sich aus um Unterstützung bitten, nachdem sie mit den Tipps nicht weiter gekommen sind. Hierfür sind die Rätsel Beschreibungen hilfreich, in denen die gesamte Auflösung der einzelnen Rätsel beschrieben wird. Bei technischen Problemen sollte die Moderation natürlich direkt eingreifen und sie beheben.
 3. Das Escape Game endet, wenn der Beacon mit der Überraschung gefunden wurde.
 4. Wenn Interesse besteht, können die Teilnehmenden im Anschluss noch auf der Webseite die Funktionen der Bausteine aus dem Escape Game testen.
+<br><br>
 
 #### Nachbereitung
 
 Die Rätsel reflektieren und über Ideen für individuelle Anwendung sprechen. Im Anschluss können Kreativ Methoden genutzt werden, um Ideen zu finden oder auszuarbeiten.
+<br><br>
 
 ## Hinweis
 
@@ -51,4 +124,39 @@ Rätsel entwickeln, bei denen die Technik in einen praktischen Rahmen gesetzt wi
 
 ## Quelle
 
-Die Methode Escape Game wurde entwickelt von Dennis Christian Wil
+Die Methode Escape Game wurde entwickelt von Dennis Christian Wilk
+
+
+{% include highlighter.html min-height25p=false content="
+
+## <center>Weitere Define Methoden</center>
+
+#### Methodenname
+
+Kurzbeschreibung Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
+nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
+voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
+
+<a href='#' class='button is-rounded is-dark'>
+   <span>Mehr lesen</span>
+  <span class='icon is-small'>
+    <i class='fas fa-chevron-right fa-xs'></i>
+  </span>
+</a>
+<br><br>
+
+#### Methodenname
+
+Kurzbeschreibung Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
+nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
+voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
+
+<a href='#' class='button is-rounded is-dark'>
+   <span>Mehr lesen</span>
+  <span class='icon is-small'>
+    <i class='fas fa-chevron-right fa-xs'></i>
+  </span>
+</a>
+<br><br>
+
+" %}
