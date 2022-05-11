@@ -4,21 +4,9 @@ title_above: Methode
 published: true
 title: Escape Game
 english_title: Escape Game
-synonyms:
 last_update: 11.05.2022
-subtitle: Das Escape Game besteht aus Rätseln, die aus Smart
-Home Technik bestehen. So werden die Teilnehmenden mit den
-verschiedenen Funktionen und Steuerungen der Bausteine
-vertraut gemacht. Durch das neue Wissen können sie
-anschließend selbst Ideen für neue Technologien entwickeln, die
-ihnen bei der Alltagsbewältigung helfen.
-abstract: Das Escape Game besteht aus Rätseln, die aus Smart
-Home Technik bestehen. So werden die Teilnehmenden mit den
-verschiedenen Funktionen und Steuerungen der Bausteine
-vertraut gemacht. Durch das neue Wissen können sie
-anschließend selbst Ideen für neue Technologien entwickeln, die
-ihnen bei der Alltagsbewältigung helfen.
-permalink: /knowhow/methods/escape_game
+subtitle: Das Escape Game besteht aus Rätseln, die aus Smart Home Technik bestehen. So werden die Teilnehmenden mit den verschiedenen Funktionen und Steuerungen der Bausteine vertraut gemacht. Durch das neue Wissen können sie anschließend selbst Ideen für neue Technologien entwickeln, die ihnen bei der Alltagsbewältigung helfen.
+abstract: Das Escape Game besteht aus Rätseln, die aus Smart Home Technik bestehen. So werden die Teilnehmenden mit den verschiedenen Funktionen und Steuerungen der Bausteine vertraut gemacht. Durch das neue Wissen können sie anschließend selbst Ideen für neue Technologien entwickeln, die ihnen bei der Alltagsbewältigung helfen.
 ---
 
 # Anleitung
@@ -30,17 +18,18 @@ benötigten Materialien und Anleitung sind hier auf intia.de zu finden. Viel Spa
 #### Vorbereitung
 
 1. Material ausdrucken
-  - Anleitung Escape Game
-  - Liste aller Bausteine
-  - Aufbauanleitung
-  - Rätselbeschreibung
-  - Rätselblätter
-  - Tipps
+
+- Anleitung Escape Game
+- Liste aller Bausteine
+- Aufbauanleitung
+- Rätselbeschreibung
+- Rätselblätter
+- Tipps
+
 2. Die Rätsel Blätter und Tipps ausschneiden
 3. Alle benötigten bereit legen
 4. Die Bausteine nach aufbauen und das ausgedruckte Material bereit legen
 5. Empfehlung: Das Escape Game einmal durchspielen. So kannst du testen, ob alles klappt! Falls es Probleme gibt, kannst du in der nach einer Lösung gucken.
-
 
 #### Durchführung
 

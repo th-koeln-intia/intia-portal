@@ -4,9 +4,10 @@ title_above: Werkzeuge
 permalink: /tools/methods/
 hero_tags: toppage
 subtitle: |
-  Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+  Eine Übersicht von Methoden die Hilfreich zum entwerfen, erstellen und evaluieren von Alltagshilfen sind.
 ---
 
+<!--
 # Das Methodenradar
 
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
@@ -31,15 +32,26 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 <div id="radar"></div>
 
+-->
+
 # Methodenliste
 
-## Methode 1
+{% assign entries=site.methods | sort:page.sort %}
+{% for entry in entries %}
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+<h2> {{entry.title}} </h2>
+<p class="text-green has-text-weight-bold">{{entry.subtitle}}</p>
 
-## Methode 2
+{{entry.abstract}}
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+<a href="{{ entry.url | relative_url }}" class="button float_right is-rounded has-text-centert is-dark {% if item.link == page.url %}is-active{% endif %}">
+    <span> Mehr lesen</span>
+    <span class="icon is-small">
+    <i class="fas fa-chevron-right fa-xs"></i>
+    </span>
+</a>
+
+{% endfor %}
 
 <script>
 let config = {{ site.data.radar-config | jsonify }};

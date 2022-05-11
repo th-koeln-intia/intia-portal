@@ -54,12 +54,21 @@ defaults:
     values:
       permalink: /knowhow/glossary/:title/
       breadcrumbs: [Wissen, Wörterbuch]
+      layout: default  
+  - scope:
+      type: methods
+      path: _methods
+    values:
+      permalink: /tools/methods/:title/
+      breadcrumbs: [Werkzeuge, Methoden]
       layout: default   
 
 # Collections
 collections_dir: collections
 collections:
   glossary:
+    output: true
+  methods:
     output: true
 
 # --------------------------- Includes and Excludes -------------------------- #
