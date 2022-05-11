@@ -39,7 +39,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 {% assign entries=site.methods | sort:page.sort %}
 {% for entry in entries %}
 
-<h2> {{entry.title}} </h2>
+<h2 class="has-text-left"> {{entry.title}} </h2>
 <p class="text-green has-text-weight-bold">{{entry.subtitle}}</p>
 
 {{entry.abstract}}
