@@ -52,6 +52,7 @@ abstract: Das Escape Game besteht aus Rätseln, die aus Smart Home Technik beste
     <tr>
       <td><strong>Material</strong></td>
       <td>
+
 - INTIA Koffer
 - Anleitung Escape Game
 - Liste aller Bausteine
@@ -66,6 +67,7 @@ abstract: Das Escape Game besteht aus Rätseln, die aus Smart Home Technik beste
     <tr>
       <td><strong>Sonstiges</strong></td>
       <td>
+      
 - freier Platz auf einem Tisch für das Materialx notfalls den Boden nutzen
 -  vier gut erreichbare Stromanschlüsse benötigtx ideal ist eine
 Mehrfachsteckdose
