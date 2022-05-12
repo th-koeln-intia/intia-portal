@@ -3,15 +3,18 @@ title: Anleitungen
 title_above: Wissen
 permalink: /knowhow/instructions/
 hero_tags: toppage
-subtitle: |
+subtitle: | 
+  Möglichst alle sollen selbständig mit dem INTIA-Koffer arbeiten können! Damit das klappt, findest du hier Anleitungen, die alles Schritt für Schritt erklären.
 
 ---
 
 # Anleitungen
 
-Hier befinden sich eine Sammlung aller Anleitungen für die Nutung der verschiedensten Entwicklungen und Methoden.
+Manche Schritte sind sehr leicht, manche Schritte sind etwas kniffliger. Damit auch Technik-Laien es schaffen, den INTIA-Koffer ans Laufen zu bekommen und seine Inhalte anzuwenden, findest du hier eine Sammlung von Anleitungen. Sie sind thematisch sortiert. Zum einen nach technischen Anleitungen wie der Einrichtung des Mini-Computer. Zum anderen nach Anleitungen für die Durchführung der Methoden, also wie der INTIA-Koffer und die analogen Materialien im kreativen Prozess eingesetzt werden können.
 
-## Erstellen und einrichten des Koffers
+Alle Anleitungen können sowohl online betrachtet als auch auch runtergeladen und ausgedruckt werden.
+
+## Erstellen und Einrichten des INTIA-Koffers
 
 <a href='/knowhow/instructions/first_use' class='button is-dark is-rounded'>
       <span>Anleitung der Erstinbetriebnahme des INTIA-Koffers</span>
@@ -43,7 +46,7 @@ Hier befinden sich eine Sammlung aller Anleitungen für die Nutung der verschied
       </span>
 </a>
 
-## Anwendung von Methoden und durchführung von kreative prozesse und so weiter
+## Anwendung von Methoden zur Durchführung eines kreativen Technikentwicklungsprozesses
 
 <a href='#' class='button is-dark is-rounded'>
       <span>Escape-Game</span>

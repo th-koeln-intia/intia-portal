@@ -28,7 +28,7 @@ Das Betriebssystem wird auf den Raspberry geschrieben. Hier muss nicht viel beac
 - SD-Karten Image herunterladen (link!)
 - SD-Karte in einen Computer geben
 - Unter Windows die Software Etcher installieren und ausführen: <https://www.balena.io/etcher/>
-- ![](https://wiki.th-koeln.de/download/attachments/27691881/image2022-1-14_13-44-25.png?version=1&modificationDate=1642418237042&api=v2)
+![](https://wiki.th-koeln.de/download/attachments/27691881/image2022-1-14_13-44-25.png?version=1&modificationDate=1642418237042&api=v2)
 - Select Image - Die IMG-Datei auswählen, die zuvor von uns heruntergeladen wurde
 - Select drive - Die SD-Karte auswählen
 - Flash!
@@ -40,8 +40,7 @@ Das Betriebssystem wird auf den Raspberry geschrieben. Hier muss nicht viel beac
 Der Mini-Computer läuft auch ohne Display und Gehäuse, also einer Plastikschale, die das Gerät schützt. Dennoch ist es empfehlenswert, das Gerät mit einem Case, einem Gehäuse oder einer Schale zu schützen. Das Gerät ist aber sehr stabil und daher das Risiko gering, das etwas kaputt geht, wenn kein Gehäuse drum ist. Wenn es also passiert, dass der Raspberry bereits da ist aber noch kein Case fertig ist, kann man ohne Sorge bereits die Installation durchführen und jeder Zeit die nachfolgenden Schritte nachholen.
 
 - Display anschließen wie auf dem Bild mit Jumper-Kabel
--
-- ![](https://m.media-amazon.com/images/I/611iVBH-XFS._SL1500_.jpg)
+![](https://m.media-amazon.com/images/I/611iVBH-XFS._SL1500_.jpg)
 - Wenn im Case keine Lücke ist für das Display vorhanden ist, kann dieses nach Belieben raus gelöst werden (keine Angst!) - Unsere 3D-Druck-Case-Vorlage hat Lücken (Datei muss noch erstellt und hochgeladen werden!!!!)
 - Display an dem Case befestigen
 - Raspberry in Case geben
