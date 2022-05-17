@@ -118,3 +118,11 @@ td ul li p {
   height: 100%;
   position: absolute;
 }
+
+.highlighter .column img {
+  border-radius: 0;
+  height: auto;
+  width: 100%;
+  float: right;
+  padding-left: 5rem;
+}

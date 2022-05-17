@@ -10,9 +10,10 @@ contact: true
 
 {% include highlighter.html min-height25p=true content='
 
-## Anschrift
+<div class="columns">
+<div class="column">
 
-<img src="/assets/img/logos/TH_Single.png">
+## Anschrift
 
 [kontakt@intia.de](mailto:kontakt@intia.de)
 
@@ -35,4 +36,10 @@ Gustav-Heinemann-Ufer 54
 </span>
 <span>Zur TH Köln</span>
 </a>
+</div>
+<div class="column">
+<img src="/assets/img/logos/TH_Single.png">
+</div>
+</div>
+
 '%}
