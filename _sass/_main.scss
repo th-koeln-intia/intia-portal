@@ -112,3 +112,9 @@ td ul li p {
   padding-bottom: 1rem;
   float: none;
 }
+.column.slider-image img {
+  border-top-right-radius: 0 !important;
+  border-bottom-right-radius: 0 !important;
+  height: 100%;
+  position: absolute;
+}
