@@ -52,33 +52,34 @@ abstract: Das Escape Game besteht aus Rätseln, die aus Smart Home Technik beste
     <tr>
       <td><strong>Material</strong></td>
       <td>
-
-- INTIA Koffer
-- Anleitung Escape Game
-- Liste aller Bausteine
-- Aufbauanleitung
-- Rätsel Beschreibung
-- Rätsel Blätter
-- Tipps
-- mindestens ein internetfähiges Handy
-- Kugelschreiber o.ä. zum resetten des Routers
-      </td>
+    <ul>
+    <li>INTIA Koffer</li>
+    <li>Anleitung Escape Game</li>
+    <li>Liste aller Bausteine</li>
+    <li>Aufbauanleitung</li>
+    <li>Rätsel Beschreibung</li>
+    <li>Rätsel Blätter</li>
+    <li>Tipps</li>
+    <li>mindestens ein internetfähiges Handy</li>
+    <li>Kugelschreiber o.ä. zum resetten des Routers</li>
+    </ul>
+    </td>
     </tr>
     <tr>
       <td><strong>Sonstiges</strong></td>
       <td>
-      
+
 - freier Platz auf einem Tisch für das Materialx notfalls den Boden nutzen
--  vier gut erreichbare Stromanschlüsse benötigtx ideal ist eine
-Mehrfachsteckdose
+- vier gut erreichbare Stromanschlüsse benötigtx ideal ist eine
+  Mehrfachsteckdose
 - kein Internet notwendig! Der zugehörige Mini Router macht ein eigenes
-WLAN auf
+  WLAN auf
 - kein technisches Vorwissen nötig! Die Anleitungen führen durch Aufbau
-und Durchführung der Rätsel
+  und Durchführung der Rätsel
 - bei geringer Frustrationstoleranz sollten (zum Einstieg) leichte Rätsel
 mit schnellem Erfolg gewählt werden
-      </td>
-    </tr>
+</td>
+</tr>
 </table>
 
 # Anleitung
@@ -90,18 +91,19 @@ benötigten Materialien und Anleitung sind hier auf intia.de zu finden. Viel Spa
 #### Vorbereitung
 
 1. Material ausdrucken
-  - Anleitung Escape Game
-  - Liste aller Bausteine
-  - Aufbauanleitung
-  - Rätselbeschreibung
-  - Rätselblätter
-  - Tipps
+
+- Anleitung Escape Game
+- Liste aller Bausteine
+- Aufbauanleitung
+- Rätselbeschreibung
+- Rätselblätter
+- Tipps
+
 2. Die Rätsel Blätter und Tipps ausschneiden
 3. Alle benötigten bereit legen
 4. Die Bausteine nach aufbauen und das ausgedruckte Material bereit legen
 5. Empfehlung: Das Escape Game einmal durchspielen. So kannst du testen, ob alles klappt! Falls es Probleme gibt, kannst du in der nach einer Lösung gucken.
-<br><br>
-
+   <br><br>
 
 #### Durchführung
 
@@ -109,7 +111,7 @@ benötigten Materialien und Anleitung sind hier auf intia.de zu finden. Viel Spa
 2. Die Rätsel werden, soweit es geht, selbständig von den Teilnehmenden durchgeführt. Die Moderation sollte nur eingreifen, wenn die Teilnehmenden von sich aus um Unterstützung bitten, nachdem sie mit den Tipps nicht weiter gekommen sind. Hierfür sind die Rätsel Beschreibungen hilfreich, in denen die gesamte Auflösung der einzelnen Rätsel beschrieben wird. Bei technischen Problemen sollte die Moderation natürlich direkt eingreifen und sie beheben.
 3. Das Escape Game endet, wenn der Beacon mit der Überraschung gefunden wurde.
 4. Wenn Interesse besteht, können die Teilnehmenden im Anschluss noch auf der Webseite die Funktionen der Bausteine aus dem Escape Game testen.
-<br><br>
+   <br><br>
 
 #### Nachbereitung
 
@@ -127,7 +129,6 @@ Rätsel entwickeln, bei denen die Technik in einen praktischen Rahmen gesetzt wi
 ## Quelle
 
 Die Methode Escape Game wurde entwickelt von Dennis Christian Wilk
-
 
 {% include highlighter.html min-height25p=false content="
 
