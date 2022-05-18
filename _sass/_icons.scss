@@ -2,8 +2,8 @@
 // Fonz Size
 .icon-font-size:before {
   @extend .custom-button-icons;
-  width: 1.5rem;
-  height: 1.5rem;
+  width: 1.2rem;
+  height: 1.2rem;
   filter: invert(100%);
   background: url(/assets/img/icons/font-size.svg) no-repeat;
 }
@@ -28,8 +28,8 @@
 .icon-remove:before {
   @extend .custom-button-icons;
   background: url(/assets/img/icons/remove.svg) no-repeat;
-  width: 32px;
-  height: 32px;
+  width: 24px;
+  height: 24px;
   filter: invert(35%) sepia(93%) saturate(355%) hue-rotate(124deg) brightness(93%) contrast(88%);
 }
 
