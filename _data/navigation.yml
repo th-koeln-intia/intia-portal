@@ -28,7 +28,7 @@
   dropdown:
     - name: Wörterbuch
       link: /knowhow/glossary/
-    - name: Veröffentlichungen
+    - name: Publikationen
       link: /knowhow/publications/
     - name: Anleitungen
       link: /knowhow/instructions/
