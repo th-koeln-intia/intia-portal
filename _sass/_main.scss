@@ -98,6 +98,9 @@ img.is-round {
   padding-right: 5px;
 }
 
+td ul li p {
+  padding-bottom: 0px;
+}
 .card-content p {
   padding-left: 65px;
 }
@@ -110,20 +113,3 @@ img.is-round {
   float: none;
 }
 
-.navbar-search .icon {
-  height: 1.5rem;
-  width: 1.5rem;
-  vertical-align: middle;
-  padding: 20px;
-}
-
-.navbar-menu .button, .navbar-dropdown .button {
-  width: calc(75px + 4.5rem);
-  font-weight: 600;
-}
-
-.navbar-end.buttons {
-  padding-left: 15px; //temp lösung
-  padding-top: 15px;
-  font-weight: bold;
-}

@@ -40,9 +40,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 {% for entry in entries %}
 
 <h2 class="has-text-left"> {{entry.title}} </h2>
-<p class="text-green has-text-weight-bold">{{entry.subtitle}}</p>
-
-{{entry.abstract}}
+{{entry.subtitle}}
 
 <a href="{{ entry.url | relative_url }}" class="button float_right is-rounded has-text-centert is-dark {% if item.link == page.url %}is-active{% endif %}">
     <span> Mehr lesen</span>
