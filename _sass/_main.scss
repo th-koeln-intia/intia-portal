@@ -113,3 +113,35 @@ td ul li p {
   float: none;
 }
 
+.navbar-search .icon {
+  height: 1.5rem;
+  width: 1.5rem;
+  vertical-align: middle;
+  padding: 20px;
+}
+
+.navbar-menu .button, .navbar-dropdown .button {
+  width: calc(75px + 4.5rem);
+  font-weight: 600;
+}
+
+.navbar-end.buttons {
+  padding-left: 15px; //temp lösung
+  padding-top: 15px;
+  font-weight: bold;
+}
+
+.column.slider-image img {
+  border-top-right-radius: 0 !important;
+  border-bottom-right-radius: 0 !important;
+  height: 100%;
+  position: absolute;
+}
+
+.highlighter .column img {
+  border-radius: 0;
+  height: auto;
+  width: 100%;
+  float: right;
+  padding-left: 5rem;
+}
