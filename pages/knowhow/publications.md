@@ -2,7 +2,7 @@
 title_above: Wissen
 permalink: /knowhow/publications/
 jekyll-hyperlink-glossary: false
-title: Veröffentlichungen
+title: Publikationen
 hero_tags: toppage
 subtitle: >
   Hier sind alle Veröffentlichungen zu finden, die im Rahmen des Projektes INTIA
@@ -11,11 +11,20 @@ subtitle: >
   Konferenzen. Aus diesem Grund sind einige Veröffentlichungen auf Englisch.
 ---
 
-# Buchkapitel, Paper und Artikel
+# Wissenschaftliche Veröffentlichungen
 
-Kortekaas, Caroline; Zurbrügg, Eva; Zorn, Isabel. (in Bearbeitung):\
+Zorn, Isabel; Bente, Stefan; Kohls, Christian; Mager, Birgit (2022): \
+**Inklusive Entwicklung von Methoden und Technologien für digitale Hilfen zur Alltagsbewältigung in der Behinderten- und Erziehungshilfe.**\
+In EREV-Buch (Hrsg.), Inklusion in der Erziehungshilfe. Partizipation und Selbstbestimmung in einer inklusiven Erziehungshilfe (S. 248-259) Lambertusverlag.
+
+Mager, Birgit; Oertzen, Anna-Sophie; Vink, Josina; (2022):\
+**Co-Creation in Health Services through Service Design**\
+In Pfannstiel / Brehmer / Rasche, Service Design Practices for Healthcare Innovation, S. 497-510, Springer ISBN 978-3-030-87272-4
+[Hier PDF von Springer Link ab Seite 497 ansehen](https://link.springer.com/content/pdf/10.1007%2F978-3-030-87273-1.pdf)
+
+Kortekaas, Caroline; Zurbrügg, Eva; Zorn, Isabel. (2022, eingereicht):\
 **Pilotstudie: Anhaltspunkte für digitale Unterstützungsmöglichkeiten von Alltagsbedarfen junger Menschen in der Jugend- sowie Eingliederungshilfe aus Sicht der betreuenden Fachkräfte.**\
-Fachzeitschrift Soziale Arbeit (geplant).
+In Soziale Arbeit Zeitschrift für soziale und sozialverwandte Gebiete.
 
 Artikel über INTIA (2021). Journal hn-21 - Hochschulnetzwerk: Soziale Arbeit:\
 **Digitale Alltagshilfen für Kinder und Jugendliche.**\
@@ -28,20 +37,36 @@ In N.J. Maier-Michalitsch & A. Zuleger (Hrsg.), Digitalisierung und Menschen mit
 
 Bente, Stefan, Fuhrer, Kornelius (2020):\
 **Pragmatisch umgesetzt - Mindsets und Methoden für eine praxisnahe Digitale Ethik.**\
-I’X, August 2020.\
+In I’X, August 2020.\
 [I’X Artikel aufrufen](https://www.heise.de/select/ix/2020/8/2006210391529546421)
 
 Zorn, Isabel; Schwarz, Christine (2019):\
 **MakeyMakey - verblüffende Computersteuerungen erstellen.**\
-In: Deutsche Telekom Stiftung (Hg.): Digitale Kompetenzen in der Jugendarbeit. Bonn, S. 31–38.\
+In Deutsche Telekom Stiftung (Hg.): Digitale Kompetenzen in der Jugendarbeit. Bonn, S. 31–38.\
 [PDF Digitale Kompetenzen in der Jugendarbeit aufrufen](https://www.telekom-stiftung.de/sites/default/files/files/Ordner-Digitale-Kompetenzen.pdf)
 
 Zorn, Isabel; Wilken-Dapper, Stephanie (2019):\
 **Lasst uns mitmischen! Lasst uns mitgestalten!**\
-In: Das Band, S. 6–13. https://bvkm.de/wp-content/uploads/2019/08/daba_4_18_internet_klein.pdf.\
+In Das Band, S. 6–13. https://bvkm.de/wp-content/uploads/2019/08/daba_4_18_internet_klein.pdf.\
 [PDF Das Band: Digitale Teilhabe aufrufen](https://bvkm.de/wp-content/uploads/2019/08/daba_4_18_internet_klein.pdf)
 
 # Konferenzbeiträge
+
+Kohls, Christian; Wilk, Dennis (2022, eingereicht):\
+**To be added**\
+In European Conference on Pattern Languages of Programs (EuroPLoP’22), July 6–10, 2022, Irsee Monastery, Bavaria, Germany.
+
+Schmidt, Marc (2022, eingereicht):\
+**Building upon Patterns for visual programming: With a focus on flowbased programming inspired systems.**\
+In European Conference on Pattern Languages of Programs (EuroPLoP’22), July 6–10, 2022, Irsee Monastery, Bavaria, Germany
+
+Kortekaas, Caroline; Zorn, Isabel (2022, angemommen).\
+**Communication Styles as Challenges for Participatory Design Facilitators Workingwith Young People with Additional Needs in a Residential CareSetting**\
+In ICCHP-AACE Conference Lecco, Italy. Springer LNCS.
+
+Schmidt, Marc (2022, angemommen).\
+**Escape Games - An approach to start participative technology development**\
+In ICCHP-AACE Conference Lecco, Italy. Open Compendium.
 
 Schmidt, Marc; Wilk, Dennis Christian (2021):\
 **Evaluation of different Technology Stacks for Open-Source Voice Assistant.**\
@@ -105,7 +130,7 @@ Beitrag DITES Forschungskolloquium 15.10.2020
 
 Zorn, Isabel (2020):\
 **To whatsapp or to protect data? Erkenntnisse zur pädagogischen und organisatorischen Einbindung von Kommunikationstechnologien in die Soziale Arbeit.**\
-In: Helmut Kreidenweis und Bernd Halfar (Hg.): Tagungsdokumentation der 15. Eichstätter Fachtagung Sozialinformatik. Eichstätt: Katholische Universität Eichstätt-Ingolstadt, S. 17–37.
+In Helmut Kreidenweis und Bernd Halfar (Hg.): Tagungsdokumentation der 15. Eichstätter Fachtagung Sozialinformatik. Eichstätt: Katholische Universität Eichstätt-Ingolstadt, S. 17–37.
 
 Zorn, Isabel (2020):\
 **Datenschutzfragen beim Einsatz von digitalen Tools in Bildungskontexten (z.B. während der COVID-19-Präventionsmaßnahmen).**\
@@ -130,9 +155,25 @@ Vortrag im Forschungsforum der Fakultät für Angewandte Sozialwissenschaften, T
 
 # Abschluss- und Projektarbeiten
 
-Gawlik, Jennifer (2020):\
-**Partizipative und inklusive Technologieentwicklungsprozesse aus der Perspektive der Sozialen Arbeit.**\
-Bachelorarbeit Technische Hochschule Köln. Betreut von Prof. Dr. Isabel Zorn und Prof. Dr. habil. Carmen Kaminsky. Köln.
+Klein, Florian (2022):\
+**Dynamische Skalierung von Elementen in einer Radar Visualisierung von Daten.**\
+Bachelorarbeit Technische Hochschule Köln. Betreut von Marc Schmidt & Prof. Dr.-Ing. Stefan Bente. Köln.
+
+Klein, Florian (2022):\
+**Neustrukturierung und responsiv Umsetzung des INTIA Methoden-Radars in JavaScript.**\
+Praxisprojekt Technische Hochschule Köln. Betreut von Marc Schmidt & Prof. Dr.-Ing. Stefan Bente. Köln.
+
+Przygodzinski, Dawid (2022):\
+**Vergleich des Sprachassistenten Amazon Alexa mit Open Source Alternativen, am Beispiel von Mycroft.**\
+Bachelorarbeit Technische Hochschule Köln. Betreut von Marc Schmidt & Prof. Dr.-Ing. Stefan Bente. Köln.
+
+Landgraf, Eric (2022):\
+**Eruierung von Anforderungen und Erfolgsbedingungen für einen Sprachassistentenmit Fokus auf deutschsprachige Nutzer über 65 Jahren.**\
+Bachelorarbeit Technische Hochschule Köln. Betreut von Marc Schmidt, Dennis Wilk & Prof. Dr.-Ing. Stefan Bente. Köln.
+
+Landgraf, Eric (2021):\
+**Realisierung eines offlinefähigen Open Source-Sprachassistenten zur Nutzung durch vulnerable Personengruppen.**\
+Praxisprojekt Technische Hochschule Köln. Betreut von Marc Schmidt, Dennis Wilk & Prof. Dr.-Ing. Stefan Bente. Köln.
 
 Klein, Stefanie (2021):\
 **Herangehensweisen und Herausforderungen für die Teilhabe von Menschen mit Lernschwierigkeiten in der partizipativen Technologieentwicklung.**\
@@ -142,22 +183,6 @@ Heutz, Robin (2021):\
 **Empowermentprozesse bei Jugendlichen und Heranwachsenden mit Behinderung.**\
 Bachelorarbeit Technische Hochschule Köln. Betreut von Prof. Dr. Isabel Zorn und Caroline Kortekaas. Köln.
 
-Landgraf, Eric (2021):\
-**Realisierung eines offlinefähigen Open Source-Sprachassistenten zur Nutzung durch vulnerable Personengruppen.**\
-Praxisprojekt Technische Hochschule Köln. Betreut von Marc Schmidt, Dennis Wilk & Prof. Dr.-Ing. Stefan Bente. Köln.
-
-Landgraf, Eric (2022):\
-**Eruierung von Anforderungen und Erfolgsbedingungen für einen Sprachassistentenmit Fokus auf deutschsprachige Nutzer über 65 Jahren.**\
-Bachelorarbeit Technische Hochschule Köln. Betreut von Marc Schmidt, Dennis Wilk & Prof. Dr.-Ing. Stefan Bente. Köln.
-
-Klein, Florian (2022):\
-**Neustrukturierung und responsiv Umsetzung des INTIA Methoden-Radars in JavaScript.**\
-Praxisprojekt Technische Hochschule Köln. Betreut von Marc Schmidt & Prof. Dr.-Ing. Stefan Bente. Köln.
-
-Klein, Florian (2022):\
-**Dynamische Skalierung von Elementen in einer Radar Visualisierung von Daten.**\
-Bachelorarbeit Technische Hochschule Köln. Betreut von Marc Schmidt & Prof. Dr.-Ing. Stefan Bente. Köln.
-
-Przygodzinski, Dawid (2022):\
-**Vergleich des Sprachassistenten Amazon Alexa mit Open Source Alternativen, am Beispiel von Mycroft.**\
-Bachelorarbeit Technische Hochschule Köln. Betreut von Marc Schmidt & Prof. Dr.-Ing. Stefan Bente. Köln.
+Gawlik, Jennifer (2020):\
+**Partizipative und inklusive Technologieentwicklungsprozesse aus der Perspektive der Sozialen Arbeit.**\
+Bachelorarbeit Technische Hochschule Köln. Betreut von Prof. Dr. Isabel Zorn und Prof. Dr. habil. Carmen Kaminsky. Köln.
