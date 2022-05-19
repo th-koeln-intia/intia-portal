@@ -145,3 +145,28 @@ td ul li p {
   float: right;
   padding-left: 5rem;
 }
+
+.breadcrumb ul, .breadcrumb ol {
+  padding-top: 0;
+  padding-bottom: 0;
+  font-size: 0.95rem;
+}
+.breadcrumb-section.green-version {
+  background-color: #e7f2ea;
+  border: 0;
+  border-bottom: solid 3px white;
+}
+
+.navbar-item.button.is-rounded {
+  padding-left: 1.3em;
+  padding-right: 1.3em;
+}
+
+.arrow-image {
+  width: 30px;
+  height: 60px;
+}
+.accessibility-image .button {
+  width: 2.2rem;
+  height: 4.7rem;
+}

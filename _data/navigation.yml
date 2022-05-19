@@ -34,7 +34,7 @@
       link: /knowhow/instructions/
 - name: Aktuelles
   dropdown:
-    - name: Neuigkeiten
+    - name: Blog
       link: /stories/
 - name: Mitmachen
   dropdown:
