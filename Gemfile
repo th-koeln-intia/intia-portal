@@ -20,6 +20,7 @@ group :jekyll_plugins do
   gem "jekyll-titles-from-headings"
   gem "jekyll-watch"
   gem "jekyll-hyperlinkify-glossary"
+  gem "jekyll-target-blank"
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
