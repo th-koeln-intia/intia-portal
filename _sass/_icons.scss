@@ -32,7 +32,15 @@
   height: 28px;
   filter: invert(35%) sepia(93%) saturate(355%) hue-rotate(124deg) brightness(93%) contrast(88%);
 }
-
+// Dropdown menu
+.icon-open-dropdown:before {
+  @extend .custom-button-icons;
+  background: url(/assets/img/icons/open-dropdown.svg) no-repeat;
+}
+.icon-close-dropdown:before {
+  @extend .custom-button-icons;
+  background: url(/assets/img/icons/close-dropdown.svg) no-repeat;
+}
 
 // About Icons
 .icon-handshake:before {

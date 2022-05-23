@@ -14,159 +14,23 @@ $dark: #09443e;
 
 // Specific styles
 @import "layout";
+@import "mobile";
 @import "helper";
 @import "icons";
 @import "print";
+@import "radar";
 
-strong {
-  color: #000;
-}
-small {
-  font-size: 0.8rem;
-  letter-spacing: 0.15rem;
-  color: #000;
-}
-a.normal {
-  color: #000;
-  text-decoration: underline;
-}
-.highlighter h2 {
-  text-align: left;
-}
-.highlighter h3 {
-  padding-top: 0;
-}
-h4 {
-  padding: 1.5rem 0 1.5rem 0;
-}
-.column {
-  display: block;
-  padding: 1.2rem;
+// 0.5 rem war zuviel
+.navbar-link:not(.is-arrowless)::after, .select:not(.is-multiple):not(.is-loading)::after {
+  margin-top: -0.4rem;
 }
 
-.column.is-5 .highlighter {
-  margin-top: 0;
-}
-.highlighter img.is-rounded {
-  padding: 0;
-}
+// war auf 2 rem aber dann werden die runden bilder alle agbeschnitten, bitte schauen wofür man das braucht.
 .highlighter img {
-  padding: 2rem;
+  padding: 0rem;
 }
 
-.hero.is-primary
-  a:not(.button):not(.dropdown-item):not(.tag):not(.pagination-link.is-current),
-.hero.is-primary strong {
-  color: $dark;
-  text-decoration: underline;
-}
-
-.anchor {
-  display:block;
-  padding-top:120px;
-  margin-top:-120px;
-}
-
-.breadcrumb ul, .breadcrumb ol {
-  padding-top: 0.7rem;
-  padding-bottom: 0.7rem;
-  font-size: 0.95rem;
-}
-.green-version .breadcrumb li+li::before {
-  color: #000;
-  padding-bottom: 0.2rem;
-}
-
-.breadcrumb li:first-child a {
-  color: #000;
-  padding-top: 0.1rem;
-}
-
-img.is-round {
-  border-radius: 100%;
-  height: auto;
-}
-
-.green_bg {
-  background-color: #e7f2ea;
-}
-//update table
-.tb th, .tb td {
-  padding-right: 2em;
-}
-.tb td:last-child {
-  padding-right: 5px;
-}
-
-td ul li p {
-  padding-bottom: 0px;
-}
-.card-content p {
-  padding-left: 65px;
-}
-
-.highlighter img.with-zone {
-  margin-left: auto;
-  margin-right: auto;  
-  padding-top: 0;
-  padding-bottom: 1rem;
-  float: none;
-}
-
-.navbar-search .icon {
-  height: 1.5rem;
-  width: 1.5rem;
-  vertical-align: middle;
-  padding: 20px;
-}
-
-.navbar-menu .button, .navbar-dropdown .button {
-  width: calc(75px + 4.5rem);
-  font-weight: 600;
-}
-
-.navbar-end.buttons {
-  padding-left: 15px; //temp lösung
-  padding-top: 15px;
-  font-weight: bold;
-}
-
-.column.slider-image img {
-  border-top-right-radius: 0 !important;
-  border-bottom-right-radius: 0 !important;
-  height: 100%;
-  position: absolute;
-}
-
+// War auf "auto" dann war aber das bild des INTIA-Labors nicht hoch genug um die Card zu füllen
 .highlighter .column img {
-  border-radius: 0;
-  height: auto;
-  width: 100%;
-  float: right;
-  padding-left: 5rem;
-}
-
-.breadcrumb ul, .breadcrumb ol {
-  padding-top: 0;
-  padding-bottom: 0;
-  font-size: 0.95rem;
-}
-.breadcrumb-section.green-version {
-  background-color: #e7f2ea;
-  border: 0;
-  border-bottom: solid 3px white;
-}
-
-.navbar-item.button.is-rounded {
-  padding-left: 1.3em;
-  padding-right: 1.3em;
-}
-
-.arrow-image {
-  width: 30px;
-  height: 60px;
-}
-.accessibility-image .button {
-  width: 2.2rem;
-  height: 4.7rem;
+  height: 100%;
 }
