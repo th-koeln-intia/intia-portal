@@ -34,3 +34,31 @@ $dark: #09443e;
 .highlighter .column img {
   height: 100%;
 }
+
+// Feedback Janina
+// Mehr Abstand zwischen Lupe und Button
+.navbar-search .icon {
+  padding-left: 25px;
+}
+// Dropdown pfeile noch etwas zu groß
+.navbar-link:not(.is-arrowless)::after, .select:not(.is-multiple):not(.is-loading)::after {
+  width: 0.7rem;
+  height: 0.7rem;
+}
+// Text soll vertikal zentriert sein (optisch nicht rechnerisch)
+.navbar-item, .navbar-link, .navbar-dropdown {
+  padding-top: 0.7em;
+}
+// Button soll rund sein
+.accessibility-image .button {
+  width: 2.5rem;
+  height: 2.5rem;
+}
+// Zentrieren des Icons im runden button
+#changeFontsize .icon{
+  padding-top: 0.2rem;
+}
+// Scrollpfeil soll wie vorgabe sein (diese hat 48px)
+.arrow-image {
+  width: 48px;
+}
