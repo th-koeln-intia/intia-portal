@@ -45,21 +45,21 @@ defaults:
       type: posts
       path: _posts
     values:
-      permalink: /stories/:title/
+      permalink: /blog/:title/
       path: [Aktuelles, Neuigkeiten]
       layout: default
   - scope:
       type: glossary
       path: _glossary
     values:
-      permalink: /knowhow/glossary/:title/
+      permalink: /wissen/woerterbuch/:title/
       breadcrumbs: [Wissen, Wörterbuch]
       layout: default  
   - scope:
       type: methods
       path: _methods
     values:
-      permalink: /tools/methods/:title/
+      permalink: /werkzeuge/methoden/:title/
       breadcrumbs: [Werkzeuge, Methoden]
       layout: default   
 

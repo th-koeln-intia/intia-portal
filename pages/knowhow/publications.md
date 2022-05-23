@@ -1,6 +1,6 @@
 ---
 title_above: Wissen
-permalink: /knowhow/publications/
+permalink: /wissen/publikationen/
 jekyll-hyperlink-glossary: false
 title: Publikationen
 hero_tags: toppage

@@ -1,7 +1,7 @@
 ---
 title_above: Werkzeuge
 title: Bausteine
-permalink: /tools/building_blocks/
+permalink: /werkzeuge/bausteine/
 preview_image: /assets/img/uploads/image2022-2-10_12-42-54.png
 hero_tags: toppage
 subtitle: Erfahre alle wichtigen Details über die Bausteine im INTIA-Koffer.

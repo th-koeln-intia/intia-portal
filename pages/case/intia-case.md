@@ -1,7 +1,7 @@
 ---
 title: Über den INTIA-Koffer
 title_above: INTIA-Koffer
-permalink: /intia-case/
+permalink: /intia-koffer/
 hero_tags: toppage
 subtitle: |
   Mit dem INTIA-Koffer kannst du dir individuelle, technische Lösungen bauen. Er lädt dazu ein, Technik spielerisch kennenzulernen. So kannst du damit zum Beispiel individuelle Lösungen für deinen Arbeitsalltag entwickeln.
@@ -24,7 +24,7 @@ Der INTIA-Koffer führt spielerisch und niederschwellig an moderne Technik heran
 
 Die Ideen des INTIA-Koffers sind vielseitig: Er eignet sich für alle, ist mobil, offen, kostengünstig und modular. Dank seiner Modularität kann jeder Mensch den INTIA-Koffer in einfachen Schritten zu einem personalisierten Koffer machen. Damit du aber nicht selber jedes einzelne Element aussuchen und ausprobieren musst, haben wir hier Erweiterungen für deinen INTIA-Koffer zusammengestellt.
 
-<a href='/intia-case/buy' class='button highlighter-column-button is-rounded is-dark'>
+<a href='/intia-koffer/kaufen' class='button highlighter-column-button is-rounded is-dark'>
       <span>INTIA-Koffer kaufen</span>
       <span class='icon is-small'>
         <i class='fas fa-chevron-right fa-xs'></i>
@@ -118,7 +118,7 @@ Hier sind alle Elemente aufgelistet, die sich im INTIA-Koffer befinden.
 <br>
 Eine genauere Liste mit allen Elementen mit direktem Link zum bestellen findet man hier:
 <br><br>
-<a href='/intia-case/buy' class='button highlighter-column-button is-rounded is-dark'>
+<a href='/intia-koffer/kaufen' class='button highlighter-column-button is-rounded is-dark'>
       <span>INTIA-Koffer kaufen</span>
       <span class='icon is-small'>
         <i class='fas fa-chevron-right fa-xs'></i>

@@ -3,7 +3,7 @@ hero_tags: subpage pdf
 title_above: Anleitungen
 breadcrumbs: [Wissen, Anleitungen]
 title: Anleitung zum Packen des INTIA-Koffers
-permalink: /knowhow/instructions/how_to_pack
+permalink: /wissen/anleitungen/intia-koffer-packen
 hero_image: /assets/img/uploads/dsc_0060.jpg
 preview_image: /assets/img/uploads/dsc_0060.jpg
 subtitle: Wenn du dich dazu entschieden hast, dir einen INTIA-Koffer zuzulegen und du bereits alles dafür gekauft hast, kann es an das Packen des Koffers gehen. Hier erfährst du, wie du den physischen Koffer packen kannst. Zu diesem Zweck musst du natürlich schon alles gekauft und dich entschieden haben, welcher Koffer es sein soll.

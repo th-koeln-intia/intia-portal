@@ -1,7 +1,7 @@
 ---
 title: Was steckt im INTIA-Koffer und was kostet er?
 title_above: INTIA-KOFFER
-permalink: /intia-case/content/
+permalink: /intia-koffer/inhalt/
 hero_tags: toppage
 subtitle: |
   Hier sind alle Elemente aufgelistet, die in den INTIA-Koffer gehören.

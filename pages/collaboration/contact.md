@@ -4,7 +4,7 @@ title_above: Mitmachen
 hero_tags: toppage
 subtitle: |
   Mach' mit und werde Teil des Netzwerks! Es geht um alles rund um digitale technische Alltagshilfen. Schon dabei sind: das INTIA-Projektteam, der Fachbeirat des Projekts und seine Praxispartner. Alle verbindet der Wunsch, sich untereinander und mit Fachkräften der Sozialen Arbeit und den beteiligten Wissenschaftler:innen auszutauschen und ein Netzwerk zu bilden.
-permalink: /collaboration/contact/
+permalink: /mitmachen/kontakt/
 contact: true
 ---
 
@@ -31,10 +31,10 @@ Gustav-Heinemann-Ufer 54
 <br>
 50968 Köln
 <a href="https://www.th-koeln.de/" class="button is-rounded is-dark" style="float: right">
-<span class="icon is-small">
-<i class="fas fa-external-link-alt fa-xs"></i>
-</span>
 <span>Zur TH Köln</span>
+<span class="icon is-small">
+<i class="fas icon-external fa-xs invert"></i>
+</span>
 </a>
 </div>
 <div class="column">

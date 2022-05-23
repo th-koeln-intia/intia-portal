@@ -1,7 +1,7 @@
 ---
 title: Netzwerk
 title_above: Mitmachen
-permalink: /collaboration/network/
+permalink: /mitmachen/netzwerk/
 hero_tags: toppage
 subtitle: |
   Du möchtest dich mit anderen INTIA Nutzenden vernetzen und austauschen? Deine INTIA-Geschichte erzählen? Oder Feedback zu etwas geben? Das alles ist im INTIA-Netzwerk möglich und eine wichtige Hilfe für alle anderen Nutzenden und Entwickler:innen von INTIA! Hier erfährst du, wo das INTIA-Netzwerk zu finden ist.
@@ -39,7 +39,7 @@ Das INTIA-Netzwerk besteht aus allen Menschen, die Interesse an INTIA haben: Ega
 
 <div class="highlighter">
 
-  # Abschlusstagung
+# Abschlusstagung
 
   <div class='columns'>
     <div class='column is-one-third has-text-centered'>
@@ -56,11 +56,9 @@ Das INTIA-Netzwerk besteht aus allen Menschen, die Interesse an INTIA haben: Ega
 
       {% include button.html label="Zur Tagung" link="https://tagung.intia.de/" type="external" %}
 
-    
   </div>
 </div>
 </div>
-
 
 # Im Netzwerk schon dabei
 
@@ -76,12 +74,12 @@ Das Forschungsprojekt INTIA konnte sowohl in den Einrichtungen seiner drei Wisse
 
 ## intra Bonn
 
-Gemeinsam mit Fachkräften und Qualifikant*innen der intra Bonn wurden einige INTIA-Methoden entwickelt und getestet und hierbei digitale Lösungen für den Einrichtungsalltag gemeinsam gestaletet.
+Gemeinsam mit Fachkräften und Qualifikant\*innen der intra Bonn wurden einige INTIA-Methoden entwickelt und getestet und hierbei digitale Lösungen für den Einrichtungsalltag gemeinsam gestaletet.
 
   <a href="https://www.bonn.de/themen-entdecken/soziales-gesellschaft/intraggmbh.php" class="button is-rounded is-dark">
       <span>Website</span>
       <span class="icon is-small">
-        <i class="fas fa-external-link-alt fa-xs"></i>
+        <i class="fas icon-external fa-xs invert"></i>
       </span>
   </a>
   <div class="clear"></div>                          
@@ -101,7 +99,7 @@ PIKSL ist mit Bernhard Spelten im INTIA Fachbeirat vertreten. Des Weiteren hat P
   <a href="https://piksl.net/ed/standorte/koeln/" class="button is-rounded is-dark">
       <span>Website</span>
       <span class="icon is-small">
-        <i class="fas fa-external-link-alt fa-xs"></i>
+        <i class="fas icon-external fa-xs invert"></i>
       </span>
   </a>
   <div class="clear"></div>                          
@@ -121,7 +119,7 @@ Die Bildungsfachkräfte des Institutes für inklusive Bildung (IIB) haben INTIA�
   <a href="https://nrw.inklusive-bildung.org/de/startseite-1" class="button is-rounded is-dark">
       <span>Website</span>
       <span class="icon is-small">
-        <i class="fas fa-external-link-alt fa-xs"></i>
+        <i class="fas icon-external fa-xs invert"></i>
       </span>
   </a>
   <div class="clear"></div>                          

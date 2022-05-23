@@ -1,7 +1,7 @@
 ---
 title: Projekt
 title_above: Über
-permalink: /about/project/
+permalink: /ueber/projekt/
 hero_tags: toppage
 subtitle: |
   Woher kommen die hier angebotenen Infos und Materialien? Aus dem gleichnamigen Forschungsprojekt an der TH Köln. Forschende und benachteiligte Jugendliche erforschen darin gemeinsam, wie Technik den Alltag verbessern kann.

@@ -1,7 +1,7 @@
 ---
 title: Wörterbuch
 title_above: Wissen
-permalink: /knowhow/glossary/
+permalink: /wissen/woerterbuch/
 hero_tags: toppage
 subtitle: |
   Ist etwas unklar? Hier findest du eine Übersicht über die häufig genutzte Begriffe in Bezug auf INTIA.

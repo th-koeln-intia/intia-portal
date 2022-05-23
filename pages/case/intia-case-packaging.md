@@ -1,7 +1,7 @@
 ---
 title: Koffermaterial für den physischen INTIA-Koffer
 title_above: INTIA-KOFFER
-permalink: /intia-case/packaging/
+permalink: /intia-koffer/verpackung/
 hero_tags: toppage
 subtitle: |
   Die Bausteine brauchen natürlich eine "Verpackung" - den Koffer. Es gibt verschieden Möglichkeiten mit unterschiedlichen Vorzügen. Hier werden einige Verpackungsoptionen vorgestellt.

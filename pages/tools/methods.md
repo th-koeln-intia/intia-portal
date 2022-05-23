@@ -1,7 +1,7 @@
 ---
 title: Methoden
 title_above: Werkzeuge
-permalink: /tools/methods/
+permalink: /werkzeuge/methoden/
 hero_tags: toppage
 subtitle: |
   Eine Übersicht von Methoden die Hilfreich zum entwerfen, erstellen und evaluieren von Alltagshilfen sind.

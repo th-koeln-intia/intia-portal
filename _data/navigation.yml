@@ -1,25 +1,25 @@
 - name: Über
   dropdown:
     - name: Plattform
-      link: /about/plattform
+      link: /ueber/plattform
     - name: Projekt
-      link: /about/project/
+      link: /ueber/projekt/
     - name: Barrierearm
-      link: /about/accessibility/
+      link: /ueber/barrierearm/
 - name: INTIA-Koffer
   dropdown:
     - name: Über
-      link: /intia-case/
+      link: /intia-koffer/
     - name: Kaufen
-      link: /intia-case/buy/
+      link: /intia-koffer/kaufen/
     - name: Häufige Fragen
-      link: /intia-case/faq/
+      link: /intia-koffer/faq/
 - name: Werkzeuge
   dropdown:
     - name: Bausteine
-      link: /tools/building_blocks/
+      link: /werkzeuge/bausteine/
     - name: Methoden
-      link: /tools/methods/
+      link: /werkzeuge/methoden/
 #- name: Lösungen
 #  dropdown:
 #    - name: Lösungen
@@ -27,20 +27,20 @@
 - name: Wissen
   dropdown:
     - name: Wörterbuch
-      link: /knowhow/glossary/
+      link: /wissen/woerterbuch/
     - name: Publikationen
-      link: /knowhow/publications/
+      link: /wissen/publikationen/
     - name: Anleitungen
-      link: /knowhow/instructions/
+      link: /wissen/anleitungen/
 - name: Aktuelles
   dropdown:
     - name: Blog
-      link: /stories/
+      link: /blog/
 - name: Mitmachen
   dropdown:
-    - name: Community
-      link: /collaboration/community/
+#    - name: Community
+#      link: /mitmachen/community/
     - name: Netzwerk
-      link: /collaboration/network/
+      link: /mitmachen/netzwerk/
     - name: Kontakt
-      link: /collaboration/contact/
+      link: /mitmachen/kontakt/

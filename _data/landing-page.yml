@@ -4,7 +4,7 @@ sections:
       Alltagslösungen selber bauen? Hier gibt es Werkzeuge, Methoden und Anleitungen zum Weiterentwickeln.
     image: /assets/img/landingpage/werkzeuge.jpg
     icon: icon-tools
-    link: /intia-case/
+    link: /intia-koffer/
     link_text: Zu den Werkzeugen
   - title: Lösungen
     text: |
@@ -18,5 +18,5 @@ sections:
         Etwas besser verstehen oder mehr Hintergrundwissen erwünscht? Begriffersklärungen, Wissenschaftliches und Veröffentlichungen
     image: /assets/img/landingpage/wissen.jpg
     icon: icon-briefcase
-    link: /knowhow/glossary/
+    link: /wissen/woerterbuch/
     link_text: Zum Wissen

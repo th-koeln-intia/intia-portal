@@ -1,7 +1,7 @@
 ---
 title: Community
 title_above: Mitmachen
-permalink: /collaboration/community/
+permalink: /mitmachen/community/
 hero_tags: toppage
 subtitle: |
   Du möchtest dich mit anderen INTIA Nutzenden vernetzen und austauschen? Deine INTIA-Geschichte erzählen? Oder Feedback zu etwas geben? Das alles ist in der INTIA-Community möglich und eine wichtige Hilfe für alle anderen Nutzenden und Entwickler:innen von INTIA! Hier erfährst du, wo die INTIA-Community zu finden ist.

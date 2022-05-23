@@ -1,11 +1,10 @@
 ---
 title: Anleitungen
 title_above: Wissen
-permalink: /knowhow/instructions/
+permalink: /wissen/anleitungen/
 hero_tags: toppage
-subtitle: | 
+subtitle: |
   Möglichst alle sollen selbständig mit dem INTIA-Koffer arbeiten können! Damit das klappt, findest du hier Anleitungen, die alles Schritt für Schritt erklären.
-
 ---
 
 # Anleitungen
@@ -16,14 +15,14 @@ Alle Anleitungen können sowohl online betrachtet als auch auch runtergeladen un
 
 ## Erstellen und Einrichten des INTIA-Koffers
 
-<a href='/knowhow/instructions/first_use' class='button is-dark is-rounded'>
+<a href='/wissen/anleitungen/erstbenutzung' class='button is-dark is-rounded'>
       <span>Anleitung der Erstinbetriebnahme des INTIA-Koffers</span>
       <span class='icon is-small'>
         <i class='fas fa-chevron-right fa-xs'></i>
       </span>
 </a>
 
-<a href='/knowhow/instructions/how_to_pack' class='button is-dark is-rounded'>
+<a href='/wissen/anleitungen/intia-koffer-packen' class='button is-dark is-rounded'>
       <span>Anleitung zum packen des INTIA-Koffers</span>
       <span class='icon is-small'>
         <i class='fas fa-chevron-right fa-xs'></i>
@@ -32,14 +31,14 @@ Alle Anleitungen können sowohl online betrachtet als auch auch runtergeladen un
 
 <br><br>
 
-<a href='/knowhow/instructions/installation' class='button is-dark is-rounded'>
+<a href='/wissen/anleitungen/installation' class='button is-dark is-rounded'>
       <span>Anleitung Mini-Computer installieren</span>
       <span class='icon is-small'>
         <i class='fas fa-chevron-right fa-xs'></i>
       </span>
 </a>
 
-<a href='/knowhow/instructions/how_to_new_devices' class='button is-dark is-rounded'>
+<a href='/wissen/anleitungen/neue-geraete' class='button is-dark is-rounded'>
       <span>Anleitung zum Hinzufügen und Einrichten neuer Geräte</span>
       <span class='icon is-small'>
         <i class='fas fa-chevron-right fa-xs'></i>

@@ -1,7 +1,7 @@
 ---
 title: Kaufen
 title_above: INTIA-Koffer
-permalink: /intia-case/buy/
+permalink: /intia-koffer/kaufen/
 hero_tags: toppage
 subtitle: |
   Wie kommt man an einen INTIA-Koffer und wie stellt man diesen zusammen? Diese Fragen werden hier beantwortet.
@@ -62,7 +62,7 @@ Unter nachfolgendem Link wirst du zu der Webseite "Mein Online Wunschzettel" wei
 Hier findest du eine einfache Auflistung:
 
 <div></div>
-{% include button.html label='Zur Einkaufsliste auf "Mein Online Wunschzettel"' link='https://www.meinonlinewunschzettel.de/?wz=dd67ce857592ad4' %}
+{% include button.html label='Zur Einkaufsliste auf "Mein Online Wunschzettel"' link='https://www.meinonlinewunschzettel.de/?wz=dd67ce857592ad4' type="external" %}
 
 {% include highlighter.html min-height25p=false button="Excel-Einkaufsliste herunterladen" button_link='/assets/files/einkaufsliste.xlsx' content="
 
