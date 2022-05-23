@@ -53,7 +53,7 @@ In Das Band, S. 6–13. https://bvkm.de/wp-content/uploads/2019/08/daba_4_18_int
 # Konferenzbeiträge
 
 Kohls, Christian; Wilk, Dennis (2022, eingereicht):\
-**To be added**\
+**Maker Spaces for Hybrid Education**\
 In European Conference on Pattern Languages of Programs (EuroPLoP’22), July 6–10, 2022, Irsee Monastery, Bavaria, Germany.
 
 Schmidt, Marc (2022, eingereicht):\
