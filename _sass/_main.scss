@@ -49,6 +49,7 @@ $dark: #09443e;
 .navbar-item, .navbar-link, .navbar-dropdown {
   padding-top: 0.7em;
 }
+
 // Button soll rund sein
 .accessibility-image .button {
   width: 2.5rem;
@@ -61,4 +62,20 @@ $dark: #09443e;
 // Scrollpfeil soll wie vorgabe sein (diese hat 48px)
 .arrow-image {
   width: 48px;
+}
+
+//Kleiner Border um Element im Footer sichbar zu machen
+.accessibility-image {
+  border: 1px solid white;
+  border-radius: 9999px;
+}
+// Put update arrow-up.svg in theme !!!!
+//Kleiner Border um Element im Footer sichbar zu machen
+.navbar-dropdown .navbar-item.button{
+  border: 1px solid white;
+}
+
+// Platz zwischn hero und breadcrumb ist arg riesig (war 10rem)
+.hero.is-medium .hero-body {
+  padding-top: 5rem
 }
