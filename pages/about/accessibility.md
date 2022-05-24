@@ -7,6 +7,8 @@ subtitle: |
   Auf der Plattform INTIA sind Inhalte möglichst barrierearm. Das bedeutet die Sprache ist einfach und die verwendete Schrift ist gut lesbar. Wir bitten ausdrücklich um deine Mithilfe, wenn das nicht überall gut gelungen ist!
 ---
 
+## Hinweis zu den Inhalten auf der Plattform
+
 Alle angebotenen Texte auf der Plattform sollen möglichst für alle zugänglich und verständlich sein. Darum haben wir die Sprache angepasst und möglichst einfach gemacht. Diese zusätzlichen Funktionen erleichtern die Nutzung der Plattform INTIA:
 
 - Pfeile "hoch / runter": Können über Assistenzsysteme besser zum Scrollen genutzt werden. Die Seiten sind zudem möglichst kurz aufgebaut, sodass nicht zu viel gescrollt werden muss.
@@ -24,5 +26,5 @@ Die Texte auf diese Plattform sind barrierearm, erfüllen jedoch nicht vollstän
 
 ## Feedback und Kontakt
 
-Ist ein Text auf dieser Plattform nicht leicht verständlich und du möchtest uns das sagen? Oder möchtest du mehr Informationen über einen fachwissenschaftlichen Text? Bitte schreibe eine E-Mail an kontakt@intia.de. Dazu kannst du auch
+Ist ein Text auf dieser Plattform nicht leicht verständlich und du möchtest uns das sagen? Oder möchtest du mehr Informationen über einen fachwissenschaftlichen Text? Bitte schreibe eine E-Mail an [kontakt@intia.de](mailto:kontakt@intia.de). Dazu kannst du auch
 unser [Kontaktformular](/mitmachen/kontakt/) benutzen.

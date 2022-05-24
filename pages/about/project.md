@@ -77,7 +77,7 @@ Das INTIA-Projektteam besteht aus ungefähr zehn Personen aus unterschiedlichen 
 <div class='columns'>
 <div class='column is-one-quarter has-text-centered'>
   <figure class='image'>
-    <img class='with-zone is-rounded' src='/assets/img/about/team/IZ.jpg'>
+    <img class='image-team with-zone is-rounded' src='/assets/img/about/team/IZ.jpg'>
   </figure>
       <strong>
       Prof. Dr. 
@@ -85,11 +85,12 @@ Das INTIA-Projektteam besteht aus ungefähr zehn Personen aus unterschiedlichen 
       Isabel Zorn
       </strong>
       <br>
+      <br>
       <small>SOZIALE ARBEIT</small>
 </div>
 <div class='column is-one-quarter has-text-centered'>
   <figure class='image'>
-    <img class='with-zone is-rounded' src='/assets/img/about/team/SB.jpg'>
+    <img class='image-team with-zone is-rounded' src='/assets/img/about/team/SB.jpg'>
   </figure>
       <strong>
       Prof. Dr. 
@@ -97,28 +98,31 @@ Das INTIA-Projektteam besteht aus ungefähr zehn Personen aus unterschiedlichen 
       Stefan Bente
       </strong>
       <br>
+      <br>
       <small>INFORMATIK</small>
 </div>
 <div class='column is-one-quarter has-text-centered'>
   <figure class='image'>
-    <img class='with-zone is-rounded' src='/assets/img/about/team/BM.jpg'>
+    <img class='image-team with-zone is-rounded' src='/assets/img/about/team/BM.jpg'>
   </figure>
       <strong>
       Prof. <br>
       Birgit Mager
       </strong>
       <br>
+      <br>
       <small>SERVICE DESIGN</small>
 </div>
 <div class='column is-one-quarter has-text-centered'>
   <figure class='image'>
-    <img class='with-zone is-rounded' src='/assets/img/about/team/CK.jpg'>
+    <img class='image-team with-zone is-rounded' src='/assets/img/about/team/CK.jpg'>
   </figure>
       <strong>
       Prof. Dr. 
       <br>
       Christian Kohls
       </strong>
+      <br>
       <br>
       <small>SOZIOTECHNIK</small>
 </div>
@@ -222,7 +226,11 @@ Der Fachbeirat hat die Aufgabe, das Forschungsprojekt mit der Expertise seiner M
 
 ## Finanzielle Förderung
 
-Das Forschungsprojekt INTIA wird von 2019-2023 vom Bundesministerium für Bildung und Forschung (BMBF) finanziell gefördert. Die Förderung ist Teil der Fördermaßnahme "Lebensqualität durch soziale Innovationen" (FH Sozial). Das Projekt heisst: "Inklusive Entwicklung von Methoden und Technologien für digitale Hilfen zur Alltagsbewältigung in der Behinderten- und Erziehungshilfe (INTIA)" und ist unter dem Förderkennzeichen 13FH534SX7 im [Förderkatalog des Bundes](https://foerderportal.bund.de/foekat/jsp/StartAction.do?actionMode=list) auffindbar.
+Das Forschungsprojekt INTIA wird von 2019-2023 vom Bundesministerium für Bildung und Forschung (BMBF) finanziell gefördert. Die Förderung ist Teil der Fördermaßnahme "Lebensqualität durch soziale Innovationen" (FH Sozial). Das Projekt heisst: "Inklusive Entwicklung von Methoden und Technologien für digitale Hilfen zur Alltagsbewältigung in der Behinderten- und Erziehungshilfe (INTIA)" und ist unter dem Förderkennzeichen 13FH534SX7 im
+<a href="https://foerderportal.bund.de/foekat/jsp/StartAction.do?actionMode=list" class="normal">Förderkatalog des Bundes<span class="icon is-small">
+<i class="fas icon-external fa-xs"></i>
+</span></a>
+auffindbar.
 
 <a id="bmbf" class="anchor"></a>
 

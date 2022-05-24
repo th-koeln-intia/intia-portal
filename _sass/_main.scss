@@ -95,3 +95,23 @@ $dark: #09443e;
 .green-version .breadcrumb li+li::before {
   color: #09443E;
 }
+
+// Optisch bewegt sich das element mit 2px border
+.navbar-dropdown, .navbar-item:focus, .navbar-dropdown a.navbar-item:focus, .navbar-dropdown a.navbar-item:hover {
+  border-width: 1px;
+}
+
+// Titel in weiß da der block dunkel grün ist
+.latest-story .slider-titel{
+  color: white;
+}
+
+// Slider titel soll ans datum rücken
+.slider-content h4 {
+  padding-top: 0px;
+}
+
+// Teambilder etwas abstand zum namen
+.image-team {
+  margin-bottom: 10px;
+}
