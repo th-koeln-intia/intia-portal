@@ -7,7 +7,7 @@ subtitle: |
   Mit dem INTIA-Koffer kannst du dir individuelle, technische Lösungen bauen. Er lädt dazu ein, Technik spielerisch kennenzulernen. So kannst du damit zum Beispiel individuelle Lösungen für deinen Arbeitsalltag entwickeln.
 ---
 
-# Was ist der INTIA-Koffer?
+## Was ist der INTIA-Koffer?
 
 Der INTIA-Koffer ist eine Art Werkzeugkoffer. Man könnte ihn auch als kreative Box bezeichnen. Seine Inhalte sorgen für eine schnelle und selbstständige Einarbeitung und können sofort für die Anwendung genutzt werden.
 Er besteht aus verschiedenen analogen und digitalen Elementen:

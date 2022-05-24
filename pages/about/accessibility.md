@@ -18,11 +18,11 @@ Alle angebotenen Texte auf der Plattform sollen möglichst für alle zugänglich
 - Die Seite wurde von Expert:innen (in eigener Sache) vorab getestet. Ihr Feedback wurde vor Veröffentlichung eingearbeitet.
 - Auf der Seite genutzte Bilder sind mit altnernativen Texten hinterlegt.
 
-# Hinweis zu nicht-barrierearmen Inhalten
+## Hinweis zu nicht-barrierearmen Inhalten
 
 Die Texte auf diese Plattform sind barrierearm, erfüllen jedoch nicht vollständig den Anspruch auf Barrierefreiheit. Schwierige Texte, die einen wissenschaftlichen Beitrag in einer wissenschaftlichen Fachdisziplin leisten, sind als Fachwissen markiert. Es gibt eine kurze Erklärung in einfacher Sprache zum Inhalt des fachwissenschaftlichen Textes. Die als PDF zum Download zur Verfügung gestellten Texte sind nicht barrierearm.
 
-# Feedback und Kontakt
+## Feedback und Kontakt
 
 Ist ein Text auf dieser Plattform nicht leicht verständlich und du möchtest uns das sagen? Oder möchtest du mehr Informationen über einen fachwissenschaftlichen Text? Bitte schreibe eine E-Mail an kontakt@intia.de. Dazu kannst du auch
 unser [Kontaktformular](/mitmachen/kontakt/) benutzen.

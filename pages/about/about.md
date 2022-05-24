@@ -7,7 +7,7 @@ subtitle: |
   Wie kann digitale Technik möglichst partizipativ und inklusiv mit ihren Anwender:innen entwickelt werden? Methoden, Werkzeuge und Wissen dazu gibt es auf dieser Plattform.
 ---
 
-# Für Wen?
+## Für Wen?
 
 Hier finden Fachkräfte der Sozialen Arbeit Unterstützung sowie Inspiration, wie sie ihren Arbeitsalltag mit Kindern und Jugendlichen in Einrichtungen der Sozialen Arbeit neu und aktiver gestalten können. Dabei steht das Mitmachen und das gemeinsame Arbeiten im Vordergrund.
 Entwickler:innen, die Materialien zur Technikentwicklung selbst gestalten wollen, finden hier ein Open Source Materialangebot zur Erprobung und weiteren Verwendung.
@@ -16,12 +16,12 @@ Und selbstverständlich richten sich die Angebote der Plattform auch an betroffe
 
 {% include highlighter.html two-columns=true content="
 
-# Einander verstehen
+## Einander verstehen
 
 Die Inhalte auf diesen Internetseiten sind so gestaltet und beschrieben, dass sie möglichst barrierearm sind. Die Sprache wird aus diesem Grund möglichst einfach gehalten. Wenn es z.B. um wissenschaftliche Erkenntnisse aus der Forschung geht, werden diese Inhalte für Expert:innen als solche gekennzeichnet. Begriffe, die nicht selbstverständlich sind werden erklärt, wenn man mit der Maus auf diesen markierten Worten verweilt. Es gibt eine Vorlesefunktion sämtlicher Webseiten.
 
 "%}
 
-# Was?
+## Was?
 
 {% include left-right-blocks.html data="plattform" %}

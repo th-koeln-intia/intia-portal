@@ -7,7 +7,7 @@ subtitle: |
   Wie kommt man an einen INTIA-Koffer und wie stellt man diesen zusammen? Diese Fragen werden hier beantwortet.
 ---
 
-# Wo gibt es den INTIA-Koffer?
+## Wo gibt es den INTIA-Koffer?
 
 Der INTIA-Koffer bietet viele Möglichkeiten für Technikentwicklung. Aktuell kann man den INTIA-Koffer noch nicht direkt bekommen. Das wird sich aber hoffentlich noch ändern.
 

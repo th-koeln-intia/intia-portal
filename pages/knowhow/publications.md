@@ -11,7 +11,7 @@ subtitle: >
   Konferenzen. Aus diesem Grund sind einige Veröffentlichungen auf Englisch.
 ---
 
-# Wissenschaftliche Veröffentlichungen
+## Wissenschaftliche Veröffentlichungen
 
 Zorn, Isabel; Bente, Stefan; Kohls, Christian; Mager, Birgit (2022): \
 **Inklusive Entwicklung von Methoden und Technologien für digitale Hilfen zur Alltagsbewältigung in der Behinderten- und Erziehungshilfe.**\
@@ -50,7 +50,7 @@ Zorn, Isabel; Wilken-Dapper, Stephanie (2019):\
 In Das Band, S. 6–13. https://bvkm.de/wp-content/uploads/2019/08/daba_4_18_internet_klein.pdf.\
 [PDF Das Band: Digitale Teilhabe aufrufen](https://bvkm.de/wp-content/uploads/2019/08/daba_4_18_internet_klein.pdf)
 
-# Konferenzbeiträge
+## Konferenzbeiträge
 
 Kohls, Christian; Wilk, Dennis (2022, eingereicht):\
 **Maker Spaces for Hybrid Education**\
@@ -153,7 +153,7 @@ Rösch, Janina; Seidler, Jan; Thielmann, Hanna; Zorn, Isabel (2019):\
 **Inklusive partizipative Technikentwicklung am Beispiel InTiA.**\
 Vortrag im Forschungsforum der Fakultät für Angewandte Sozialwissenschaften, TH Köln. Köln.
 
-# Abschluss- und Projektarbeiten
+## Abschluss- und Projektarbeiten
 
 Klein, Florian (2022):\
 **Dynamische Skalierung von Elementen in einer Radar Visualisierung von Daten.**\

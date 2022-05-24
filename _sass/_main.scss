@@ -79,3 +79,19 @@ $dark: #09443e;
 .hero.is-medium .hero-body {
   padding-top: 5rem
 }
+
+// Im Kontaktformular muss die H1 auf H2 geändert werden
+.contact h1 {
+  @extend h2; //Temp lösung
+}
+
+// Breadcrumb color auf dunkeltürkis geändert
+.breadcrumb li:first-child a {
+  color: #09443E;
+}
+.green-version .breadcrumb a {
+  color: #09443E;
+}
+.green-version .breadcrumb li+li::before {
+  color: #09443E;
+}

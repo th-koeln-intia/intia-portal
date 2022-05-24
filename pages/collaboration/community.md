@@ -7,7 +7,7 @@ subtitle: |
   Du möchtest dich mit anderen INTIA Nutzenden vernetzen und austauschen? Deine INTIA-Geschichte erzählen? Oder Feedback zu etwas geben? Das alles ist in der INTIA-Community möglich und eine wichtige Hilfe für alle anderen Nutzenden und Entwickler:innen von INTIA! Hier erfährst du, wo die INTIA-Community zu finden ist.
 ---
 
-# Was ist die INTIA-Community?
+## Was ist die INTIA-Community?
 
 <div class="columns is-vcentered is-variable is-8">
 <div class="column is-7">
