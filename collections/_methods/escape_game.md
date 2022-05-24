@@ -131,6 +131,7 @@ Rätsel entwickeln, bei denen die Technik in einen praktischen Rahmen gesetzt wi
 
 Die Methode Escape Game wurde entwickelt von Dennis Christian Wilk
 
+<!--
 {% include highlighter.html min-height25p=false content="
 
 ## <center>Weitere Define Methoden</center>
@@ -164,3 +165,4 @@ voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
 <br><br>
 
 " %}
+-->

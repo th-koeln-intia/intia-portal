@@ -30,8 +30,8 @@
       link: /wissen/woerterbuch/
     - name: Publikationen
       link: /wissen/publikationen/
-    - name: Anleitungen
-      link: /wissen/anleitungen/
+#    - name: Anleitungen
+#      link: /wissen/anleitungen/
 - name: Aktuelles
   dropdown:
     - name: Blog
