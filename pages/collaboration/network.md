@@ -9,8 +9,11 @@ subtitle: |
 
 ## INTIA erleben
 
-Das INTIA-Netzwerk besteht aus allen Menschen, die Interesse an INTIA haben: Egal ob Sie den INTIAKoffer nutzen, zur Entwicklung beitragen oder sich austauschen möchten. Werde auch DU Teil des INTIA-Netzwerks! Eine Anmeldung hierzu ist nicht notwendig. Hier findest du drei Möglichkeiten mitzumachen. Du haste andere Ideen, wie du dich gerne einbringen möchtest? Lass es uns über das Kontaktformular wissen!
+Das INTIA-Netzwerk besteht aus allen Menschen, die Interesse an INTIA haben: Egal ob Sie den INTIA-Koffer nutzen, zur Entwicklung beitragen oder sich austauschen möchten. Werde auch DU Teil des INTIA-Netzwerks! Eine Anmeldung hierzu ist nicht notwendig. Melde dich einfach bei uns über das Kontaktformular!
 
+<!-- Hier findest du drei Möglichkeiten mitzumachen. Du haste andere Ideen, wie du dich gerne einbringen möchtest? Lass es uns über das Kontaktformular wissen! -->
+
+<!--
 <br><br>
 
 <div class='columns'>
@@ -36,6 +39,7 @@ Das INTIA-Netzwerk besteht aus allen Menschen, die Interesse an INTIA haben: Ega
       Mehr über die INTIA-Produkte und ihre Nutzung lernen in den <strong>Fortbildungsvideos</strong>
 </div>
 </div>
+-->
 
 <div class="highlighter">
 
