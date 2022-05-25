@@ -43,7 +43,7 @@ Das INTIA-Netzwerk besteht aus allen Menschen, die Interesse an INTIA haben: Ega
 
 <div class="highlighter">
 
-## Abschlusstagung
+## Ergebnistagung
 
   <div class='columns'>
     <div class='column is-one-third has-text-centered'>
@@ -54,7 +54,7 @@ Das INTIA-Netzwerk besteht aus allen Menschen, die Interesse an INTIA haben: Ega
         09:00 bis 12:30 Uhr
     </div>
     <div class='column is-two-third'>
-      <h4>Im Juni findet die digtale INTIA Abschlusstagung statt, bei welcher via Zoom einge INTIA-Ergebnisse präsentiert werden. Jede:r kann (kostenlos) teilnehmen. </h4>
+      <h4>Im Juni findet die digtale INTIA Ergebnistagung statt, bei welcher via Zoom einge INTIA-Ergebnisse präsentiert werden. Jede:r kann (kostenlos) teilnehmen. </h4>
     <br>
     <br>
 
