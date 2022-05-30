@@ -1,30 +1,16 @@
-- name: 'Dummy'
+- name: 'Method 1'
   sectorID: 1
   ringID: 0
-  stateID: 0
+  stateID: 1
   active: true
-  link: ''
+  link: 'escape_game'
   moved: 0
-- name: 'Dummy'
+- name: 'Method 2'
   sectorID: 1
   ringID: 1
-  stateID: -1
+  stateID: 1
   active: true
-  link: ''
-  moved: 0
-- name: 'Dummy'
-  sectorID: 1
-  ringID: 1
-  stateID: -1
-  active: true
-  link: ''
-  moved: 0
-- name: 'Dummy'
-  sectorID: 1
-  ringID: 1
-  stateID: 2
-  active: true
-  link: ''
+  link: 'escape_game'
   moved: 0
 
 
@@ -33,148 +19,145 @@
 
 
 
-- name: 'Dummy'
+- name: 'Method 3'
   sectorID: 4
   ringID: 0
-  stateID: -1
+  stateID: 1
   active: true
-  link: ''
+  link: 'escape_game'
   moved: 0
-- name: 'Dummy'
+- name: 'Method 4'
   sectorID: 4
   ringID: 2
   stateID: 0
   active: true
-  link: ''
-  moved: 0
-- name: 'Dummy'
-  sectorID: 4
-  ringID: 2
-  stateID: -1
-  active: true
-  link: ''
-  moved: 0
-- name: 'Dummy'
-  sectorID: 4
-  ringID: 2
-  stateID: 2
-  active: true
-  link: ''
+  link: 'escape_game'
   moved: 0
 
 
 
 
-- name: 'Dummy'
+- name: 'Method 5'
   sectorID: 0
   ringID: 1
   stateID: 2
   active: true
-  link: ''
+  link: 'escape_game'
   moved: 0
-- name: 'Dummy'
+- name: 'Method 6'
   sectorID: 0
   ringID: 1
   stateID: 1
   active: true
-  link: ''
-  moved: 0
-- name: 'Dummy'
-  sectorID: 0
-  ringID: 1
-  stateID: 0
-  active: true
-  link: ''
-  moved: 0
-- name: 'Dummy'
-  sectorID: 0
-  ringID: 1
-  stateID: 0
-  active: true
-  link: ''
-  moved: 0
-- name: 'Dummy'
-  sectorID: 0
-  ringID: 1
-  stateID: 0
-  active: true
-  link: ''
+  link: 'escape_game'
   moved: 0
 
 
 
 
-- name: 'Dummy'
+- name: 'Method 7'
   sectorID: 3
   ringID: 0
   stateID: 0
   active: true
-  link: ''
+  link: 'escape_game'
   moved: 1
 
-- name: 'Dummy'
-  sectorID: 3
-  ringID: 2
-  stateID: -1
-  active: true
-  link: ''
-  moved: 1
-- name: 'Dummy'
+- name: 'Method 8'
   sectorID: 3
   ringID: 2
   stateID: 1
   active: true
-  link: ''
+  link: 'escape_game'
   moved: 1
-- name: 'Dummy'
+- name: 'Method 9'
   sectorID: 3
   ringID: 2
-  stateID: 2
+  stateID: 1
   active: true
-  link: ''
-  moved: 1
-- name: 'Dummy'
-  sectorID: 3
-  ringID: 2
-  stateID: -1
-  active: true
-  link: ''
+  link: 'escape_game'
   moved: 1
 
 
 
-- name: 'Dummy'
+- name: 'Method 10'
   sectorID: 2
   ringID: 2
   stateID: 0
   active: true
-  link: ''
+  link: 'escape_game'
   moved: 0
-- name: 'Dummy'
+- name: 'Method 11'
   sectorID: 2
   ringID: 2
   stateID: 1
   active: true
-  link: ''
+  link: 'escape_game'
   moved: 0
-- name: 'Dummy'
+- name: 'Method 11'
   sectorID: 2
   ringID: 2
-  stateID: -1
+  stateID: 1
   active: true
-  link: ''
+  link: 'escape_game'
   moved: 0
-- name: 'Dummy'
-  sectorID: 2
-  ringID: 2
-  stateID: 2
+
+- name: 'Method 11'
+  sectorID: 1
+  ringID: 3
+  stateID: 0
   active: true
-  link: ''
+  link: 'escape_game'
   moved: 0
-- name: 'Dummy'
+- name: 'Method 11'
   sectorID: 2
-  ringID: 2
-  stateID: -1
+  ringID: 3
+  stateID: 1
   active: true
-  link: ''
+  link: 'escape_game'
+  moved: 0
+
+- name: 'Method 11'
+  sectorID: 1
+  ringID: 4
+  stateID: 0
+  active: true
+  link: 'escape_game'
+  moved: 0
+- name: 'Method 11'
+  sectorID: 2
+  ringID: 4
+  stateID: 1
+  active: true
+  link: 'escape_game'
+  moved: 0
+
+- name: 'Method 11'
+  sectorID: 1
+  ringID: 5
+  stateID: 0
+  active: true
+  link: 'escape_game'
+  moved: 0
+- name: 'Method 11'
+  sectorID: 2
+  ringID: 5
+  stateID: 1
+  active: true
+  link: 'escape_game'
+  moved: 0
+
+- name: 'Method 11'
+  sectorID: 1
+  ringID: 6
+  stateID: 0
+  active: true
+  link: 'escape_game'
+  moved: 0
+- name: 'Method 11'
+  sectorID: 2
+  ringID: 6
+  stateID: 1
+  active: true
+  link: 'escape_game'
   moved: 0

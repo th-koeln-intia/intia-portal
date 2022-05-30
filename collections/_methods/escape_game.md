@@ -4,7 +4,6 @@ title_above: Methode
 published: true
 title: Escape Game
 english_title: Escape Game
-permalink: /methode/escape_game/
 last_update: 11.05.2022
 subtitle: Das Escape Game besteht aus Rätseln, die aus Smart Home Technik bestehen. So werden die Teilnehmenden mit den verschiedenen Funktionen und Steuerungen der Bausteine vertraut gemacht. Durch das neue Wissen können sie anschließend selbst Ideen für neue Technologien entwickeln, die ihnen bei der Alltagsbewältigung helfen.
 abstract: Das Escape Game besteht aus Rätseln, die aus Smart Home Technik bestehen. So werden die Teilnehmenden mit den verschiedenen Funktionen und Steuerungen der Bausteine vertraut gemacht. Durch das neue Wissen können sie anschließend selbst Ideen für neue Technologien entwickeln, die ihnen bei der Alltagsbewältigung helfen.

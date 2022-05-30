@@ -1,25 +1,27 @@
 radar:
   id: 'radar'
-  name: 'Method radar'
+  name: 'Methodenradar'
   showName: true
-  showAllSectorsText: 'All quadrants'
-  legendDropdownText: 'Legend'
-  defaultColor: 'rgba(255, 255, 255, 0)'
+  showAllSectorsText: 'Alle Quadranten'
+  legendDropdownText: 'Legende'
+  defaultColor: '#7db6b0'
   renderResolution: 518
+  linkPrefix: '/werkzeuge/methoden/'
+  linkSuffix: ''
 
 sector:
-  useColor: true
   showName: true
   nameOffset: 5
 
 segment: 
   colorGradient: true
-  colorGradientLimit: 1.66
-  showName: true
+  colorGradientLimit: 1.65
+  showName: false
   showNameAsId: true
   padding: 4
 
 blip:
-  size: 34
-  defaultColor: '#7570b3'
-  margin: 4
+  size: 1
+  defaultColor: '#1e7d73'
+  margin: 10
+  outerCircleRadius: 0

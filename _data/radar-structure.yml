@@ -1,33 +1,28 @@
 sectors:
-  - name: 'Sector 1'
-    color: '#3498db'
-  - name: 'Sector 2'
-    color: '#e74c3c'
-  - name: 'Sector 3'
-    color: '#9b59b6'
-  - name: 'Sector 4'
-    color: '#9b59b6'
+  - name: 'Testen'
+  - name: 'Umsetzen'
+  - name: 'Entdecken'
+  - name: 'Definieren'
  
   
 rings:
   legendTitle: 'Ringe/Segmente'
   list:
-    - name: 'Ring 1'
-      color: '#93c47d'
-    - name: 'Ring 2'
-      color: '#93d2c2'
-    - name: 'Ring 3'
-      color: '#fbdb84'
-
+    - name: 'Entscheidungsmacht'
+    - name: 'teilw. Entscheidungsmacht'
+    - name: 'Mitbestimmung'
+    - name: 'Einbeziehung'
+    - name: 'Anhörung'
+    - name: 'Information'
+    - name: 'Nicht beteiligt'
+    
 entryStates:
   legendTitle: 'Zustände'
   list:
-    - name: 'New'
-      color: '#1b9e77'
-    - name: 'Testing'
-      color: '#e7298a'
-    - name: 'Old'
-      color: '#d95f02'
+    - name: 'Methode nach Lehrbuch'
+      color: '#1e7d73'
+    - name: 'Neue Methode'
+      color: '#09443E'
 
 entryMovement:
   legendTitle: 'Movement'
