@@ -107,3 +107,78 @@ Sind alle Inhalte des INTIA-Koffers beisammen, kann es noch nicht sofort losgehe
 - Fertig! Der Koffer ist startklar.
 
 Weiterführende Links zu den einzelnen Punkten folgen in Kürze.
+
+## Interesse?
+
+Wenn der Koffer dein Interesse geweckt hat kannst du einfach unser Kontaktformular nutzen um auf dem laufenden zu bleiben:
+
+<div class="container contact-case">
+<form id="form" action="{{ site.data.contact.action }}"  data-botpoison-public-key="{{ site.data.contact.botpoison_key }}" class="columns">
+<div class="column is-6">
+<div class="field">
+<label class="label">Vor- und Nachname</label>
+<div class="control has-icons-left">
+<input class="input" type="text" id="name" name="name" placeholder="Hier tippen..." required>
+<span class="icon is-small is-left">
+<i class="fas fa-user"></i>
+</span>
+</div>
+</div>
+<div class="field">
+<label class="label">Kontakt E-Mailadresse</label>
+<div class="control has-icons-left">
+<input class="input" type="email" id="email" name="email" placeholder="Hier tippen...">
+<span class="icon is-small is-left">
+<i class="fas fa-envelope"></i>
+</span>
+</div>
+</div>
+<div class="field hidden">
+<label class="label">Betreff</label>
+<div class="control has-icons-left">
+<input class="input" id="thema" name="thema" value="INTIA-Koffer" placeholder="Hier tippen...">
+<span class="icon is-small is-left">
+<i class="fas fa-pen"></i>
+</span>
+</div>
+</div>
+</div>
+<div class="column is-6">
+<div class="field hidden">
+<label class="label">Nachricht</label>
+<div class="control">
+<textarea
+class="textarea"
+id="message"
+name="message"
+placeholder="Hier tippen..."
+value="Ich habe Interesse über den Koffer auf dem laufenden zu bleiben"
+></textarea>
+</div>
+</div>
+              <div class="checkbox columns">
+                <div class="column contact-box">
+                  <input class="column" type="checkbox" id="agree" name="privacy-policy" value="agreed" required oninvalid="this.setCustomValidity('Bitte dieses Feld anklicken, um fortzufahren')"
+                       oninput="this.setCustomValidity('')">
+                </div>
+                <div class="column contact-agree">
+                  <label for="agree">{{ site.data.contact.checkbox  }}</label><br><br>
+                  <button id="button" class="button is-rounded is-dark" type="submit">Abschicken</button>
+                </div>
+              </div>
+        </div>
+    </form>
+    <script>
+      var formElement = document.getElementById("form");
+      var buttonElement = document.getElementById("button");
+      formElement.addEventListener("botpoison-challenge-start", function () {
+        buttonElement.setAttribute("disabled", "disabled");
+      });
+      formElement.addEventListener("botpoison-challenge-success", function () {
+        buttonElement.removeAttribute("disabled");
+      });
+      formElement.addEventListener("botpoison-challenge-error", function () {
+        buttonElement.removeAttribute("disabled");
+      });
+    </script>
+  </div>
