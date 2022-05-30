@@ -1,5 +1,5 @@
 // Mobil
-@include mobile {
+@include until-fullhd {
   body,
   .highlighter {
     font-size: 0.9rem;
