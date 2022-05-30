@@ -1,6 +1,6 @@
 // small Screens
 
-@media screen and (max-width: 1400px) {
+@include until-fullhd {
   .navbar-burger {
     display: block !important;
 }
