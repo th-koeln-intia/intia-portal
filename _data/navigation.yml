@@ -10,6 +10,8 @@
   dropdown:
     - name: Über
       link: /intia-koffer/
+    - name: Nutzungsszenario
+      link: /intia-koffer/nutzungsszenario
     - name: Kaufen
       link: /intia-koffer/kaufen/
     - name: Häufige Fragen
