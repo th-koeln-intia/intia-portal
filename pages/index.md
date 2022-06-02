@@ -1,7 +1,7 @@
 ---
-title: Willkommen auf INTIA
+title: Willkommen bei  INTIA
 subtitle: |
-  der Plattform für Menschen aus der Sozialen Arbeit, Informatik und Wissenschaft! Hier werden gemeinsam mit Jugendlichen inklusive Technikideen für den Alltag (INTIA) entwickelt und eingesetzt.
+  der Plattform für Menschen aus der Sozialen Arbeit, Informatik und Wissenschaft! Hier findet man Anregungen und Werkzeuge für die Lösung von Alltagsproblemen - auch durch spielerischen Einsatz von Technik! Und man findet viele Hintergrundinformationen und Kontaktmöglichkeiten zum Thema "partizipativ inklusive Technikentwicklung"!
 hero_image: /assets/img/landingpage/start.jpg
 hero_link: /ueber/plattform
 hero_link_text: Mehr über INTIA
@@ -12,7 +12,7 @@ story_slider_button: Mehr lesen
 ---
 
 {% include introduction.md title="Schnelleinstieg" content="
-Die Plattform INTIA bietet Lösungen und Wissen zur partizipativen und inklusiven Technikentwicklung an: Werkzeuge wie Methoden, erste Prototypen oder Wissen in Form von Fachartikeln laden zum Nachbauen und Weiterentwickeln ein.
+Die Plattform INTIA zeigt Möglichkeiten auf, wie partizipativ und inklusiv - auch durch den Einsatz von Technik - Alltagsprobleme bewältigt werden können!
 <br></br>
 
 [Auf dieser Plattform sind viele Texte möglichst einfach geschrieben.](/ueber/barrierearm)"

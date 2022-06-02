@@ -60,11 +60,11 @@ Schmidt, Marc (2022, eingereicht):\
 **Building upon Patterns for visual programming: With a focus on flowbased programming inspired systems.**\
 In European Conference on Pattern Languages of Programs (EuroPLoP’22), July 6–10, 2022, Irsee Monastery, Bavaria, Germany
 
-Kortekaas, Caroline; Zorn, Isabel (2022, angemommen).\
+Kortekaas, Caroline; Zorn, Isabel (2022, angenommen).\
 **Communication Styles as Challenges for Participatory Design Facilitators Workingwith Young People with Additional Needs in a Residential CareSetting**\
 In ICCHP-AACE Conference Lecco, Italy. Springer LNCS.
 
-Schmidt, Marc (2022, angemommen).\
+Schmidt, Marc (2022, angenommen).\
 **Escape Games - An approach to start participative technology development**\
 In ICCHP-AACE Conference Lecco, Italy. Open Compendium.
 

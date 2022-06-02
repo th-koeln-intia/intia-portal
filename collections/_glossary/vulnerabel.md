@@ -11,24 +11,24 @@ subtitle: Vulnerabel bedeutet, verletzlich zu sein. Ein Mensch ist immer vulnera
 abstract: Vulnerabel heißt verletzlich sein. Eine Person ist immer vulnerabel.
   Manche Umstände verstärken das. Manche Personen werden zum Beispiel wegen
   ihrer Herkunft benachteiligt. Dadurch sind sie vulnerabler als andere
-  Personen·gruppen.
+  Personen·gruppen. Auch die Jugendliche können Teil einer vulnerablen Personen·gruppe sein, beispielsweise, wenn sie durch ihre Familie oder ihre Umwelt benachteiligt sind, wenig Geld haben oder wenn sie von Behinderung bedroht sind. Das ist mit Barrieren verbunden. Diese Barrieren will das Projekt INTIA durch technische Hilfs·mittel verringern. Deshalb hat dieser Begriff eine zentrale Bedeutung für das Projekt.
 ---
 
 # Bedeutung für das Projekt
 
 Vulnerabilitäten zum Beispiel in Bezug auf Isolierung, Armut oder Ähnliches entstehen durch Lebens·umstände oder durch gesellschaftliche Benachteiligung. Folgende Erklärungs·faktoren helfen bei der Charakterisierung von Vulnerabilitäten: materielle Bedingungen, kulturelle und verhaltens·bedingte Faktoren, psycho·soziale Faktoren oder Lebens·ereignisse. Außerdem medizinische Versorgung und Einflüsse aus der frühen Kindheit beziehungsweise aus dem sozialen Lebens·umfeld (siehe die Beiträge in Kapitel 3 Richter/ Hurrelmann 2009). [5]
 
-Davon sind unsere jugendlichen Ziel·gruppen geprägt. Die strukturelle Benachteiligung, die sich auch in benachteiligter digitaler Teilhabe zeigen kann, ist Grund für die Berücksichtigung in INTIA.
+Jugendliche in Kontexten der Jugend- oder Behindertenhilfe haben oft strukturelle Benachteiligung erlebt. Die strukturelle Benachteiligung, die sich auch in benachteiligter digitaler Teilhabe zeigen kann, ist Grund für die Berücksichtigung in INTIA.
 
 # Beschreibung
 
 Der Begriff der Vulnerabilität wird in verschiedenen wissenschaftlichen Feldern unterschiedlich definiert.[1]
 
-Aus anthropologischer Sicht ist Vulnerabilität eine Grund·eigenschaft. Jeder Mensch besitzt sie. Außerdem gibt es eine spezifische Dimension von Vulnerabilität. Sie ist das Resultat bestimmter Lebens·umstände und hat eine eingeschränkte Selbst·bestimmung und Entscheidungs·freiheit als Folge. Interne Faktoren wie eine körperliche Abweichung können sich mit externen Faktoren, wie beispielsweise einem Bildungs·rückstand bedingen. Dann verstärkt sich die Vulnerabilität.[2]
+Aus anthropologischer Sicht ist Vulnerabilität eine Grund·eigenschaft. Jeder Mensch ist vulnerabel. Außerdem gibt es eine spezifische Dimension von Vulnerabilität. Sie ist das Resultat bestimmter Lebens·umstände und hat eine eingeschränkte Selbst·bestimmung und Entscheidungs·freiheit als Folge. Interne Faktoren wie eine körperliche Abweichung können sich mit externen Faktoren, wie beispielsweise einem Bildungs·rückstand bedingen. Dann verstärkt sich die Vulnerabilität.[2]
 
 Es gibt drei bestimmende Merkmale von Vulnerabilität. Erstens das Ausgesetzt-Sein (exposure). Zweitens die Sensitivität (sensitivity). Und drittens die Möglichkeit, diesem Ausgesetzt-Sein passend begegnen zu können (adaption).[3, p.12]
 
-Vulnerabilität beschreibt demnach die Verletzlichkeit oder Verletzbarkeit einer Person, einer sozialen Gruppe, eines Gegenstandes oder eines Systems. Angesichts bestehender Gefährdungen, Risiken, Krisen, Stress, Schocks oder bereits eingetretener schädigender Ereignisse. Die Verletzung oder Schädigung bedeutet in der Regel, dass wichtige Funktionen eingeschränkt oder nicht mehr vorhanden sind. Eine wesentliche Bedingung der Vulnerabilität besteht in un·zureichenden Bewältigungs·kapazitäten der Person, Gruppen oder Systeme. [4, p.24][5] **In Hinblick auf Diskriminierungs·gefahren ist die Bezeichnung als „vulnerable Gruppe" kontraproduktiv. Sinnvolle Begriffs·verwendungen für diese Gruppe zeigen Grenzen auf. Stigmatisierende und diskriminierende Effekte sind nie gänzlich auszuschließen.**[6, p.304]
+Vulnerabilität beschreibt demnach die Verletzlichkeit oder Verletzbarkeit einer Person, einer sozialen Gruppe, eines Gegenstandes oder eines Systems, angesichts bestehender Gefährdungen, Risiken, Krisen, Stress, Schocks oder bereits eingetretener schädigender Ereignisse. Die Verletzung oder Schädigung bedeutet in der Regel, dass wichtige Funktionen oder Möglichkeiten eingeschränkt oder nicht mehr vorhanden sind. Eine wesentliche Bedingung der Vulnerabilität besteht in un·zureichenden Bewältigungs·kapazitäten der Person, Gruppen oder Systeme. [4, p.24][5] **In Hinblick auf Diskriminierungs·gefahren ist die Bezeichnung als „vulnerable Gruppe" kontraproduktiv. Stigmatisierende und diskriminierende Effekte sind nie gänzlich auszuschließen.**[6, p.304]
 
 Wenn es aber um Eigenschaften der Ziel·gruppe geht, ist eine Stigmatisierung und einseitige Zuschreibung zu vermeiden. Die Erfahrungen in der speziellen Situation können aber auch Resilienz auslösen und bei den Jugendlichen zur Herausbildung bestimmter Stärken führen. Deshalb sollte sich bei den Eigenschaften von benachteiligten Jugendlichen nicht nur auf die stigmatisierende Benachteiligung fokussiert werden. Sondern auch auf eine Diversität, die die Jugend·lichen möglicherweise bereichert.[7, p.3]
 

@@ -129,3 +129,11 @@ $dark: #09443e;
 .contact-case .checkbox {
   margin-top: 1rem;
 }
+
+// Fix glossary entry in left-right layout. Instead of "a" check for button
+.card-content a {
+  margin-left: 0px;
+}
+.card-content .button {
+  margin-left: 65px;
+}

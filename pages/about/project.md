@@ -4,16 +4,16 @@ title_above: Über
 permalink: /ueber/projekt/
 hero_tags: toppage
 subtitle: |
-  Woher kommen die hier angebotenen Infos und Materialien? Aus dem gleichnamigen Forschungsprojekt an der TH Köln. Forschende und benachteiligte Jugendliche erforschen darin gemeinsam, wie Technik den Alltag verbessern kann.
+  Woher kommen die hier angebotenen Informationen und Materialien? Aus dem gleichnamigen Forschungsprojekt an der TH Köln. Forschende und   Jugendliche erforschen darin gemeinsam, wie Technik den  Alltag verbessern kann.
 ---
 
 ## Jugendliche als Expert:innen
 
-Die Jugendlichen machen selbst mit und forschen gemeinsam mit dem Team der TH Köln. Denn nur die Jugendlichen selbst wissen, was sie in ihrem Leben und besonders dort wo sie wohnen verbessern können. Zusammen mit dem INTIA Team der TH Köln erfinden sie technische oder digitale Hilfen für den Alltag von Jugendlichen. Über drei Jahre (2019 bis 2022) bekommt INTIA Fördergelder, damit die Wissenschaftler:innen der TH Köln und Jugendliche zusammen arbeiten können.
+Jugendliche machen mit und forschen gemeinsam mit dem INTIA Team der TH Köln. Denn nur die Jugendlichen selbst wissen, was sie in ihrem Leben und besonders dort, wo sie wohnen, verbessern können. Zusammen mit dem INTIA Team erkunden sie ihren Alltag und erfinden technische oder digitale Hilfen. INTIA erhielt Fördergelder, damit die Wissenschaftler:innen der TH Köln und Jugendliche zusammen arbeiten können.
 
 ## Der Projekt-Ansatz
 
-Digitale Technik erleichtert den Alltag und lässt viele Menschen an etwas teilhaben, was ohne sie unerreicht bliebe. Sie hilft einigen selbständiger zu leben und eigene Entscheidungen zu treffen. Man kann bei etwas mitmachen ohne zu reisen und sich mit anderen verbinden, sogar online neue Freunde finden. Aber nicht alle haben einen großen Nutzen von dieser Entwicklung von Technologien. Manche Menschen brauchen eine individuelle technische Lösung für ihr Zuhause, die es nicht als fertiges Produkt zu kaufen gibt. Das Projektteam versucht sie zu ermächtigen, technische Lösungen selbst zu erfinden und diese mit Spaß an der Sache gemeinsam mit ihnen zu gestalten.
+Digitale Technik erleichtert den Alltag und lässt viele Menschen an etwas teilhaben, was ohne sie unerreicht bliebe. Sie kann helfen, selbständiger zu leben und eigene Entscheidungen zu treffen. Man kann bei etwas mitmachen ohne zu reisen und sich mit anderen verbinden, sogar online neue Freunde finden. Aber nicht alle haben den gleichen Nutzen von den Technologien. Manche Menschen brauchen eine individuelle technische Lösung für ihr Zuhause, die es nicht als fertiges Produkt zu kaufen gibt. Das Projektteam will Menschen befähigen, technische Lösungen selbst zu erfinden und diese mit Spaß an der Sache gemeinsam zu gestalten.
 
 #### Das Vorgehen
 
