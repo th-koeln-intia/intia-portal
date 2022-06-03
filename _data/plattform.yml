@@ -9,8 +9,8 @@ sections:
   - title: Methoden
     text: |
         Partizipativ inklusive Methoden gesucht? Im INTIA-Methodenradar findet man eine übersicht von Methoden eingeordnet nach dem partizipationsgrad!
-    image: /assets/img/uploads/photoprobe.jpg
-    icon: icon-key
+    image: /assets/img/landingpage/methoden.jpg
+    icon: icon-methods
     link: /werkzeuge/methoden/
     link_text: Zu den Methoden
   - title: Wissen

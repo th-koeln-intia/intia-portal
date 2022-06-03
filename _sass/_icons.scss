@@ -65,6 +65,10 @@
   @extend .custom-icon;
   background: url(/assets/img/icons/tools.svg) no-repeat;
 }
+.icon-methods:before {
+  @extend .custom-icon;
+  background: url(/assets/img/icons/methods.SVG) no-repeat;
+}
 
 // Principles Icons
 .callout-icon {
