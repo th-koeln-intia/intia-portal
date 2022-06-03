@@ -11,7 +11,8 @@ synonyms:
   - Mitbestimmung
   - partizipativ
 last_update: 11.11.2021
-subtitle: Partizipation
+subtitle: Partizipation ist, wenn Menschen an Gestaltungen mitwirken und ein
+  Ergebnis  beeinflussen.
 abstract: "Partizipation bedeutet, Prozesse und Produkte mit zu gestalten und
   Entscheidungen mitzubestimmen. Partizipation ist wichtig für die Soziale
   Arbeit und  inklusive Technik·entwicklung.  Das heißt: es ist wichtig, dass
