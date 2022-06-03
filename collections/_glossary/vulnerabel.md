@@ -8,10 +8,8 @@ synonyms:
   - vulnerale
 last_update: 11.11.2021
 subtitle: Vulnerabel bedeutet, verletzlich zu sein. Ein Mensch ist immer vulnerabel.
-abstract: Marc
+abstract: Vulnerabel heißt verletzlich sein. Eine Person ist immer vulnerabel. Manche Umstände verstärken das. Manche Personen werden zum Beispiel wegen ihrer Herkunft benachteiligt. Dadurch sind sie vulnerabler als andere Personen·gruppen. Auch die Jugendliche können Teil einer vulnerablen Personen·gruppe sein, beispielsweise, wenn sie durch ihre Familie oder ihre Umwelt benachteiligt sind, wenig Geld haben oder wenn sie von Behinderung bedroht sind. Das ist mit Barrieren verbunden. Diese Barrieren will inklusive Technikentwicklung durch technische Hilfs·mittel verringern.
 ---
-Vulnerabel heißt verletzlich sein. Eine Person ist immer vulnerabel. Manche Umstände verstärken das. Manche Personen werden zum Beispiel wegen ihrer Herkunft benachteiligt. Dadurch sind sie vulnerabler als andere Personen·gruppen. Auch die Jugendliche können Teil einer vulnerablen Personen·gruppe sein, beispielsweise, wenn sie durch ihre Familie oder ihre Umwelt benachteiligt sind, wenig Geld haben oder wenn sie von Behinderung bedroht sind. Das ist mit Barrieren verbunden. Diese Barrieren will inklusive Technikentwicklung durch technische Hilfs·mittel verringern.
-
 # Bedeutung für inklusive Technikentwicklung
 
 Vulnerabilitäten zum Beispiel in Bezug auf Isolierung, Armut oder Ähnliches entstehen durch Lebens·umstände oder durch gesellschaftliche Benachteiligung. Folgende Erklärungs·faktoren helfen bei der Charakterisierung von Vulnerabilitäten: materielle Bedingungen, kulturelle und verhaltens·bedingte Faktoren, psycho·soziale Faktoren oder Lebens·ereignisse. Außerdem medizinische Versorgung und Einflüsse aus der frühen Kindheit beziehungsweise aus dem sozialen Lebens·umfeld (siehe die Beiträge in Kapitel 3 Richter/ Hurrelmann 2009). \[5]
