@@ -2,7 +2,7 @@
 hero_tags: subpage glossary pdf
 title_above: Wörterbuch
 published: true
-title: vulnerabel
+title: Vulnerabel
 english_title: vulnerable
 synonyms:
   - vulnerale
@@ -10,13 +10,14 @@ last_update: 11.11.2021
 subtitle: Vulnerabel bedeutet, verletzlich zu sein. Ein Mensch ist immer vulnerabel.
 abstract: Vulnerabel heißt verletzlich sein. Eine Person ist immer vulnerabel. Manche Umstände verstärken das. Manche Personen werden zum Beispiel wegen ihrer Herkunft benachteiligt. Dadurch sind sie vulnerabler als andere Personen·gruppen. Auch die Jugendliche können Teil einer vulnerablen Personen·gruppe sein, beispielsweise, wenn sie durch ihre Familie oder ihre Umwelt benachteiligt sind, wenig Geld haben oder wenn sie von Behinderung bedroht sind. Das ist mit Barrieren verbunden. Diese Barrieren will inklusive Technikentwicklung durch technische Hilfs·mittel verringern.
 ---
-# Bedeutung für inklusive Technikentwicklung
+
+## Bedeutung für inklusive Technikentwicklung
 
 Vulnerabilitäten zum Beispiel in Bezug auf Isolierung, Armut oder Ähnliches entstehen durch Lebens·umstände oder durch gesellschaftliche Benachteiligung. Folgende Erklärungs·faktoren helfen bei der Charakterisierung von Vulnerabilitäten: materielle Bedingungen, kulturelle und verhaltens·bedingte Faktoren, psycho·soziale Faktoren oder Lebens·ereignisse. Außerdem medizinische Versorgung und Einflüsse aus der frühen Kindheit beziehungsweise aus dem sozialen Lebens·umfeld (siehe die Beiträge in Kapitel 3 Richter/ Hurrelmann 2009). \[5]
 
 Jugendliche in Kontexten der Jugend- oder Behindertenhilfe haben oft strukturelle Benachteiligung erlebt. Die strukturelle Benachteiligung zeigt sich auch in benachteiligter digitaler Teilhabe. Inklusive Technikentwicklung zielt auf die nachhaltige Entwicklung von Tools, die für alle Menschen hilfreich sind und digitale Teilhabe fördern.
 
-# Beschreibung
+## Beschreibung
 
 Der Begriff der Vulnerabilität wird in verschiedenen wissenschaftlichen Feldern unterschiedlich definiert.\[1]
 
@@ -30,7 +31,7 @@ Wenn es aber um Eigenschaften der Ziel·gruppe geht, ist eine Stigmatisierung un
 
 "Salutogenetic perspectives underpin the importance of acknowledging the patient as a person and mobilizing his or her strengths \[3], so that the patient’s resistance resources are given the best possible conditions in the fight against illness, suffering and oppression".\[7, p.3] Denn vermutlich sind die Ziel·gruppen nicht wegen ihrer Eigen·schaften digital benachteiligt/vulnerabel. Sondern wegen strukturell bedingten geringen Zugängen zu digitalen Technologien und geringen Möglichkeiten zum digitalen Kompetenz·erwerb. Das reduziert ihre Teilhabe·chancen.\[8]
 
-# Quellen
+## Quellen
 
 1. Dederich, Markus. (2020). „Anerkennung und Vulnerabilität. Inklusionspädagogische Überlegungen in Anschluss an Butler Und Levina“s. Zeitschrift Für Inklusion, Nr. 1 (März). https://www.inklusion-online.net/index.php/inklusion-online/article/view/554, Markus. 2020. „Anzeige von Anerkennung und Vulnerabilität. Inklusionspädagogische Überlegungen in Anschluss an Butler und Levinas | Zeitschrift für Inklusion.“ Zeitschrift für Inklusion (1). https://www.inklusion-online.net/index.php/inklusion-online/article/view/554/402. Zugriff am 2. April 2020.
 2. Schrems, B. M. (2017). Vulnerabilität im Kontext der Pfelgeforschung. Ein Essay. Pflege & Gesellschaft, (4), S. 308 - 321
