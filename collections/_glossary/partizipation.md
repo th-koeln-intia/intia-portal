@@ -11,22 +11,24 @@ synonyms:
   - Mitbestimmung
   - partizipativ
 last_update: 11.11.2021
-subtitle: Partizipation bedeutet, dass Menschen an Gestaltungen und Entscheidungen mitwirken können und dadurch ein Ergebnis beeinflussen können.
-abstract: "Partizipation bedeutet Prozesse und Produkte mit zu gestalten und Entscheidungen mitzubestimmen. Partizipation ist wichtig für die Soziale Arbeit und das Forschungs·projekt INTIA. Das Forschungs·projekt INTIA will partizipativ digitale Alltagshilfen entwickeln. Das heißt: es ist wichtig, dass Jugendliche und Fachkräfte im Projekt mitgestalten und Entscheidungen treffen können."
+subtitle: Partizipation
+abstract: "Partizipation bedeutet, Prozesse und Produkte mit zu gestalten und
+  Entscheidungen mitzubestimmen. Partizipation ist wichtig für die Soziale
+  Arbeit und  inklusive Technik·entwicklung.  Das heißt: es ist wichtig, dass
+  Jugendliche und Fachkräfte Technik mitgestalten und Entscheidungen treffen
+  können."
 ---
+# Bedeutung für inklusive Technikentwicklung
 
-# Bedeutung für das Projekt
-
-Das Forschungsprojekt INTIA hat das Ziel, partizipative inklusive Methoden zu benutzen. Sie dienen zur Erhebung von Bedürfnissen und Technikentwicklung. In einem partizipativen und inklusiven Design- und Forschungsprozess gehört der Begriff Partizipation definiert.
+Wer Technik inklusiv entwickeln möchte, brauchtdafür partizipative inklusive Methoden. Sie dienen zur Erhebung von Bedürfnissen und Technikentwicklung. Was verstehen wir unter Partizipation?
 
 Partizipation ist bedeutsam für die Praxis in der Sozialen Arbeit wichtig. In vielen Handlungsfeldern ist die Partizipation der Adressat:innen vorgeschrieben, z.B. in der Jugendhilfe. Auch aus forschungsethischer Perspektive ist es wichtig, Partizipation zu definieren.
 
 # Beschreibung
 
-Die folgenden Definitionen sind für das Forschungsprojekt INTIA als geeignet:
-Die Definition aus der partizipativen Gesundheitsforschung: "Partizipation meint zunächst die individuelle oder kollektive Teilhabe von Menschen an Entscheidungen, die für sie, ihr Leben und im engeren Sinne für ihre Gesundheit relevant sind."[1, p.4]
+Eine passende Definition kommt aus der partizipativen Gesundheitsforschung: "Partizipation meint zunächst die individuelle oder kollektive Teilhabe von Menschen an Entscheidungen, die für sie, ihr Leben und im engeren Sinne für ihre Gesundheit relevant sind."\[1, p.4]
 Partizipation beschreibt die individuelle und gemeinschaftliche Teilhabe von Menschen an Gestaltungen und Entscheidungen. Die Entscheidungen betreffen ihr Leben und ihre Gesundheit.
-Nach Straßburger und Rieger meint Partizipation "an Entscheidungen mitzuwirken und damit Einfluss auf das Ergebnis nehmen zu können. Sie basiert auf klaren Vereinbarungen, die regeln, wie eine Entscheidung gefällt wird und wie weit das Recht auf Mitbestimmung reicht.“ [2, p.230]
+Die Autorinnen Straßburger und Rieger meinen mit Partizipation: "an Entscheidungen mitzuwirken und damit Einfluss auf das Ergebnis nehmen zu können. Sie basiert auf klaren Vereinbarungen, die regeln, wie eine Entscheidung gefällt wird und wie weit das Recht auf Mitbestimmung reicht.“ \[2, p.230]
 
 # Quellen
 
