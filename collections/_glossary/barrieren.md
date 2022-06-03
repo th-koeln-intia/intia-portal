@@ -2,7 +2,7 @@
 hero_tags: subpage glossary pdf
 title_above: Wörterbuch
 published: true
-title: Barriere(freiheit)
+title: Barriere(-freiheit)
 english_title: Barriers
 synonyms:
   - Hindernis
