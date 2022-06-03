@@ -4,13 +4,15 @@ title_above: Werkzeuge
 permalink: /werkzeuge/methoden/
 hero_tags: toppage
 subtitle: |
-  Eine Übersicht von Methoden die Hilfreich zum entwerfen, erstellen und evaluieren von Alltagshilfen sind.
+  Hier sind Methoden aufgeführt, die zum Entwerfen, Erstellen und Evaluieren von Alltagshilfen nützlich sind.
 jekyll-hyperlink-glossary: false
 ---
 
 # Das Methodenradar
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+Um produktiv mit Methoden zu arbeiten ist es wichtig Sie zu systematisch zu kategorisieren. Eine Häufig genutzte Kategorie ist es Methoden nach ihrem Zweck einzuordnen. Hierzu lassen sich z.B. die Phasen in einem Prozess nutzen.
+Neben dieser gängigen Praxis kann man für partizipativ inklusive Technikentwicklung aber auch die Frage stellen: "Wie partizipativ sind die Methoden?" Eine solche Einordnung kann mit zuhilfenahme des Stufenmodells der Partizipation abgebildet werden. Dieses Modell besteht (je nach Autor) aus sieben Stufen die unterschiedliche Grade von Partizipation beschreiben.
+Das INTIA-Methodenradar strukturiert Methoden nach eben diesen stufen der Partizipation. Dabei stellt jeder Ring eine Stufe da von der nicht beteiligung bis zur vollständigen Entscheidungsmacht. Zusätzlich dazu ist das Radar in vier Sektoren unterteilt die verschiedene Domänen abbilden von Methoden die bei der Entdeckung einer Domäne helfen, über solche die ebendiese Domäne definieren bis hin zur Entwicklung von Produkten und deren Evaluation.
 
 <a href='#' class='button is-dark is-rounded'>
       <span>Zur Methodenliste</span>
@@ -28,7 +30,8 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 # Das Methodenradar benutzen
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+Im untenstehenden INTIA-Methodenradar ist eine Übersicht von Methoden zum entwerfen, erstellen und evaluieren von Alltagshilfen. Jeder Punkt im Radar stellt hier eine Methode da und führt zu einer detailbeschreibung eben dieser. Mithilfe der Menüpunkte über dem Radar können einzelne Quadranten fokusiert werden.
+Die Bedeutung der einzelnen Ringe ist der untenstehenden Legende zu entnehmen.
 
 <div id="radar"></div>
 
