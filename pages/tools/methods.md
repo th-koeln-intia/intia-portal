@@ -13,20 +13,22 @@ jekyll-hyperlink-glossary: false
 Um produktiv mit Methoden zu arbeiten ist es wichtig Sie zu systematisch zu kategorisieren. Eine Häufig genutzte Kategorie ist es Methoden nach ihrem Zweck einzuordnen. Hierzu lassen sich z.B. die Phasen in einem Prozess nutzen.
 Neben dieser gängigen Praxis kann man für partizipativ inklusive Technikentwicklung aber auch die Frage stellen: "Wie partizipativ sind die Methoden?" Eine solche Einordnung kann mit zuhilfenahme des Stufenmodells der Partizipation abgebildet werden. Dieses Modell besteht (je nach Autor) aus sieben Stufen die unterschiedliche Grade von Partizipation beschreiben.
 Das INTIA-Methodenradar strukturiert Methoden nach eben diesen stufen der Partizipation. Dabei stellt jeder Ring eine Stufe da von der nicht beteiligung bis zur vollständigen Entscheidungsmacht. Zusätzlich dazu ist das Radar in vier Sektoren unterteilt die verschiedene Domänen abbilden von Methoden die bei der Entdeckung einer Domäne helfen, über solche die ebendiese Domäne definieren bis hin zur Entwicklung von Produkten und deren Evaluation.
+Eine detailierte Erklärung zur entstehung und Struktur des INTIA-Methodenradars folgt noch.
 
-<a href='#' class='button is-dark is-rounded'>
+<a href='#methodenliste' class='button is-dark is-rounded'>
       <span>Zur Methodenliste</span>
       <span class='icon is-small'>
         <i class='fas fa-chevron-right fa-xs'></i>
       </span>
 </a>
-
+<!--
 <a href='#' class='button is-dark is-rounded'>
       <span>Mehr zum Radar</span>
       <span class='icon is-small'>
         <i class='fas fa-chevron-right fa-xs'></i>
       </span>
 </a>
+-->
 
 # Das Methodenradar benutzen
 
