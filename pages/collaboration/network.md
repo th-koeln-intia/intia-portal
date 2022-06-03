@@ -4,7 +4,7 @@ title_above: Mitmachen
 permalink: /mitmachen/netzwerk/
 hero_tags: toppage
 subtitle: |
-  Du möchtest dich mit anderen INTIA Nutzenden vernetzen und austauschen? Deine INTIA-Geschichte erzählen? Oder Feedback zu etwas geben? Das alles ist im INTIA-Netzwerk möglich und eine wichtige Hilfe für alle anderen Nutzenden und Entwickler:innen von INTIA! Hier erfährst du, wo das INTIA-Netzwerk zu finden ist.
+  Du möchtest dich mit anderen INTIA-Nutzenden vernetzen und austauschen? Deine INTIA-Geschichte erzählen? Oder Feedback zu etwas geben? Das alles ist im INTIA-Netzwerk möglich und eine wichtige Hilfe für alle anderen Nutzenden und Entwickler:innen von INTIA! Hier erfährst du, wo das INTIA-Netzwerk zu finden ist.
 ---
 
 ## INTIA erleben
