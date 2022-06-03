@@ -9,7 +9,7 @@ subtitle: |
 
 ## Jugendliche als Expert:innen
 
-Jugendliche machen mit und forschen gemeinsam mit dem INTIA Team der TH Köln. Denn nur die Jugendlichen selbst wissen, was sie in ihrem Leben und besonders dort, wo sie wohnen, verbessern können. Zusammen mit dem INTIA Team erkunden sie ihren Alltag und erfinden technische oder digitale Hilfen. INTIA erhielt Fördergelder, damit die Wissenschaftler:innen der TH Köln und Jugendliche zusammen arbeiten können.
+Jugendliche machen mit und forschen gemeinsam mit dem INTIA-Team der TH Köln. Denn nur die Jugendlichen selbst wissen, was sie in ihrem Leben und besonders dort, wo sie wohnen, verbessern können. Zusammen mit dem INTIA-Team erkunden sie ihren Alltag und erfinden technische oder digitale Hilfen. INTIA erhielt Fördergelder, damit die Wissenschaftler:innen der TH Köln und Jugendliche zusammen arbeiten können.
 
 ## Der Projekt-Ansatz
 
@@ -17,9 +17,7 @@ Digitale Technik erleichtert den Alltag und lässt viele Menschen an etwas teilh
 
 #### Das Vorgehen
 
-Während der Forschungsphase besuchte das Projektteam Wohneinrichtungen der Sozialen Arbeit, um mit Jugendlichen gemeinsam zu erforschen, wo es Lücken und Bedarf im Alltag gibt. Gemeinsam entwickelten das Projektteam und jugendliche Mitentwickler:innen Ideen und erste technische Prototypen.  Langfristiges Ziel des Projektes ist es, Einrichtungen der Sozialen Arbeit Bausteine für technische Lösungen zur Verfügung zu stellen, inklusive einer Anleitung, die es möglich macht, dass Fachkräften der Sozialen Arbeit, anderen Betroffenen sowie Selbsthilfeinitiativen selbständig mit den Methoden arbeiten.
-Technikexpert:innen bietet das Projektteam seine Ergebnisse zur eigenen Nutzung, zum Nachbau und zur Weiterentwicklung als Open Source Material an.
-Alle wissenschaftlich interessante Fragen aus dem Projekt werden auf dieser Plattform gesammelt und sollen Impulse für aufbauende Forschungsarbeiten setzen.
+Während der Forschungsphase besuchte das Projektteam Wohneinrichtungen der Sozialen Arbeit, um mit Jugendlichen gemeinsam zu erforschen, wo es Lücken und Bedarf im Alltag gibt. Gemeinsam entwickelten das Projektteam und jugendliche Mitentwickler:innen Ideen und erste technische Prototypen.  Langfristiges Ziel des Projektes ist es, Einrichtungen der Sozialen Arbeit Bausteine für technische Lösungen zur Verfügung zu stellen. Die Methoden sind so gestaltet, dass Fachkräfte der Sozialen Arbeit, andere Betroffene sowie Selbsthilfeinitativen selbständig damit arbeiten können. Technikexpert:innen bietet das Projektteam seine Ergebnisse zur eigenen Nutzung, zum Nachbau und zur Weiterentwicklung als Open Source Material an. Alle wissenschaftlich interessanten Fragen aus dem Projekt werden auf dieser Plattform gesammelt und sollen Impulse für aufbauende Forschungsarbeiten setzen.
 
 #### Besondere Herausforderungen
 
@@ -28,7 +26,7 @@ Neue Wege der digitalen Partizipation wurden aufgebaut und erprobt. Ein Fazit is
 
 ## Beteiligte
 
-<h4> INTIA wird von unterschiedlichen Menschen – Wissenschaftler:innen, Fachkräften der Sozialen Arbeit, (Forschungs)Einrichtungen und Betroffenen – vorangetrieben, die Hand in Hand zusammenarbeiten.</h4>
+<h4> INTIA wird von unterschiedlichen Menschen – Wissenschaftler:innen, Fachkräften der Sozialen Arbeit, (Forschungs-)Einrichtungen und Betroffenen – vorangetrieben, die Hand in Hand zusammenarbeiten.</h4>
 
 <!-- <img src="/assets/img/about/netzwerkgrafik.png" alt="placeholder" class="content_image" > -->
 
@@ -149,7 +147,7 @@ Das Forschungsprojekt INTIA hat drei Wissenschaftspraxispartnerschaften (kurz WP
 
 ### Diakonie Michaelshoven
 
-Seit 70 Jahren gibt es die Diakonie Michaelshoven. Sie setzt sich für soziale Belange ein. In über 200 Einrichtungen begleiten, fördern und betreuen die Mitarbeiter:innen viele Menschen
+Seit 70 Jahren gibt es die Diakonie Michaelshoven. Sie setzt sich für soziale Belange ein. In über 200 Einrichtungen begleiten, fördern und betreuen die Mitarbeiter:innen viele Menschen.
 
 {% include button.html label="Website" link="https://www.diakonie-michaelshoven.de/" type="external" %}
 
@@ -201,7 +199,7 @@ Die Fachstelle für Jugendmedienkultur NRW unterstützt Bildungseinrichtungen un
 
 ## Fachbeirat
 
-Der Fachbeirat hat die Aufgabe, das Forschungsprojekt mit der Expertise seiner Mitglieder zu unterstützen und zu beraten. Zum Fachbeirat gehören
+Der Fachbeirat hat die Aufgabe, das Forschungsprojekt mit der Expertise seiner Mitglieder zu unterstützen und zu beraten. Zum Fachbeirat gehören:
 
 <strong>Dr. Tom Bieling</strong> (<a href="https://www.haw-hamburg.de/" class="normal">HAW Hamburg<span class="icon is-small">
 <i class="fas icon-external fa-xs"></i>
@@ -251,4 +249,5 @@ BMBF ist die Abkürzung für Bundesminsterium für Bildung und Forschung. Das Mi
   <img class='with-zone' src='/assets/img/logos/BMBF_logo.jpg' style='padding-right: 0rem;'>
 </div>
 </div>
+
 "%}

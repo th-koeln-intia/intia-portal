@@ -10,10 +10,10 @@ jekyll-hyperlink-glossary: false
 
 # Das Methodenradar
 
-Um produktiv mit Methoden zu arbeiten ist es wichtig Sie zu systematisch zu kategorisieren. Eine Häufig genutzte Kategorie ist es Methoden nach ihrem Zweck einzuordnen. Hierzu lassen sich z.B. die Phasen in einem Prozess nutzen.
-Neben dieser gängigen Praxis kann man für partizipativ inklusive Technikentwicklung aber auch die Frage stellen: "Wie partizipativ sind die Methoden?" Eine solche Einordnung kann mit zuhilfenahme des Stufenmodells der Partizipation abgebildet werden. Dieses Modell besteht (je nach Autor) aus sieben Stufen die unterschiedliche Grade von Partizipation beschreiben.
-Das INTIA-Methodenradar strukturiert Methoden nach eben diesen stufen der Partizipation. Dabei stellt jeder Ring eine Stufe da von der nicht beteiligung bis zur vollständigen Entscheidungsmacht. Zusätzlich dazu ist das Radar in vier Sektoren unterteilt die verschiedene Domänen abbilden von Methoden die bei der Entdeckung einer Domäne helfen, über solche die ebendiese Domäne definieren bis hin zur Entwicklung von Produkten und deren Evaluation.
-Eine detailierte Erklärung zur entstehung und Struktur des INTIA-Methodenradars folgt noch.
+Um produktiv mit Methoden zu arbeiten ist es wichtig, sie systematisch zu kategorisieren. Eine häufig werden Methoden nach ihrem Zweck sortiert. Hierzu lassen sich z.B. die Phasen in einem Prozess nutzen.
+Neben dieser gängigen Praxis kann man für partizipativ inklusive Technikentwicklung die Frage stellen: "Wie partizipativ sind die Methoden?" Eine solche Einordnung kann man mithilfe des Stufenmodells der Partizipation abbilden. Dieses Modell besteht (je nach Autor:in) aus sieben Stufen, die unterschiedliche Grade von Partizipation beschreiben.
+Das INTIA-Methodenradar strukturiert Methoden nach eben diesen Stufen der Partizipation. Dabei stellt jeder Ring eine Stufe dar, von der "Nicht-beteiligung" bis zur "vollständigen Entscheidungsmacht". Zusätzlich dazu ist das Radar in vier Sektoren unterteilt, die verschiedene Domänen abbilden, von Methoden die bei der Entdeckung einer Domäne helfen, über solche die eben diese Domäne definieren, bis hin zur Entwicklung von Produkten und deren Evaluation.
+Eine detailierte Erklärung zur Entstehung und Struktur des INTIA-Methodenradars folgt noch.
 
 <a href='#methodenliste' class='button is-dark is-rounded'>
       <span>Zur Methodenliste</span>
@@ -32,7 +32,7 @@ Eine detailierte Erklärung zur entstehung und Struktur des INTIA-Methodenradars
 
 # Das Methodenradar benutzen
 
-Im untenstehenden INTIA-Methodenradar ist eine Übersicht von Methoden zum entwerfen, erstellen und evaluieren von Alltagshilfen. Jeder Punkt im Radar stellt hier eine Methode da und führt zu einer detailbeschreibung eben dieser. Mithilfe der Menüpunkte über dem Radar können einzelne Quadranten fokusiert werden.
+Im untenstehenden INTIA-Methodenradar ist eine Übersicht von Methoden zum Entwerfen, Erstellen und Evaluieren von Alltagshilfen. Jeder Punkt im Radar stellt hier eine Methode dar und führt zu ihrer Detailbeschreibung. Mithilfe der Menüpunkte über dem Radar können einzelne Quadranten fokusiert werden.
 Die Bedeutung der einzelnen Ringe ist der untenstehenden Legende zu entnehmen.
 
 <div id="radar"></div>

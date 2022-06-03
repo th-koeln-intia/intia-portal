@@ -1,14 +1,14 @@
 sections:
   - title: Der INTIA-Koffer
     text: |
-      Der INTIA Koffer beinhaltet verschiedene Methoden, um Bedürfnisse im Alltag besser zu verstehen und Lösungen für Probleme zu entwickeln - und zu bauen!
+      Der INTIA-Koffer beinhaltet verschiedene Methoden, um Bedürfnisse im Alltag besser zu verstehen und Lösungen für Probleme zu entwickeln - und zu bauen!
     image: /assets/img/intia-case/intia-case-2.jpg
     icon: icon-tools
     link: /intia-koffer/
     link_text: Zum INTIA-Koffer
   - title: Methoden
     text: |
-        Partizipativ inklusive Methoden gesucht? Im INTIA-Methodenradar findet man eine übersicht von Methoden eingeordnet nach dem partizipationsgrad!
+        Partizipativ inklusive Methoden gesucht? Im INTIA-Methodenradar findet man eine Übersicht von Methoden eingeordnet nach dem Partizipationsgrad!
     image: /assets/img/landingpage/methoden.jpg
     icon: icon-methods
     link: /werkzeuge/methoden/
