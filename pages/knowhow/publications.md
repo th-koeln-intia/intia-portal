@@ -113,7 +113,7 @@ In Digital Xchange - Bergisches RheinLand. 6. Juni. https://www.youtube.com/watc
 Schmidt, Marc, Rösch, Janina & Zorn, Isabel (2020):\
 **Probe Kits für partizipative User Research und Needs Assessments bei Jugendlichen in der Erziehungshilfe.**\
 In Hansen, C., Nürnberger, A. & Preim, B. (Hrsg.), Mensch und Computer 2020 - Workshopband. Bonn:Gesellschaft für Informatik e.V..DOI:10.18420/muc2020-ws109-359
-[DOI aufraufen](https://dx.doi.org/10.18420/muc2020-ws109-359)
+[DOI aufrufen](https://dx.doi.org/10.18420/muc2020-ws109-359)
 
 Bente, Stefan, Fuhrer, Kornelius (2020):\
 **Digitale Ethik mal pragmatisch.**\
