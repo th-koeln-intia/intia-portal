@@ -2,42 +2,41 @@
 hero_tags: subpage glossary pdf
 title_above: Wörterbuch
 published: true
-title: Medienkompetenzen
-english_title: Media Competence
+title: Disability Studies
+english_title: Disability Studies
 synonyms:
-  - Media Skill
-  - Media Literacy
+  - Studien zu Menschen mit Beeinträchtigungen
+  - Studien zu Behinderung
 last_update: 11.11.2021
-subtitle: Beschreibt die Fähigkeit einen verantwortungsbewussten Umgang mit der Medienwelt zu auszuüben und die Medienwelt mitzugestalten.
-abstract: Medienkompetenz bedeutet, mit Medien umgehen zu können. Durch den eigenen Umgang mit Medien entwickeln Menschen die Medien mit. Beim Umgang mit Medien sind alle verantwortungsvoll.
+subtitle: Gesellschaftskritische Forschungen über Zuschreibungen und Konsequenzen von Behinderung.
+abstract: Die Disability Studies sind ein Wissenschaftsansatz. Disability Studies untersuchen die Gesellschaft kritisch. Sie berücksichtigen die Erfahrungen von Menschen, die beeinträchtigt sind oder behindert werden. Disability Studies gucken zum Beispiel auf Bildung, Medizin oder Gesetze und untersuchen dort die Sicht auf Können und Nicht-Können. 
 ---
 
 ## Bedeutung für inklusive Technikentwicklung
 
-Manche benachteiligten Jugendliche nutzen digitale Medien in weniger hilfreicher Weise als der Durchschnitt der BevölkerungKinder und Jugendliche wachsen in einer medien·lastigen Lebens·welten auf. Medien werden im Alltag immer wichtiger. Es entsteht ein Konflikt: Zum einen wird verlangt, dass Kinder und Jugendliche einen kompetenten Umgang mit Medien erlernen. Es finden sich jedoch nicht ausreichend Angebote und nicht alle Menschen haben gleichermaßen Zugang zu diesen Angeboten.Nicht alle Fachkräfte in stationären Eingliederungs- oder Jugend·hilfe·einrichtungen konnten bislang medien·pädagogische Fähigkeiten erwerben. Im inklusiven Entwicklungs·prozess von Technologien sollen beide Zielgruppen (Fachkräfte und Kinder / Jugendliche) technologische Lösungen erfinden und gestalten. Diese Technologien dienen zur Bewältigung des Alltags. Hierdurch sollen Medien·kompetenzen gefördert werden und medienpädagogische Kompetenzen gestärkt werden.
-
-"Medienkompetenz definiert dann gleichermaßen ein grundlegendes Vermittlungsziel der Sozialen Arbeit als auch eine Voraussetzung für Fachkräfte zur Bewältigung der Anforderungen und Herausforderungen, die mit dem Medienhandeln einhergehen."Das bedeutet: Medien·kompetenz ist zum einen ein Ziel der Vermittlung in der Sozialen Arbeit. Zum anderen ist es auch eine Voraussetzung für Fachkräfte, um Anforderungen und Herausforderungen zu bewältigen. Aufgrund der Covid-19-Pandemie wurde im Forschungsprojekt der Ablauf der Entwicklung von Technik digital durchgeführt. Das erforderte Fähigkeiten im Umgang mit digitalen Medien von den teilnehmenden Jugendlichen und Fachkräften.
+Diese Art von Studien sind wichtige Quellen für inklusive Technikentwicklung.
 
 ## Beschreibung
 
-"Medienkompetenz wird hier in Anlehnung an den Begründer des Konzepts, Dieter Baacke, als Fähigkeit verstanden, alle Arten von Medien für das Kommunikations- und Handlungsrepertoire einzusetzen, um sich "in die Welt aktiv" einzubringen (Baacke 1996: 119). Ziel ist die Erweiterung des Orientierungs- und Handlungsspielraums in und mit Medien. Berücksichtigt wird dabei, dass das Subjekt sich nach seinen „eigenen generativen Ausdrucksmustern“ entwickelt, es aber durchaus angeleitet werden kann (ebd.: 121)." Das bedeutet: Medien·kompetenz ist eine Fähigkeit, mit welcher sich Menschen die Welt aneignen. Menschen nutzen Medien zu unterschiedlichen Zwecken, zum Beispiel zur Kommunikation. Das Ziel ist es, die Handlungs·möglichkeiten und Orientierungs·möglichkeiten zu erweitern, mit und in den Medien. Hier ist es wichtig zu berücksichtigen: Menschen entwickeln sich auf eigene Weise im Umgang mit Medien weiter. Anleitungen zum Umgang mit Medien oder andere Personen können eine Unterstützung für die Entwicklung von Medienkompetenzen sein.
+Die Disability Studies sehen "Disability", also "Beeinträchtigung", als eine gesellschaftliche Differenz-Kategorie/Struktur-Kategorie. Differenz-Kategorie bedeutet, dass Menschen ein Merkmal zugeschrieben wird, um Menschen zu unterscheiden. Andere solche Kategorien sind Geschlecht, Alter, Sexualität oder die Herkunft. Disability Studies zeigen auf, dass es vielfach Umweltbedingungen, Zuschreibungen oder Kategorisierungen sind, die Menschen Hindernisse bei der selbstbestimmten gleichberechtigten Lebensführung in den Weg legen. Entstanden sind die Disability Studies in den 80er und 90er Jahren in den USA und Großbritannien. Auch in Deutschland etabliert sich der wissenschaftliche Austausch. Der Ursprung der Disability Studies kommt aus politischen Bewegungen. Die politischen Bewegungen hatten zum Ziel, für Inklusion einzustehen. Andere Ziele sind die Gleichberechtigung von Menschen, die behindert werden.
 
-Wie sieht Medienkompetenz jedoch am Ende aus? Medien·kompetente Menschen können verantwortungsvoll mit Medien umgehen. Kinder, Jugendliche und Erwachsene sollen Förderung zur Erweiterung ihrer Medien·kompetenzen erhalten. Menschen sollen lernen, mit Medien zu ihrem eigenen Wohl und dem Wohl der Gesellschaft umzugehen. Es gibt verschiedene Definitionen von Medien und Medien·kompetenzen.. Hilfreich für die Gestaltung passender Methoden ist das Modell von Dieter Baacke. Dieter Baacke unterscheidet Medien·kompetenzen in vier Dimensionen: Medien·kritik, Medien·kunde, Medien·nutzung und Medien·gestaltung:
 
-Medien·kritik umfasst nochmals drei einzelne Bereiche: Zum einen soll eine Person in der Lage sein, Probleme in Bezug zu Medien zu erfassen (analytisch). Das dort erworbene Wissen soll auf die Person selbst angewandt werden können (reflexiv). Beide Bereiche sollen auch sozial verantwortlich definiert werden (ethisch).
+Eine defizitorientierte Auffassung vom Begriff "Behinderung" ist abzulehnen. Eine Auffassung ist, dass Menschen nicht aufgrund ihrer Eigenschaften behindert sind, sondern dass Menschen durch die Umwelt be-hindert werden, deshalb müsse die Umwelt besser und gleichberechtigender gestaltet werden. Der Fokus liegt auf einem ressourcenorientierten Umgang und Verständnis. Damit ist gemeint, dass nicht immer nur auf das geschaut wird, was Menschen nicht können. Wichtig ist es, dass auf die Stärken der Menschen geschaut wird.
 
-Medien·kunde unterteilt sich in zwei Bereiche: Es gibt klassisches Wissen, das Wissen darüber, was es für Geräte und Angebote gibt (informative Dimension). Es umfasst auch Fähigkeit, die neuen Geräte bedienen zu können (instrumentell-qualifikatorische Dimension).
+Zum Verständnis von Disability ist es wichtig zwischen Impairment, Disability und Handicap zu unterscheiden. Diese drei Begriffe stehen in einem Verhältnis zueinander.Im Deutschen wird auch von Schädigung, Beeinträchtigung und Behinderung gesprochen. Die Definition und Unterscheidung wird von der WHO festgeschrieben und meint zum einen die Differenzierung zwischen körperlichen Abweichungen (Impairment/Schädigung). Zum anderen bezieht es sich auf die Schwierigkeit, den Lebensalltag zu bewältigen (Disability/Beeinträchtigung), und auf sozial-bedingten Nachteile, durch Diskriminierung / Barrieren (Handicap/Behinderung). 
 
-Medien·nutzung wird auf zweierlei Ebenen vermittelt: Zum einen anwendend durch die Aufnahme von Informationen. Zum anderen wechselseitig durch Angebote, um praktisch zu arbeiten und das Wissen anzuwenden.
+ 
+Die Wissenschaft ist sich darüber einig, dass es keine einheitliche Definition für den Begriff "Behinderung" gibt. Es ist von Paradigmen der wissenschaftlichen Disziplinen (Medizin, Recht, Disability Studies) abhängig. Aus diesen Wissenschaften kann man einen Blick auf die Begriffe werfen und untersuchen, ob "Schädigung, Beeinträchtigung und Behinderung" negativ aufgeladene Begriffe sind.
 
-Medien·gestaltung meint, Medien sowohl kreativ als auch schöpferisch zu gestalten.. Ebenso wichtig ist es, die Bedürfnisse der Kinder und Jugendlichen wahrzunehmen. Es ist zu berücksichtigen, dass Menschen mit ihren individuellen Vorlieben ungestört in den Medien unterwegs sein möchten, ohne dabei belehrt zu werden.. Medien·bildung soll sich am Menschen und am Konzept des lebenslangen Lernens orientieren.
+Deswegen wird in manchen Diskursen auch von Menschen mit besonderem Förder- oder Unterstützungsbedarf gesprochen, aber auch dabei wird der Unterstützungsbedarf noch einer Eigenschaft des Menschen zugeschrieben. Ziel ist es, Vorurteile gegenüber einer Gruppe von Menschen zu vermeiden. 
 
 ## Quellen
 
-1. Klimsa, Anja; Lange, Andreas (2019): Medien in der Sozialen Arbeit. Stuttgart: Kohlhammer (Grundwissen Soziale Arbeit, Band 27). Online verfügbar unter http://www.kohlhammer.de/wms/instances/KOB/appDE/nav_product.php?product=978-3-17-032069-7.
-2. Initiative D21 e.V. (2016): 2016 D21-DIGITAL-INDEX. Jährliches Lagebild zur Digitalen Gesellschaft. Online verfügbar unter https://initiatived21.de/app/uploads/2017/01/studie-d21-digital-index-2016.pdf, zuletzt geprüft am 05.05.2021.
-3. Bosse, Ingo; Hasebrink, Uwe (2016): Mediennutzung von Menschen mit Behinderungen. Forschungsbericht. Online verfügbar unter https://www.aktion-mensch.de/dam/jcr:8b186ca0-b0f1-46f8-acb1-a59f295b5bb4/aktion-mensch-studie-mediennutzung-langfassung-2017-03.pdf, zuletzt geprüft am 22.07.2021.
-4. Eickelmann, Birgit; Bos, Wilfried; Gerick, Julia; Labusch, Ameli (2014): Computer- und informationsbezogene Kompetenzen von Schülerinnen und Schülern der 8. Jahrgangsstufe in Deutschland im zweiten internationalen Vergleich. In: Knut Schwippert, Birgit Eickelmann, Wilfried Bos, Frank Goldhammer, Heike Schaumburg und Julia Gerick (Hg.): ICILS 2013. s.l.: Waxmann Verlag, S. 113–135.
-5. Eickelmann, Birgit; Bos, Wilfried; Gerick, Julia; Labusch, Ameli (2014): Computer- und informationsbezogene Kompetenzen von Schülerinnen und Schülern der 8. Jahrgangsstufe in Deutschland im zweiten internationalen Vergleich. In: Knut Schwippert, Birgit Eickelmann, Wilfried Bos, Frank Goldhammer, Heike Schaumburg und Julia Gerick (Hg.): ICILS 2013. s.l.: Waxmann Verlag, S. 113–135.
-6. Tillmann, Angela (2020): Veränderte Lebenswelten im Zuge gesellschaftlicher Digitalisierungsprozesse. In: Nadia Kutscher, Thomas Ley, Udo Seelmeyer, Siller, Friederike, Tillmann, Angela und Isabel Zorn (Hg.): Handbuch Soziale Arbeit und Digitalisierung. 1. Auflage. Weinheim: Beltz Juventa, S. 89–100.
-7. Tillmann, Angela (2018): Erziehungshilfen im Kontext der Digitalisierung: Herausforderungen und Aufgaben. In: Forum Erziehungshilfen (3), S. 135–141. Online verfügbar unter https://content-select.com/media/moz_viewer/5b475f9c-02e0-4dbe-aefd-07dcb0dd2d03/language:de, zuletzt geprüft am 04.02.2021.
+1. disabilitystudies.de. 2020. Arbeitsgemeinschaft Disability Studies (AGDS) - Wir forschen selbst. (Zugriff 12.11.2020: https://disabilitystudies.de/) 
+2. Böcher, Hartmut, Britta Ellinghaus und Freya Pausewang. 2017. Erziehen, bilden und begleiten: Die sechs Lernfelder für Erzieherinnen und Erzieher in Ausbildung und Beruf. 1. Auflage.
+3. Barbotte, E., F. Guillemin und N. Chau. 2001. „Prevalence of Impairments, Disabilities, Handicaps and Quality of Life in the General Population: A Review of Recent Literature.“ Bulletin of the World Health Organization 79 (11): 1047–55. (Zugriff: 12.11.2020: https://www.who.int/bulletin/archives/79%2811%291047.pdf) 
+4. Sozialassistenz kompakt NRW. 2017. 1. Auflage. Sozialassistenz kompakt. Köln: Bildungsverlag EINS westermann.
+5. Waldschmidt, Anne und Werner Schneider. 2007. Disability Studies, Kultursoziologie und Soziologie der Behinderung: transcript-Verlag. Zugriff am 25. Februar 2021. https://www.degruyter.com/document/doi/10.14361/9783839404867/html.
+6. Brehme, David, Petra Fuchs und Swantje Köbsell. 2020. Disability Studies im deutschsprachigen Raum: Zwischen Emanzipation und Vereinnahmung. https://content-select.com/index.php?id=bib_view&ean=9783779953579.
+7. Brehme, David, Petra Fuchs und Swantje Köbsell. 2020. Disability Studies im deutschsprachigen Raum: Zwischen Emanzipation und Vereinnahmung. https://content-select.com/index.php?id=bib_view&ean=9783779953579.
+8. behinderung.org. "Definition des Begriffs 'Behinderung'". (Zugriff: 12.11.2020: https://behinderung.org/gesetze/definition-behinderung.htm) 
