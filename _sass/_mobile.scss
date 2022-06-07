@@ -26,7 +26,7 @@
 
   h3 {
     font-weight: 600;
-    font-size: 1.7rem;
+    font-size: 1.1rem;
   }
 
   h4 {
@@ -196,6 +196,16 @@
     font-size: 0.9rem;
     line-height: 1.5rem;
   }
+  .highlighter {
+    overflow: hidden;    
+    padding: 50px;
+    padding-right: 25px;
+    padding-left: 25px;
+  }
+  .highlighter .column img {
+    width: 45%;
+    float: inherit;
+}
   .arrow-image {
     display: none;
   }
@@ -405,5 +415,9 @@
 }
   .column.slider-content {
     padding: 1.5em;
+}
+.tb {
+  overflow-x: auto;
+  font-size: 0.5rem;
 }
 }
