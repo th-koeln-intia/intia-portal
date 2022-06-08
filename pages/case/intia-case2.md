@@ -22,7 +22,7 @@ Der INTIA-Koffer ermöglicht:
 
 <br>
 
-Jugendliche erfahren mit diesem Ansatz ihre Selbstwirksamkeit und Selbständigkeit in der Entwicklung von Lösungsansätzen. Auch Fachkräfte können mit dem Koffer Ideen entwickeln, um ihre Arbeitsprozesse durch technische Hilfsmittel zu ergänzen und so ihren Arbeitsalltag erleichtern.
+Jugendliche erfahren mit diesem Ansatz ihre Selbstwirksamkeit und Selbständigkeit in der Entwicklung von Lösungsansätzen. Auch Fachkräfte können mit dem Koffer Ideen entwickeln, um ihre Arbeitsprozesse durch technische Hilfsmittel zu ergänzen und so ihren Arbeitsalltag zu erleichtern.
 
 <br>
 
@@ -34,7 +34,7 @@ Jugendliche erfahren mit diesem Ansatz ihre Selbstwirksamkeit und Selbständigke
 </div>
 </div>
 
-Die Werkzeuge und Methoden des Koffers fördern den kreativen und spielerischen Umgang mit digitalen Technologien. Dabei kommen sowohl analoge und digitale Werkzeuge zum Einsatz. Der Koffer enthält folgende Elemente:
+Die Werkzeuge und Methoden des Koffers fördern den kreativen und spielerischen Umgang mit digitalen Technologien. Dabei kommen sowohl analoge als auch digitale Werkzeuge zum Einsatz. Der Koffer enthält folgende Elemente:
 -	Methodenbeschreibungen sowie unterstützende Werkzeuge und Materialien. Diese helfen beim Erheben von Bedürfnissen, Beschreiben von Problemen und Gestalten neuer, digitaler Lösungen. 
 -	Bausteine zum Entwickeln von Prototypen. Es gibt analoge Funktionsplättchen und digitale Technik-Bausteine. Mit den analogen Funktionsplättchen entwerfen Jugendliche mögliche Prototypen, ohne dass die Technologie schon beherrscht wird. Mit den Technik-Bausteinen explorieren Jugendliche die Möglichkeiten und können selbst eigene Funktionalitäten als Prototypen umsetzen.  
 -	Anleitungen und Schulungsmaterialien zum spielerischen Herantasten an die Technologien. Neben Anleitungen zu den technischen Komponenten und der visuellen Entwicklungsumgebung Node-RED gibt es ein Escape-Game. Das Escape-Game führt durch Rätsel und Aufgaben an die einzelnen Technikbausteine heran. Es zeigt, was alles möglich ist. 
@@ -76,7 +76,7 @@ Hier sind alle Elemente aufgelistet, die sich im INTIA-Koffer befinden.
        <td>
           <ul>
           <li>Schnellübersicht</li>
-          <li>Escape Game als Einstieg in den Umgang mit den Technik-Bausteinen</li>
+          <li>Escape Game als Einstieg für den Umgang mit den Technik-Bausteinen</li>
           <li>Informationen zur Nutzung der Methoden und Werkzeuge</li>
           <li>Tipps für kreatives Denken</li>
           <li>Anleitungen zu den technischen Komponenten sowie der Entwicklungsumgebung (Node-RED)</li>
@@ -96,7 +96,7 @@ Hier sind alle Elemente aufgelistet, die sich im INTIA-Koffer befinden.
         </td>
     </tr>
     <tr>
-       <th>Technik- Bausteine</th>
+       <th>Technik-Bausteine</th>
        <td>
           <ul>
           <li>Ausgabebausteine (Lampe, Motoren, Display, verschließbare Kiste)</li>
@@ -151,7 +151,7 @@ Der INTIA-Koffer kann durch INTIA-Erweiterungen vergrößert werden. Je nach Bed
 
 ## Interesse?
 
-Wenn der Koffer dein Interesse geweckt hat kannst du einfach unser Kontaktformular nutzen um auf dem laufenden zu bleiben:
+Wenn der Koffer dein Interesse geweckt hat, kannst du einfach unser Kontaktformular nutzen um auf dem Laufenden zu bleiben:
 
 <div class="container contact-case">
 <form id="form" action="{{ site.data.contact.action }}"  data-botpoison-public-key="{{ site.data.contact.botpoison_key }}" class="columns">
@@ -166,7 +166,7 @@ Wenn der Koffer dein Interesse geweckt hat kannst du einfach unser Kontaktformul
 </div>
 </div>
 <div class="field">
-<label class="label">Kontakt E-Mailadresse</label>
+<label class="label">Kontakt E-Mail-Adresse</label>
 <div class="control has-icons-left">
 <input class="input" type="email" id="email" name="email" placeholder="Hier tippen...">
 <span class="icon is-small is-left">
