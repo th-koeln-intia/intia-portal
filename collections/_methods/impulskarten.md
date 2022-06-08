@@ -18,6 +18,9 @@ abstract: Die Impulskarten sollen, wie der Name schon sagt, Impulse für eine Un
 Identifizieren der Lebensbereiche, in denen ein Unterstützungsbedarf und Unterstützungswunsch besteht. Konkretisieren, welche Bedarfe und Bedürfnisse bestehen.
 
 </th>
+    <tr>
+        <th><strong>Ziel der Methode</strong></th>
+        <th></th>
     </tr>
     <tr>
       <td><strong>Phase</strong></td>
