@@ -1,7 +1,7 @@
 ---
 title: Über den INTIA-Koffer
 title_above: INTIA-Koffer
-permalink: /intia-koffer/
+permalink: /intia-koffer/2
 hero_tags: toppage
 subtitle: |  
   Der INTIA-Koffer beinhaltet verschiedene Werkzeuge und Methoden, um Bedürfnisse im Alltag besser zu verstehen und Lösungen für Probleme zu entwickeln - und zu bauen!
