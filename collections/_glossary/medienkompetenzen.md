@@ -5,7 +5,7 @@ published: true
 title: Medienkompetenz
 english_title: Media Competence
 synonyms:
-  - Media Skill
+  - Media Skills
   - Media Literacy
 last_update: 11.11.2021
 subtitle: Medienkompetenz ist die Fähigkeit zu einem verantwortungsbewussten
