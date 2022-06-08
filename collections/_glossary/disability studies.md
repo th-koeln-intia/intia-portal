@@ -8,8 +8,13 @@ synonyms:
   - Studien zu Menschen mit Beeinträchtigungen
   - Studien zu Behinderung
 last_update: 11.11.2021
-subtitle: Gesellschaftskritische Forschungen über Zuschreibungen und Konsequenzen von Behinderung.
-abstract: Die Disability Studies sind ein Wissenschaftsansatz. Disability Studies untersuchen die Gesellschaft kritisch. Sie berücksichtigen die Erfahrungen von Menschen, die beeinträchtigt sind oder behindert werden. Disability Studies gucken zum Beispiel auf Bildung, Medizin oder Gesetze und untersuchen dort die Sicht auf Können und Nicht-Können. 
+subtitle: Gesellschaftskritische Forschungen über Zuschreibungen und
+  Konsequenzen von Behinderung.
+abstract: Die Disability Studies sind ein Wissenschaftsansatz. Disability
+  Studies untersuchen die Gesellschaft kritisch. Sie berücksichtigen die
+  Erfahrungen von Menschen, die beeinträchtigt sind oder behindert werden.
+  Disability Studies betrachten zum Beispiel Bildung, Medizin oder Gesetze. Sie
+  untersuchen dort die Sicht auf Können und Nicht-Können.
 ---
 
 ## Bedeutung für inklusive Technikentwicklung
