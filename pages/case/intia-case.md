@@ -58,7 +58,7 @@ Die Werkzeuge und Methoden des Koffers fördern den kreativen und spielerischen 
 
 ## Prinzipien des INTIA-Koffers
 
-Die Einsatzmöglichkeiten des INTIA-Koffers sind vielseitig. Der Koffer eignet sich für viele Zielgruppen, ist mobil, offen, kostengünstig und modular. Jeder Koffer besteht aus mehreren Elementen. Diese Modularität erlaubt eine individuelle Zusammenstellung eines INTIA-Koffers. Alle im Rahmen des Projektes entwickelten Komponenten sind als Open Source oder als Open Educational Resource frei verwendbar. Bei den technischen Bausteinen wurde auf einfache Smart Home Geräte und Sensoren gesetzt, die du kostengünstig im Fachhandel kaufen kannst. Das logische Zusammenspiel der Komponenten, das prototypische Festlegen von Funktionalität, wird durch einen Mini-Computer und eine visuelle Programmierumgebung ermöglicht. 
+Die Einsatzmöglichkeiten des INTIA-Koffers sind vielseitig. Der Koffer eignet sich für viele Zielgruppen, ist mobil, offen, kostengünstig und modular. Jeder Koffer besteht aus mehreren Elementen. Diese Modularität erlaubt eine individuelle Zusammenstellung eines INTIA-Koffers. Alle im Rahmen des Projektes entwickelten Komponenten sind als Open Source oder als Open Educational Resource frei verwendbar. Bei den technischen Bausteinen wurde auf einfache Smart Home Geräte und Sensoren gesetzt, die du kostengünstig im Fachhandel kaufen kannst. Das logische Zusammenspiel der Komponenten und das prototypische Festlegen von Funktionalität, wird durch einen Mini-Computer und eine visuelle Programmierumgebung ermöglicht. 
 
 {% include callouts.html data="principles-callout" %}
 

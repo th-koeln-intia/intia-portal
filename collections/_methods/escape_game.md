@@ -126,10 +126,6 @@ Am Escape Game sollten maximal 5 Personen teilnehmen. Dann können sich alle akt
 
 Rätsel entwickeln, bei denen die Technik in einen praktischen Rahmen gesetzt wird. Zum Beispiel Türkontakte an Türen/Fenstern nutzen. Das erleichtert die Übertragung auf die Nutzung im eigenen Alltag, also außerhalb des Spiels. Interessant könnte es auch sein, wenn die Rätsel in eine Geschichte eingebunden werden. Es können neue Rätsel mit den Teilnehmenden ausgedacht werden. Unter [ Bausteine ] (intia.de/tools/blocks/) sind alle Smart Home Elemente aufgelistet, die zur Verfügung stehen.
 
-## Quelle
-
-Die Methode Escape Game wurde entwickelt von Dennis Christian Wilk
-
 <!--
 {% include highlighter.html min-height25p=false content="
 

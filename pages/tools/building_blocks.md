@@ -13,10 +13,11 @@ Die Technik-Bausteine sind Teil des INTIA-Koffers. Mit diesen Bausteinen kannst 
 
 
 Um die Bausteine etwas besser kennenzulernen, findest du im INTIA-Koffer auch ein Escape-Game. Dieses Spiel stellt dir mehrere Rätsel und Aufgaben, um die Technik-Bausteine sinnvoll einzusetzen. So lernst du die Möglichkeiten kennen! 
+ 
 
 ## Die Technik-Bausteine
 
-Jeder Baustein ist selbst schon eine kleine Lösung. Aus vielen kleinen Lösungs-Bausteinen lässt sich dann eine größere Lösung zusammensetzen. Das geht viel schneller als alles selbst zu entwickeln! Die Bausteine helfen dir als, schneller Lösungen auszuprobieren.
+Jeder Baustein ist selbst schon eine kleine Lösung. Aus vielen kleinen Lösungs-Bausteinen lässt sich dann eine größere Lösung zusammensetzen. Das geht viel schneller als alles selbst zu entwickeln! Die Bausteine helfen dir, schneller Lösungen auszuprobieren.
 
 
 Im INTIA-Koffer gibt es zwei Arten von Bausteinen. Zum einen gibt es fertige Technik-Bausteine, die du einfach im Geschäft kaufen kannst. Dabei handelt es sich meist um einfache Smart Home Geräte oder Komponenten, die du überall kostengünstig kaufen kannst. Zum anderen gibt es spezielle Bausteine für den INTIA-Koffer. Diese wurden im INTIA-Projekt entwickelt und du kannst sie nachbauen.  
@@ -24,7 +25,7 @@ Im INTIA-Koffer gibt es zwei Arten von Bausteinen. Zum einen gibt es fertige Tec
 
 ## INTIA-Bausteine
 
-Die INTIA-Bausteine sind wichtige Komponenten, die so in dieser Form nicht einfach zu kaufen gibt. Du kannst Sie aber relativ einfach nachbauen, wenn du etwas technische Vorkenntnisse besitzt. Du kannst diese Bausteine auch von Dienstleistern nachbauen lassen.  
+Die INTIA-Bausteine sind wichtige Komponenten, die es so in dieser Form nicht einfach zu kaufen gibt. Du kannst Sie aber relativ einfach nachbauen, wenn du etwas technische Vorkenntnisse besitzt. Du kannst diese Bausteine auch von Dienstleistern nachbauen lassen.  
 
 ### Mini-Computer
 
@@ -35,7 +36,7 @@ Der Mini-Computer verbindet die Bausteine miteinander. Er ist die digitale Steue
 <figcaption>Der Mini-Computer</figcaption>
 </figure>
 
-Als Mini-Computer kommt dabei ein Raspberri Pi 4 zum Einsatz, auf dem eine spezielle INTIA-Konfiguration eingerichtet werden muss. Mit dieser Konfiguration lassen sich verschiedene andere Bausteine ansteuern, ohne dass eine Internetverbindung erforderlich ist.
+Als Mini-Computer kommt dabei ein Raspberry Pi 4 zum Einsatz, auf dem eine spezielle INTIA-Konfiguration eingerichtet werden muss. Mit dieser Konfiguration lassen sich verschiedene andere Bausteine ansteuern, ohne dass eine Internetverbindung erforderlich ist.
 
 
 Die Entwicklung der Steuerung – also zum Beispiel das Einschalten einer Lampe durch einen Sensor – geschieht über eine visuelle Entwicklungsumgebung. Diese heißt Node-RED.
@@ -64,7 +65,7 @@ Fertige Bausteine kannst du einfach im Geschäft kaufen. Dabei kann es sich um g
 Andersherum gibt es dann auch Bausteine die gestartet, gestoppt oder gesteuert werden können. Ein Motor kann starten und stoppen. Eine Lampe kann ein oder ausgeschaltet werden. Musik kann lauter oder leiser eingestellt werden. 
 
 
-Im folgenden lernst du einige nützliche Bausteine kennen.
+Im Folgenden lernst du einige nützliche Bausteine kennen.
 
 
 ### Knöpfe
