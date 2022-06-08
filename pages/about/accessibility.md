@@ -4,7 +4,7 @@ title_above: Über
 permalink: /ueber/barrierearm/
 hero_tags: toppage
 subtitle: |
-  Auf der Plattform INTIA sind Inhalte möglichst barrierearm. Das bedeutet die Sprache ist einfach und die verwendete Schrift ist gut  lesbar. Wir bitten ausdrücklich um Rückmeldung, wenn das nicht  überall gut gelungen ist!
+  Auf der Plattform INTIA sind Inhalte möglichst barrierearm. Das bedeutet, die Sprache ist einfach, und die verwendete Schrift ist gut  lesbar. Wir bitten ausdrücklich um Rückmeldung, wenn das nicht  überall gut gelungen ist!
 ---
 
 ## Was bedeutet barrierearm für uns?

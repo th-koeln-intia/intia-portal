@@ -21,7 +21,7 @@ Während der Forschungsphase besuchte das Projektteam Wohneinrichtungen der Sozi
 
 #### Besondere Herausforderungen
 
-Während der Corona Pandemie konnten die geplanten Projektarbeiten aufgrund umfangreicher Betretungsverbote in den Partner-Einrichtungen nicht fortgeführt werden. Es brauchte neue Kommunikationswege und erforderte ein Umdenken von allen Beteiligten. Das Projektteam musste sich mit Datenschutz, der Auswertung von großen Mengen digitaler Daten und ihrer Aussagekraft auseinandersetzen. Die notwendige theoretische Forschung zu Themen wie zum Beispiel Partizipation in digitaler Form rückte in den Vordergrund. 
+Während der Corona Pandemie konnten die geplanten Projektarbeiten aufgrund umfangreicher Betretungsverbote in den Partner-Einrichtungen nicht fortgeführt werden. Es brauchte neue Kommunikationswege und erforderte ein Umdenken von allen Beteiligten. Das Projektteam musste sich mit Datenschutz, der Auswertung von großen Mengen digitaler Daten und ihrer Aussagekraft auseinandersetzen. Die notwendige theoretische Forschung zu Themen wie zum Beispiel Inklusion in digitaler Form rückte in den Vordergrund. 
 Neue Wege der digitalen Partizipation wurden aufgebaut und erprobt. Ein Fazit ist, dass die digitale Zusammenarbeit den direkten zwischenmenschlichen Austausch nicht ersetzen kann.
 
 ## Beteiligte
@@ -199,7 +199,7 @@ Die Fachstelle für Jugendmedienkultur NRW unterstützt Bildungseinrichtungen un
 
 ## Fachbeirat
 
-Der Fachbeirat hat die Aufgabe, das Forschungsprojekt mit der Expertise seiner Mitglieder zu unterstützen und zu beraten. Zum Fachbeirat gehören:
+Der Fachbeirat hat die Aufgabe, das Forschungsprojekt mit der Expertise seiner Mitglieder zu unterstützen und zu beraten. Die Mitglieder sind:
 
 <strong>Dr. Tom Bieling</strong> (<a href="https://www.haw-hamburg.de/" class="normal">HAW Hamburg<span class="icon is-small">
 <i class="fas icon-external fa-xs"></i>
@@ -216,7 +216,7 @@ Der Fachbeirat hat die Aufgabe, das Forschungsprojekt mit der Expertise seiner M
 <strong>Prof. Dr. Heidi Schelhowe</strong> † (<a href="https://www.uni-bremen.de/kooperationen/uni-schule/schuelerinnen-und-schueler/mathematik-und-informatik-trifft-schule-mit-schule/fablab" class="normal">FabLab Uni Bremen<span class="icon is-small">
 <i class="fas icon-external fa-xs"></i>
 </span></a>)<br>
-<strong>Gerhard Seiler</strong> (<a href="https://www.irights-lab.de/" class="normal">Think Tank iRights.Lab<span class="icon is-small">
+<strong>Gerhard Seiler</strong> (<a href="https://www.irights-lab.de/" class="normal">iRights.Lab GmbH<span class="icon is-small">
 <i class="fas icon-external fa-xs"></i>
 </span></a>)<br>
 <strong>Bernhard Spelten</strong> (<a href="https://piksl.net/ed/" class="normal">PIKSL<span class="icon is-small">

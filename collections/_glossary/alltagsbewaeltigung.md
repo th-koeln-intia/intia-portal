@@ -24,7 +24,7 @@ Menschen mit Beeinträchtigen können Unterstützung zur Alltagsbewältigung erh
 
 ## Relevanz
 
-Die Methoden und entwickelten Technologien des Projektes zielen darauf, Jugendliche bei ihrer Alltagsbewältigung zu unterstützen: Es werden Methoden zur Erhebung und Identifizierung von Bedarfen bei der Alltagsbewältigung entwickelt. Es werden Methoden zur Ideenfindung für Lösungen bei der Unterstützung der Alltagsbewältigung entwickelt.
+Die Methoden und entwickelten Technologien für inklusive Technikentwicklung zielen darauf, Jugendliche bei ihrer Alltagsbewältigung zu unterstützen: Es werden Methoden zur Erhebung und Identifizierung von Bedarfen bei der Alltagsbewältigung entwickelt. Es werden Methoden zur Ideenfindung für Lösungen bei der Unterstützung der Alltagsbewältigung entwickelt.
 
 ## Quellen
 

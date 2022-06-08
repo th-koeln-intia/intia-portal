@@ -7,8 +7,8 @@ hero_tags: toppage
 subtitle: >
   Hier sind alle Veröffentlichungen zu finden, die im Rahmen des Projektes INTIA
   entstanden und für den Inhalt dieser Plattform relevant sind. Sie reichen von
-  klassischen Journalbeiträgen bis hin zu Präsentationen auf internationalen
-  Konferenzen. Aus diesem Grund sind einige Veröffentlichungen auf Englisch.
+  wissenschaftlichen Artikeln bis hin zu Präsentationen auf internationalen
+  Konferenzen.
 ---
 
 ## Wissenschaftliche Veröffentlichungen
