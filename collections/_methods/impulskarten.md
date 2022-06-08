@@ -39,13 +39,11 @@ Identifizieren der Lebensbereiche, in denen ein Unterstützungsbedarf und Unters
     <tr>
       <td><strong>Dauer</strong></td>
       <td>
-      <strong>
       Vorbereitung: etwa 1 Minuten<br>
       <br>
       Durchführung: offen<br>
       <br>
       Nachbereitung: etwa 10 Minuten<br>
-      </strong>
       </td>
     </tr>
     <tr>
@@ -104,7 +102,7 @@ Identifizieren der Lebensbereiche, in denen ein Unterstützungsbedarf und Unters
 
 #### Beispiele
 
-##### 1. Start mit Alltagskarten
+<strong>1. Start mit Alltagskarten</strong>
 
 Die Moderation/ teilnehmende Person zieht eine zufällige Alltagskarte - z. B. "Sport":
 
@@ -118,7 +116,8 @@ B. Teilnehmende suchen sich eine für sie passende Impulskarte aus und formulier
 
 C: Eine Alltagskarte wird zufällig gezogen und alle überlegen, welches Szenario zur Aussage passen könnte.
 
-##### 2. Start mit Bedürfniskarte
+
+<strong>2. Start mit Bedürfniskarte</strong>
 
 Die Moderation/ teilnehmende Person sucht eine Bedürfniskarte aus - z. B. "Ich würde gerne...".
 

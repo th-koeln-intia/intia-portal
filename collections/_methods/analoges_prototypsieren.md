@@ -76,6 +76,7 @@ Ziel ist es auch, für Nicht-Entwickler und Personen ohne Expertenwissen Ideen u
 
 #### Durchführung
 
+
 1. Teilnehmende wählen zwei hexagonale Chips, die Objekte repräsentieren, welche sie miteinander verbinden wollen.
 2. Ein Rauten-Chip mit einem Kontext wird zwischen die Chips gelegt um festzulegen, was mit dem ersten Objekt passieren soll um das zweite Objekt zu beeinflussen.
 3. Ein weiterer Rauten-Chip wird an das zweite Objekt gelegt, um zu definieren, was mit diesem passieren soll.
@@ -83,9 +84,10 @@ Ziel ist es auch, für Nicht-Entwickler und Personen ohne Expertenwissen Ideen u
 5. (Optional) Mit den "sonst"-Chips können komplexere "Wenn..., dann... sonst"-Beziehungen gelegt werden. Auf Grund der höheren Komplexität ist diese Option allerdings vor allem für Personen gedacht, die sich schon mehr zutrauen. Sollte das nicht der Fall sein oder es keinen Bedarf dafür geben, dann sollte die Option lieber nicht durchlaufen werden.
 6. Fertige Abläufe sollten mit einem Begleitsatz auf ein Post-It aufgeschrieben werden. Das stellt sicher, dass der Ablauf nicht fehlinterpretiert werden kann. Der Satz sollte in der nähe der Chips positioniert werden.
 
+
 Das Legen der Chips kann gemeinsam in der Gruppe oder alleine für sich durchgeführt werden.
 
-<br><br>
+   <br><br>
 
 #### Nachbereitung
 

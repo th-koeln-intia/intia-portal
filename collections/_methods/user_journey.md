@@ -53,6 +53,8 @@ Identifizieren der Lebensbereiche, in denen ein Unterstützungsbedarf und Unters
 </tr>
 </table>
 
+<br><br>
+
 Beschreibung des Aufbau der User Journey (kurz UJ) pro Schritt:
 
 1. Aktion: Was mache ich?
@@ -81,7 +83,9 @@ Beschreibung des Aufbau der User Journey (kurz UJ) pro Schritt:
 #### Durchführung
 
 1. Gut sichtbar für alle anbringen/ positionieren.
-2. Entweder A) mit Schritten (oberste Zeile) beginnen und anschließend die Spalten füllen. Oder B) die Spalten Schritt für Schritt bearbeiten.
+2. 
+  - A) mit Schritten (oberste Zeile) beginnen und anschließend die Spalten füllen.
+  - B) die Spalten Schritt für Schritt bearbeiten.
 3. Wenn Dinge genannt werden, die noch nicht 'dran sind', aufschreiben und zu gegebener Zeit anbringen.
 
    <br><br>
@@ -97,12 +101,6 @@ Wenn es für die Teilnehmenden zu abstrakt ist, sich einen Handlungsablauf nur v
 Den realen oder nachgestellten Ablauf mit einer Kamera begleiten und alle Schritte fotografieren (z. B. den Ablauf der Wäschepflege). Entweder mit digitalen oder ausgedruckten Fotos die Schritte der User Journey illustrieren. So kann eine Art Bildergeschichte erzählt werden. Beim Durchgehen der Schritte werden vielleicht Lücken aufgedeckt. Diese dann entweder textlich oder mit neuen Fotos füllen. Anschließend die Spalten füllen.
 
 Die Angaben in der Zeile "Was fühle ich" können auch schriftlich statt mit Emojis erfolgen.
-
-## Quelle
-
-Die Methode wurde von Janina Rösch und Hanna Thielmann an den Personenkreis der SozA angepasst.
-
-User Journey ist eine Methode des Service Design.
 
 <!--
 {% include highlighter.html min-height25p=false content="
