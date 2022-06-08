@@ -1,7 +1,7 @@
 ---
 title: Über den INTIA-Koffer
 title_above: INTIA-Koffer
-permalink: /intia-koffer/3
+permalink: /intia-koffer/old
 hero_tags: toppage
 subtitle: |  
   Dieser Use Case zeigt beispielhaft, wie Jugendliche im Projekt INTIA mit dem INTIA-Koffer gearbeitet haben. Er zeigt, mit welchen Methoden und Tools sie im Bedürfnisraum Alltagsprobleme identifiziert haben und wie im Lösungsraum anhand der Koffer-Bestandteile für eines dieser Probleme  eine Lösung entwickelt werde konnte.
@@ -11,7 +11,6 @@ subtitle: |
 
 Der INTIA-Koffer ist eine Art Werkzeugkoffer. Man könnte ihn auch als kreative Box bezeichnen. Seine Inhalte sorgen für eine schnelle und selbstständige Einarbeitung und können sofort für die Anwendung genutzt werden.
 Er besteht aus verschiedenen analogen und digitalen Elementen:
-
 <br>
 
 - eine Sammlung an grundlegenden Technik-Bausteinen (Smart Home Geräte)
@@ -32,22 +31,8 @@ Die Ideen des INTIA-Koffers sind vielseitig: Er eignet sich für alle, ist mobil
       </span>
   </a>
 
-<br><br><br>
-
-<div class="columns is-centered is-desktop">
-<div class="column is-offset-1">
-<figure>
-  <img src="/assets/img/intia-case/INTIA_KofferVisualisierung.svg" alt="" style="">
-</figure>
-</div>
-</div>
-
 <br>
-
-<figure>
-  <img src="/assets/img/intia-case/INTIA_UseCase.svg" alt="" style="">
-</figure>
-
+<br>
 <br>
 
 <div class="columns is-centered is-desktop">
@@ -64,6 +49,12 @@ Die Ideen des INTIA-Koffers sind vielseitig: Er eignet sich für alle, ist mobil
 </div>
 
 <br>
+
+## Prinzipien des INTIA-Koffers
+
+Die Ideen des INTIA-Koffers sind vielseitig: Er kann partizipativ Probleme im Alltag aufdecken und Ideen entwickeln, wie man diese Probleme lösen kann. Am Ende kann diese Idee umgesetzt werden. Die Idee eines Koffers hatten schon viele vorher. Es gibt aber einige Besonderheiten des INTIA-Koffers:
+
+{% include callouts.html data="principles-callout" %}
 
 ## Was steckt im INTIA-Koffer?
 
@@ -133,3 +124,57 @@ Eine genauere Liste mit allen Elementen mit direktem Link zum bestellen findet m
         <i class='fas fa-chevron-right fa-xs'></i>
       </span>
   </a>
+
+## INTIA-Erweiterungen
+
+Der INTIA-Koffer kann durch INTIA-Erweiterungen vergrößert werden. Je nach Bedarf und Interesse können so unterschiedliche Elemente nachgekauft oder ergänzt werden. Die Erweiterungen können nicht alleine genutzt werden.
+
+{% include highlighter.html min-height25p=false content="
+
+### Es gibt bisher folgende INTIA-Erweiterungen:
+
+<div class='columns'>
+<div class='column is-one-third has-text-centered'>
+  <figure class='image'>
+    <img class='with-zone' src='/assets/img/intia-case/icons/sl_touch_400px.png'>
+  </figure>
+      <h3><center>Knopf-Set</center></h3>
+      Eine Auswahl verschiedener Knöpfe, Schalter und Fernbedienungen.
+</div>
+<div class='column is-one-third has-text-centered'>
+  <figure class='image'>
+    <img class='with-zone' src='/assets/img/intia-case/icons/sl_smart-door_400px.png'>
+  </figure>
+      <h3><center>Sensor-Set</center></h3>
+      Eine Auswahl verschiedener Sensoren. Bewegungsmelder, Türkontakte, Temperatursensoren und mehr.
+</div>
+<div class='column is-one-third has-text-centered'>
+  <figure class='image'>
+    <img class='with-zone' src='/assets/img/intia-case/icons/sprachassistenz_schwarz_400px.png'>
+  </figure>
+      <h3><center>Sprachassistenz-Set</center></h3>
+      Der Mini-Computer kann hiermit zu einem Sprachassistenten umgerüstet werden.
+</div>
+</div>
+
+" %}
+
+## Weitere Varianten
+
+Es gibt noch weitere Möglichkeiten und alternative Nutzungen des INTIA-Koffers. Zum einen die INTIA-Methodensammlung, zum anderen den INTIA-Koffer als Laborraum.
+
+{% include highlighter.html min-height25p=false image="/assets/img/intia-case/intia-case-1.jpg" content="
+
+### INTIA-Methodensammlung
+
+Dich interessieren vor allem die Methoden? Dann schau dir die INTIA-Methodensammlung an! Bald gibt es einen eigenen Bereich für deren Anleitungen und Materialien.
+
+" %}
+
+{% include highlighter.html min-height25p=false image="/assets/img/intia-case/intia_labor.jpg" content="
+
+### INTIA-Koffer als Laborraum
+
+Der INTIA-Koffer und die INTIA-Erweiterungen müssen nicht mobil genutzt werden. Du kannst auch einen ganzen Raum als Laborraum damit einrichten! Dort kannst du dann stationär und dauerhaft mit dem gesamten Material arbeiten. Du kannst den INTIA-Koffer und seine Erweiterungen natürlich auch in einen schon bestehenden MakerSpace oder Kreativ-Raum integrieren.
+
+" %}

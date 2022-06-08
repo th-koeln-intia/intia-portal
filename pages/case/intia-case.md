@@ -4,35 +4,41 @@ title_above: INTIA-Koffer
 permalink: /intia-koffer/
 hero_tags: toppage
 subtitle: |  
-  Dieser Use Case zeigt beispielhaft, wie Jugendliche im Projekt INTIA mit dem INTIA-Koffer gearbeitet haben. Er zeigt, mit welchen Methoden und Tools sie im Bedürfnisraum Alltagsprobleme identifiziert haben und wie im Lösungsraum anhand der Koffer-Bestandteile für eines dieser Probleme  eine Lösung entwickelt werde konnte.
+  Der INTIA-Koffer beinhaltet verschiedene Werkzeuge und Methoden, um Bedürfnisse im Alltag besser zu verstehen und Lösungen für Probleme zu entwickeln - und zu bauen!
 ---
 
 ## Was ist der INTIA-Koffer?
 
-Der INTIA-Koffer ist eine Art Werkzeugkoffer. Man könnte ihn auch als kreative Box bezeichnen. Seine Inhalte sorgen für eine schnelle und selbstständige Einarbeitung und können sofort für die Anwendung genutzt werden.
-Er besteht aus verschiedenen analogen und digitalen Elementen:
-<br>
-
-- eine Sammlung an grundlegenden Technik-Bausteinen (Smart Home Geräte)
-- ein Escape Game aus den Bausteinen des Koffers
-- umfangreiche Anleitungen
-- eine Methodensammlung
-- Beispiele für ganze Prozesse einer kreativen und inklusiven Technik-Entwicklung
-  <br>
-
-Der INTIA-Koffer führt spielerisch und niederschwellig an moderne Technik heran. Außerdem kann er dabei helfen, Ideen und Lösungen für den eigenen Alltag zu entwickeln. Dabei kann für Jugendliche oder andere Klient:innen zum Beispiel die Zielerreichung ihrer Selbstwirksamkeit und Selbstständigkeit vereinfacht werden. Andererseits können auch Fachkräfte ihre Arbeitsprozesse durch technische Hilfsmittel ergänzen und so ihren Arbeitsalltag erleichtern.
-
-Die Ideen des INTIA-Koffers sind vielseitig: Er eignet sich für alle, ist mobil, offen, kostengünstig und modular. Dank seiner Modularität kann jeder Mensch den INTIA-Koffer in einfachen Schritten zu einem personalisierten Koffer machen. Damit du aber nicht selber jedes einzelne Element aussuchen und ausprobieren musst, haben wir hier Erweiterungen für deinen INTIA-Koffer zusammengestellt.
-
-<a href='/intia-koffer/kaufen' class='button highlighter-column-button is-rounded is-dark'>
-      <span>INTIA-Koffer kaufen</span>
-      <span class='icon is-small'>
-        <i class='fas fa-chevron-right fa-xs'></i>
-      </span>
-  </a>
+Der INTIA-Koffer schafft explorative Zugänge zu digitalen Technologien und ermöglicht die ko-kreative Lösungsfindung. Jugendliche und Fachkräfte entwickeln gemeinsam Prototypen zur Bewältigung von Alltagssituationen und für mehr Teilhabe im Alltag.
 
 <br>
+
+Der INTIA-Koffer ermöglicht: 
 <br>
+
+-	Niedrigschwellige und spielerische Erforschung des Bedürfnisraums
+-	Niedrigschwellige und spielerische Entwicklungen im Lösungsraum
+-	Unterstützung der Lösungsentwicklung durch Methoden und Werkzeuge
+
+<br>
+
+Jugendliche erfahren mit diesem Ansatz ihre Selbstwirksamkeit und Selbständigkeit in der Entwicklung von Lösungsansätzen. Auch Fachkräfte können mit dem Koffer Ideen entwickeln, um ihre Arbeitsprozesse durch technische Hilfsmittel zu ergänzen und so ihren Arbeitsalltag erleichtern.
+
+<br>
+
+<div class="columns is-centered is-desktop">
+<div class="column is-offset-1">
+<figure>
+  <img src="/assets/img/intia-case/INTIA_KofferVisualisierung.svg" alt="" style="">
+</figure>
+</div>
+</div>
+
+Die Werkzeuge und Methoden des Koffers fördern den kreativen und spielerischen Umgang mit digitalen Technologien. Dabei kommen sowohl analoge und digitale Werkzeuge zum Einsatz. Der Koffer enthält folgende Elemente:
+-	Methodenbeschreibungen sowie unterstützende Werkzeuge und Materialien. Diese helfen beim Erheben von Bedürfnissen, Beschreiben von Problemen und Gestalten neuer, digitaler Lösungen. 
+-	Bausteine zum Entwickeln von Prototypen. Es gibt analoge Funktionsplättchen und digitale Technik-Bausteine. Mit den analogen Funktionsplättchen entwerfen Jugendliche mögliche Prototypen, ohne dass die Technologie schon beherrscht wird. Mit den Technik-Bausteinen explorieren Jugendliche die Möglichkeiten und können selbst eigene Funktionalitäten als Prototypen umsetzen.  
+-	Anleitungen und Schulungsmaterialien zum spielerischen Herantasten an die Technologien. Neben Anleitungen zu den technischen Komponenten und der visuellen Entwicklungsumgebung Node-RED gibt es ein Escape-Game. Das Escape-Game führt durch Rätsel und Aufgaben an die einzelnen Technikbausteine heran. Es zeigt, was alles möglich ist. 
+
 <br>
 
 <div class="columns is-centered is-desktop">
@@ -52,11 +58,15 @@ Die Ideen des INTIA-Koffers sind vielseitig: Er eignet sich für alle, ist mobil
 
 ## Prinzipien des INTIA-Koffers
 
-Die Ideen des INTIA-Koffers sind vielseitig: Er kann partizipativ Probleme im Alltag aufdecken und Ideen entwickeln, wie man diese Probleme lösen kann. Am Ende kann diese Idee umgesetzt werden. Die Idee eines Koffers hatten schon viele vorher. Es gibt aber einige Besonderheiten des INTIA-Koffers:
+Die Einsatzmöglichkeiten des INTIA-Koffers sind vielseitig. Der Koffer eignet sich für viele Zielgruppen, ist mobil, offen, kostengünstig und modular. Jeder Koffer besteht aus mehreren Elementen. Diese Modularität erlaubt eine individuelle Zusammenstellung eines INTIA-Koffers. Alle im Rahmen des Projektes entwickelten Komponenten sind als Open Source oder als Open Educational Resource frei verwendbar. Bei den technischen Bausteinen wurde auf einfache Smart Home Geräte und Sensoren gesetzt, die du kostengünstig im Fachhandel kaufen kannst. Das logische Zusammenspiel der Komponenten, das prototypische Festlegen von Funktionalität, wird durch einen Mini-Computer und eine visuelle Programmierumgebung ermöglicht. 
 
 {% include callouts.html data="principles-callout" %}
 
-## Was steckt im INTIA-Koffer?
+<figure>
+  <img src="/assets/img/intia-case/INTIA_UseCase.svg" alt="" style="">
+</figure>
+
+## Die Koffer-Komponenten im Detail
 
 Hier sind alle Elemente aufgelistet, die sich im INTIA-Koffer befinden.
 
@@ -65,65 +75,45 @@ Hier sind alle Elemente aufgelistet, die sich im INTIA-Koffer befinden.
        <th>Anleitungen und Lehrmaterial</th>
        <td>
           <ul>
-          <li>Inhaltsliste</li>
-          <li>Begrüßungsschreiben</li>
-          <li>Anleitung für einen vollständigen Kreativprozess</li>
-          <li>Einführung mit dem Escape Game</li>
-          <li>“Wie entwickle ich mein eigenes Escape Game”</li>
-          <li>Node-Red Einführungen</li>
-          <li>Node-Red Spickzettel</li>
-          <li>Lehrmaterial zum Erlernen des Umgangs mit der Technik</li>
+          <li>Schnellübersicht</li>
+          <li>Escape Game als Einstieg in den Umgang mit den Technik-Bausteinen</li>
+          <li>Informationen zur Nutzung der Methoden und Werkzeuge</li>
+          <li>Tipps für kreatives Denken</li>
+          <li>Anleitungen zu den technischen Komponenten sowie der Entwicklungsumgebung (Node-RED)</li>
           </ul>
         </td>
     </tr>
     <tr>
-        <th>Methoden</th>
+        <th>Methodenbeschreibungen und Werkzeuge</th>
         <td>
           <ul>
-          <li>INTIA-Methodensammlung</li>
-          <li>INTIA-Nerv-Tagebuch</li>
-          <li>INTIA-Impulskarten</li>
+          <li><strong>INTIA-Methodensammlung:</strong> Beschreibungen der Methoden und Werkzeuge zur Exploration des Bedürfnisraums und des Lösungsraums</li>
+          <li><strong>INTIA-Nerv-Tagebuch</strong> zur Dokumentation problematischer Alltagssituationen</li>
+          <li><strong>INTIA-Impuls- und Alltagskarten</strong> zur Beschreibung von Bedürfnissen und Alltagsproblemen</li>
+          <li><strong>Probe-Kits</strong> zur Beobachtung und Reflektion des eigenen Handelns im Alltag</li>
+          <li><strong>Funktionsplättchen</strong> zum analogen Prototypsisieren und Festlegen von Funktionsabläufen und Steuerung von Alltagsgeräten</li>
           </ul>
         </td>
     </tr>
     <tr>
-       <th>Bausteine</th>
+       <th>Technik- Bausteine</th>
        <td>
           <ul>
-          <li>Mini-Computer</li>
-          <li>Lampe</li>
-          <li>Knöpfe</li>
-          <li>Türkontakt</li>
-          <li>Steckdose</li>
-          <li>Temperatursensor</li>
-          <li>Erschütterungssensor</li>
-          <li>Bewegungssensor</li>
-          <li>verschließbare Kiste</li>
-          <li>Keypad</li>
-          </ul>
-        </td>
-    </tr>
-    <tr>
-       <th>Sonstiges</th>
-       <td>
-          <ul>
-          <li>Netzteile</li>
-          <li>Lampenfassung</li>
-          <li>Display</li>
+          <li>Ausgabebausteine (Lampe, Motoren, Display, verschließbare Kiste)</li>
+          <li>Eingabebausteine (Knöpfe, Keypad, Türkontakt, Sensoren für Temperatur, Erschütterung und   Bewegung) </li>
+          <li>Mini-Computer zur Steuerung der Bausteine</li>
+          <li>Visuelle Entwicklungsumgebung Node-RED zum Festlegen der Funktionalität </li>
+          <li>Infrastruktur (Netzteile, Steckdose, Lampenfassung)</li>
           </ul>
         </td>
     </tr>
 </table>
 
 <br>
-Eine genauere Liste mit allen Elementen mit direktem Link zum bestellen findet man hier:
-<br><br>
-<a href='/intia-koffer/kaufen' class='button highlighter-column-button is-rounded is-dark'>
-      <span>INTIA-Koffer kaufen</span>
-      <span class='icon is-small'>
-        <i class='fas fa-chevron-right fa-xs'></i>
-      </span>
-  </a>
+
+Die Komponenten sind derzeit bereits in einer prototypischen Version des INTIA-Koffers integriert. In Kürze wird es Anleitungen geben, damit du selbst deinen individuellen Koffer zusammenstellen kannst. 
+Neben den Basis-Komponenten lässt sich der Koffer sehr gut erweitern, z.B. durch eine Zusammenstellung von Eingabeelementen (Knopf-Set), Sensoren (Sensor-Set) oder eine Sprachsteuerung. Diese Sprachsteuerung funktioniert ohne Anbindung an die Internet-Cloud. Deine Daten und gesprochenen Anweisungen bleiben also lokal bei dir!  
+
 
 ## INTIA-Erweiterungen
 
@@ -159,22 +149,77 @@ Der INTIA-Koffer kann durch INTIA-Erweiterungen vergrößert werden. Je nach Bed
 
 " %}
 
-## Weitere Varianten
+## Interesse?
 
-Es gibt noch weitere Möglichkeiten und alternative Nutzungen des INTIA-Koffers. Zum einen die INTIA-Methodensammlung, zum anderen den INTIA-Koffer als Laborraum.
+Wenn der Koffer dein Interesse geweckt hat kannst du einfach unser Kontaktformular nutzen um auf dem laufenden zu bleiben:
 
-{% include highlighter.html min-height25p=false image="/assets/img/intia-case/intia-case-1.jpg" content="
-
-### INTIA-Methodensammlung
-
-Dich interessieren vor allem die Methoden? Dann schau dir die INTIA-Methodensammlung an! Bald gibt es einen eigenen Bereich für deren Anleitungen und Materialien.
-
-" %}
-
-{% include highlighter.html min-height25p=false image="/assets/img/intia-case/intia_labor.jpg" content="
-
-### INTIA-Koffer als Laborraum
-
-Der INTIA-Koffer und die INTIA-Erweiterungen müssen nicht mobil genutzt werden. Du kannst auch einen ganzen Raum als Laborraum damit einrichten! Dort kannst du dann stationär und dauerhaft mit dem gesamten Material arbeiten. Du kannst den INTIA-Koffer und seine Erweiterungen natürlich auch in einen schon bestehenden MakerSpace oder Kreativ-Raum integrieren.
-
-" %}
+<div class="container contact-case">
+<form id="form" action="{{ site.data.contact.action }}"  data-botpoison-public-key="{{ site.data.contact.botpoison_key }}" class="columns">
+<div class="column is-6">
+<div class="field">
+<label class="label">Vor- und Nachname</label>
+<div class="control has-icons-left">
+<input class="input" type="text" id="name" name="name" placeholder="Hier tippen..." required>
+<span class="icon is-small is-left">
+<i class="fas fa-user"></i>
+</span>
+</div>
+</div>
+<div class="field">
+<label class="label">Kontakt E-Mailadresse</label>
+<div class="control has-icons-left">
+<input class="input" type="email" id="email" name="email" placeholder="Hier tippen...">
+<span class="icon is-small is-left">
+<i class="fas fa-envelope"></i>
+</span>
+</div>
+</div>
+<div class="field hidden">
+<label class="label">Betreff</label>
+<div class="control has-icons-left">
+<input class="input" id="thema" name="thema" value="INTIA-Koffer" placeholder="Hier tippen...">
+<span class="icon is-small is-left">
+<i class="fas fa-pen"></i>
+</span>
+</div>
+</div>
+</div>
+<div class="column is-6">
+<div class="field hidden">
+<label class="label">Nachricht</label>
+<div class="control">
+<textarea
+class="textarea"
+id="message"
+name="message"
+placeholder="Hier tippen..."
+value="Ich habe Interesse über den Koffer auf dem laufenden zu bleiben"
+></textarea>
+</div>
+</div>
+              <div class="checkbox columns">
+                <div class="column contact-box">
+                  <input class="column" type="checkbox" id="agree" name="privacy-policy" value="agreed" required oninvalid="this.setCustomValidity('Bitte dieses Feld anklicken, um fortzufahren')"
+                       oninput="this.setCustomValidity('')">
+                </div>
+                <div class="column contact-agree">
+                  <label for="agree">{{ site.data.contact.checkbox  }}</label><br><br>
+                  <button id="button" class="button is-rounded is-dark" type="submit">Abschicken</button>
+                </div>
+              </div>
+        </div>
+    </form>
+    <script>
+      var formElement = document.getElementById("form");
+      var buttonElement = document.getElementById("button");
+      formElement.addEventListener("botpoison-challenge-start", function () {
+        buttonElement.setAttribute("disabled", "disabled");
+      });
+      formElement.addEventListener("botpoison-challenge-success", function () {
+        buttonElement.removeAttribute("disabled");
+      });
+      formElement.addEventListener("botpoison-challenge-error", function () {
+        buttonElement.removeAttribute("disabled");
+      });
+    </script>
+  </div>

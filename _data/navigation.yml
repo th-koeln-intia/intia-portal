@@ -10,12 +10,6 @@
   dropdown:
     - name: Über
       link: /intia-koffer/
-    - name: Über 2
-      link: /intia-koffer/2
-    - name: Über 3
-      link: /intia-koffer/3
-    - name: Nutzungsszenario
-      link: /intia-koffer/nutzungsszenario
     - name: Kaufen
       link: /intia-koffer/kaufen/
     - name: Häufige Fragen
