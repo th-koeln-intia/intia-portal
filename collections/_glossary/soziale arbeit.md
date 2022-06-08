@@ -8,18 +8,20 @@ synonyms:
   - Media Skill
   - Media Literacy
 last_update: 11.11.2021
-subtitle: Soziale Arbeit beinhaltet Sozialpädagogik und Sozialarbeit, ist eine Wissenschaft und eine Profession
-abstract: Soziale Arbeit ist ein Berufsfeld, eine Wissenschaft und ein Studium. Soziale Gerechtigkeit steht hier im Fokus.
+subtitle: Soziale Arbeit beinhaltet Sozialpädagogik und Sozialarbeit, ist eine
+  Wissenschaft und eine Profession
+abstract: Soziale Arbeit ist ein Berufsfeld, eine Wissenschaft und ein Studium.
+  Soziale Arbeit analysiert soziale Problemlagen und entwickelt Konzepte und
+  Dienstleistungen, um Menschen in sozialen Problemlagen zu helfen, ihr Leben
+  selbstbestimmt zu leben.
 ---
-
 ## Bedeutung für inklusive Technikentwicklung
 
-Das Thema Inklusion das im Namen inklusive Technikentwicklung steht gehört zu den Handlungsfeldern der sozialen Arbeit. Genauso wie Jugendhilfe und Behinderungshilfe ebenfalls Handlungsfelder der Sozialen Arbeit sind.
+Inklusive Technikentwicklung kann in allen Technikentwicklungen stattfinden, aber sie erfolgt oft in Kontexten der Sozialen Arbeit. Die Jugendhilfe und Behinderungshilfe sind Handlungsfelder der Sozialen Arbeit, für die auf dieser Website Angebote für inklusive Technikentwicklungen gemacht werden.
 
 ## Beschreibung
 
-Die International Federation of Social Workers (IFSW) definiert Soziale Arbeit als eine Profession und eine akademische Disziplin. Soziale Arbeit setzt sich für soziale Gerechtigkeit, Menschen·rechte und die Rücksichtnahme auf die Vielfalt der Menschen ein. Soziale Arbeit will soziale Problemlagen identifizieren, analysieren und bewältigen helfen.. Die Soziale Arbeit wirkt gegen Exklusion und für Inklusion
-. Soziale Arbeit ist heutzutage eine Dienstleistungsprofession. Das heißt Adressat:innen der Sozialen Arbeit können die Angebote in Anspruch nehmen.
+Die International Federation of Social Workers (IFSW) definiert Soziale Arbeit als eine Profession - das ist ein Beruf - und eine akademische Disziplin. Soziale Arbeit setzt sich für soziale Gerechtigkeit, Menschen·rechte und die Rücksichtnahme auf die Vielfalt der Menschen ein. Soziale Arbeit will soziale Problemlagen identifizieren, analysieren und bewältigen helfen.. Die Soziale Arbeit wirkt gegen Exklusion und für Inklusion. Soziale Arbeit ist heutzutage eine Dienstleistungsprofession. Das heißt: Adressat:innen der Sozialen Arbeit können die Angebote in Anspruch nehmen.
 
 ## Quellen
 
