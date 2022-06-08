@@ -3,7 +3,7 @@ title: Über den INTIA-Koffer
 title_above: INTIA-Koffer
 permalink: /intia-koffer/
 hero_tags: toppage
-subtitle: |  
+subtitle: |
   Der INTIA-Koffer beinhaltet verschiedene Werkzeuge und Methoden, um Bedürfnisse im Alltag besser zu verstehen und Lösungen für Probleme zu entwickeln - und zu bauen!
 ---
 
@@ -13,12 +13,12 @@ Der INTIA-Koffer schafft explorative Zugänge zu digitalen Technologien und erm�
 
 <br>
 
-Der INTIA-Koffer ermöglicht: 
+Der INTIA-Koffer ermöglicht:
 <br>
 
--	Niedrigschwellige und spielerische Erforschung des Bedürfnisraums
--	Niedrigschwellige und spielerische Entwicklungen im Lösungsraum
--	Unterstützung der Lösungsentwicklung durch Methoden und Werkzeuge
+- Niedrigschwellige und spielerische Erforschung des Bedürfnisraums
+- Niedrigschwellige und spielerische Entwicklungen im Lösungsraum
+- Unterstützung der Lösungsentwicklung durch Methoden und Werkzeuge
 
 <br>
 
@@ -35,9 +35,10 @@ Jugendliche erfahren mit diesem Ansatz ihre Selbstwirksamkeit und Selbständigke
 </div>
 
 Die Werkzeuge und Methoden des Koffers fördern den kreativen und spielerischen Umgang mit digitalen Technologien. Dabei kommen sowohl analoge als auch digitale Werkzeuge zum Einsatz. Der Koffer enthält folgende Elemente:
--	Methodenbeschreibungen sowie unterstützende Werkzeuge und Materialien. Diese helfen beim Erheben von Bedürfnissen, Beschreiben von Problemen und Gestalten neuer, digitaler Lösungen. 
--	Bausteine zum Entwickeln von Prototypen. Es gibt analoge Funktionsplättchen und digitale Technik-Bausteine. Mit den analogen Funktionsplättchen entwerfen Jugendliche mögliche Prototypen, ohne dass die Technologie schon beherrscht wird. Mit den Technik-Bausteinen explorieren Jugendliche die Möglichkeiten und können selbst eigene Funktionalitäten als Prototypen umsetzen.  
--	Anleitungen und Schulungsmaterialien zum spielerischen Herantasten an die Technologien. Neben Anleitungen zu den technischen Komponenten und der visuellen Entwicklungsumgebung Node-RED gibt es ein Escape-Game. Das Escape-Game führt durch Rätsel und Aufgaben an die einzelnen Technikbausteine heran. Es zeigt, was alles möglich ist. 
+
+- Methodenbeschreibungen sowie unterstützende Werkzeuge und Materialien. Diese helfen beim Erheben von Bedürfnissen, Beschreiben von Problemen und Gestalten neuer, digitaler Lösungen.
+- Bausteine zum Entwickeln von Prototypen. Es gibt analoge Funktionsplättchen und digitale Technik-Bausteine. Mit den analogen Funktionsplättchen entwerfen Jugendliche mögliche Prototypen, ohne dass die Technologie schon beherrscht wird. Mit den Technik-Bausteinen explorieren Jugendliche die Möglichkeiten und können selbst eigene Funktionalitäten als Prototypen umsetzen.
+- Anleitungen und Schulungsmaterialien zum spielerischen Herantasten an die Technologien. Neben Anleitungen zu den technischen Komponenten und der visuellen Entwicklungsumgebung Node-RED gibt es ein Escape-Game. Das Escape-Game führt durch Rätsel und Aufgaben an die einzelnen Technikbausteine heran. Es zeigt, was alles möglich ist.
 
 <br>
 
@@ -58,9 +59,11 @@ Die Werkzeuge und Methoden des Koffers fördern den kreativen und spielerischen 
 
 ## Prinzipien des INTIA-Koffers
 
-Die Einsatzmöglichkeiten des INTIA-Koffers sind vielseitig. Der Koffer eignet sich für viele Zielgruppen, ist mobil, offen, kostengünstig und modular. Jeder Koffer besteht aus mehreren Elementen. Diese Modularität erlaubt eine individuelle Zusammenstellung eines INTIA-Koffers. Alle im Rahmen des Projektes entwickelten Komponenten sind als Open Source oder als Open Educational Resource frei verwendbar. Bei den technischen Bausteinen wurde auf einfache Smart Home Geräte und Sensoren gesetzt, die du kostengünstig im Fachhandel kaufen kannst. Das logische Zusammenspiel der Komponenten und das prototypische Festlegen von Funktionalität, wird durch einen Mini-Computer und eine visuelle Programmierumgebung ermöglicht. 
+Die Einsatzmöglichkeiten des INTIA-Koffers sind vielseitig. Der Koffer eignet sich für viele Zielgruppen, ist mobil, offen, kostengünstig und modular. Jeder Koffer besteht aus mehreren Elementen. Diese Modularität erlaubt eine individuelle Zusammenstellung eines INTIA-Koffers. Alle im Rahmen des Projektes entwickelten Komponenten sind als Open Source oder als Open Educational Resource frei verwendbar. Bei den technischen Bausteinen wurde auf einfache Smart Home Geräte und Sensoren gesetzt, die du kostengünstig im Fachhandel kaufen kannst. Das logische Zusammenspiel der Komponenten und das prototypische Festlegen von Funktionalität, wird durch einen Mini-Computer und eine visuelle Programmierumgebung ermöglicht.
 
 {% include callouts.html data="principles-callout" %}
+
+## Nutzungsszenario
 
 <figure>
   <img src="/assets/img/intia-case/INTIA_UseCase.svg" alt="" style="">
@@ -111,9 +114,8 @@ Hier sind alle Elemente aufgelistet, die sich im INTIA-Koffer befinden.
 
 <br>
 
-Die Komponenten sind derzeit bereits in einer prototypischen Version des INTIA-Koffers integriert. In Kürze wird es Anleitungen geben, damit du selbst deinen individuellen Koffer zusammenstellen kannst. 
-Neben den Basis-Komponenten lässt sich der Koffer sehr gut erweitern, z.B. durch eine Zusammenstellung von Eingabeelementen (Knopf-Set), Sensoren (Sensor-Set) oder eine Sprachsteuerung. Diese Sprachsteuerung funktioniert ohne Anbindung an die Internet-Cloud. Deine Daten und gesprochenen Anweisungen bleiben also lokal bei dir!  
-
+Die Komponenten sind derzeit bereits in einer prototypischen Version des INTIA-Koffers integriert. In Kürze wird es Anleitungen geben, damit du selbst deinen individuellen Koffer zusammenstellen kannst.
+Neben den Basis-Komponenten lässt sich der Koffer sehr gut erweitern, z.B. durch eine Zusammenstellung von Eingabeelementen (Knopf-Set), Sensoren (Sensor-Set) oder eine Sprachsteuerung. Diese Sprachsteuerung funktioniert ohne Anbindung an die Internet-Cloud. Deine Daten und gesprochenen Anweisungen bleiben also lokal bei dir!
 
 ## INTIA-Erweiterungen
 
@@ -151,7 +153,7 @@ Der INTIA-Koffer kann durch INTIA-Erweiterungen vergrößert werden. Je nach Bed
 
 ## Interesse?
 
-Wenn der Koffer dein Interesse geweckt hat, kannst du einfach unser Kontaktformular nutzen um auf dem Laufenden zu bleiben:
+Wenn der Koffer Euer Interesse geweckt hat würden wir uns freuen, Euch den Koffer vorzustellen, ihn mit Euch zu testen und weiterzuentwickeln!
 
 <div class="container contact-case">
 <form id="form" action="{{ site.data.contact.action }}"  data-botpoison-public-key="{{ site.data.contact.botpoison_key }}" class="columns">
@@ -177,7 +179,7 @@ Wenn der Koffer dein Interesse geweckt hat, kannst du einfach unser Kontaktformu
 <div class="field hidden">
 <label class="label">Betreff</label>
 <div class="control has-icons-left">
-<input class="input" id="thema" name="thema" value="INTIA-Koffer" placeholder="Hier tippen...">
+<input class="input" id="thema" name="thema" value="INTIA-Koffer Kontaktformular" placeholder="Hier tippen...">
 <span class="icon is-small is-left">
 <i class="fas fa-pen"></i>
 </span>

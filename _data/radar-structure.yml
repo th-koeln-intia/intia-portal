@@ -19,9 +19,9 @@ rings:
 entryStates:
   legendTitle: 'Zustände'
   list:
-    - name: 'Methode nach Lehrbuch'
+    - name: 'Noch nicht auf der Plattform' #'Methode nach Lehrbuch'
       color: '#1e7d73'
-    - name: 'Neue Methode'
+    - name: 'Auf der Plattform' #'Neue Methode'
       color: '#09443E'
 
 entryMovement:
