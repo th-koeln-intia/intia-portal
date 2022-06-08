@@ -2,14 +2,17 @@
 hero_tags: subpage glossary pdf
 title_above: Wörterbuch
 published: true
-title: Medienkompetenzen
+title: Medienkompetenz
 english_title: Media Competence
 synonyms:
   - Media Skill
   - Media Literacy
 last_update: 11.11.2021
-subtitle: Beschreibt die Fähigkeit einen verantwortungsbewussten Umgang mit der Medienwelt zu auszuüben und die Medienwelt mitzugestalten.
-abstract: Medienkompetenz bedeutet, mit Medien umgehen zu können. Durch den eigenen Umgang mit Medien entwickeln Menschen die Medien mit. Beim Umgang mit Medien sind alle verantwortungsvoll.
+subtitle: Medienkompetenz ist die Fähigkeit zu einem verantwortungsbewussten
+  Umgang mit Medien.
+abstract: Medienkompetenzen haben bedeutet, mit Medien umgehen zu können.
+  Menschen reflektieren Medien und ihren Medienumgang. Sie nutzen und gestalten
+  Medien. Beim Umgang mit Medien handeln sie verantwortungsvoll.
 ---
 
 ## Bedeutung für inklusive Technikentwicklung
