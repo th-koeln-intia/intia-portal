@@ -5,13 +5,9 @@ published: true
 title: Analoges Prototypisieren
 english_title: Analoges Prototypisieren
 last_update: 08.06.2022
-subtitle: Bei dieser Methode handelt es sich um ein Set von Bausteinen in verschiedenen geometrischen Formen. Die Steine, auch Chips genannt, können dabei so zusammengelegt werden, dass einfache Abläufe abgebildet werden können. Durch die Haptik und Visualisierung können mit einfachen Regeln schneller Ideen vermittelt, Ideen gemeinsam ausgearbeitet und vorbereitet werden, damit diese für eine Entwicklung vorbereitet sind.
+subtitle: 'Bei dieser Methode handelt es sich um ein Set von Bausteinen in verschiedenen geometrischen Formen. Die Steine, auch Chips genannt, können dabei so zusammengelegt werden, dass einfache Abläufe abgebildet werden können. Durch die Haptik und Visualisierung können mit einfachen Regeln schneller Ideen vermittelt, Ideen gemeinsam ausgearbeitet und vorbereitet werden, damit diese für eine Entwicklung vorbereitet sind.
 
-Ziel ist es auch, für Nicht-Entwickler und Personen ohne Expertenwissen Ideen und Abläufe zu visualisieren und Planen zu können. Die daraus entstehenden Konstruktionen können daraufhin zur Entwicklung genutzt werden.
-
-abstract: Bei dieser Methode handelt es sich um ein Set von Bausteinen in verschiedenen geometrischen Formen. Die Steine, auch Chips genannt, können dabei so zusammengelegt werden, dass einfache Abläufe abgebildet werden können. Durch die Haptik und Visualisierung können mit einfachen Regeln schneller Ideen vermittelt, Ideen gemeinsam ausgearbeitet und vorbereitet werden, damit diese für eine Entwicklung vorbereitet sind.
-
-Ziel ist es auch, für Nicht-Entwickler und Personen ohne Expertenwissen Ideen und Abläufe zu visualisieren und Planen zu können. Die daraus entstehenden Konstruktionen können daraufhin zur Entwicklung genutzt werden.
+Ziel ist es auch, für Nicht-Entwickler und Personen ohne Expertenwissen Ideen und Abläufe zu visualisieren und Planen zu können. Die daraus entstehenden Konstruktionen können daraufhin zur Entwicklung genutzt werden.'
 ---
 
 <table class="tb">
