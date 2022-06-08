@@ -5,9 +5,7 @@ published: true
 title: Impulskarten
 english_title: Impulskarten
 last_update: 08.06.2022
-subtitle: Die Impulskarten sollen, wie der Name schon sagt, Impulse für eine Unterhaltung geben. Dabei entsteht ein Dialog zwischen dem Moderierenden und den Teilnehmenden. Das Ziel ist, durch ein angeregtes Gespräch auf Probleme/ Wünsche/ Bedürfnisse/ Bedarfe zu stoßen. Daraus können dann in weiteren Schritten mit anderen Methoden Lösungen entwickelt werden. Es ist möglich, dass in einem Ausgangsthema eine tieferliegende Thematik entdeckt wird und darauf eingegangen werden kann. Die Impulskarten können auch außerhalb eines Technikentwicklungsprozesses eingesetzt werden. Zum Beispiel als unterstützendes Werkzeug zur Vorbereitung des Hilfeplangesprächs.
-
-abstract: Die Impulskarten sollen, wie der Name schon sagt, Impulse für eine Unterhaltung geben. Dabei entsteht ein Dialog zwischen dem Moderierenden und den Teilnehmenden. Das Ziel ist, durch ein angeregtes Gespräch auf Probleme/ Wünsche/ Bedürfnisse/ Bedarfe zu stoßen. Daraus können dann in weiteren Schritten mit anderen Methoden Lösungen entwickelt werden. Es ist möglich, dass in einem Ausgangsthema eine tieferliegende Thematik entdeckt wird und darauf eingegangen werden kann. Die Impulskarten können auch außerhalb eines Technikentwicklungsprozesses eingesetzt werden. Zum Beispiel als unterstützendes Werkzeug zur Vorbereitung des Hilfeplangesprächs.
+subtitle: "Die Impulskarten sollen, wie der Name schon sagt, Impulse für eine Unterhaltung geben. Dabei entsteht ein Dialog zwischen dem Moderierenden und den Teilnehmenden. Das Ziel ist, durch ein angeregtes Gespräch auf Probleme/ Wünsche/ Bedürfnisse/ Bedarfe zu stoßen. Daraus können dann in weiteren Schritten mit anderen Methoden Lösungen entwickelt werden. Es ist möglich, dass in einem Ausgangsthema eine tieferliegende Thematik entdeckt wird und darauf eingegangen werden kann. Die Impulskarten können auch außerhalb eines Technikentwicklungsprozesses eingesetzt werden. Zum Beispiel als unterstützendes Werkzeug zur Vorbereitung des Hilfeplangesprächs."
 ---
 
 <table class="tb">
@@ -67,38 +65,42 @@ Identifizieren der Lebensbereiche, in denen ein Unterstützungsbedarf und Unters
 
 1. Karten ausdrucken und ausschneiden
 2. Ggf. Vorauswahl der Karten treffen
-  - Moderation trifft Vorauswahl der Karten
-    - Um Menge zu reduzieren- weniger Komplexität, da weniger Auswahl
-    - Um relevante Themen werden fokussiert
-    - Irrelevante oder triggernde Themen auszublenden
-  - Teilnehmende treffen Vorauswahl
-    - Entfernen Themen, die zum Beispiel nicht in der Gruppe angesprochen werden sollen
-    - Entfernen Themen, die irrelevant für sie sind
 
-   <br><br>
+- Moderation trifft Vorauswahl der Karten
+  - Um Menge zu reduzieren- weniger Komplexität, da weniger Auswahl
+  - Um relevante Themen werden fokussiert
+  - Irrelevante oder triggernde Themen auszublenden
+- Teilnehmende treffen Vorauswahl
+  - Entfernen Themen, die zum Beispiel nicht in der Gruppe angesprochen werden sollen
+  - Entfernen Themen, die irrelevant für sie sind
+
+<br><br>
 
 #### Durchführung
 
 1. Auswahl der Alltagskarte(n)
-  - Jede Person erhält eine zufällige Karte
-    - Wird zufällig ausgeteilt / vom Stapel gezogen
-    - Karten verdeckt auf Tisch verteilt und gezogen
-  - Jede Person sucht sich eine Karte aus (Karten offen auf Tisch ausgelegt)
-    - Auswahl aufgrund einer vorher festgelegten Bedürfniskarte oder eigener Fragestellung
-  - Pro Runde nutzen alle die selbe Karte
-    - Zufällig gezogen durch M oder TN
-    - Ausgesucht von M oder TN
-2. Auswahl der Bedürfniskarte
-  - Jede Person erhält eine zufällige Karte
-    - Wird zufällig ausgeteilt / vom Stapel gezogen
-    - Karten verdeckt auf Tisch verteilt und gezogen
-  - Jede Person sucht sich eine Karte aus (Karten offen auf Tisch ausgelegt)
-    - Auswahl aufgrund einer vorher festgelegten Alltagskarte oder eigener Fragestellung
-  - Pro Runde nutzen alle dieselbe Karte
-    - Zufällig gezogen durch M oder TN
-    - Ausgesucht von M oder TN
 
-   <br><br>
+- Jede Person erhält eine zufällige Karte
+  - Wird zufällig ausgeteilt / vom Stapel gezogen
+  - Karten verdeckt auf Tisch verteilt und gezogen
+- Jede Person sucht sich eine Karte aus (Karten offen auf Tisch ausgelegt)
+  - Auswahl aufgrund einer vorher festgelegten Bedürfniskarte oder eigener Fragestellung
+- Pro Runde nutzen alle die selbe Karte
+  - Zufällig gezogen durch M oder TN
+  - Ausgesucht von M oder TN
+
+2. Auswahl der Bedürfniskarte
+
+- Jede Person erhält eine zufällige Karte
+  - Wird zufällig ausgeteilt / vom Stapel gezogen
+  - Karten verdeckt auf Tisch verteilt und gezogen
+- Jede Person sucht sich eine Karte aus (Karten offen auf Tisch ausgelegt)
+  - Auswahl aufgrund einer vorher festgelegten Alltagskarte oder eigener Fragestellung
+- Pro Runde nutzen alle dieselbe Karte
+  - Zufällig gezogen durch M oder TN
+  - Ausgesucht von M oder TN
+
+<br><br>
 
 #### Beispiele
 
@@ -115,7 +117,6 @@ A: Moderator stelle eine eigene Frage: Macht ihr gerne Sport? TN1: Ja M: Was den
 B. Teilnehmende suchen sich eine für sie passende Impulskarte aus und formulieren einen Satz aus den beiden Karten. Z.B. "Ich will mehr ... Sport ...machen". Oder "Ich würde gerne ... Sport ... machen".
 
 C: Eine Alltagskarte wird zufällig gezogen und alle überlegen, welches Szenario zur Aussage passen könnte.
-
 
 ##### 2. Start mit Bedürfniskarte
 
