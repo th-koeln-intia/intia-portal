@@ -44,7 +44,7 @@
   link: 'impulskarten'
   moved: 0
 - name: 'Phasenmodell einer inklusiven Prototypenentwicklung in Präsenz'
-  sectorID: 2
+  sectorID: 1
   ringID: 2
   stateID: 2
   active: true
