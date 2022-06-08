@@ -103,7 +103,7 @@ Der Phasenprozess wurde beispielhaft mit einer Gruppe von 8-12 jungen Menschen m
 
 <br>
 <figure>
-    <img src="/assets/img/uploads/PhasenmodellVirtuellInklusiveIdeenentwicklung.jpg" alt="Schematische Darstellung des Phasenmodells" class="content_image">
+    <img src="/assets/img/uploads/PhasenmodellInklusive Technikentwicklung_PRASENZKomplett.jpg" alt="Schematische Darstellung des Phasenmodells" class="">
     <figcaption>Schematische Darstellung des Phasenmodells</figcaption>
 </figure>
 
