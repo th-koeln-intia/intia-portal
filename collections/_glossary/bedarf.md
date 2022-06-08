@@ -7,8 +7,9 @@ english_title: Need
 synonyms:
   - Bedürfnis
 last_update: 08.06.2022
-subtitle: Ein Bedarf drückt sich nach dem Wunsch einer Lösung aus.
-abstract: Alle Menschen haben Bedürfnisse. Menschen versuchen ihre Bedürfnisse zu stillen.
+subtitle: Ein Bedarf drückt sich im Wunsch nach einer Lösung aus.
+abstract: Alle Menschen haben Bedürfnisse. Menschen versuchen ihre Bedürfnisse
+  zu stillen.
 ---
 
 ## Bedeutung für inklusive Technikentwicklung
