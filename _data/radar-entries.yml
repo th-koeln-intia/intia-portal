@@ -1,163 +1,108 @@
-- name: 'Method 1'
-  sectorID: 1
-  ringID: 0
-  stateID: 1
-  active: true
-  link: 'escape_game'
-  moved: 0
-- name: 'Method 2'
+#----- Notiz für Einträge ---------
+# -- Methoden --
+# State 1 = Nach Lehrbuch 
+# State 2 = Neue Methode
+# -- Sektoren --
+# Sector 0 = Testen
+# Sector 1 = Entwickeln
+# Sector 2 = Entdecken
+# Sector 3 = Definieren
+# -- Ringe --
+# Ring 0 = Entscheidungsmacht
+# Ring 1 = teilw. Entscheidungsmacht
+# Ring 2 = Mitbestimmung
+# Ring 3 = Einbeziehung
+# Ring 4 = Anhörung
+# Ring 5 = Information
+# Ring 6 = Nicht beteiligt
+- name: 'Analoges Prototypisieren'
   sectorID: 1
   ringID: 1
-  stateID: 1
+  stateID: 2
   active: true
-  link: 'escape_game'
+  link: 'analoges_prototypsieren'
   moved: 0
-
-
-
-
-
-
-
-- name: 'Method 3'
-  sectorID: 4
-  ringID: 0
-  stateID: 1
-  active: true
-  link: 'escape_game'
-  moved: 0
-- name: 'Method 4'
-  sectorID: 4
-  ringID: 2
-  stateID: 0
-  active: true
-  link: 'escape_game'
-  moved: 0
-
-
-
-
-- name: 'Method 5'
-  sectorID: 0
-  ringID: 1
+- name: 'Escape Game'
+  sectorID: 2
+  ringID: 3
   stateID: 2
   active: true
   link: 'escape_game'
   moved: 0
-- name: 'Method 6'
+- name: 'Impulskarten'
+  sectorID: 2
+  ringID: 3
+  stateID: 2
+  active: true
+  link: 'impulskarten'
+  moved: 0
+- name: 'Bedürfniskarten'
+  sectorID: 3
+  ringID: 3
+  stateID: 2
+  active: true
+  link: 'impulskarten'
+  moved: 0
+- name: 'Phasenmodell einer inklusiven Prototypenentwicklung in Präsenz'
+  sectorID: 2
+  ringID: 2
+  stateID: 2
+  active: true
+  link: 'phasenmodell_einer_inklusiven_prototypenentwicklung_in_praesenz'
+  moved: 0
+- name: 'User Journey'
+  sectorID: 3
+  ringID: 2
+  stateID: 1
+  active: true
+  link: 'user_journey'
+  moved: 0
+- name: 'Erfindungsmemory'
+  sectorID: 2
+  ringID: 5
+  stateID: 2
+  active: true
+  link: '#'
+  moved: 0
+- name: 'Smiley Feedback'
   sectorID: 0
-  ringID: 1
-  stateID: 1
-  active: true
-  link: 'escape_game'
-  moved: 0
-
-
-
-
-- name: 'Method 7'
-  sectorID: 3
-  ringID: 0
-  stateID: 0
-  active: true
-  link: 'escape_game'
-  moved: 1
-
-- name: 'Method 8'
-  sectorID: 3
-  ringID: 2
-  stateID: 1
-  active: true
-  link: 'escape_game'
-  moved: 1
-- name: 'Method 9'
-  sectorID: 3
-  ringID: 2
-  stateID: 1
-  active: true
-  link: 'escape_game'
-  moved: 1
-
-
-
-- name: 'Method 10'
-  sectorID: 2
-  ringID: 2
-  stateID: 0
-  active: true
-  link: 'escape_game'
-  moved: 0
-- name: 'Method 11'
-  sectorID: 2
-  ringID: 2
-  stateID: 1
-  active: true
-  link: 'escape_game'
-  moved: 0
-- name: 'Method 11'
-  sectorID: 2
-  ringID: 2
-  stateID: 1
-  active: true
-  link: 'escape_game'
-  moved: 0
-
-- name: 'Method 11'
-  sectorID: 1
-  ringID: 3
-  stateID: 0
-  active: true
-  link: 'escape_game'
-  moved: 0
-- name: 'Method 11'
-  sectorID: 2
-  ringID: 3
-  stateID: 1
-  active: true
-  link: 'escape_game'
-  moved: 0
-
-- name: 'Method 11'
-  sectorID: 1
   ringID: 4
-  stateID: 0
+  stateID: 2
   active: true
-  link: 'escape_game'
+  link: '#'
   moved: 0
-- name: 'Method 11'
-  sectorID: 2
-  ringID: 4
-  stateID: 1
-  active: true
-  link: 'escape_game'
-  moved: 0
-
-- name: 'Method 11'
-  sectorID: 1
-  ringID: 5
-  stateID: 0
-  active: true
-  link: 'escape_game'
-  moved: 0
-- name: 'Method 11'
-  sectorID: 2
-  ringID: 5
-  stateID: 1
-  active: true
-  link: 'escape_game'
-  moved: 0
-
-- name: 'Method 11'
-  sectorID: 1
-  ringID: 6
-  stateID: 0
-  active: true
-  link: 'escape_game'
-  moved: 0
-- name: 'Method 11'
+- name: 'Hospitation'
   sectorID: 2
   ringID: 6
   stateID: 1
   active: true
-  link: 'escape_game'
+  link: '#'
+  moved: 0
+- name: 'Interviews'
+  sectorID: 2
+  ringID: 4
+  stateID: 1
+  active: true
+  link: '#'
+  moved: 0
+- name: 'Stimmt oder Stimmt Nicht'
+  sectorID: 3
+  ringID: 5
+  stateID: 2
+  active: true
+  link: '#'
+  moved: 0
+- name: 'Der Superheld'
+  sectorID: 2
+  ringID: 4
+  stateID: 2
+  active: true
+  link: '#'
+  moved: 0
+- name: 'Photorecherche'
+  sectorID: 2
+  ringID: 3
+  stateID: 1
+  active: true
+  link: '#'
   moved: 0
