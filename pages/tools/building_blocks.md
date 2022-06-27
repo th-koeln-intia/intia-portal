@@ -99,7 +99,7 @@ Sensoren nehmen etwas wahr. Ein Knopf ist eigentlich auch ein einfacher Sensor. 
 <figcaption>Ein Türkontakt, der eine smarte Lampe bedient.</figcaption>
 </figure>
 
-Es gibt aber noch viele weitere interessante Momente in deiner Umgebung, die sich mit Sensoren wahrnehmen lassen. Zum Beispiel nimmt ein Türkontakt den Zustand einer Türe wahr: die Tür kann offen oder geschlossen sein. Wenn sich der Zustand ändert – du machst die Tür zu – dann ist das ein interessanter Augenblick. Vielleicht soll die Musik jetzt lauter spielen oder du möchtest andere Lampen einschalten? Das Schließen einer Tür kann solche Aktionen (Musiklautstärke verändern) auslösen – genauso wie ein Knopf dies auslösen kann.
+Es gibt aber noch viele weitere interessante Momente in deiner Umgebung, die sich mit Sensoren wahrnehmen lassen. Zum Beispiel nimmt ein Türkontakt den Zustand einer Tür wahr: die Tür kann offen oder geschlossen sein. Wenn sich der Zustand ändert – du machst die Tür zu – dann ist das ein interessanter Augenblick. Vielleicht soll die Musik jetzt lauter spielen oder du möchtest andere Lampen einschalten? Das Schließen einer Tür kann solche Aktionen (Musiklautstärke verändern) auslösen – genauso wie ein Knopf dies auslösen kann.
 Ein Türkontakt, der eine smarte Lampe bedient.
 
 In Kürze werden wir hier noch mehr Bausteine und Verwendungsideen vorstellen. 

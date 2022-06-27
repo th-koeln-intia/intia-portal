@@ -15,7 +15,7 @@ Hier finden Fachkräfte der Sozialen Arbeit Inspiration und konkrete Unterstütz
 
 ## Einander verstehen
 
-Die Inhalte auf diesen Internetseiten sind so gestaltet und beschrieben, dass sie möglichst barrierearm sind. Die Sprache wird aus diesem Grund einfach gehalten. Wenn es um wissenschaftliche Erkenntnisse aus der Forschung geht, werden diese Inhalte für Expert:innen als solche gekennzeichnet. Wichtige Begriffe sind hervorgehoben und können angeklickt werden, um zu einer Begriffserklärung im Wörterbuch zu gelangen. Eine Vorlesefunktion ist geplannt.
+Die Inhalte auf diesen Internetseiten sind so gestaltet und beschrieben, dass sie möglichst barrierearm sind. Die Sprache wird aus diesem Grund einfach gehalten. Wenn es um wissenschaftliche Erkenntnisse aus der Forschung geht, werden diese Inhalte für Expert:innen als solche gekennzeichnet. Wichtige Begriffe sind hervorgehoben und können angeklickt werden, um zu einer Begriffserklärung im Wörterbuch zu gelangen. Eine Vorlesefunktion ist geplant.
 
 "%}
 
