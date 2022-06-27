@@ -1,0 +1,509 @@
+<!--
+The Default layout that everything is using 
+-->
+
+<!-- Control the width with, if sidebars or menus should appear   -->
+
+
+<!DOCTYPE html>
+<html id="default-layout">
+    <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content=#ffffff>
+    <link rel="stylesheet" href="/assets/styles/main.css">
+    <link rel="shortcut icon" type="image/png"
+           href="/favicon.png" 
+    />
+    <script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.8.0/dist/alpine.min.js" defer></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma-carousel@4.0.3/dist/css/bulma-carousel.min.css">
+    
+        <script src="https://d3js.org/d3.v5.min.js"></script>
+        <!--<script src="https://methods.intia.de/src/radar/radar.js"></script>-->
+        <script src="/assets/js/radar.js"></script>
+        <!--<link rel="stylesheet" href="https://methods.intia.de/src/radar/radar.css" />-->
+    
+    
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma-social@1/bin/bulma-social.min.css">
+    
+    <!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Bausteine | INTIA</title>
+<meta name="generator" content="Jekyll v4.2.2" />
+<meta property="og:title" content="Bausteine" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="A plattform for methods, techniques, toolkits and patterns for participative development in a social context." />
+<meta property="og:description" content="A plattform for methods, techniques, toolkits and patterns for participative development in a social context." />
+<link rel="canonical" href="/werkzeuge/bausteine/" />
+<meta property="og:url" content="/werkzeuge/bausteine/" />
+<meta property="og:site_name" content="INTIA" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Bausteine" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebPage","description":"A plattform for methods, techniques, toolkits and patterns for participative development in a social context.","headline":"Bausteine","url":"/werkzeuge/bausteine/"}</script>
+<!-- End Jekyll SEO tag -->
+<!-- head scripts -->
+<script src="https://unpkg.com/@botpoison/browser"></script>
+<script type="module" src="/assets/js/main.js"async></script></head>
+
+    <body>
+        <nav class="navbar is-hidden-print is-primary is-fixed-top" x-data="{ openNav: false }">
+    <div class="container">
+        <div class="navbar-brand">
+            <a href="/" class="">
+                <picture>
+                    <source media="(max-width: 1300px)" srcset="/assets/img/logo-short.png">
+                    <img id="navbar-logo" src="/assets/img/logo-horizontal-short.png">
+                </source></picture>     
+            </a>
+            <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navMenu" :class="{ 'is-active': openNav }" x-on:click="openNav = !openNav">
+                <span aria-hidden="true"></span>
+                <span aria-hidden="true"></span>
+                <span aria-hidden="true"></span>
+            </a>
+        </div>
+        <div class="navbar-menu" id="navMenu" :class="{ 'is-active': openNav }">
+            <div id="SearchOverlay" class="searchbar-overlay navbar-end buttons">
+                <div class="navbar-item searchbar">
+                    <div class="field">
+                        <div id="search-container" class="control">
+                          <input class="input search-input" type="text" id="search-input" placeholder="Suchbegriff eintippen">
+                        </div>
+                    </div>
+                    <ul id="results-container" class="search-result-list"></ul>
+                </div>
+                <div class="navbar-end">
+                    <div class="navbar-item navbar-search">
+                        <a id="closeSearch">
+                            <span class="icon">
+                                <i class="fa-solid icon-remove"></i>
+                            </span>
+                        </a>  
+                    </div>
+                </div>
+            </div>
+            <div id="navmenu" class="navbar-end buttons">
+                
+                
+                
+                <div class="navbar-item has-text-left button is-rounded is-dark has-dropdown is-hoverable        ">
+                    
+                    
+                     <a for="navbar-click" class="navbar-link">Über</a>
+                    
+                    <div class="navbar-dropdown">
+                        
+                        <a href="/ueber/plattform" class="navbar-item button is-rounded is-dark  ">Plattform</a>
+                        
+                        <a href="/ueber/projekt/" class="navbar-item button is-rounded is-dark  ">Projekt</a>
+                        
+                        <a href="/ueber/barrierearm/" class="navbar-item button is-rounded is-dark  ">Barrierearm</a>
+                        
+                    </div>
+                </div>
+                
+                
+                
+                <div class="navbar-item has-text-left button is-rounded is-dark has-dropdown is-hoverable    ">
+                    
+                    
+                     <a for="navbar-click" class="navbar-link">INTIA-Koffer</a>
+                    
+                    <div class="navbar-dropdown">
+                        
+                        <a href="/intia-koffer/" class="navbar-item button is-rounded is-dark  ">Über</a>
+                        
+                    </div>
+                </div>
+                
+                
+                
+                <div class="navbar-item has-text-left button is-rounded is-dark has-dropdown is-hoverable    is-active-header    ">
+                    
+                    
+                     <a for="navbar-click" class="navbar-link">Werkzeuge</a>
+                    
+                    <div class="navbar-dropdown">
+                        
+                        <a href="/werkzeuge/bausteine/" class="navbar-item button is-rounded is-dark   is-active ">Bausteine</a>
+                        
+                        <a href="/werkzeuge/methoden/" class="navbar-item button is-rounded is-dark  ">Methoden</a>
+                        
+                    </div>
+                </div>
+                
+                
+                
+                <div class="navbar-item has-text-left button is-rounded is-dark has-dropdown is-hoverable      ">
+                    
+                    
+                     <a for="navbar-click" class="navbar-link">Wissen</a>
+                    
+                    <div class="navbar-dropdown">
+                        
+                        <a href="/wissen/woerterbuch/" class="navbar-item button is-rounded is-dark  ">Wörterbuch</a>
+                        
+                        <a href="/wissen/publikationen/" class="navbar-item button is-rounded is-dark  ">Publikationen</a>
+                        
+                    </div>
+                </div>
+                
+                
+                
+                <div class="navbar-item has-text-left button is-rounded is-dark has-dropdown is-hoverable    ">
+                    
+                    
+                     <a for="navbar-click" class="navbar-link">Aktuelles</a>
+                    
+                    <div class="navbar-dropdown">
+                        
+                        <a href="/blog/" class="navbar-item button is-rounded is-dark  ">Blog</a>
+                        
+                    </div>
+                </div>
+                
+                
+                
+                <div class="navbar-item has-text-left button is-rounded is-dark has-dropdown is-hoverable      ">
+                    
+                    
+                     <a for="navbar-click" class="navbar-link">Mitmachen</a>
+                    
+                    <div class="navbar-dropdown">
+                        
+                        <a href="/mitmachen/netzwerk/" class="navbar-item button is-rounded is-dark  ">Netzwerk</a>
+                        
+                        <a href="/mitmachen/kontakt/" class="navbar-item button is-rounded is-dark  ">Kontakt</a>
+                        
+                    </div>
+                </div>
+                
+                
+                
+   
+                    <div class="navbar-item navbar-search">
+                        <a id="openSearch">
+                            <span class="icon">
+                                <i class="fa-solid icon-search"></i>
+                            </span>
+                        </a>  
+                    </div>
+                
+            </div>
+        </div>
+    </div>
+</nav>
+
+<section class="breadcrumb-section green-version">
+    <div class="container breadcrumb-container">
+        <nav class="breadcrumb has-arrow-separator" aria-label="breadcrumbs">
+            <ul>
+            
+            <li><a href="/">INTIA</a></li>
+            
+                
+                    <li><a>Werkzeuge</a></li>
+                
+                
+                <li><a href="#">Bausteine</a></li>
+                
+            
+            </ul>
+        </nav>
+    </div>
+</section>
+
+
+  <!-- Script pointing to search-script.js -->
+  <script src="/assets/js/search.js" type="text/javascript"></script>
+  
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/search.json',
+    searchResultTemplate: '<li><a class="search-item" href="{url}">{title}</a></li>'
+  })
+  </script>
+        <div class="arrow-image is-pulled-left is-hidden-mobile">
+            <img id="scroll-up" src="/assets/img/arrow-up.svg" alt="placeholder">
+            <img id="scroll-down" src="/assets/img/arrow-up.svg" alt="placeholder" class="is-pointed-down">     
+        </div>
+        <div class="accessibility-image is-pulled-left is-hidden-mobile">
+                <a id="changeFontsize" class="button is-rounded is-dark">
+                    <span class="icon is-small">
+                        <i class="fas icon-font-size fa-xs invert"></i>
+                        </span> 
+                    </a>    
+        </div>
+        
+            <section class="hero is-hidden-print  is-medium   toppage ">
+    <div class="hero-body">
+        <div class="container">
+            
+                <h5 class="overtitle">Werkzeuge</h5>
+            
+            <h1 class=" title-with-overtitle ">Bausteine</h1>
+            
+            
+                <h4>Der INTIA-Koffer enthält Technik-Bausteine für eigene digitale Prototypen</h4>
+            
+            
+            <div class="buttons-hero has-text-centered">
+                <a onclick="window.history.back()" class="button is-rounded is-dark { % if item.link == page.url % } { % endif % }">
+                    <span class="icon is-small">
+                        <i class="fas fa-chevron-left"></i>
+                    </span>
+                    <span>Zur Übersicht</span>
+                </a>
+                <a onclick="window.print()" class="button is-rounded is-dark { % if item.link == page.url % } { % endif % }">
+                    <span>Als PDF Herunterladen</span>
+                    <span class="icon is-small">
+                        <i class="fas fa-chevron-right"></i>
+                    </span>
+                </a>
+            </div>
+        </div>
+    </div>
+</section>
+        
+        <div id="main" class="content-wrapper has-background-primary-light">
+            
+            
+            
+            <div class="columns is-centered">
+                <div id="content" class="container column is-9-desktop is-11-tablet">
+                    
+                    <h2 id="was-sind-technik-bausteine">Was sind Technik-Bausteine?</h2>
+<p>Die Technik-Bausteine sind Teil des INTIA-Koffers. Mit diesen Bausteinen kannst du deine eigenen Lösungen zusammenbauen. Die meisten Bausteine brauchen Strom und haben daher einen Stecker oder Batterien. Mit Bausteinen kannst du Prototypen bauen, die sogar funktionieren. Du kannst mit den Bausteinen aber auch einfach etwas experimentieren und so herausfinden, was mit digitaler Technologie inzwischen alles geht. Vielleicht bringt dich das auf neue Ideen, wie du deinen Alltag verbessern kannst?</p>
+<p>Um die Bausteine etwas besser kennenzulernen, findest du im INTIA-Koffer auch ein Escape-Game. Dieses Spiel stellt dir mehrere Rätsel und Aufgaben, um die Technik-Bausteine sinnvoll einzusetzen. So lernst du die Möglichkeiten kennen!</p>
+<h2 id="die-technik-bausteine">Die Technik-Bausteine</h2>
+<p>Jeder Baustein ist selbst schon eine kleine Lösung. Aus vielen kleinen Lösungs-Bausteinen lässt sich dann eine größere Lösung zusammensetzen. Das geht viel schneller als alles selbst zu entwickeln! Die Bausteine helfen dir, schneller Lösungen auszuprobieren.</p>
+<p>Im INTIA-Koffer gibt es zwei Arten von Bausteinen. Zum einen gibt es fertige Technik-Bausteine, die du einfach im Geschäft kaufen kannst. Dabei handelt es sich meist um einfache Smart Home Geräte oder Komponenten, die du überall kostengünstig kaufen kannst. Zum anderen gibt es spezielle Bausteine für den INTIA-Koffer. Diese wurden im INTIA-Projekt entwickelt und du kannst sie nachbauen.</p>
+<h2 id="intia-bausteine">INTIA-Bausteine</h2>
+<p>Die INTIA-Bausteine sind wichtige Komponenten, die es so in dieser Form nicht einfach zu kaufen gibt. Du kannst Sie aber relativ einfach nachbauen, wenn du etwas technische Vorkenntnisse besitzt. Du kannst diese Bausteine auch von Dienstleistern nachbauen lassen.</p>
+<h3 id="mini-computer">Mini-Computer</h3>
+<p>Der Mini-Computer verbindet die Bausteine miteinander. Er ist die digitale Steuerzentrale des INTIA-Koffers. Daher ist er zwingend notwendig für die Nutzung der anderen Bausteine.</p>
+<figure>
+<img src="/assets/img/tools/building_blocks/mini_computer.jpg" alt="Der Mini-Computer ist die digitale Steuerzentrale des INTIA-Koffers." class="content_image">
+<figcaption>Der Mini-Computer</figcaption>
+</figure>
+<p>Als Mini-Computer kommt dabei ein Raspberry Pi 4 zum Einsatz, auf dem eine spezielle INTIA-Konfiguration eingerichtet werden muss. Mit dieser Konfiguration lassen sich verschiedene andere Bausteine ansteuern, ohne dass eine Internetverbindung erforderlich ist.</p>
+<p>Die Entwicklung der Steuerung – also zum Beispiel das Einschalten einer Lampe durch einen Sensor – geschieht über eine visuelle Entwicklungsumgebung. Diese heißt Node-RED.</p>
+<h3 id="schatz-kiste">Schatz-Kiste</h3>
+<p>Die Schatz -Kiste ist ein spezieller Baustein, an dem sich viele Eingaben, Ausgaben und Steuerungen ausprobieren lassen.</p>
+<figure>
+<img src="/assets/img/tools/building_blocks/kiste_mit_motor.jpg" alt="Dank des Motors können die Kisten geöffnet und verschlossen werden." class="content_image">
+<figcaption>Die Kiste</figcaption>
+</figure>
+<p>Sie ist Teil eines Escape-Games, das sich ebenfalls im INTIA-Koffer befindet. Die einzelnen Rätsel des Escape-Games lassen dich die Möglichkeiten der Schatz-Kiste – und vor allem der digitalen Bausteine darin – entdecken. Die Schatz-Kiste ist also ein großer Baustein, der aus kleineren Bausteinen besteht.</p>
+<p>Die Schatz-Kiste besitzt zum Beispiel einen Motor. Der Motor kann gesteuert werden, um die Kiste zu öffnen oder zu verschließen. Du kannst zum Beispiel dein Handy darin einschließen, damit es dich nicht ablenkt</p>
+<h2 id="fertige-bausteine">Fertige Bausteine</h2>
+<p>Fertige Bausteine kannst du einfach im Geschäft kaufen. Dabei kann es sich um große oder kleine Bausteine handeln. Die Bausteine besitzen nützliche Eigenschaften oder Funktionalitäten. Einige Bausteine können zum Beispiel etwas starten. Zum Beispiel kann ein Knopf eine Lampe ein- oder ausschalten. Wenn es zu heiß im Raum wird, dann kann ein Temperatur-Sensor ebenfalls etwas starten, zum Beispiel den Ventilator.</p>
+<p>Andersherum gibt es dann auch Bausteine die gestartet, gestoppt oder gesteuert werden können. Ein Motor kann starten und stoppen. Eine Lampe kann ein oder ausgeschaltet werden. Musik kann lauter oder leiser eingestellt werden.</p>
+<p>Im Folgenden lernst du einige nützliche Bausteine kennen.</p>
+<h3 id="knpfe">Knöpfe</h3>
+<p>Mit Knöpfen kannst du andere Bausteine ansteuern. Es gibt viele Arten von Knöpfen - mit verschiedenen Funktionen. Einige Knopfe müssen nur leicht berührt werden. Andere Knöpfe müssen feste gedrückt werden. Manchmal reicht eine kurze Berührung, manchmal muss der Knopf lange gedrückt werden. Auch die Formen der Knöpfe können sehr unterschiedlich sein: groß, klein, weiß oder bunt.</p>
+<figure>
+<img src="/assets/img/tools/building_blocks/knopf.jpg" alt="Es gibt unterschiedliche Knöpfe. Mit diesem Knopf können Bausteine gesteuert werden." class="content_image">
+<figcaption>Ein Knopf</figcaption>
+</figure>
+<p>Es gibt unterschiedliche Knöpfe. Mit diesem Knopf können Bausteine gesteuert werden.</p>
+<h3 id="smarte-lampen">Smarte Lampen</h3>
+<p>Smarte Lampen haben verschiedene Fähigkeiten. Du kannst sie ein- oder ausschalten, heller oder dunkler werden lassen. Du kannst manchmal sogar die Farbe ändern. Diese Änderungen kannst du zum Beispiel durch einen Knopf auslösen.</p>
+<figure>
+<img src="/assets/img/tools/building_blocks/smarte_lampen.jpg" alt="Smarte Lampen können zum Beispiel mit einem Knopf bedient werden." class="content_image">
+<figcaption>Smarte Lampen</figcaption>
+</figure>
+<p>Smarte Lampen können zum Beispiel mit einem Knopf bedient werden.</p>
+<h3 id="sensoren">Sensoren</h3>
+<p>Sensoren nehmen etwas wahr. Ein Knopf ist eigentlich auch ein einfacher Sensor. Der Knopf nimmt deine Berührung etwa mit dem Finger, der Hand oder dem Fuß wahr.</p>
+<figure>
+<img src="/assets/img/tools/building_blocks/tuer_kontakt.jpg" alt="Sensoren können beispielsweise Bewegungen wahrnehmen." class="content_image">
+<figcaption>Ein Türkontakt, der eine smarte Lampe bedient.</figcaption>
+</figure>
+<p>Es gibt aber noch viele weitere interessante Momente in deiner Umgebung, die sich mit Sensoren wahrnehmen lassen. Zum Beispiel nimmt ein Türkontakt den Zustand einer Tür wahr: die Tür kann offen oder geschlossen sein. Wenn sich der Zustand ändert – du machst die Tür zu – dann ist das ein interessanter Augenblick. Vielleicht soll die Musik jetzt lauter spielen oder du möchtest andere Lampen einschalten? Das Schließen einer Tür kann solche Aktionen (Musiklautstärke verändern) auslösen – genauso wie ein Knopf dies auslösen kann.
+Ein Türkontakt, der eine smarte Lampe bedient.</p>
+<p>In Kürze werden wir hier noch mehr Bausteine und Verwendungsideen vorstellen.</p>
+
+                </div>
+            </div> 
+        </div> 
+        
+            <footer class="footer is-hidden-print is-primary">
+    
+    <div class="container columns is-centered is-multiline is-bordered-bottom">
+        <div class="navbar-brand column is-full">
+            <a href="/" class="columns navbar-item">
+                <img class="column" src="/assets/img/logo-white.png">
+                <p class="calumn brand-title"></p>
+            </a>
+        </div>
+        <div class="column is-2">
+            <div class="title">www.intia.de</div>
+                TH-Köln | DITES<br>
+                Campus Südstadt<br>
+                Ubierring 48<br>
+                50678 Köln
+
+        </div>
+        
+        <div class="column ">
+            <div class="title">Site Map</div>
+            <div class="columns footer-nav">
+                
+                    <div class="column">
+                        <a href="" class="link"><strong>Über</strong></a>
+                        
+                        <div class="">
+                            
+                            <div class="">
+                                <a href="/ueber/plattform" class="link">Plattform</a>
+                            </div>
+                            
+                            <div class="">
+                                <a href="/ueber/projekt/" class="link">Projekt</a>
+                            </div>
+                            
+                            <div class="">
+                                <a href="/ueber/barrierearm/" class="link">Barrierearm</a>
+                            </div>
+                            
+                        </div>                                            
+                    
+                    </div>
+                
+                    <div class="column">
+                        <a href="" class="link"><strong>INTIA-Koffer</strong></a>
+                        
+                        <div class="">
+                            
+                            <div class="">
+                                <a href="/intia-koffer/" class="link">Über</a>
+                            </div>
+                            
+                        </div>                                            
+                    
+                    </div>
+                
+                    <div class="column">
+                        <a href="" class="link"><strong>Werkzeuge</strong></a>
+                        
+                        <div class="">
+                            
+                            <div class="">
+                                <a href="/werkzeuge/bausteine/" class="link">Bausteine</a>
+                            </div>
+                            
+                            <div class="">
+                                <a href="/werkzeuge/methoden/" class="link">Methoden</a>
+                            </div>
+                            
+                        </div>                                            
+                    
+                    </div>
+                
+                    <div class="column">
+                        <a href="" class="link"><strong>Wissen</strong></a>
+                        
+                        <div class="">
+                            
+                            <div class="">
+                                <a href="/wissen/woerterbuch/" class="link">Wörterbuch</a>
+                            </div>
+                            
+                            <div class="">
+                                <a href="/wissen/publikationen/" class="link">Publikationen</a>
+                            </div>
+                            
+                        </div>                                            
+                    
+                    </div>
+                
+                    <div class="column">
+                        <a href="" class="link"><strong>Aktuelles</strong></a>
+                        
+                        <div class="">
+                            
+                            <div class="">
+                                <a href="/blog/" class="link">Blog</a>
+                            </div>
+                            
+                        </div>                                            
+                    
+                    </div>
+                
+                    <div class="column">
+                        <a href="" class="link"><strong>Mitmachen</strong></a>
+                        
+                        <div class="">
+                            
+                            <div class="">
+                                <a href="/mitmachen/netzwerk/" class="link">Netzwerk</a>
+                            </div>
+                            
+                            <div class="">
+                                <a href="/mitmachen/kontakt/" class="link">Kontakt</a>
+                            </div>
+                            
+                        </div>                                            
+                    
+                    </div>
+                
+            </div>
+        </div>
+        
+        
+        <div class="column is-2">
+            <div class="title">Rechtliches</div>
+            <div class="">
+                
+                <div class="">
+                    <div>
+                        <a href="/about/" class="link">Über die Plattform</a>
+                    </div>
+                </div>
+                
+                <div class="">
+                    <div>
+                        <a href="https://www.th-koeln.de/hochschule/impressum_8159.php" class="link" target="_blank" rel="noopener noreferrer">Impressum</a>
+                    </div>
+                </div>
+                
+                <div class="">
+                    <div>
+                        <a href="https://www.th-koeln.de/hochschule/haftungshinweis_8277.php" class="link" target="_blank" rel="noopener noreferrer">Haftungshinweis</a>
+                    </div>
+                </div>
+                
+                <div class="">
+                    <div>
+                        <a href="https://www.th-koeln.de/hochschule/datenschutzhinweis_8279.php" class="link" target="_blank" rel="noopener noreferrer">Datenschutzhinweis</a>
+                    </div>
+                </div>
+                
+            </div>
+        </div>
+        
+    </div>
+        <div class="columns content is-small has-text-centered footer-logos">
+            <div class="column has-text-right"><div class="page-owner">
+                <p class="has-text-left">Eine Seite von</p>
+                <img src="/assets/img/logos/INTIA_Plattform_Logos_TH_weiss.png">
+                <img src="/assets/img/logos/INTIA_Plattform_Logos_Dites_weiss.png">
+            </div></div>
+            <div class="column has-text-left"><div class="page-sponsor">                
+                <img class="footer-logo-2" src="/assets/img/logos/BMBF_logo.jpg">
+            </div></div>
+        </div>
+        <div class="content is-small has-text-centered">
+            <p class="">INTIA, 2021</p>
+        </div>
+    
+</footer>
+
+        
+    </body>
+</html>
