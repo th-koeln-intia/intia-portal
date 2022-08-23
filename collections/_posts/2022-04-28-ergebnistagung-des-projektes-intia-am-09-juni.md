@@ -2,7 +2,7 @@
 hero_tags: subpage post pdf
 title_above: Aktuelles
 published: true
-title: "Ergebnistagung des Projektes INTIA am 09. Juni "
+title: "Ergebnistagung des Projektes INTIA am 09. Juni 2022 "
 author: Carola Janda, Miriam Hafki
 hero_image: /assets/img/uploads/intia_abschlusstagung_neuigkeiten_visual.jpg
 preview_image: /assets/img/uploads/intia_abschlusstagung_neuigkeiten_visual.jpg
@@ -12,8 +12,6 @@ subtitle: "Das interdisziplinäre Projekt-Team lädt zur virtuellen Ergebnistagu
 <!--StartFragment-->
 
 Von 2019 bis 2023 bekommt das Forschungsprojekt INTIA vom Bundesministerium für Bildung und Forschung Fördergelder, um im Rahmen des Projektes zu Partizipation und Inklusion in der Technikentwicklung mit vulnerablen Gruppen zu forschen. Gemeinsam mit Jugendlichen entwickelt das Team der TH Köln technische oder digitale Hilfen für den Alltag der Jugendlichen.
-
-Dabei stand das interdisziplinäre Team wegen der Corona Pandemie vor besonderen Herausforderungen. Geplante Projektarbeiten konnten zwar nicht so durchgeführt werden, wie zunächst gedacht, allerdings ist das Team kreativ geworden und hat neue Wege der gemeinsamen Arbeit mit den Jugendlichen ergründet.
 
 ### Arbeiten im interdisziplinären Team 
 
@@ -27,7 +25,7 @@ Sie forschen zu inklusivem Arbeiten in Technikprozessen und möchten Methoden ke
 
 Am **Donnerstag 09.06.2022 von 09:00 Uhr bis 13:30 Uhr** laden wir Sie herzlich zur **virtuellen Ergebnistagung** zur Diskussion dieser Fragen ein.
 
-![Am 09. Juni findet die Ergebnistagung des Projektes INTIA statt.](/assets/img/uploads/intia_abschlusstagung_neuigkeiten_visual.jpg "Die virtuelle Ergebnistagung des Projektes INTIA findet am 09. Juni 2022 statt.")
+![Am 09. Juni 2022 findet die Ergebnistagung des Projektes INTIA statt.](/assets/img/uploads/intia_abschlusstagung_neuigkeiten_visual.jpg "Die virtuelle Ergebnistagung des Projektes INTIA findet am 09. Juni 2022 statt.")
 
 Das interdisziplinäre Team des Forschungsprojektes INTIA – „Inklusive Entwicklung von Methoden und Technologien für digitale Hilfen zur Alltagsbewältigung in der Behinderten- und Erziehungshilfe“, gefördert durch das Bundesministerium für Bildung und Forschung (BMBF), stellt gegen Ende des Projekts die Ergebnisse vor und lädt zu einer offenen Diskussion über den theoretischen Forschungsrahmen, Praxisbezüge sowie nachhaltige Anschlussperspektiven ein.
 
