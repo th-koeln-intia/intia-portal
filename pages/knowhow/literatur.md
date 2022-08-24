@@ -5,28 +5,30 @@ jekyll-hyperlink-glossary: false
 title: Literatur
 hero_tags: toppage
 subtitle: >
-  Hier befindet sich eine Literaturrecherche zu partizipativer Technologieentwicklung mit vulnerablen Jugendlichen. Diese Recherche bietet einen Überblick über (weiterführende) Literatur entlang von Zeitschriftenartikel. Die Tabellen sind nach Kategorien oder nach Zeitschriften geordnet.
+  Hier befindet sich eine Literaturrecherche zu partizipativer Technologieentwicklung mit Jugendlichen in jugendbezogenen Behinderten- und Erziehungshilfen.
 ---
 
 ## Literaturreview zu partizipativer Technologieentwicklung in der Behinderten- und Erziehungshilfe im Kontext Sozialer Arbeit
 
+Diese Recherche folgt methodisch einem definierten Korpus der relevanten (überwiegend deutschsprachigen) wissenschaftlichen Fachzeitschriften Sozialer Arbeit zwischen 1994 und Mai 2020. Durchsucht wurden jene Fachzeitschriften, die sich mit Themengebieten angrenzend zum Handlungsfeld befassen: die Thematik der Jugend(hilfe), Medien, Technologie oder Digitalisierung. Die tabellarische Darstellung bildet damit die Ergebnisse eines systematischen Literaturreviews ab, der in Soziale Passagen mit dem Titel 'Literaturreview zu partizipativer Technologieentwicklung in der Behinderten- und Erziehungshilfe im Kontext Sozialer Arbeit' veröffentlicht wird.
+
 <table class="tb">
-    <caption>Tabelle 1: Kategorisierte Darstellung der Ergebnistreffer</caption>
+    <caption><h4>Tabelle 1: Kategorisierte Darstellung der Ergebnistreffer</h4></caption>
     <tr>
         <th>Oberkategorien</th>
         <th>Subkategorien</th>
-        <th>Anzahl </th>
+        <th>Anzahl</th>
         <th>Literatur</th>
     </tr>
     <tr>
-       <td>PartizipativeForschung (27)</td>
-       <td>Partizipativen Forschung mit Kindern und Jugendlichen mit Behinderung</td>
+       <td>Partizipative Forschung (27)</td>
+       <td>partizipative Forschung mit Kindern und Jugendlichen mit Behinderung</td>
        <td>14</td>
        <td>Borch und Strandbakken 2019; Keeley et al. 2019; Rix et al. 2019; Tran und Brodersen 2019; Voss et al. 2019; Daniel 2018; Gaupp et al. 2018; Niediek 2015; Goeke und Kubanski 2012; Raja et al. 2012; Allsop et al. 2011; Buchner et al. 2011; Jerg und Goeke 2011; Deepak et al. 2011</td>
     </tr>
     <tr>
        <td></td>
-       <td>partizipativer Jugendforschung</td>
+       <td>partizipative Jugendforschung</td>
        <td>7</td>
        <td>Rosenbaum et al. 2017; Mackrill et al. 2015; Dentith et al. 2012; McCartan et al. 2012; Hill 1997; Lewek 2016; Ertelt 2014</td>
     </tr>
@@ -37,14 +39,14 @@ subtitle: >
        <td>Bruland et al. 2019; Tlale und Romm 2019; Bergold und Thomas 2012; Unger 2012; Olitsky und Weathers 2005; Goff 2001</td>
     </tr>
     <tr>
-       <td>Assistenztechnologien (56)</td>
+       <td>Assistenztechnologien (55)</td>
        <td>technologische Lernunterstützung</td>
        <td>18</td>
        <td>Nordström et al. 2019; Myrtil et al. 2018; Encarnação et al. 2017; Kirby 2017; Nepo 2017; Nobel und Grünke 2017; Hauck-Thum 2015; Hayhoe et al. 2015; McDowell 2015; Passey 2015; Hintz 2014; Pfeffer-Hoffmann 2013; Unterfrauner et al. 2011; Berger und Marbach 2009; Schwier 2009; Schelhowe 2006; Burgstahler 2003; Kavanaugh et al. 2019</td>
     </tr>
     <tr>
        <td></td>
-       <td>Für Menschen mit Behinderungen</td>
+       <td>für Menschen mit Behinderungen</td>
        <td>16</td>
        <td>Jamwal et al. 2020; Ripat et al. 2020; Pedersen et al. 2019; Behrendt 2018; da Silva et al. 2018; Gjessing et al. 2018; Taherian und Davies 2017; Munde 2017; Darcy et al. 2016; Levasseur et al. 2016; Walters et al. 2015; Bryant et al. 2012; Getz 2012; Borg et al. 2011; Söderström und Ytterhus 2010; Bouck et al. 2007</td>
     </tr>
@@ -92,8 +94,9 @@ subtitle: >
     </tr>
 </table>
 <br/>
+<br/>
 <table class="tb">
-    <caption>Tabelle 2: Darstellung der Ergebnistreffer nach Zeitschrift in Kategorien</caption>
+    <caption><h4>Tabelle 2: Darstellung der Ergebnistreffer nach Zeitschrift in Kategorien</h4></caption>
     <tr>
         <th>Zeitschrift</th>
         <th>Ober- und Subkategorien</th>
@@ -127,7 +130,7 @@ subtitle: >
     </tr>
      <tr>
        <td>Forum Qualitative Sozialforschung</td>
-       <td>Partizipative Forschung (8) – 0 zu partizipative Technikentwicklung, Erhebungsmethoden (2)</td>
+       <td>Partizipative Forschung (8); Erhebungsmethoden (2)</td>
        <td>10</td>
        <td>Tlale und Romm 2019; Dentith et al. 2012; Goff 2001; McCartan et al. 2012; Olitsky und Weathers 2005; Unger 2012; Bergold und Thomas 2012; Goeke und Kubanski 2012; Schöne 2003; Witzel 2000</td>
     </tr>
@@ -157,13 +160,13 @@ subtitle: >
     </tr>
      <tr>
        <td>Orientierung - Fachzeitschrift der Behindertenhilfe</td>
-       <td>Inklusion (1), Assistive Technologien (1)</td>
+       <td>Inklusion (1); Assistive Technologien (1)</td>
        <td>2</td>
        <td>Graumann 2019; Henne und Wienberg 2015</td>
     </tr>
      <tr>
        <td>Soziale Arbeit Zeitschrift für soziale und sozialverwandte Gebiete</td>
-       <td>soziale Robotik (1), Digital Divide (1), Digitalisierung & Soz. Arbeit (1)</td>
+       <td>soziale Robotik (1); Digital Divide (1); Digitalisierung & Soz. Arbeit (1)</td>
        <td>3</td>
        <td>Lenz et al. 2019; Goegercin 2001; Geyer 2018</td>
     </tr>
@@ -187,25 +190,25 @@ subtitle: >
     </tr>
      <tr>
        <td>Zeitschrift für Inklusion</td>
-       <td>Inklusion(-stheorie) (2), Assistenztechnologie für Menschen m. Behinderung (1), Vulnerabilität (1), Theorie-/Praxis Transfer (1), Partizipative Forschung (3) 0 zu partizipative Tech.entwicklung, Methodik (2)</td>
+       <td>Inklusion(-stheorie) (2); Assistenztechnologie für Menschen mit Behinderung (1); Vulnerabilität (1); Theorie-/Praxis Transfer (1); Partizipative Forschung (3); Methodik (1)</td>
        <td>9</td>
        <td>Boger 2017; Behrendt 2018; Trescher und Hauck 2017; Dederich 2020; Hetzel 2013; Niediek 2015; Tran und Brodersen 2019; Seifert 2006; Gaupp et al. 2018 </td>
     </tr>
      <tr>
        <td>British Journal of Social Work</td>
-       <td>Assistenztechnologien für Ältere (3), Digital Divide (2), Kommunikationstechnologie in der Heimerziehung (1)</td>
+       <td>Assistenztechnologien für Ältere (3); Digital Divide (2); Kommunikationstechnologie in der Heimerziehung (1)</td>
        <td>6</td>
        <td>Allen und Glasby 2013; Landau et al. 2009; Steyaert und Gould 2009; Wong et al. 2009; Dodsworth et al. 2013; Blaschke et al. 2009</td>
     </tr>
      <tr>
        <td>Social Work Today</td>
-       <td>Mediennutzung von Jugendlichen (1)/Älterer (1), Assistenztechnologien (2)/für Behinderte (1)/vulnerable Gruppen (1) Digital Divide (1)</td>
+       <td>Mediennutzung von Jugendlichen (1); Mediennutzung von Älteren (1); Assistenztechnologien (2); für Menschen mit Behinderung (1); für vulnerable Gruppen (1); Digital Divide (1)</td>
        <td>7</td>
        <td>Getz 2019, 2018, 2014, 2012; Jones und Hitchcock 2019; Walters et al. 2015; Coyle 2015</td>
     </tr>
      <tr>
        <td>Child & Family Social Work</td>
-       <td>Assistenztechnologien (1), partizipative Forschung mit Kindern (1) – 0 zu partizipative Tech.entwicklung</td>
+       <td>Assistenztechnologien (1); partizipative Forschung mit Kindern (1)</td>
        <td>2</td>
        <td>Hammond und Cooper 2014; Hill 1997</td>
     </tr>
@@ -217,7 +220,7 @@ subtitle: >
     </tr>
      <tr>
        <td>Advances in Social Work</td>
-       <td>Technologie & Soz. Arbeit (5), Ethik & Technologie (1), Technologie & Behinderung (1), Soz. Arbeit & Vulnerable Gruppen (1), Partizip. Forschung (1) – partizip. Technikentwicklung, Inklusion (1)</td>
+       <td>Advances in Social Work	Technologie & Soz. Arbeit (5); Ethik & Technologie (1); Technologie & Behinderung (1); Soz. Arbeit & Vulnerable Gruppen (1); Partizipative  Forschung (1); Inklusion (1)</td>
        <td>10</td>
        <td>Bullock und Colvin 2015; Dolinsky und Helbig 2015; Gillingham 2015; Molin et al. 2017; Bowles und Hopps 2014; Fitch 2015; Lee und Walsh 2015; Mackrill et al. 2015; Patchner 2005; Perron et al. 2010</td>
     </tr>
@@ -229,19 +232,19 @@ subtitle: >
     </tr>
      <tr>
        <td>Journal of Human Services</td>
-       <td>Soz. Arbeit & Technologie (1), Assistenztechnologien (1)</td>
+       <td>Soz. Arbeit & Technologie (1); Assistenztechnologien (1)</td>
        <td>2</td>
        <td>Goldkind et al. 2016; Vanderheiden 2007</td>
     </tr>
      <tr>
        <td>Disability and Rehabilitation: Assistive Technology</td>
-       <td>Assistenztechnologien (5)/für Ältere (3)/für Partizipation (1)/für Lernuntersützung (2)/für Menschen mit Behinderung (8); Partizipative Technikentwicklung – mit Kindern in der Schule (1)</td>
+       <td>Assistenztechnologien (5); für Ältere (3); für Partizipation (1); für Lernuntersützung (2); für Menschen mit Behinderung (8); Partizipative Technikentwicklung mit Kindern in der Schule (1)</td>
        <td>2</td>
        <td>Abbott et al. 2014; Brandt et al. 2011; Jamwal et al. 2020; Jamwal et al. 2018; Mortenson et al. 2018; Nordström et al. 2019; Smith et al. 2018; Taherian und Davies 2017; Winberg et al. 2019; Witte et al. 2018; Gjessing et al. 2018; Allsop et al. 2011; da Silva et al. 2018; Encarnação et al. 2017; Levasseur et al. 2016; MacLachlan und Scherer 2018; Pedersen et al. 2019; Ripat et al. 2020; Tsertsidis 2020</td>
     </tr>
     <tr>
         <td>Disability & Society</td>
-        <td>Assistive Technologien &Menschen m. Behinderung (3) Partizipative Forschung m. Menschen m. Behinderung (1) Digital Divide (1)</td>
+        <td>Assistive Technologien & Menschen mit Behinderung (3); Partizipative Forschung mit Menschen mit Behinderung (1); Digital Divide (1)</td>
         <td>5</td>
         <td>Darcy et al. 2016; Pedersen et al. 2019; Borg et al. 2011; Macdonald und Clayton 2013; Rix et al. 2019</td>
     </tr>
@@ -253,37 +256,37 @@ subtitle: >
     </tr>
      <tr>
         <td>Special Education Technology</td>
-        <td>Assistive Technologien für Jugendliche m. Behinderung (2)/als Lernunterstützung (1)</td>
+        <td>Assistive Technologien für Jugendliche mit Behinderung (2); als Lernunterstützung (1)</td>
         <td>3</td>
         <td>Bouck et al. 2007; Burgstahler 2003; Bryant et al. 2012</td>
     </tr>
      <tr>
         <td>Behinderung und internationale Entwicklung</td>
-        <td>Inklusive/Partizipative Forschung (3) – 0 zu partizipativer Technikentwicklung, Digitale Partizipation (1)</td>
+        <td>Inklusive/Partizipative Forschung (3); Digitale Partizipation (1)</td>
         <td>4</td>
         <td>Raja et al. 2012; Gould et al. 2014; Daniel 2018; Deepak et al. 2011</td>
     </tr>
      <tr>
         <td>Social Inclusion</td>
-        <td>Autonomie durch digitale Technologien (1), Partizipative Technikentwicklung m. Menschen m. Behinderung (1), Assistive Technologie als Lernunterstützung (3)</td>
+        <td>Autonomie durch digitale Technologien (1); Partizipative Technikentwicklung mit Menschen mit Behinderung (1); Assistive Technologie als Lernunterstützung (3)</td>
         <td>5</td>
         <td>Parsons 2015; Borch und Strandbakken 2019; Hayhoe et al. 2015; McDowell 2015; Passey 2015</td>
     </tr>
      <tr>
         <td>Sozial Extra</td>
-        <td>Digitalisierung in der Sozialen Arbeit (1), Mediennutzung (2), Partizipative Jugendforschung (2), Handlungsweisen für Medienkompetenz (2), mediatisierte Lebenswelten (3)</td>
+        <td>Digitalisierung in der Soz. Arbeit (1); Mediennutzung (2); Partizipative Jugendforschung (2); Handlungsweisen für Medienkompetenz (2); mediatisierte Lebenswelten (3)</td>
         <td>10</td>
         <td>Kutscher 2018; Lewek 2016; Bader 2012; Ertelt 2012; Alfert 2014; Helbig 2018; Roeske 2018; Ley und Seelmeyer 2018: Kutscher 2014; Witzel 2014</td>
     </tr>
      <tr>
         <td>Fachzeitschrift Teilhabe</td>
-        <td>Partizipative Forschung (5) - 0 zu partizipativer Technikentwicklung Inklusive Evaluationsmethodik (2) Assistenztechnologie (1) Ethische Reflexion & Digitalisierung in Bezug auf beeinträchtigte Menschen (1) ICF (1) Digitale Teilhabe (2)</td>
+        <td>Partizipative Forschung (5); Inklusive Evaluationsmethodik (2); Assistenztechnologie (1); Ethische Reflexion & Digitalisierung in Bezug auf beeinträchtigte Menschen (1); ICF (1); Digitale Teilhabe (2)</td>
         <td>11</td>
         <td>Henne 2019; Reichstein 2016; Bruland et al. 2019; Buchner et al. 2011; Keeley et al. 2019; Jerg und Goeke 2011; Krach 2011; Hirschberg 2012; Munde 2017; Rohleder 2017; Voss et al. 2019</td>
     </tr>
      <tr>
         <td>Pflege & Gesellschaft</td>
-        <td>Technische Assistenz in der Pflege (2) – für Personen mit Demenz (1) Vulnerabilität (1)</td>
+        <td>Technische Assistenz in der Pflege (2); für Personen mit Demenz (1); Vulnerabilität (1)</td>
         <td>4</td>
         <td>Weber 2017; Schrems 2017; Beer et al. 2015; Fehling 2019</td>
     </tr>
