@@ -58,7 +58,7 @@ Diese Recherche folgt methodisch einem definierten Korpus der relevanten (überw
     </tr>
     <tr>
        <td></td>
-       <td>für ältere Menscheng</td>
+       <td>für ältere Menschen</td>
        <td>10</td>
        <td>Tsertsidis 2020; Fehling 2019; Winberg et al. 2019; Getz 2018; Mortenson et al. 2018; Weber 2017; Beer et al. 2015; Allen und Glasby 2013; Blaschke et al. 2009; Landau et al. 2009</td>
     </tr>
@@ -148,7 +148,7 @@ Diese Recherche folgt methodisch einem definierten Korpus der relevanten (überw
     </tr>
      <tr>
        <td>Medien + Erziehung</td>
-       <td>Medienkompetenz (für benachteiligte Gruppen) (4); davon (2) zu Lernunterstützung m. digitalen Tech., Partizipative Medienentwicklung (1) </td>
+       <td>Medienkompetenz (für benachteiligte Gruppen) (4); zu Lernunterstützung mit digitalen Technologien (2)</td>
        <td>6</td>
        <td>Bosse et al. 2019; Müller und Fleischer 2013; Pfeffer-Hoffmann 2013; Schmoelz und König 2016; Hauck-Thum 2015; Rosenbaum et al. 2017</td>
     </tr>
