@@ -238,8 +238,8 @@ Diese Recherche folgt methodisch einem definierten Korpus der relevanten (überw
     </tr>
      <tr>
        <td>Disability and Rehabilitation: Assistive Technology</td>
-       <td>Assistenztechnologien (5); für Ältere (3); für Partizipation (1); für Lernuntersützung (2); für Menschen mit Behinderung (8); Partizipative Technikentwicklung mit Kindern in der Schule (1)</td>
-       <td>2</td>
+       <td>Assistenztechnologien (5); für Ältere (3); für Partizipation (1); für Lernuntersützung (2); für Menschen mit Behinderung (8)</td>
+       <td>19</td>
        <td>Abbott et al. 2014; Brandt et al. 2011; Jamwal et al. 2020; Jamwal et al. 2018; Mortenson et al. 2018; Nordström et al. 2019; Smith et al. 2018; Taherian und Davies 2017; Winberg et al. 2019; Witte et al. 2018; Gjessing et al. 2018; Allsop et al. 2011; da Silva et al. 2018; Encarnação et al. 2017; Levasseur et al. 2016; MacLachlan und Scherer 2018; Pedersen et al. 2019; Ripat et al. 2020; Tsertsidis 2020</td>
     </tr>
     <tr>
@@ -280,7 +280,7 @@ Diese Recherche folgt methodisch einem definierten Korpus der relevanten (überw
     </tr>
      <tr>
         <td>Fachzeitschrift Teilhabe</td>
-        <td>Partizipative Forschung (5); Inklusive Evaluationsmethodik (2); Assistenztechnologie (1); Ethische Reflexion & Digitalisierung in Bezug auf beeinträchtigte Menschen (1); ICF (1); Digitale Teilhabe (2)</td>
+        <td>Partizipative Forschung (5); Inklusive Evaluationsmethodik (2); Assistenztechnologie (1); Ethische Reflexion & Digitalisierung in Bezug auf beeinträchtigte Menschen (1); Digitale Teilhabe (2)</td>
         <td>11</td>
         <td>Henne 2019; Reichstein 2016; Bruland et al. 2019; Buchner et al. 2011; Keeley et al. 2019; Jerg und Goeke 2011; Krach 2011; Hirschberg 2012; Munde 2017; Rohleder 2017; Voss et al. 2019</td>
     </tr>
@@ -292,11 +292,9 @@ Diese Recherche folgt methodisch einem definierten Korpus der relevanten (überw
     </tr>
 </table>
 
-## Quellenverzeichnis
+## Literaturverzeichnis
 
 Abbott, C., Brown, D., Evett, L., & Standen, P. (2014). Emerging issues and current trends in assistive technology use 2007-2010: practising, assisting and enabling learning for all. Disability and rehabilitation. Assistive technology, 9(6), 453–462. <br/>
-
-Ackermann, T. (2020a). Digitalisierung in der Kinder- und Jugendhilfe und im Kinderschutz. Von Risikoeinschätzungsbögen über Fallbearbeitungssoftware bis zu Big Data. Soziale Passagen, 12(1), 171–177. <br/>
 
 Akiva, T., Li, J., Martin, K.M., Horner, C.G., & McNamara, A.R. (2017). Simple Interactions: Piloting a Strengths-Based and Interaction-Based Professional Development Intervention for Out-of-School Time Programs. Child & Youth Care Forum, 46(3), 285–305. <br/>
 
@@ -393,8 +391,6 @@ Ertelt, J. (2012). Mehr Beteiligung realisieren durch digitale Medien und Intern
 
 Fehling, P. (2019). Entwicklungsstand der gegenwärtigen und künftigen technischen Assistenzsysteme. Pflege & Gesellschaft, 24(3), 197–205. <br/>
 
-Feyer, J., Kochskämper, D., Müller, T., Rusack, T., Schilling, C., Schröer, W., et al. (2020). Digitalisierung in der stationären Kinder- und Jugendhilfe – nicht nur in Zeiten der COVID-19-Pandemie. UVH - Universitätsverlag Hildesheim. <br/>
-
 Fitch, D. (2015). A Conceptual Framework for Information Technology in Social Work Practice. Advances in Social Work, 16(1), 15–30. <br/>
 
 Flores, J. Z., Cassard, E., Christ, C., Laayssel, N., Geneviève, G., Vaucresson, J.-B. de, Coutant, R., Granger, J. P. & Radoux, J.-P. (2018). Assistive Technology App to Help Children and Young People with Intellectual Disabilities to Improve Autonomy for Using Public Transport. In K. Miesenberger & G. Kouroupetroglou (Hrsg.), Computers Helping People with Special Needs. 16th International Conference, ICCHP 2018, Proceedings, Part I . Cham: Springer International Publishing, 495-498. <br/>
@@ -488,9 +484,6 @@ Kutscher, N. (2014). Apps, Facebook, Onlineberatung…. Sozial Extra 38, 39–41
 
 Kutscher, N. (2018). Digital und professionell!? Sozial Extra, 42(3), 6-7. <br/>
 
-Kutscher, N./Ley, T./Seelmeyer, U./Siller, F./Tillmann, A./Zorn, I. (Hrsg.): Handbuch Soziale Arbeit und Digitalisierung. Beltz/Juventa: Weinheim
-Kutscher, N./Siller, F. (2020): Digitalisierung in verschiedenen Handlungsfeldern Sozialer Arbeit. In: Kutscher, N./Ley, T./Seelmeyer, U./Siller, F./Tillmann, A./Zorn, I. (Hrsg.): Handbuch Soziale Arbeit und Digitalisierung. Beltz/Juventa: Weinheim, 440-441. <br/>
-
 Lambert, M.C., Hurley, K.D., Tomlinson, M.M.A., & Stevens, A.L. (2013). Measurement Properties of the Motivation for Youth Treatment Scale with a Residential Group Home Population. Child & Youth Care Forum, 42(6), 555–570. <br/>
 
 Lambert, M.C., Trout, A.L., Nelson, T.D., Epstein, M.H., & W. Thompson, R. (2016). Medical Service Utilization Among Youth with School-Identified Disabilities in Residential Care. Child & Youth Care Forum, 45(2), 315–327. <br/>
@@ -520,8 +513,6 @@ Marx, M. (2007). "Mein Betriebspraktikumsplatz" - Vorbereitende Berufskunde als 
 McCartan, C., Schubotz, D., & Murphy, J. (2012). The Self-Conscious Researcher—Post-Modern Perspectives of Participatory Research with Young People. Forum Qualitative Sozialforschung, 13(1), Art. 9. <br/>
 
 McDowell, J. (2015). A Black Swan in a Sea of White Noise: Using Technology-Enhanced Learning to Afford Educational Inclusivity for Learners with Asperger’s Syndrome. Social Inclusion, 3(6), 7–15. <br/>
-
-Miesenberger, K., Kouroupetroglou, G., Mavrou, K., Manduchi, R., Covarrubias Rodriguez, M. & Penáz, P. (Hrsg.). (2022). Computers helping people wit special needs. 18th international (Lecture Notes in Computer Science). Cham, Switzerland: Springer Nature. <br/>
 
 Miot, W. (1995). "Wir machen ja alles echt" - Aktive Medienarbeit mit Schülerinnen und Schülern der Schule für Lernhilfe. Behindertenpädagogik(3), 314–321. <br/>
 
@@ -584,9 +575,6 @@ Schöne, H. (2003). Die teilnehmende Beobachtung als Datenerhebungsmethode in de
 
 Schrems, B.M. (2017). Vulnerabilität im Kontext der Pflegeforschung. Ein Essay. Pflege & Gesellschaft, 22(4), 308–321. <br/>
 
-Schrödter, M., Bastian, P., Taylor, B. (2020). Risikodiagnostik und Big Data Analytics
-in der Sozialen Arbeit. In: Kutscher, N./Ley, T./Seelmeyer, U./Siller, F./Tillmann, A./Zorn, I. (Hrsg.): Handbuch Soziale Arbeit und Digitalisierung. Beltz/Juventa: Weinheimm, 440-441. <br/>
-
 Schwier, B. (2009). Unterricht mit digitalen Medien an Förderschulen. Ergebnisse einer Untersuchung vor dem Hintergrund der Anbindung sonderpädagogischer Forschung an die unterrichtliche Praxis. Empirische Sonderpädagogik(2), 5–17. <br/>
 
 Seifert, M. (2006). Lebensqualität von Menschen mit schweren Behinderungen Forschungsmethodischer Zugang und Forschungsergebnisse. Zeitschrift für Inklusion(2), https://www.inklusion-online.net/index.php/inklusion-online/article/view/186/186. <br/>
@@ -612,8 +600,6 @@ Theunissen, G. (2002). Empowerment und Qualitätsentwicklung - Impulse für die 
 Tillmann, A. (2017). Der Wandel von Kinder- und Jugendarbeit im Zeitalter der Digitalisierung. Thema Jugend(3), 7–9. <br/>
 
 Tillmann, A. (2018). Erziehungshilfen im Kontext der Digitalisierung: Herausforderungen und Aufgaben. Forum Erziehungshilfen(3), 135–140. <br/>
-
-Tillmann, A./Weßel. A. (2021): Digitalisierung in der stationären Kinder- und Jugendhilfe – zur Relevanz von digitalen Medien und Medienbildung in einem vernachlässigten Bildungskontext. In: Wunder, M. (Hrsg.): Digitalisierung und Soziale Arbeit – Transformationen, Beharrungen, Herausforderungen. Klinkhardt-Verlag, Bad Heilbrunn 2021, 229-239. <br/>
 
 Tlale, L.D.N., & Romm, N.R.A. (2019). Duoethnographic Storying Around Involvements in, and Extension of the Meanings of, Engaged Qualitative Research. Forum Qualitative Sozialforschung, 20(1), Art. 7. <br/>
 
