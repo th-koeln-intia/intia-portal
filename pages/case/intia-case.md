@@ -45,12 +45,12 @@ Die Werkzeuge und Methoden des Koffers fördern den kreativen und spielerischen 
 <div class="columns is-centered is-desktop">
 <div class="column is-offset-1">
 <figure>
-  <img src="/assets/img/intia-case/intia-case-2.jpg" alt="Zettel mit technischen Begriffen liegen auf einem Tisch. Dort steht auch ein Bügeleisen." style="height:350px;">
+  <img src="/assets/img/intia-case/intia-case-3.jpg" alt="Zettel mit technischen Begriffen liegen auf einem Tisch. Dort steht auch ein Bügeleisen." style="height:350px;">
 </figure>
 </div>
 <div class="column">
 <figure>
-  <img src="/assets/img/intia-case/intia-case-1.jpg" alt="Zettel mit technischen Begriffen liegen auf einem Tisch. Dort steht auch ein Bügeleisen." style="height:350px;">
+  <img src="/assets/img/intia-case/intia-case-4.jpg" alt="Zettel mit technischen Begriffen liegen auf einem Tisch. Dort steht auch ein Bügeleisen." style="height:350px;">
 </figure>
 </div>
 </div>
