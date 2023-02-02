@@ -14,11 +14,11 @@ subtitle: >
 ## Wissenschaftliche Veröffentlichungen
 
 Schmidt, Marc; Bente, Stefan; Baruque Zanón, Bruno; Lara Palma, Ana María (2023, eingereicht):\
-**The Method Radar: a way to organize methods for technology development with participation in mind**
+**The Method Radar: a way to organize methods for technology development with participation in mind**\
 In Behaviour & Information Technology.
 
 Mildenberger, Tabea; Schmier, Alena; Zorn, Isabel (2022):\
-**Literaturreview zu partizipativer Technologieentwicklung in der Behinderten- und Erziehungshilfe im Kontext Sozialer Arbeit**
+**Literaturreview zu partizipativer Technologieentwicklung in der Behinderten- und Erziehungshilfe im Kontext Sozialer Arbeit**\
 In Soziale Passagen 2/2022. https://link.springer.com/article/10.1007/s12592-022-00439-z.
 
 Zorn, Isabel; Bente, Stefan; Kohls, Christian; Mager, Birgit (2022): \
@@ -164,15 +164,15 @@ Vortrag im Forschungsforum der Fakultät für Angewandte Sozialwissenschaften, T
 ## Abschluss- und Projektarbeiten
 
 Wehn, Finn (2023):\
-**Skillsystem**
+**Skillsystem**\
 Praxisprojekt Technische Hochschule Köln. Betreut von Dennis Wilk , Marc Schmidt & Prof. Dr. Christian Kohls. Köln.
 
 Johannsen, Sophia (2023):\
-**To be filled**
+**To be filled**\
 Praxisprojekt Technische Hochschule Köln. Betreut von Dennis Wilk , Marc Schmidt & Prof. Dr. Stefan Bente. Köln.
 
 Iyawe, George (2023):\
-**Digital Prototyping - Plattform zur kollaborativen Darstellung von technischen Intentionen**
+**Digital Prototyping - Plattform zur kollaborativen Darstellung von technischen Intentionen**\
 Praxisprojekt Technische Hochschule Köln. Betreut von Dennis Wilk , Marc Schmidt & Prof. Dr. Christian Kohls. Köln.
 
 Klein, Florian (2022):\
