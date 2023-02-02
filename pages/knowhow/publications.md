@@ -163,13 +163,13 @@ Vortrag im Forschungsforum der Fakultät für Angewandte Sozialwissenschaften, T
 
 ## Abschluss- und Projektarbeiten
 
-Wehn, Finn (2023):\
-**Skillsystem**\
-Praxisprojekt Technische Hochschule Köln. Betreut von Dennis Wilk , Marc Schmidt & Prof. Dr. Christian Kohls. Köln.
-
 Johannsen, Sophia (2023):\
-**To be filled**\
+**Entwicklung eines Grundsets an Skills für einen Open Source Sprachassistenten**\
 Praxisprojekt Technische Hochschule Köln. Betreut von Dennis Wilk , Marc Schmidt & Prof. Dr. Stefan Bente. Köln.
+
+Wehn, Finn (2023):\
+**Skillsystem für einen Open Source Sprachassistenten**\
+Praxisprojekt Technische Hochschule Köln. Betreut von Dennis Wilk , Marc Schmidt & Prof. Dr. Christian Kohls. Köln.
 
 Iyawe, George (2023):\
 **Digital Prototyping - Plattform zur kollaborativen Darstellung von technischen Intentionen**\
