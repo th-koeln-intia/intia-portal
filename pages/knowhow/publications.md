@@ -60,7 +60,7 @@ In Das Band, S. 6–13. https://bvkm.de/wp-content/uploads/2019/08/daba_4_18_int
 
 ## Konferenzbeiträge
 
-Kohls, Christian; Wilk, Dennis (2022):\
+Kohls, Christian; Wilk, Dennis Christian (2022):\
 **Maker Spaces for Hybrid Education**\
 In European Conference on Pattern Languages of Programs (EuroPLoP’22), July 6–10, 2022, Irsee Monastery, Bavaria, Germany.
 
@@ -89,7 +89,7 @@ Schmidt, Marc (2021):\
 **Patterns for visual programming: With a focus on flowbased programming inspired systems.**\
 In European Conference on Pattern Languages of Programs (EuroPLoP’21), July 7–11, 2021, Graz, Austria. ACM, New York, NY, USA, 7 pages. https://doi.org/10.1145/3489449.3489977
 
-Wilk, Dennis; Kohls, Christian (2021):\
+Wilk, Dennis Christian; Kohls, Christian (2021):\
 **Hiding Technology - Reducing the distraction created by technical devices.**\
 In European Conference on Pattern Languages of Programs (EuroPLoP’21), July 7–11, 2021, Graz, Austria. ACM, New York, NY, USA.
 
@@ -98,7 +98,7 @@ Klein, Peter; Bente, Stefan (2021):\
 MuC 2021, Workshop UP-TUT06. https://muc2021.mensch-und-computer.de/event/3084/\
 [Eventinformation aufrufen](https://muc2021.mensch-und-computer.de/event/3084/)
 
-Zorn, Isabel; Schmidt, Marc; Wilk, Dennis; Rösch, Janina (2021):\
+Zorn, Isabel; Schmidt, Marc; Wilk, Dennis Christian; Rösch, Janina (2021):\
 **Digital participatory research with adolescents in youth service residential care under Covid-19 containment measures - A messenger-based digital research method.**\
 European Conference on Social Work Research (ECSWR 2021). Bukarest, Romania, 07.05.2021.\
 [Auf ResearchGate aufrufen](https://www.researchgate.net/publication/351732696_Digital_participatory_research_with_adolescents_in_youth_service_residential_care_under_Covid-19_containment_measures_-_A_messenger-based_digital_research_method_ECSWR_European_Conference_on_Social_Wo)
@@ -165,15 +165,15 @@ Vortrag im Forschungsforum der Fakultät für Angewandte Sozialwissenschaften, T
 
 Johannsen, Sophia (2023):\
 **Entwicklung eines Grundsets an Skills für einen Open Source Sprachassistenten**\
-Praxisprojekt Technische Hochschule Köln. Betreut von Dennis Wilk , Marc Schmidt & Prof. Dr. Stefan Bente. Köln.
+Praxisprojekt Technische Hochschule Köln. Betreut von Dennis Christian Wilk , Marc Schmidt & Prof. Dr. Stefan Bente. Köln.
 
 Wehn, Finn (2023):\
 **Skillsystem für einen Open Source Sprachassistenten**\
-Praxisprojekt Technische Hochschule Köln. Betreut von Dennis Wilk , Marc Schmidt & Prof. Dr. Christian Kohls. Köln.
+Praxisprojekt Technische Hochschule Köln. Betreut von Dennis Christian Wilk , Marc Schmidt & Prof. Dr. Christian Kohls. Köln.
 
 Iyawe, George (2023):\
 **Digital Prototyping - Plattform zur kollaborativen Darstellung von technischen Intentionen**\
-Praxisprojekt Technische Hochschule Köln. Betreut von Dennis Wilk , Marc Schmidt & Prof. Dr. Christian Kohls. Köln.
+Praxisprojekt Technische Hochschule Köln. Betreut von Dennis Christian Wilk , Marc Schmidt & Prof. Dr. Christian Kohls. Köln.
 
 Klein, Florian (2022):\
 **Dynamische Skalierung von Elementen in einer Radar Visualisierung von Daten.**\
@@ -189,11 +189,11 @@ Bachelorarbeit Technische Hochschule Köln. Betreut von Marc Schmidt & Prof. Dr.
 
 Landgraf, Eric (2022):\
 **Eruierung von Anforderungen und Erfolgsbedingungen für einen Sprachassistentenmit Fokus auf deutschsprachige Nutzer über 65 Jahren.**\
-Bachelorarbeit Technische Hochschule Köln. Betreut von Marc Schmidt, Dennis Wilk & Prof. Dr. Stefan Bente. Köln.
+Bachelorarbeit Technische Hochschule Köln. Betreut von Marc Schmidt, Dennis Christian Wilk & Prof. Dr. Stefan Bente. Köln.
 
 Landgraf, Eric (2021):\
 **Realisierung eines offlinefähigen Open Source-Sprachassistenten zur Nutzung durch vulnerable Personengruppen.**\
-Praxisprojekt Technische Hochschule Köln. Betreut von Marc Schmidt, Dennis Wilk & Prof. Dr. Stefan Bente. Köln.
+Praxisprojekt Technische Hochschule Köln. Betreut von Marc Schmidt, Dennis Christian Wilk & Prof. Dr. Stefan Bente. Köln.
 
 Klein, Stefanie (2021):\
 **Herangehensweisen und Herausforderungen für die Teilhabe von Menschen mit Lernschwierigkeiten in der partizipativen Technologieentwicklung.**\
