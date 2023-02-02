@@ -13,6 +13,14 @@ subtitle: >
 
 ## Wissenschaftliche Veröffentlichungen
 
+Schmidt, Marc; Bente, Stefan; Baruque Zanón, Bruno; Lara Palma, Ana María (2023, eingereicht):\
+**The Method Radar: a way to organize methods for technology development with participation in mind**
+In Behaviour & Information Technology.
+
+Mildenberger, Tabea; Schmier, Alena; Zorn, Isabel (2022):\
+**Literaturreview zu partizipativer Technologieentwicklung in der Behinderten- und Erziehungshilfe im Kontext Sozialer Arbeit**
+In Soziale Passagen 2/2022. https://link.springer.com/article/10.1007/s12592-022-00439-z.
+
 Zorn, Isabel; Bente, Stefan; Kohls, Christian; Mager, Birgit (2022): \
 **Inklusive Entwicklung von Methoden und Technologien für digitale Hilfen zur Alltagsbewältigung in der Behinderten- und Erziehungshilfe.**\
 In EREV-Buch (Hrsg.), Inklusion in der Erziehungshilfe. Partizipation und Selbstbestimmung in einer inklusiven Erziehungshilfe (S. 248-259) Lambertusverlag.
@@ -22,9 +30,9 @@ Mager, Birgit; Oertzen, Anna-Sophie; Vink, Josina; (2022):\
 In Pfannstiel / Brehmer / Rasche, Service Design Practices for Healthcare Innovation, S. 497-510, Springer ISBN 978-3-030-87272-4
 [Hier PDF von Springer Link ab Seite 497 ansehen](https://link.springer.com/content/pdf/10.1007%2F978-3-030-87273-1.pdf)
 
-Kortekaas, Caroline; Zurbrügg, Eva; Zorn, Isabel. (2022, eingereicht):\
-**Pilotstudie: Anhaltspunkte für digitale Unterstützungsmöglichkeiten von Alltagsbedarfen junger Menschen in der Jugend- sowie Eingliederungshilfe aus Sicht der betreuenden Fachkräfte.**\
-In Soziale Arbeit Zeitschrift für soziale und sozialverwandte Gebiete.
+Kortekaas, Caroline; Zurbrügg, Eva; Zorn, Isabel. (2022):\
+**Digitale Unterstützung von Alltagsbedarfen Jugendlicher. Eine Pilotstudie der Perspektiven von Fachkräften in der Jugend- sowie Eingliederungshilfe**\
+In Soziale Arbeit 11/2022. doi.org/10.5771/0490-1606-2022-11-409.
 
 Artikel über INTIA (2021). Journal hn-21 - Hochschulnetzwerk: Soziale Arbeit:\
 **Digitale Alltagshilfen für Kinder und Jugendliche.**\
@@ -52,21 +60,21 @@ In Das Band, S. 6–13. https://bvkm.de/wp-content/uploads/2019/08/daba_4_18_int
 
 ## Konferenzbeiträge
 
-Kohls, Christian; Wilk, Dennis (2022, eingereicht):\
+Kohls, Christian; Wilk, Dennis (2022):\
 **Maker Spaces for Hybrid Education**\
 In European Conference on Pattern Languages of Programs (EuroPLoP’22), July 6–10, 2022, Irsee Monastery, Bavaria, Germany.
 
-Schmidt, Marc (2022, eingereicht):\
+Schmidt, Marc (2022):\
 **Building upon Patterns for visual programming: With a focus on flowbased programming inspired systems.**\
 In European Conference on Pattern Languages of Programs (EuroPLoP’22), July 6–10, 2022, Irsee Monastery, Bavaria, Germany
 
-Kortekaas, Caroline; Zorn, Isabel (2022, angenommen).\
-**Communication Styles as Challenges for Participatory Design Facilitators Workingwith Young People with Additional Needs in a Residential CareSetting**\
-In ICCHP-AACE Conference Lecco, Italy. Springer LNCS.
+Kortekaas, Caroline; Zorn, Isabel (2022).\
+**Communication Styles as Challenges for Participatory Design Process Facilitators Working with Young People with Additional Needs in a Residential Care Setting**\
+In Miesenberger, Klaus/Kouroupetroglou, Georgios/Mavrou, Katerina/Manduchi, Roberto/Covarrubias Rodriguez, Mario/Penáz, Petr (Hrsg.) (2022). Computers helping people with special needs. 18th international. Cham: Springer International Publishing. https://link.springer.com/chapter/10.1007/978-3-031-08645-8_36. S. 310-319.
 
-Schmidt, Marc (2022, angenommen).\
+Schmidt, Marc (2022).\
 **Escape Games - An approach to start participative technology development**\
-In ICCHP-AACE Conference Lecco, Italy. Open Compendium.
+In ICCHP-AAATE 2022 Open Access Compendium „Assistive Technology, Accessibility and (e)Inclusion“ Part I, 259–264. Association ICCHP. doi:10.35011/icchp-aaate22-p1, http://epub.jku.at/obvulioa/7944369.
 
 Schmidt, Marc; Wilk, Dennis Christian (2021):\
 **Evaluation of different Technology Stacks for Open-Source Voice Assistant.**\
@@ -155,25 +163,37 @@ Vortrag im Forschungsforum der Fakultät für Angewandte Sozialwissenschaften, T
 
 ## Abschluss- und Projektarbeiten
 
+Wehn, Finn (2023):\
+**Skillsystem**
+Praxisprojekt Technische Hochschule Köln. Betreut von Dennis Wilk , Marc Schmidt & Prof. Dr. Christian Kohls. Köln.
+
+Johannsen, Sophia (2023):\
+**To be filled**
+Praxisprojekt Technische Hochschule Köln. Betreut von Dennis Wilk , Marc Schmidt & Prof. Dr. Stefan Bente. Köln.
+
+Iyawe, George (2023):\
+**Digital Prototyping - Plattform zur kollaborativen Darstellung von technischen Intentionen**
+Praxisprojekt Technische Hochschule Köln. Betreut von Dennis Wilk , Marc Schmidt & Prof. Dr. Christian Kohls. Köln.
+
 Klein, Florian (2022):\
 **Dynamische Skalierung von Elementen in einer Radar Visualisierung von Daten.**\
-Bachelorarbeit Technische Hochschule Köln. Betreut von Marc Schmidt & Prof. Dr.-Ing. Stefan Bente. Köln.
+Bachelorarbeit Technische Hochschule Köln. Betreut von Marc Schmidt & Prof. Dr. Stefan Bente. Köln.
 
 Klein, Florian (2022):\
 **Neustrukturierung und responsiv Umsetzung des INTIA Methoden-Radars in JavaScript.**\
-Praxisprojekt Technische Hochschule Köln. Betreut von Marc Schmidt & Prof. Dr.-Ing. Stefan Bente. Köln.
+Praxisprojekt Technische Hochschule Köln. Betreut von Marc Schmidt & Prof. Dr. Stefan Bente. Köln.
 
 Przygodzinski, Dawid (2022):\
 **Vergleich des Sprachassistenten Amazon Alexa mit Open Source Alternativen, am Beispiel von Mycroft.**\
-Bachelorarbeit Technische Hochschule Köln. Betreut von Marc Schmidt & Prof. Dr.-Ing. Stefan Bente. Köln.
+Bachelorarbeit Technische Hochschule Köln. Betreut von Marc Schmidt & Prof. Dr. Stefan Bente. Köln.
 
 Landgraf, Eric (2022):\
 **Eruierung von Anforderungen und Erfolgsbedingungen für einen Sprachassistentenmit Fokus auf deutschsprachige Nutzer über 65 Jahren.**\
-Bachelorarbeit Technische Hochschule Köln. Betreut von Marc Schmidt, Dennis Wilk & Prof. Dr.-Ing. Stefan Bente. Köln.
+Bachelorarbeit Technische Hochschule Köln. Betreut von Marc Schmidt, Dennis Wilk & Prof. Dr. Stefan Bente. Köln.
 
 Landgraf, Eric (2021):\
 **Realisierung eines offlinefähigen Open Source-Sprachassistenten zur Nutzung durch vulnerable Personengruppen.**\
-Praxisprojekt Technische Hochschule Köln. Betreut von Marc Schmidt, Dennis Wilk & Prof. Dr.-Ing. Stefan Bente. Köln.
+Praxisprojekt Technische Hochschule Köln. Betreut von Marc Schmidt, Dennis Wilk & Prof. Dr. Stefan Bente. Köln.
 
 Klein, Stefanie (2021):\
 **Herangehensweisen und Herausforderungen für die Teilhabe von Menschen mit Lernschwierigkeiten in der partizipativen Technologieentwicklung.**\
