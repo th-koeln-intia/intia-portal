@@ -13,9 +13,10 @@ subtitle: >
 
 ## Wissenschaftliche Veröffentlichungen
 
+<!---
 Schmidt, Marc; Bente, Stefan; Baruque Zanón, Bruno; Lara Palma, Ana María (2023, eingereicht):\
 **The Method Radar: a way to organize methods for technology development with participation in mind**\
-In Behaviour & Information Technology.
+-->
 
 Mildenberger, Tabea; Schmier, Alena; Zorn, Isabel (2022):\
 **Literaturreview zu partizipativer Technologieentwicklung in der Behinderten- und Erziehungshilfe im Kontext Sozialer Arbeit**\
