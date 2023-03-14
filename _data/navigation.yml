@@ -32,10 +32,12 @@
       link: /wissen/literatur/
 #    - name: Anleitungen
 #      link: /wissen/anleitungen/
-- name: Aktuelles
+- name: Blog
   dropdown:
-    - name: Blog
+    - name: Neuigkeiten
       link: /blog/
+    - name: Fachartikel
+      link: /articles/
 - name: Mitmachen
   dropdown:
 #    - name: Community

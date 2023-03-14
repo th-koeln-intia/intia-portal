@@ -47,7 +47,14 @@ defaults:
       path: _posts
     values:
       permalink: /blog/:title/
-      path: [Aktuelles, Neuigkeiten]
+      path: [Blog, Neuigkeiten]
+      layout: default
+  - scope:
+      type: articles
+      path: _articles
+    values:
+      permalink: /articles/:title/
+      path: [Blog, Fachartikel]
       layout: default
   - scope:
       type: glossary
@@ -70,6 +77,8 @@ collections:
   glossary:
     output: true
   methods:
+    output: true
+  articles:
     output: true
 
 # --------------------------- Includes and Excludes -------------------------- #

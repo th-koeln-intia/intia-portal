@@ -37,6 +37,20 @@ collections:
       - {label: "Vorschau Bild", name: "preview_image", widget: "image", allow_multiple: false}
       - {label: "Kurzfassung/Abstrakt", name: "subtitle", widget: "text"}
       - { label: 'Body', name: 'body', widget: 'markdown' }
+  - name: 'articles'
+    label: 'Fachartikel'
+    folder: 'collections/_articles'
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - {label: "Hero tags", name: "hero_tags", widget: "hidden", default: "subpage post pdf"}
+      - {label: "Überschrift", name: "title_above", widget: "hidden", default: "Fachartikel"}
+      - {label: "Veröffentlicht", name: "published", widget: "boolean", default: true}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Header Bild", name: "hero_image", widget: "image", allow_multiple: false}
+      - {label: "Vorschau Bild", name: "preview_image", widget: "image", allow_multiple: false}
+      - {label: "Kurzfassung/Abstrakt", name: "subtitle", widget: "text"}
+      - { label: 'Body', name: 'body', widget: 'markdown' }
   - name: 'pages'
     label: 'Seiten'
     files:
