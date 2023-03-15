@@ -1,35 +1,35 @@
 sections:
   - title: Der INTIA-Koffer
     text: |
-      Der INTIA-Koffer beinhaltet verschiedene Methoden, um Bedürfnisse im Alltag besser zu verstehen und Lösungen für Probleme zu entwickeln - und zu bauen!
+      Im INTIA Koffer sind verschiedene Werkzeuge und Methoden, um Bedürfnisse im Alltag besser zu verstehen und Lösungen für Probleme zu entwickeln – und zu bauen!
     image: /assets/img/intia-case/intia-case-2.jpg
     icon: icon-tools
     link: /intia-koffer/
     link_text: Zum INTIA-Koffer
   - title: Methoden
     text: |
-        Partizipativ inklusive Methoden gesucht? Im INTIA-Methodenradar findet man eine Übersicht von Methoden eingeordnet nach dem Partizipationsgrad!
+        Methoden, die dabei unterstützen, Alltagshilfen zu entwerfen, zu bauen und auszuwerten. Plus: Methodenradar, um zu erkennen, wie partizipativ eine Methode ist.
     image: /assets/img/landingpage/methoden.jpg
     icon: icon-methods
     link: /werkzeuge/methoden/
     link_text: Zu den Methoden
   - title: Wissen
     text: |
-        Etwas besser verstehen oder mehr Hintergrundwissen erwünscht? Hier findet man Begriffsklärungen, wissenschaftliche Texte und Verweise auf Veröffentlichungen!
+        Begriffsklärungen, wissenschaftliche Texte und Verweise auf Veröffentlichungen – Wer die Dinge besser verstehen will oder sich mehr Hintergrundwissen wünscht, ist hier richtig.
     image: /assets/img/landingpage/wissen.jpg
     icon: icon-briefcase
     link: /wissen/woerterbuch/
     link_text: Zum Wissen
-  - title: Neuigkeiten
-    text: |
-        Hier gibt es alle Neuigkeiten rund um die Angebote von INTIA. Außerdem sammeln wir hier, was andere über uns schreiben.
-    image: /assets/img/landingpage/neuigkeiten.jpg
-    icon: icon-newspaper
-    link: /blog/
-    link_text: Zu den Neuigkeiten
+#  - title: Neuigkeiten
+#    text: |
+#        Hier gibt es alle Neuigkeiten rund um die Angebote von INTIA. Außerdem sammeln wir hier, was andere über uns schreiben.
+#    image: /assets/img/landingpage/neuigkeiten.jpg
+#    icon: icon-newspaper
+#    link: /blog/
+#    link_text: Zu den Neuigkeiten
   - title: Mitmachen
     text: |
-        Hier ist Raum für Anregungen, Ideen, Kritik und Feedback an INTIA!
+        Anregungen, Ideen, Kritik und Feedback an INTIA - Bitte hier entlang.
     image: /assets/img/landingpage/mitmachen.jpg
     icon: icon-handshake
     link: /mitmachen/kontakt/

@@ -8,13 +8,8 @@ synonyms:
   - Alltagsunterstützung; Bewältigung von Alltagsaufgaben; Alltagsbegleitung
   - alltägliche Lebensführung
 last_update: 2021-12-14T13:22:43.773Z
-subtitle: Alltagsbewältigung ist das Schaffen von alltäglichen Dingen wie Kochen
-  oder Einkaufen.
-abstract: Alltagsbewältigung bezieht sich auf das alltägliche Leben. Es geht
-  darum, Aufgaben im Alltag wie zum Beispiel Einkaufen gehen, Kochen oder Putzen
-  zu schaffen. Bei Alltagsbewältigung geht es darum, Teilhabe zu ermöglichen.
-  Menschen sollen selbstbestimmt handeln können. Dabei können sie unterstützt
-  werden.
+subtitle: Alltagsbewältigung heißt, Dinge zu erledigen, die täglich anfallen.
+abstract: Alltagsbewältigung bezieht sich auf das tägliche Leben und die Aufgaben, die während des Tages zu erledigen sind. Das ist zum Beispiel das Einkaufen, das Kochen oder das Putzen. Bei der Alltagsbewältigung geht es darum, dass alle Menschen selbstbestimmt handeln können. Dabei können sie unterstützt werden.
 ---
 
 ## Beschreibung

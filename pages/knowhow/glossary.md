@@ -4,7 +4,7 @@ title_above: Wissen
 permalink: /wissen/woerterbuch/
 hero_tags: toppage
 subtitle: |
-  Inklusive Technikentwicklung berücksichtigt und integriert die Perspektiven vieler unterschiedlicher Menschen. Inklusive Technikentwicklung gründet und bezieht sich auch auf relevante wissenschaftliche Konzepte und Diskurse. Diese wissenschaftlichen Grundlagen beeinflussen die praktische Gestaltung. Sie werden deshalb alltagssprachlich erklärt. Wenn du eine andere Sichtweisen hast, schreiben uns doch gerne an intia@th-koeln.de
+  Inklusive Technikentwicklung bedeutet, dass man bei der Entwicklung von Technik darauf achtet, die Bedürfnisse von vielen verschiedenen Menschen zu berücksichtigen. Bei der Inklusiven Technikentwicklung bezieht man sich auch auf wissenschaftliche Konzepte und Diskussionen, die wichtig sind für die praktische Umsetzung. Damit diese wissenschaftlichen Grundlagen für alle verständlich sind, werden sie in einfachen Worten erklärt. Wenn du denkst, dass etwas anders geschrieben oder erklärt werden sollte, dann schicke uns eine Nachricht an intia@th-koeln.de.
 jekyll-hyperlink-glossary: false
 ---
 

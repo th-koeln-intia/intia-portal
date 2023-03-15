@@ -7,8 +7,8 @@ english_title: Autonomy
 synonyms:
   - autonomy
 last_update: 11.11.2021
-subtitle: Selbst•bestimmung meint die Möglichkeit frei über sich entscheiden zu können und eigene Ziele zu haben und diese verwirklichen zu können.
-abstract: "Selbst•Bestimmung ist ein Grund-Recht. Das steht im deutschen Grund-Gesetz. Auch Menschen mit Behinderung bestimmen selbst über ihr Leben. Sie können Unterstützung und Beratung bekommen. Aber dann entscheiden sie selbst. Darin muss man sie stärken und stützen. Dazu sagt man auch Empowerment."
+subtitle: Selbst-Bestimmung heißt, frei über sich selbst und sein Leben entscheiden zu können.
+abstract: "Selbst-Bestimmung ist ein Grundrecht, das im deutschen Grundgesetz steht. Es garantiert, dass jeder Mensch sein Leben selbst gestalten kann, eigene Ziele haben darf und diese auch verwirklichen kann. Natürlich gilt das auch für Menschen mit Behinderung. Sie können Unterstützung und Beratung bekommen, aber sie entscheiden selbst. Darin muss man sie stärken und stützen. Das nennt man „Empowerment“."
 ---
 
 ## Bedeutung für inklusive Technikentwicklung

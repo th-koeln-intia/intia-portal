@@ -2,15 +2,16 @@
 hero_tags: subpage glossary pdf
 title_above: Wörterbuch
 published: true
-title: Bedarf
+title: Bedarf/Bedürfnis
 english_title: Need
 synonyms:
   - Bedürfnis
+  - Bedarf
 last_update: 08.06.2022
-subtitle: Ein Bedarf drückt sich im Wunsch nach einer Lösung aus.
-abstract: Alle Menschen haben Bedürfnisse. Menschen versuchen, ihre Bedürfnisse
-  zu stillen.
+subtitle: Ein Bedarf ist ein Mangel oder eine Notwendigkeit, die erfüllt werden muss, um ein Bedürfnis zu befriedigen.
+abstract: Ein Bedarf drückt sich in einem Bedürfnis aus, das man befriedigen möchte. Ein Bedürfnis entsteht aus dem Wunsch, einen Mangel zu beseitigen. Zum Beispiel Hunger oder Durst zu stillen (Bedarf an Nahrung oder Wasser) oder sich wärmer anzuziehen, weil man friert (Bedarf an Kleidung). Auch der Wunsch, in Sicherheit zu leben, also, eine Wohnung zu haben, ist ein Bedürfnis. Ebenso der Wunsch nach Freundschaften und anderen sozialen Kontakten sowie nach Teilhabe, Anerkennung oder Ausleben der eigenen Kreativität.
 ---
+
 ## Bedeutung für inklusive Technikentwicklung
 
 Die angewendeten Methoden und entwickelten Technologien zielen darauf, Menschen bei der Alltagsbewältigung zu unterstützen: Zur Entwicklung von digitalen Alltagslösungen müssen zunächst Bedürfnisse im Alltag identifiziert werden. Daraus lassen sich entsprechend der Aufgaben der Sozialen Arbeit Bedarfe bestimmen.

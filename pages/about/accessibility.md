@@ -1,6 +1,6 @@
 ---
 title: Barrierearm
-title_above: Über
+title_above: Über INTIA
 permalink: /ueber/barrierearm/
 hero_tags: toppage
 subtitle: |

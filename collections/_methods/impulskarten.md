@@ -5,7 +5,7 @@ published: true
 title: Impulskarten
 english_title: Impulskarten
 last_update: 08.06.2022
-subtitle: "Die Impulskarten sollen, wie der Name schon sagt, Impulse für eine Unterhaltung geben. Dabei entsteht ein Dialog zwischen dem Moderierenden und den Teilnehmenden. Das Ziel ist, durch ein angeregtes Gespräch auf Probleme/ Wünsche/ Bedürfnisse/ Bedarfe zu stoßen. Daraus können dann in weiteren Schritten mit anderen Methoden Lösungen entwickelt werden. Es ist möglich, dass in einem Ausgangsthema eine tieferliegende Thematik entdeckt wird und darauf eingegangen werden kann. Die Impulskarten können auch außerhalb eines Technikentwicklungsprozesses eingesetzt werden. Zum Beispiel als unterstützendes Werkzeug zur Vorbereitung des Hilfeplangesprächs."
+subtitle: "Die Impulskarten sollen Unterhaltungen anregen. Ziel ist es, im Dialog zwischen der Moderation und den Teilnehmenden Probleme, Wünsche oder Bedürfnisse zu entdecken. Daraus können anschließend mit anderen Methoden Lösungen entwickelt werden. Dabei kann es sein, dass in einem Ausgangsthema eine tieferliegende Thematik entdeckt wird, auf die man gemeinsam eingehen kann. Auch außerhalb eines Technik-Entwicklungsprozesses können die Impulskarten eingesetzt werden. Zum Beispiel als unterstützendes Werkzeug bei der Vorbereitung eines Hilfeplangesprächs."
 ---
 
 <table class="tb">
@@ -115,7 +115,6 @@ A: Moderator stelle eine eigene Frage: Macht ihr gerne Sport? TN1: Ja M: Was den
 B. Teilnehmende suchen sich eine für sie passende Impulskarte aus und formulieren einen Satz aus den beiden Karten. Z.B. "Ich will mehr ... Sport ...machen". Oder "Ich würde gerne ... Sport ... machen".
 
 C: Eine Alltagskarte wird zufällig gezogen und alle überlegen, welches Szenario zur Aussage passen könnte.
-
 
 <strong>2. Start mit Bedürfniskarte</strong>
 

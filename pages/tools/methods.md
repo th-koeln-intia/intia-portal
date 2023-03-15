@@ -4,16 +4,15 @@ title_above: Werkzeuge
 permalink: /werkzeuge/methoden/
 hero_tags: toppage
 subtitle: |
-  Hier sind Methoden aufgeführt, die zum Entwerfen, Erstellen und Evaluieren von Alltagshilfen nützlich sind.
+  Hier sind Methoden aufgeführt, die dabei helfen können, technische Alltagshilfen zu entwerfen, umzusetzen und zu beurteilen.
 jekyll-hyperlink-glossary: false
 ---
 
 # Das Methodenradar
 
-Um produktiv mit Methoden zu arbeiten ist es wichtig, sie systematisch zu kategorisieren. Häufig werden Methoden nach ihrem Zweck sortiert. Hierzu lassen sich z.B. die Phasen in einem Prozess nutzen.
-Neben dieser gängigen Praxis kann man für partizipativ inklusive Technikentwicklung die Frage stellen: "Wie partizipativ sind die Methoden?" Eine solche Einordnung kann man mithilfe des Stufenmodells der Partizipation abbilden. Dieses Modell besteht (je nach Autor:in) aus sieben Stufen, die unterschiedliche Grade von Partizipation beschreiben.
-Das INTIA-Methodenradar strukturiert Methoden nach eben diesen Stufen der Partizipation. Dabei stellt jeder Ring eine Stufe dar, von der "Nicht-beteiligung" bis zur "vollständigen Entscheidungsmacht". Zusätzlich dazu ist das Radar in vier Sektoren unterteilt, die verschiedene Domänen abbilden, von Methoden die bei der Entdeckung einer Domäne helfen, über solche die eben diese Domäne definieren, bis hin zur Entwicklung von Produkten und deren Evaluation.
-Eine detaillierte Erklärung zur Entstehung und Struktur des INTIA-Methodenradars folgt noch.
+Um sinnvoll mit Methoden arbeiten zu können, ist es wichtig, dass man sie kennt und weiß, wie und wofür man sie benutzt. Man kann die Methoden nach ihrem Ziel sortieren (zum Beispiel nach Phasen, die in bestimmten Prozessen durchlaufen werden). Neben dieser weit verbreiteten Vorgehensweise könnte man bei der partizipativ inklusiven Technikentwicklung auch fragen: Wie ausgeprägt ist die Zusammenarbeit zwischen denjenigen, die die Technik entwickeln und denen, die sie nutzen? Um das zu beurteilen, gibt es ein Modell, das (je nach Autor:in) in sieben Stufen beschreibt, wie gut diejenigen, die es betrifft, beteiligt werden können. Es heißt „Stufenmodell der Partizipation“.
+
+Das INTIA Methodenradar sortiert Methoden nach diesem Stufenmodell, also danach, wie stark die Beteiligung ist. Jeder Ring ist dabei eine Stufe, angefangen von „nicht beteiligt“ bis zur „vollständigen Entscheidungsmacht“. Außerdem ist das Radar in vier Bereiche (Sektoren) aufgeteilt, in die die verschiedenen Methoden eingeordnet sind. So zum Beispiel Methoden, die dabei helfen, eine Domäne zu entdecken oder Methoden, die diese Domäne definieren. Auch Methoden, die dabei helfen, Produkte zu entwickeln und zu beurteilen, sind im Methodenradar zu finden.
 
 <a href='#methodenliste' class='button is-dark is-rounded'>
       <span>Zur Methodenliste</span>
@@ -32,8 +31,7 @@ Eine detaillierte Erklärung zur Entstehung und Struktur des INTIA-Methodenradar
 
 # Das Methodenradar benutzen
 
-Im untenstehenden INTIA-Methodenradar ist eine Übersicht von Methoden zum Entwerfen, Erstellen und Evaluieren von Alltagshilfen. Jeder Punkt im Radar stellt hier eine Methode dar und führt zu ihrer Detailbeschreibung. Mithilfe der Menüpunkte über dem Radar können einzelne Quadranten fokussiert werden.
-Die Bedeutung der einzelnen Ringe ist der untenstehenden Legende zu entnehmen.
+Im INTIA Methodenradar gibt es eine Übersicht über verschiedene Methoden, die dabei helfen können, Alltagshilfen zu entwerfen, umzusetzen und zu beurteilen. Jeder Punkt im Radar steht für eine bestimmte Methode und führt zu einer genaueren Erklärung. Über dem Radar sind Menüpunkte zu sehen, mit denen man einzelne Teile des Radars genauer anschauen kann. Die Bedeutung der einzelnen Ringe im Radar kann in der Legende unten nachgelesen werden.
 <br>
 <br>
 Die dunklen Punkte im Radar befinden sich bereits auf der Plattform mit einer Detailbeschreibung und sind ebenfalls der untenstehenden Liste zu entnehmen. Die helleren Punkte dagegen befinden sich noch nicht auf der Plattform und folgen später noch.

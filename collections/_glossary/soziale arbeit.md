@@ -8,13 +8,10 @@ synonyms:
   - Media Skill
   - Media Literacy
 last_update: 11.11.2021
-subtitle: Soziale Arbeit beinhaltet Sozialpädagogik und Sozialarbeit, ist eine
-  Wissenschaft und eine Profession
-abstract: Soziale Arbeit ist ein Berufsfeld, eine Wissenschaft und ein Studium.
-  Soziale Arbeit analysiert soziale Problemlagen und entwickelt Konzepte und
-  Dienstleistungen, um Menschen in sozialen Problemlagen zu helfen, ihr Leben
-  selbstbestimmt zu leben.
+subtitle: Soziale Arbeit beschäftigt sich mit der Unterstützung und Förderung von Menschen in schwierigen Lebenslagen.
+abstract: Soziale Arbeit ist eine Wissenschaft und ein Berufsfeld. Sie beinhaltet Sozialpädagogik und Sozialarbeit und richtet den Blick auf Menschen, die in schwierigen Verhältnissen leben. Die Soziale Arbeit entwickelt Konzepte und Dienstleistungen, um die Lebensqualität dieser Menschen zu verbessern und ihre Teilhabe an der Gesellschaft zu fördern. Ziel ist es, allen ein selbstbestimmtes und freies Leben zu ermöglichen – auch unter problematischen Umständen.
 ---
+
 ## Bedeutung für inklusive Technikentwicklung
 
 Inklusive Technikentwicklung kann in allen Technikentwicklungen stattfinden, aber sie erfolgt oft in Kontexten der Sozialen Arbeit. Die Jugendhilfe und Behinderungshilfe sind Handlungsfelder der Sozialen Arbeit, für die auf dieser Website Angebote für inklusive Technikentwicklungen gemacht werden.

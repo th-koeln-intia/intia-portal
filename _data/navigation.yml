@@ -1,4 +1,4 @@
-- name: Über
+- name: Über INTIA
   dropdown:
     - name: Plattform
       link: /ueber/plattform

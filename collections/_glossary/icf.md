@@ -6,8 +6,8 @@ title: ICF
 english_title: ICF
 synonyms:
 last_update: 03.06.2022
-subtitle: "Rahmenwerk, das eine konzeptionelle Grundlage für die Definition und Messung von Gesundheit und Behinderung sowie der notwendigen Unterstützungsbedarfe zur Erreichung der Leistungsfähigkeit liefert."
-abstract: 'ICF ist ein mögliches Werkzeug zur Organisation von gesammelten Bedarfen & Barrieren. Außerdem können die Klassifizierungen zusammen mit ihren Begründungen und Ausprägungen zur Interpretation, Systematisierung und Legitimation von geäußerten Bedarfen im Kontext der Sozialen Arbeit genutzt werden. Für inklusive Technologieentwicklung in der Erziehungs- und Behindertenhilfe können besonders 2 Bereiche aus der ICF sinnvoll sein, für die Organisation von Bedarfen: Der Bereich "Aktivität und Partizipation" und der Bereich "Umweltfaktoren".'
+subtitle: "Die ICF ist ein Klassifikationssystem, um die Gesundheit und das Funktionieren von Menschen zu beschreiben und zu verstehen, und zwar vor allem im Zusammenhang mit Behinderungen."
+abstract: "ICF steht für International Classification of Functioning, Disability and Health (Internationale Klassifikation der Funktionsfähigkeit, Behinderung und Gesundheit). Es ist ein System, das die Weltgesundheitsorganisation (WHO) entwickelt hat, um zu zeigen, wie sich Krankheiten und Verletzungen auf die Gesundheit von Menschen auswirken. Es beschreibt außerdem, wie Menschen mit Behinderungen unterstützt werden können, damit sie leistungsfähig bleiben. Insbesondere zwei Bereiche aus der ICF sind relevant, wenn es darum geht, Bedarfe im Zusammenhang mit der sozialen Arbeit zu organisieren: „Aktivität und Partizipation“ sowie „Umweltfaktoren“."
 ---
 
 ## Bedeutung für inklusive Technikentwicklung

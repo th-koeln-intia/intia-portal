@@ -5,9 +5,7 @@ published: true
 title: Analoges Prototypisieren
 english_title: Analoges Prototypisieren
 last_update: 08.06.2022
-subtitle: 'Bei dieser Methode handelt es sich um ein Set von Bausteinen in verschiedenen geometrischen Formen. Die Steine, auch Chips genannt, können dabei so zusammengelegt werden, dass einfache Abläufe abgebildet werden können. Durch die Haptik und Visualisierung können mit einfachen Regeln schneller Ideen vermittelt, Ideen gemeinsam ausgearbeitet und vorbereitet werden, damit diese für eine Entwicklung vorbereitet sind.
-
-Ziel ist es auch, für Nicht-Entwickler und Personen ohne Expertenwissen Ideen und Abläufe zu visualisieren und Planen zu können. Die daraus entstehenden Konstruktionen können daraufhin zur Entwicklung genutzt werden.'
+subtitle: "Diese Methode ist ein Set von Bausteinen, die verschiedene (geometrische) Formen haben. Mit den Bausteinen, auch Chips genannt, können einfache Abläufe gelegt und somit abgebildet werden. Dadurch, dass man die Bausteine in die Hand nehmen und nach einfachen Regeln an verschiedenen Stellen ablegen kann, ist es leichter, Ideen gemeinsam auszuarbeiten und sie für eine echte Entwicklung vorzubereiten. Damit ist diese Methode auch für Menschen geeignet, die keine Expert:innen sind oder normalerweise keine Software entwickeln."
 ---
 
 <table class="tb">
@@ -76,7 +74,6 @@ Ziel ist es auch, für Nicht-Entwickler und Personen ohne Expertenwissen Ideen u
 
 #### Durchführung
 
-
 1. Teilnehmende wählen zwei hexagonale Chips, die Objekte repräsentieren, welche sie miteinander verbinden wollen.
 2. Ein Rauten-Chip mit einem Kontext wird zwischen die Chips gelegt um festzulegen, was mit dem ersten Objekt passieren soll um das zweite Objekt zu beeinflussen.
 3. Ein weiterer Rauten-Chip wird an das zweite Objekt gelegt, um zu definieren, was mit diesem passieren soll.
@@ -84,10 +81,9 @@ Ziel ist es auch, für Nicht-Entwickler und Personen ohne Expertenwissen Ideen u
 5. (Optional) Mit den "sonst"-Chips können komplexere "Wenn..., dann... sonst"-Beziehungen gelegt werden. Auf Grund der höheren Komplexität ist diese Option allerdings vor allem für Personen gedacht, die sich schon mehr zutrauen. Sollte das nicht der Fall sein oder es keinen Bedarf dafür geben, dann sollte die Option lieber nicht durchlaufen werden.
 6. Fertige Abläufe sollten mit einem Begleitsatz auf ein Post-It aufgeschrieben werden. Das stellt sicher, dass der Ablauf nicht fehlinterpretiert werden kann. Der Satz sollte in der nähe der Chips positioniert werden.
 
-
 Das Legen der Chips kann gemeinsam in der Gruppe oder alleine für sich durchgeführt werden.
 
-   <br><br>
+<br><br>
 
 #### Nachbereitung
 

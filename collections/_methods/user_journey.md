@@ -5,8 +5,7 @@ published: true
 title: User Journey
 english_title: User Journey
 last_update: 08.06.2022
-subtitle: 'Mit der User Journey kann eine zuvor festgelegte Handlung Schritt für Schritt untersucht werden. Z.B. Blumen gießen. Es wird überlegt - Was ist mein Ziel der Handlung? - "Die Pflanze soll gedeihen." Und wie komme ich dahin? Vom Erinnern, dass gegossen werden muss, über das Füllen der Gießkanne bis zum Wässern der Erde werden alle Handlungsschritte auf mehreren Ebenen untersucht. Am Ende kann überprüft werden - War mein ursprüngliches Ziel passend? Oder hatte ich eine falsche Grundannahme? Vielleicht stellt sich heraus, dass das Kränkeln der Pflanze nicht am mangelnden Wasser, sondern am Überfluss oder am falschen Standort lag.
-Mit der User Journey werden Alltagssituationen des Teilnehmenden untersucht und damit verbundene Barrieren, Wünschen und Emotionen aufgedeckt. Dies bildet dann den Ausgangspunkt für den weiteren Technikentwicklungsprozess.'
+subtitle: "Mit der User-Journey kann eine zuvor festgelegte Handlung Schritt für Schritt untersucht werden. Zum Beispiel Blumen gießen: Am Anfang steht die Frage „Was ist mein Ziel der Handlung?“ – Die Antwort: „Die Pflanze soll gedeihen.“ Dann gilt es zu überlegen: „Wie komme ich dahin?“ Alle Handlungsschritte – von der Erinnerung, dass gegossen werden muss, über das Füllen der Gießkanne bis zum Wässern der Erde – werden auf mehreren Ebenen untersucht. Am Ende kann überprüft werden, ob das anfangs genannte Ziel passend oder die Grundannahme falsch war. Vielleicht stellt sich heraus, dass es der Pflanze nicht deshalb schlecht ging, weil sie zu wenig, sondern zu viel Wasser bekam oder dass sie am falschen Standort war. Mit der User-Journey lassen sich Alltagssituationen des Teilnehmenden untersuchen und damit verbundene Barrieren, Wünsche und Emotionen aufdecken. Die Ergebnisse sind dann Ausgangspunkt für den weiteren Technik-Entwicklungsprozess. "
 ---
 
 <table class="tb">
@@ -83,9 +82,11 @@ Beschreibung des Aufbau der User Journey (kurz UJ) pro Schritt:
 #### Durchführung
 
 1. Gut sichtbar für alle anbringen/ positionieren.
-2. 
-  - A) mit Schritten (oberste Zeile) beginnen und anschließend die Spalten füllen.
-  - B) die Spalten Schritt für Schritt bearbeiten.
+2.
+
+- A) mit Schritten (oberste Zeile) beginnen und anschließend die Spalten füllen.
+- B) die Spalten Schritt für Schritt bearbeiten.
+
 3. Wenn Dinge genannt werden, die noch nicht 'dran sind', aufschreiben und zu gegebener Zeit anbringen.
 
    <br><br>

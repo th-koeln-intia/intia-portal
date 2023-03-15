@@ -7,8 +7,8 @@ english_title: Social Model of Disability
 synonyms:
   - Menschenrechtliches Modell von Behinderung
 last_update: 11.11.2021
-subtitle: Die Beschreibung einer vulnerablen Gruppe oder Person konzentriert sich auf Umweltfaktoren (der Mensch wird behindert durch eine unpassende Umgebung), statt auf die jeweilige körperliche oder geistig•seelische Verfasstheit.
-abstract: "Das Soziale Modell von Behinderung sieht Behinderung so: Eine Person ist nicht behindert, sondern die Umgebung behindert die Person. Treppen sind für Menschen im Rollstuhl behindernd, somit sind die Treppen ein Hindernis. Die Lösung dafür wäre eine Rollstuhlrampe oder ein Aufzug."
+subtitle: Das Soziale Modell von Behinderung sieht Menschen nicht aufgrund ihrer körperlichen oder geistigen Einschränkungen als behindert an, sondern aufgrund von Barrieren in Gesellschaft und Umwelt.
+abstract: "Nach dem Sozialen Modell von Behinderung ist eine Person nicht behindert, sondern die Umgebung behindert die Person. Zum Beispiel sind Treppen für einen Menschen im Rollstuhl behindernd. Die Lösung ist eine Rampe oder ein Aufzug, dann spielt es – um nach oben oder unten zu kommen – keine Rolle, ob jemand gehen kann oder nicht."
 ---
 
 ## Bedeutung für inklusive Technikentwicklung

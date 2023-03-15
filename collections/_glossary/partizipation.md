@@ -11,12 +11,8 @@ synonyms:
   - Mitbestimmung
   - partizipativ
 last_update: 11.11.2021
-subtitle: Beschreibt die Fähigkeit einen verantwortungsbewussten Umgang mit der Medienwelt zu auszuüben und die Medienwelt mitzugestalten.
-abstract: "Partizipation bedeutet, Prozesse und Produkte mit zu gestalten und
-  Entscheidungen mitzubestimmen. Partizipation ist wichtig für die Soziale
-  Arbeit und  inklusive Technik·entwicklung.  Das heißt: es ist wichtig, dass
-  Jugendliche und Fachkräfte Technik mitgestalten und Entscheidungen treffen
-  können."
+subtitle: Partizipation heißt, dass Menschen aktiv an Entscheidungen oder Prozessen teilnehmen und sie dadurch beeinflussen können.
+abstract: "Partizipation ist die Einbeziehung von allen Menschen – mit und ohne Behinderung – bei der Gestaltung von Prozessen und Produkten. Damit ist Partizipation eine wichtige Voraussetzung für Inklusion. Für die Soziale Arbeit und die inklusive Technikentwicklung bedeutet Partizipation, dass Jugendliche und Fachkräfte Technik mitgestalten und Entscheidungen treffen können."
 ---
 
 ## Bedeutung für inklusive Technikentwicklung

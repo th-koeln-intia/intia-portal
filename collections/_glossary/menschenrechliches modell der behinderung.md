@@ -7,8 +7,8 @@ english_title: Human Rights Model of Disability
 synonyms:
   - Soziales Modell von Behinderung
 last_update: 11.11.2021
-subtitle: Die menschenrechtliche Definition von Behinderung ist von Menschen mit Behinderung für Menschen mit Behinderung erstellt worden.
-abstract: "Die menschen•rechtliche Definition hat einen Grundsatz: „Ich bin nicht behindert, sondern ich werde behindert.“ Die Definition widerspricht dem medizinischen Modell. Behinderung entsteht durch die Gesellschaft und durch Barrieren in der Umwelt. Behinderung entsteht nicht durch den Körper."
+subtitle: Das menschenrechtliche Modell von Behinderung richtet den Blick auf die äußeren Umstände und gesellschaftlichen Bedingungen, durch die behinderte Menschen benachteiligt werden.
+abstract: "Das menschenrechtliche Modell von Behinderung ist von Menschen mit Behinderung für Menschen mit Behinderung erstellt worden. Es folgt dem Grundsatz: „Ich bin nicht behindert, sondern ich werde behindert.“ Nach dem Modell ist Behinderung kein medizinisches oder persönliches Problem, sondern entsteht durch Barrieren in Gesellschaft und Umwelt. Das menschenrechtliche Modell von Behinderung soll dazu beitragen, die Vielfalt von Behinderungen sowie von Menschen mit Behinderungen anzuerkennen und Barrieren abzubauen."
 ---
 
 ## Beschreibung
