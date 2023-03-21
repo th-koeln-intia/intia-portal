@@ -64,6 +64,13 @@ defaults:
       breadcrumbs: [Wissen, Wörterbuch]
       layout: default  
   - scope:
+      type: building_blocks
+      path: _building_blocks
+    values:
+      permalink: /werkzeuge/bausteine/:title/
+      breadcrumbs: [Werkzeuge, Bausteine]
+      layout: default   
+  - scope:
       type: methods
       path: _methods
     values:
@@ -79,6 +86,8 @@ collections:
   methods:
     output: true
   articles:
+    output: true
+  building_blocks:
     output: true
 
 # --------------------------- Includes and Excludes -------------------------- #

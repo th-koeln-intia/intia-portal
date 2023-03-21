@@ -4,22 +4,20 @@ title_above: Über INTIA
 permalink: /ueber/barrierearm/
 hero_tags: toppage
 subtitle: |
-  Auf der Plattform INTIA sind Inhalte möglichst barrierearm. Das bedeutet, die Sprache ist einfach, und die verwendete Schrift ist gut  lesbar. Wir bitten ausdrücklich um Rückmeldung, wenn das nicht  überall gut gelungen ist!
+  Die Inhalte auf der Plattform INTIA sind möglichst barrierearm. Das bedeutet: Die Sprache ist einfach, die Schrift ist gut lesbar, und die Farben sind kontrastreich. Wenn uns das nicht überall gut gelungen ist, bitten wir um eine Nachricht an kontakt@intia.de.
 ---
 
-## Was bedeutet barrierearm für uns?
+## Was bedeutet „barrierearm“ auf der Plattform INTIA?
 
-Die Texte auf der Plattform sollen möglichst für alle zugänglich und verständlich sein. Darum haben wir die Sprache möglichst einfach gehalten.
-Diese zusätzlichen Funktionen erleichtern die Nutzung der Plattform INTIA:
+Die Inhalte auf der Plattform sollen für alle zugänglich und verständlich sein. Darum ist die Sprache so einfach wie möglich. Zusätzliche Funktionen machen es noch leichter, die Plattform INTIA zu nutzen:
 
-- Pfeile "hoch / runter": Können über Assistenzsysteme zum Scrollen genutzt werden. Die Seiten sind zudem möglichst kurz aufgebaut, sodass nicht zu viel gescrollt werden muss.
-- Wörterbuch: Für eine ausführliche Erklärung den Begriff anklicken, um zum INTIA-Wörterbuch zu gelangen.
-- Alle Texte sind nach im Projekt entwickelten Regeln zum vereinfachten Lesen und Verstehen geschrieben. Diese Regeln wurden von den Hinweisen zur einfachen Sprache abgeleitet und so eingesetzt, dass sie eine Brücke zwischen der wissenschaftlichen Schreibweise und einfachen Texten bilden.
-- Die Farbgestaltung wurde so gewählt, dass möglichst hohe Kontraste entstehen und die eingesetzten Farben bei der Orientierung auf der Seite helfen.
-- Die Seite wurde von Expert:innen vorab getestet. Ihr Feedback wurde vor Veröffentlichung eingearbeitet.
-- Auf der Seite genutzte Bilder sind mit alternativen Texten hinterlegt.
+- Pfeil hoch/Pfeil runter: Die Pfeile können über Assistenzsysteme zum Scrollen genutzt werden. Alle Seiten sind so kurz wie möglich gestaltet, damit man nicht so viel scrollen muss.
+- Wörterbuch: Für eine ausführliche Erklärung klickt man auf den Begriff und kommt so zum INTIA Wörterbuch.
+- Alle Texte sind nach speziellen Regeln geschrieben, damit man sie leichter lesen und verstehen kann. Diese Regeln orientieren sich an den Hinweisen zur einfachen Sprache und wurden so umgesetzt, dass sie eine Brücke zwischen wissenschaftlicher Schreibweise und einfachen Texten schlagen.
+- Die Farben auf der Seite wurden so gewählt, dass möglichst hohe Kontraste entstehen und man sich dadurch leichter orientieren kann.
+- Die Seite wurde vorab von Expert:innen getestet. Ihre Meinung wurde vor der Veröffentlichung berücksichtigt.
+- Alle Bilder, die auf der Seite verwendet werden, haben alternative Texte. Diese beschreiben, was auf den Bildern zu sehen ist.
 
-## Feedback und Kontakt
+## Rückmeldung und Kontakt
 
-Ist ein Text auf dieser Plattform nicht leicht verständlich und du möchtest uns das sagen? Oder möchtest du mehr Informationen zu einem bestimmten Thema? Bitte schreibe eine E-Mail an [kontakt@intia.de](mailto:kontakt@intia.de). Dazu kannst du auch
-unser [Kontaktformular](/mitmachen/kontakt/) benutzen.
+Ist ein Text auf dieser Plattform schwer verständlich? Oder wünschst du dir mehr Informationen zu einem bestimmten Thema? Bitte schreibe uns: per E-Mail an [kontakt@intia.de](mailto:kontakt@intia.de).
