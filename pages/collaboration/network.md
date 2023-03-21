@@ -4,69 +4,18 @@ title_above: Mitmachen
 permalink: /mitmachen/netzwerk/
 hero_tags: toppage
 subtitle: |
-  Du möchtest dich mit anderen INTIA-Nutzenden vernetzen und austauschen? Deine INTIA-Geschichte erzählen? Oder Feedback zu etwas geben? Das alles ist im INTIA-Netzwerk möglich und eine wichtige Hilfe für alle anderen Nutzenden und Entwickler:innen von INTIA! Hier erfährst du, wo das INTIA-Netzwerk zu finden ist.
+  Du möchtest dich mit anderen INTIA-Nutzer:innen vernetzen und austauschen? Oder Feedback zu etwas geben? Das alles ist im INTIA-Netzwerk auf Facebook möglich. Wenn du mitmachst, hilfst du auch allen anderen Nutzer:innen und Entwickler:innen. Hier geht's zu unserer Facebook-Seite.
+  <br>
+  Alternativ kannst du dich auch per E-Mail bei uns melden: kontakt@intia.de.
 ---
 
 ## INTIA erleben
 
-Das INTIA-Netzwerk besteht aus allen Menschen, die Interesse an INTIA haben: Egal ob Sie den INTIA-Koffer nutzen, zur Entwicklung beitragen oder sich austauschen möchten. Werde auch DU Teil des INTIA-Netzwerks! Eine Anmeldung hierzu ist nicht notwendig. Melde dich einfach bei uns über das Kontaktformular!
-
-<!-- Hier findest du drei Möglichkeiten mitzumachen. Du haste andere Ideen, wie du dich gerne einbringen möchtest? Lass es uns über das Kontaktformular wissen! -->
-
-<!--
-<br><br>
-
-<div class='columns'>
-<div class='column is-one-third has-text-centered'>
-  <figure class='image '>
-    <img style="width: 50%; padding: 1.6rem; text-align: center; margin-left: auto; margin-right: auto; display: block; object-fit: scale-down;" class='with-zone green_bg is-round' src='/assets/img/about/network/austauschkanal_400px.png'>
-  </figure>
-      <h4><center>Austauschkanal</center></h4>
-      Austausch über das INTIA Material und persönliche Fragen im <strong>Austauschkanal</strong>
-</div>
-<div class='column is-one-third has-text-centered'>
-  <figure class='image'>
-    <img style="width: 50%; padding: 1.6rem; text-align: center; margin-left: auto; margin-right: auto; display: block; object-fit: scale-down;" class='with-zone green_bg is-round' src='/assets/img/about/network/makerspace_400px.png'>
-  </figure>
-      <h4><center>Makerspace</center></h4>
-      Bestandteile des INTIA-Koffers individualisieren und selbst produzieren im <strong>Maker Space Bonn</strong>
-</div>
-<div class='column is-one-third has-text-centered'>
-  <figure class='image'>
-    <img style="width: 50%; padding: 1.6rem; text-align: center; margin-left: auto; margin-right: auto; display: block; object-fit: scale-down;" class='with-zone green_bg is-round' src='/assets/img/about/network/video_400px.png'>
-  </figure>
-      <h4><center>Videos</center></h4>
-      Mehr über die INTIA-Produkte und ihre Nutzung lernen in den <strong>Fortbildungsvideos</strong>
-</div>
-</div>
--->
-
-<div class="highlighter">
-
-## Ergebnistagung
-
-  <div class='columns'>
-    <div class='column is-one-third has-text-centered'>
-      <figure class='image'>
-        <img class='with-zone' src='/assets/img/about/network/calender_400px.png'>
-      </figure>
-        Donnerstag, 09.06.2022<br>
-        09:00 bis 12:30 Uhr
-    </div>
-    <div class='column is-two-third'>
-      <h4>Im Juni findet die digtale INTIA Ergebnistagung statt, bei welcher via Zoom einge INTIA-Ergebnisse präsentiert werden. Jede:r kann (kostenlos) teilnehmen. </h4>
-    <br>
-    <br>
-
-      {% include button.html label="Zur Tagung" link="https://tagung.intia.de/" type="external" %}
-
-  </div>
-</div>
-</div>
+Du hast (mit deiner Jugendgruppe) Interesse daran, die Welt der Smart-Home-Technik zu erkunden? Mit dem INTIA Koffer könnt ihr die Technik erleben, verstehen und gestalten! Hier findest du die Kontaktdaten.
 
 ## Im Netzwerk schon dabei
 
-Das Forschungsprojekt INTIA konnte sowohl in den Einrichtungen seiner drei Wissenschaftspraxispartner:innen (Kurz WPKs) als auch bei anderen Einrichtungen Praxiseinsätze durchführen und gemeinsam an Forschungsfragen arbeiten. Zu diesen Einrichtungen gehören unter anderem intra Bonn, PIKSL Köln und das Institut für inklusive Bildung NRW.
+Das Forschungsprojekt INTIA hat bei seinen drei Wissenschafts-Praxispartner:innen (WPKs) und in anderen Einrichtungen Praxis-Einsätze durchgeführt und gemeinsam an Forschungsfragen gearbeitet. Zu diesen Einrichtungen gehören unter anderem intra Bonn, PIKSL Köln, JFC Medienzentrum Nippes und das Institut für inklusive Bildung NRW.
 
 <div class="highlighter">
 
@@ -78,7 +27,7 @@ Das Forschungsprojekt INTIA konnte sowohl in den Einrichtungen seiner drei Wisse
 
 ### intra Bonn
 
-Gemeinsam mit Fachkräften und Qualifikant\*innen der intra Bonn wurden einige INTIA-Methoden entwickelt und getestet und hierbei digitale Lösungen für den Einrichtungsalltag gemeinsam gestaletet.
+Gemeinsam mit Fachkräften und Qualifikant:innen der intra Bonn wurden einige INTIA-Methoden entwickelt und getestet. Dabei sind digitale Lösungen für den Einrichtungsalltag gestaltet worden.
 
   <a href="https://www.bonn.de/themen-entdecken/soziales-gesellschaft/intraggmbh.php" class="button is-rounded is-dark">
       <span>Website</span>
@@ -98,7 +47,7 @@ Gemeinsam mit Fachkräften und Qualifikant\*innen der intra Bonn wurden einige I
 
 ### PIKSL Köln
 
-PIKSL ist mit Bernhard Spelten im INTIA Fachbeirat vertreten. Des Weiteren hat PIKSL Köln zum Beispiel den INTIA-Koffer getestet und Feedback zur Arbeit mit ihm gegeben.
+PIKSL ist mit Bernhard Spelten im Fachbeirat von INTIA vertreten. Des Weiteren hat PIKSL Köln zum Beispiel den INTIA Koffer getestet und Feedback zu seiner Verwendung gegeben.
 
   <a href="https://piksl.net/ed/standorte/koeln/" class="button is-rounded is-dark">
       <span>Website</span>
@@ -110,6 +59,26 @@ PIKSL ist mit Bernhard Spelten im INTIA Fachbeirat vertreten. Des Weiteren hat P
   </div>
   </div>
 
+<div style="margin: 6rem 0 6rem 0" class="columns">       
+  <div style="margin-right: 3rem;" class="column is-4 is-round is-centered">
+    <img style="object-fit: scale-down;" src="/assets/img/about/network/jfc.png" alt="placeholder" class="">
+  </div>
+<div class="column">
+
+### JFC Medienzentrum
+
+Medienpädagog:innen im JFC Medienzentrum haben den INTIA Koffer an verschiedenen Terminen getestet und so zur Weiterentwicklung des Prototypen beigetragen.
+
+  <a href="https://www.jfc.info/" class="button is-rounded is-dark">
+      <span>Website</span>
+      <span class="icon is-small">
+        <i class="fas icon-external fa-xs invert"></i>
+      </span>
+  </a>
+  <div class="clear"></div>                          
+  </div>
+  </div>
+  
   <div class="columns">       
   <div style="margin-right: 3rem;" class="column is-4 is-round is-centered">
     <img style="object-fit: scale-down;" src="/assets/img/about/network/IBB_Logo.jpg" alt="placeholder" class="">
@@ -118,7 +87,7 @@ PIKSL ist mit Bernhard Spelten im INTIA Fachbeirat vertreten. Des Weiteren hat P
 
 ### Institut für Inklusive Bildung
 
-Die Bildungsfachkräfte des Institutes für inklusive Bildung (IIB) haben INTIA–Methoden getestet. Außerdem ist das IIB durch Fabian Hesterberg im Fachbeirat von INTIA vertreten.
+Die Bildungsfachkräfte des Instituts für inklusive Bildung (IIB) haben INTIA–Methoden getestet. Außerdem ist das IIB durch Fabian Hesterberg im Fachbeirat von INTIA vertreten.
 
   <a href="https://nrw.inklusive-bildung.org/de/startseite-1" class="button is-rounded is-dark">
       <span>Website</span>

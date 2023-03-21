@@ -1,11 +1,11 @@
 ---
-title: Kontakt
+title: Schreib' uns!
 title_above: Mitmachen
 hero_tags: toppage
 subtitle: |
-  Mach' mit und werde Teil des Netzwerks! Es geht um alles rund um digitale technische Alltagshilfen. Schon dabei sind: das INTIA-Projektteam, der Fachbeirat des Projekts und seine Praxispartner. Alle verbindet der Wunsch, sich untereinander und mit Fachkräften der Sozialen Arbeit und den beteiligten Wissenschaftler:innen auszutauschen und ein Netzwerk zu bilden.
+  Hast du Fragen? Ist etwas unklar? Möchtest du zu einem Thema einen Beitrag leisten? Dann nimm Kontakt mit uns auf. Wir suchen in unserem Team die richtige Ansprechperson und melden uns mit einer Antwort, so schnell es geht. Wenn du magst, nehmen wir gerne deine Kontaktdaten in unsere Datenbank auf.
 permalink: /mitmachen/kontakt/
-contact: true
+contact: false
 ---
 
 {% include highlighter.html min-height25p=true content='
@@ -13,7 +13,43 @@ contact: true
 <div class="columns">
 <div class="column">
 
-## Anschrift
+## Anwendungsbezogene Anfragen z.B. Ausleihe des INTIA Koffers
+
+[fabian.hesterberg@th-koeln.de](mailto:fabian.hesterberg@th-koeln.de)
+
+<br>
+oder
+<br>
+<br>
+Fabian Hesterberg
+<br>
+Fakultät für Angewandte Sozialwissenschaften
+<br>
+Forschungsprojekt INTIA
+<br>
+Ubierring 48, Raum 2
+<br>
+50678 Köln
+<a href="https://www.th-koeln.de/personen/fabian.hesterberg/" class="button is-rounded is-dark" style="float: right">
+<span>Zur Personenseite</span>
+<span class="icon is-small">
+<i class="fas icon-external fa-xs invert"></i>
+</span>
+</a>
+</div>
+<div class="column">
+<img style="height: auto;" src="/assets/img/logos/TH_Single.png">
+</div>
+</div>
+
+'%}
+
+{% include highlighter.html min-height25p=true content='
+
+<div class="columns">
+<div class="column">
+
+## Allgemeine und wissenschaftliche Anfragen
 
 [kontakt@intia.de](mailto:kontakt@intia.de)
 
@@ -38,7 +74,7 @@ Gustav-Heinemann-Ufer 54
 </a>
 </div>
 <div class="column">
-<img src="/assets/img/logos/TH_Single.png">
+<img style="height: auto;" src="/assets/img/logos/TH_Single.png">
 </div>
 </div>
 

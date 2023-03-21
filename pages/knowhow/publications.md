@@ -5,10 +5,7 @@ jekyll-hyperlink-glossary: false
 title: Publikationen
 hero_tags: toppage
 subtitle: >
-  Hier sind alle Veröffentlichungen zu finden, die im Rahmen des Projektes INTIA
-  entstanden und für den Inhalt dieser Plattform relevant sind. Sie reichen von
-  wissenschaftlichen Artikeln bis hin zu Präsentationen auf internationalen
-  Konferenzen.
+  Hier findest du alle Veröffentlichungen, die im Zusammenhang mit dem Projekt INTIA entstanden sind. Sie haben alle für den Inhalt dieser Plattform eine Bedeutung. Das können wissenschaftliche Artikel, ganze Bücher oder Präsentationen auf internationalen Konferenzen sein.
 ---
 
 ## Wissenschaftliche Veröffentlichungen
@@ -51,7 +48,7 @@ In I’X, August 2020.\
 
 Zorn, Isabel; Schwarz, Christine (2019):\
 **MakeyMakey - verblüffende Computersteuerungen erstellen.**\
-In Deutsche Telekom Stiftung (Hg.): Digitale Kompetenzen in der Jugendarbeit. Bonn, S. 31–38.\
+In Deutsche Telekom Stiftung (Hrsg.): Digitale Kompetenzen in der Jugendarbeit. Bonn, S. 31–38.\
 [PDF Digitale Kompetenzen in der Jugendarbeit aufrufen](https://www.telekom-stiftung.de/sites/default/files/files/Ordner-Digitale-Kompetenzen.pdf)
 
 Zorn, Isabel; Wilken-Dapper, Stephanie (2019):\
@@ -139,7 +136,7 @@ Beitrag DITES Forschungskolloquium 15.10.2020
 
 Zorn, Isabel (2020):\
 **To whatsapp or to protect data? Erkenntnisse zur pädagogischen und organisatorischen Einbindung von Kommunikationstechnologien in die Soziale Arbeit.**\
-In Helmut Kreidenweis und Bernd Halfar (Hg.): Tagungsdokumentation der 15. Eichstätter Fachtagung Sozialinformatik. Eichstätt: Katholische Universität Eichstätt-Ingolstadt, S. 17–37.
+In Helmut Kreidenweis und Bernd Halfar (Hrsg.): Tagungsdokumentation der 15. Eichstätter Fachtagung Sozialinformatik. Eichstätt: Katholische Universität Eichstätt-Ingolstadt, S. 17–37.
 
 Zorn, Isabel (2020):\
 **Datenschutzfragen beim Einsatz von digitalen Tools in Bildungskontexten (z.B. während der COVID-19-Präventionsmaßnahmen).**\
@@ -165,12 +162,24 @@ Vortrag im Forschungsforum der Fakultät für Angewandte Sozialwissenschaften, T
 ## Abschluss- und Projektarbeiten
 
 Johannsen, Sophia (2023):\
+**Entwicklung eines Smart Home Erlebnisraumes**\
+Bachelorarbeit Technische Hochschule Köln. Betreut von Dennis Christian Wilk, Marc Schmidt, Prof. Dr. Stefan Bente & Prof. Dr. Christian Kohls. Köln.
+
+Johannsen, Sophia (2023):\
 **Entwicklung eines Grundsets an Skills für einen Open Source Sprachassistenten**\
 Praxisprojekt Technische Hochschule Köln. Betreut von Dennis Christian Wilk , Marc Schmidt & Prof. Dr. Stefan Bente. Köln.
 
 Wehn, Finn (2023):\
+**Überführung eines Studienprojekts in ein Open-Source Projekt anhand eines Skillsystems für den Sprachassistenten Rhasspy**\
+Bachelorarbeit Technische Hochschule Köln. Betreut von Dennis Christian Wilk, Marc Schmidt & Prof. Dr. Stefan Bente. Köln.
+
+Wehn, Finn (2023):\
 **Skillsystem für einen Open Source Sprachassistenten**\
 Praxisprojekt Technische Hochschule Köln. Betreut von Dennis Christian Wilk , Marc Schmidt & Prof. Dr. Christian Kohls. Köln.
+
+Iyawe, George (2023):\
+**Generierung von Programmabläufen mithilfe von Syntaxbäumen am Beispiel einer Prototypisierungsmeth**\
+Bachelorarbeit Technische Hochschule Köln. Betreut von Dennis Christian Wilk, Marc Schmidt, Prof. Dr. Christian Kohls. Köln.
 
 Iyawe, George (2023):\
 **Digital Prototyping - Plattform zur kollaborativen Darstellung von technischen Intentionen**\
@@ -181,7 +190,7 @@ Klein, Florian (2022):\
 Bachelorarbeit Technische Hochschule Köln. Betreut von Marc Schmidt & Prof. Dr. Stefan Bente. Köln.
 
 Klein, Florian (2022):\
-**Neustrukturierung und responsiv Umsetzung des INTIA Methoden-Radars in JavaScript.**\
+**Neustrukturierung und responsive Umsetzung des INTIA Methoden-Radars in JavaScript.**\
 Praxisprojekt Technische Hochschule Köln. Betreut von Marc Schmidt & Prof. Dr. Stefan Bente. Köln.
 
 Przygodzinski, Dawid (2022):\
@@ -189,7 +198,7 @@ Przygodzinski, Dawid (2022):\
 Bachelorarbeit Technische Hochschule Köln. Betreut von Marc Schmidt & Prof. Dr. Stefan Bente. Köln.
 
 Landgraf, Eric (2022):\
-**Eruierung von Anforderungen und Erfolgsbedingungen für einen Sprachassistentenmit Fokus auf deutschsprachige Nutzer über 65 Jahren.**\
+**Eruierung von Anforderungen und Erfolgsbedingungen für einen Sprachassistentenmit Fokus auf deutschsprachige Nutzer über 65 Jahre.**\
 Bachelorarbeit Technische Hochschule Köln. Betreut von Marc Schmidt, Dennis Christian Wilk & Prof. Dr. Stefan Bente. Köln.
 
 Landgraf, Eric (2021):\

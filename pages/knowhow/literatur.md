@@ -5,7 +5,7 @@ jekyll-hyperlink-glossary: false
 title: Literatur
 hero_tags: toppage
 subtitle: >
-  Hier befindet sich eine Literaturrecherche zu partizipativer Technologieentwicklung mit Jugendlichen in jugendbezogenen Behinderten- und Erziehungshilfen.
+  Zum Thema der partizipativen Technologieentwicklung mit Jugendlichen in jugendbezogenen Behinderten- und Erziehungshilfen haben wir unten stehende Literatur recherchiert.
 ---
 
 ## Literaturreview zu partizipativer Technologieentwicklung in der Behinderten- und Erziehungshilfe im Kontext Sozialer Arbeit
