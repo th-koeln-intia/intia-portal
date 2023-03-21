@@ -1,15 +1,9 @@
 ---
+hero_tags: subpage method pdf
+title_above: Bausteine
 title: Knopf
-published: true
-description: Ein Block, der einen Tastendruck erkennt
-product_code: B1
 image: /assets/img/tools/building_blocks/knopf_2.jpg
-price: 10€
-features:
-  - label: Single-Tap / Multiple-Tap
-    icon: fa-location-arrow
-  - label: Hold/Release
-    icon: fa-grin-stars
+hero_image: /assets/img/tools/building_blocks/knopf_2.jpg
 subtitle: "Mit Knöpfen kannst du andere Bausteine ansteuern. Es gibt viele Arten von Knöpfen - mit verschiedenen Funktionen. Einige Knopfe müssen nur leicht berührt werden. Andere Knöpfe müssen feste gedrückt werden. Manchmal reicht eine kurze Berührung, manchmal muss der Knopf lange gedrückt werden. Auch die Formen der Knöpfe können sehr unterschiedlich sein: groß, klein, weiß oder bunt."
 ---
 

@@ -1,8 +1,9 @@
 ---
+hero_tags: subpage method pdf
+title_above: Bausteine
 title: Türkontakt
-published: true
 image: /assets/img/tools/building_blocks/kontaktsensor.jpg
-price: 50€
+hero_image: /assets/img/tools/building_blocks/kontaktsensor.jpg
 subtitle: Sensoren nehmen etwas wahr. Ein Knopf ist eigentlich auch ein einfacher Sensor. Der Knopf nimmt deine Berührung etwa mit dem Finger, der Hand oder dem Fuß wahr.
 ---
 
