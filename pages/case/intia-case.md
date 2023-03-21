@@ -1,31 +1,61 @@
 ---
-title: Über den INTIA-Koffer
+title: Was ist der INTIA Koffer?
 title_above: INTIA-Koffer
 permalink: /intia-koffer/
 hero_tags: toppage
 subtitle: |
-  Der INTIA-Koffer beinhaltet verschiedene Werkzeuge und Methoden, um Bedürfnisse im Alltag besser zu verstehen und Lösungen für Probleme zu entwickeln - und zu bauen!
+  Der INTIA Koffer ist eine Art mobiles Labor zum Erleben, Verstehen und Gestalten von Smart-Home-Technologie. Er bietet einen ersten Zugang in die Welt der Technik. Der Laborkoffer enthält verschiedene Werkzeuge wie Methoden oder Technik-Bausteine, um Bedürfnisse im Alltag besser zu verstehen und Lösungen für Probleme zu entwickeln – und zu bauen!
 ---
 
-## Was ist der INTIA-Koffer?
+## Wozu ist der INTIA Koffer gedacht?
 
-Der INTIA-Koffer schafft explorative Zugänge zu digitalen Technologien und ermöglicht die ko-kreative Lösungsfindung. Jugendliche und Fachkräfte entwickeln gemeinsam Prototypen zur Bewältigung von Alltagssituationen und für mehr Teilhabe im Alltag.
+Der INTIA Koffer macht es möglich, mit digitalen Technologien zu experimentieren. Jugendliche entwickeln gemeinsam mit Fachkräften Ideen, wie Technik den Alltag erleichtern kann. Dabei soll die Beteiligung der Jugendlichen gefördert werden.
 
-<br>
+### Mit dem INTIA-Koffer kann man:
 
-Der INTIA-Koffer ermöglicht:
-<br>
-
-- Niedrigschwellige und spielerische Erforschung des Bedürfnisraums
-- Niedrigschwellige und spielerische Entwicklungen im Lösungsraum
-- Unterstützung der Lösungsentwicklung durch Methoden und Werkzeuge
+- einfach und spielerisch Bedürfnisse erkennen und formulieren
+- einfach und spielerisch Ideen für Lösungen entwickeln
+- Methoden und Werkzeuge als Unterstützung bei der Entwicklung von Lösungen nutzen
+- „echte“ Technik-Prototypen bauen und ausprobiere
 
 <br>
 
-Jugendliche erfahren mit diesem Ansatz ihre Selbstwirksamkeit und Selbständigkeit in der Entwicklung von Lösungsansätzen. Auch Fachkräfte können mit dem Koffer Ideen entwickeln, um ihre Arbeitsprozesse durch technische Hilfsmittel zu ergänzen und so ihren Arbeitsalltag zu erleichtern.
+<div class="columns is-centered is-desktop">
+<div class="column is-offset-1">
+<figure>
+  <img src="/assets/img/intia-case/Escape_Game.jpg" alt="" style="height:350px;">
+</figure>
+</div>
+<div class="column">
+<figure>
+  <img src="/assets/img/tools/building_blocks/koffer_4.jpg" alt="" style="height:350px;">
+</figure>
+</div>
+</div>
 
-<br>
+## Selbstwirksamkeit und Selbstständigkeit fördern
 
+Mit diesem Ansatz lernen Jugendliche, dass sie selbst in der Lage sind, ihre Bedürfnisse zu formulieren und Ideen für die Lösung von Problemen zu entwickeln. Gleichzeitig wird die Neugier der Jugendlichen gefördert und sie erfahren, dass Lernen Spaß machen kann. Fachkräfte können mit dem Koffer neue Ideen bekommen, um ihre Arbeit mit Technik zu unterstützen und ihren Arbeitsalltag einfacher zu machen.
+
+## Die Elemente des INTIA Koffers
+
+Die Methoden und Bausteine im Koffer fördern den kreativen und spielerischen Umgang mit digitalen Technologien. Dabei kommen sowohl analoge als auch digitale Werkzeuge zum Einsatz.
+
+### Der Koffer enthält zwei Module:
+
+#### Modul 1 – Erleben
+
+- Escape-Game: Mit dem spannenden Escape-Game lernen die Jugendlichen Schritt für Schritt unterschiedliche Geräte für das Smart Home kennen. Dabei können sie die Technik buchstäblich in die Hand nehmen und selbst ausprobieren.
+- Technik-Fächer: Der Technik-Fächer ist eine Art Lexikon. Er besteht aus mehreren Karten, auf denen erläutert wird, wie die Technik-Bausteine funktionieren.
+- Zusätzliche Technik-Bausteine: Neben Escape-Game und Technik-Fächer enthält der Koffer einen Erschütterungs-Sensor, einen Temperatur-Sensor und einen Kontakt-Sensor.
+
+#### Modul 2 - Gestalten
+
+- Spielkarten-Sets: Mit den Karten-Sets können sich die Jugendlichen über ihren Alltag und ihre Bedürfnisse austauschen.
+- Ideen-Würfel: Die Würfel fördern die Kreativität. So können die Jugendlichen überlegen, wie die Smart-Home-Technik sie Tag für Tag unterstützen kann.
+- Programmier-Plättchen: Mit den Programmier-Plättchen werden sogenannte Ideensätze gelegt. Das ist der erste Schritt, um Programmiersprache zu verstehen. Dabei können die Jugendlichen selbst entscheiden, wofür sie Technik in ihrem Alltag benutzen wollen. In den Sätzen sind dann die technischen Lösungswege enthalten.
+
+<!--
 <div class="columns is-centered is-desktop">
 <div class="column is-offset-1">
 <figure>
@@ -33,12 +63,7 @@ Jugendliche erfahren mit diesem Ansatz ihre Selbstwirksamkeit und Selbständigke
 </figure>
 </div>
 </div>
-
-Die Werkzeuge und Methoden des Koffers fördern den kreativen und spielerischen Umgang mit digitalen Technologien. Dabei kommen sowohl analoge als auch digitale Werkzeuge zum Einsatz. Der Koffer enthält folgende Elemente:
-
-- Methodenbeschreibungen sowie unterstützende Werkzeuge und Materialien. Diese helfen beim Erheben von Bedürfnissen, Beschreiben von Problemen und Gestalten neuer, digitaler Lösungen.
-- Bausteine zum Entwickeln von Prototypen. Es gibt analoge Funktionsplättchen und digitale Technik-Bausteine. Mit den analogen Funktionsplättchen entwerfen Jugendliche mögliche Prototypen, ohne dass die Technologie schon beherrscht wird. Mit den Technik-Bausteinen explorieren Jugendliche die Möglichkeiten und können selbst eigene Funktionalitäten als Prototypen umsetzen.
-- Anleitungen und Schulungsmaterialien zum spielerischen Herantasten an die Technologien. Neben Anleitungen zu den technischen Komponenten und der visuellen Entwicklungsumgebung Node-RED gibt es ein Escape-Game. Das Escape-Game führt durch Rätsel und Aufgaben an die einzelnen Technikbausteine heran. Es zeigt, was alles möglich ist.
+-->
 
 <br>
 
@@ -50,16 +75,16 @@ Die Werkzeuge und Methoden des Koffers fördern den kreativen und spielerischen 
 </div>
 <div class="column">
 <figure>
-  <img src="/assets/img/intia-case/intia-case-4.jpg" alt="Zettel mit technischen Begriffen liegen auf einem Tisch. Dort steht auch ein Bügeleisen." style="height:350px;">
+  <img src="/assets/img/intia-case/prototyp.jpg" alt="Zettel mit technischen Begriffen liegen auf einem Tisch. Dort steht auch ein Bügeleisen." style="height:350px;">
 </figure>
 </div>
 </div>
 
 <br>
 
-## Prinzipien des INTIA-Koffers
+## Die Prinzipien des INTIA Koffers: einfach, modular, offen für alle
 
-Die Einsatzmöglichkeiten des INTIA-Koffers sind vielseitig. Der Koffer eignet sich für viele Zielgruppen, ist mobil, offen, kostengünstig und modular. Jeder Koffer besteht aus mehreren Elementen. Diese Modularität erlaubt eine individuelle Zusammenstellung eines INTIA-Koffers. Alle im Rahmen des Projektes entwickelten Komponenten sind als Open Source oder als Open Educational Resource frei verwendbar. Bei den technischen Bausteinen wurde auf einfache Smart Home Geräte und Sensoren gesetzt, die du kostengünstig im Fachhandel kaufen kannst. Das logische Zusammenspiel der Komponenten und das prototypische Festlegen von Funktionalität, wird durch einen Mini-Computer und eine visuelle Programmierumgebung ermöglicht.
+Der INTIA Koffer ist vielseitig einsetzbar und für mehrere Zielgruppen geeignet. Er ist leicht zu transportieren, offen, günstig und modular, das heißt, er besteht aus mehreren Teilen, die man zusammenstellen kann. Alle Komponenten, die im Projekt entwickelt wurden, kann man als Open Source oder als Open Educational Resource verwenden. Die Technik-Bausteine sind einfache Smart-Home-Geräte und Sensoren, die man günstig im Laden kaufen kann. Mit einem Mini-Computer und einer visuellen Programmierumgebung werden die Komponenten logisch zusammengesetzt und Funktionalitäten festgelegt.
 
 {% include callouts.html data="principles-callout" %}
 
@@ -69,32 +94,31 @@ Die Einsatzmöglichkeiten des INTIA-Koffers sind vielseitig. Der Koffer eignet s
   <img src="/assets/img/intia-case/INTIA_UseCase.svg" alt="" style="">
 </figure>
 
-## Die Koffer-Komponenten im Detail
+## Die Koffer-Komponenten im Einzelnen
 
-Hier sind alle Elemente aufgelistet, die sich im INTIA-Koffer befinden.
+Hier sind alle Elemente aufgelistet, die sich im INTIA Koffer befinden.
 
 <table class="tb">
     <tr>
        <th>Anleitungen und Lehrmaterial</th>
        <td>
           <ul>
-          <li>Schnellübersicht</li>
-          <li>Escape Game als Einstieg für den Umgang mit den Technik-Bausteinen</li>
-          <li>Informationen zur Nutzung der Methoden und Werkzeuge</li>
-          <li>Tipps für kreatives Denken</li>
-          <li>Anleitungen zu den technischen Komponenten sowie der Entwicklungsumgebung (Node-RED)</li>
+          <li>Ausführliche Moderationanleitung für die Fachkraft</li>
+          <li>Willkommensschreiben für die Jugendlichen</li>
+          <li>Escape-Game als Einstieg für den Umgang mit den Technik-Bausteinen</li>
+          <li>Hintergrundinformationen und Details zu den Technik-Bausteinen</li>
+          <li>Anleitungen zu den einzelnen Modulen und Elementen</li>
           </ul>
         </td>
     </tr>
     <tr>
-        <th>Methodenbeschreibungen und Werkzeuge</th>
+        <th>Werkzeuge</th>
         <td>
           <ul>
-          <li><strong>INTIA-Methodensammlung:</strong> Beschreibungen der Methoden und Werkzeuge zur Exploration des Bedürfnisraums und des Lösungsraums</li>
-          <li><strong>INTIA-Nerv-Tagebuch</strong> zur Dokumentation problematischer Alltagssituationen</li>
-          <li><strong>INTIA-Impuls- und Alltagskarten</strong> zur Beschreibung von Bedürfnissen und Alltagsproblemen</li>
-          <li><strong>Probe-Kits</strong> zur Beobachtung und Reflektion des eigenen Handelns im Alltag</li>
-          <li><strong>Funktionsplättchen</strong> zum analogen Prototypsisieren und Festlegen von Funktionsabläufen und Steuerung von Alltagsgeräten</li>
+          <li><strong>INTIA-Methodensammlung:</strong> Anleitungen zu verschiedenen Methoden, um Bedürfnisse und Lösungen zu erforschen</li>
+          <li><strong>INTIA-Alltags- und Bedürfnis-Karten:</strong> Methoden zum Erforschen und Beschreiben von Alltagsproblemen und Bedürfnissen</li>
+          <li><strong>INTIA-Spielewürfel:</strong> Methode um Technikideen zum Lösen von Alltagsproblemen zu finden</li>
+          <li><strong>Programmier-Plättchen:</strong> Zugang zur Programmier-Sprache und zum analogen Programmieren</li>
           </ul>
         </td>
     </tr>
@@ -102,18 +126,20 @@ Hier sind alle Elemente aufgelistet, die sich im INTIA-Koffer befinden.
        <th>Technik-Bausteine</th>
        <td>
           <ul>
-          <li>Ausgabebausteine (Lampe, Motoren, Display, verschließbare Kiste)</li>
-          <li>Eingabebausteine (Knöpfe, Keypad, Türkontakt, Sensoren für Temperatur, Erschütterung und   Bewegung) </li>
+          <li>Ausgabe-Bausteine (Lampe, Display, verschließbare Kiste)</li>
+          <li>Eingabe-Bausteine (Knöpfe, Türkontakt, Sensoren für Temperatur, Erschütterung und Bewegung)</li>
           <li>Mini-Computer zur Steuerung der Bausteine</li>
-          <li>Visuelle Entwicklungsumgebung Node-RED zum Festlegen der Funktionalität </li>
-          <li>Infrastruktur (Netzteile, Steckdose, Lampenfassung)</li>
+          <li>Visuelle Entwicklungsumgebung Node-RED zum Festlegen der Funktionalität</li>
+          <li>Infrastruktur (Tablet, Netzteile, Steckdose, Lampenfassung)</li>
           </ul>
         </td>
     </tr>
 </table>
 
 <br>
+Du kannst den INTIA Koffer auch ausleihen oder selbst nachbauen. Informationen hierzu findest du unter [Erwerben](/intia-koffer/erwerben).
 
+[TBD Ab hier]
 Die Komponenten sind derzeit bereits in einer prototypischen Version des INTIA-Koffers integriert. In Kürze wird es Anleitungen geben, damit du selbst deinen individuellen Koffer zusammenstellen kannst.
 Neben den Basis-Komponenten lässt sich der Koffer sehr gut erweitern, z.B. durch eine Zusammenstellung von Eingabeelementen (Knopf-Set), Sensoren (Sensor-Set) oder eine Sprachsteuerung. Diese Sprachsteuerung funktioniert ohne Anbindung an die Internet-Cloud. Deine Daten und gesprochenen Anweisungen bleiben also lokal bei dir!
 

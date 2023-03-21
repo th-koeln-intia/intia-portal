@@ -1,10 +1,10 @@
 style: is-light
 height: is-medium
 items:
-  - title: Für jeden
+  - title: Für Alle
     icon: icon-for-all
     description: >
-       Interdisziplinär entwickelt mit Teilnehmenden aus unterschiedlichen Kontexten.
+       Interdisziplinär entwickelt mit Menschen aus verschiedenen Zusammenhängen und Umständen.
   - title: Mobil
     icon: icon-mobile
     description: >
@@ -12,12 +12,12 @@ items:
   - title: Offen
     icon: icon-open
     description: >
-       Ein lebendiges Produkt, dass jeder weiterentwickeln und verändern kann. Kern-Komponenten sind Open Source oder Open Educational Resources.
-  - title: Kostengünstig
+       Wer möchte, kann den Koffer weiterentwickeln und verändern – dank Open Source und Open Educational Resources.
+  - title: Günstig
     icon: icon-cost
     description: >
-      Preiswerte Smart Home Geräte ergänzen die freizugänglichen Komponenten.
+      Die frei zugänglichen Komponenten können mit preiswerten Smart-Home-Geräten ergänzt werden.
   - title: Modular
     icon: icon-modular
     description: >
-      Der Koffer ist erweiterbar und alle seine Bausteine können sehr leicht ausgetauscht werden.
+      Der Koffer ist erweiterbar, und alle Bausteine können leicht ausgetauscht werden.
