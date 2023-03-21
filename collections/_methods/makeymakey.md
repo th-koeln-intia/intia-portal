@@ -9,7 +9,6 @@ subtitle: "Ein MakeyMakey ist ein Eingabegerät für ein digitales Endgerät. Es
 ---
 
 <table class="tb">
-    
     <tr>
         <th><strong>Ziel der Methode</strong></th>
         <th>Aktionen auslösen durch Berührung</th>
@@ -33,10 +32,8 @@ subtitle: "Ein MakeyMakey ist ein Eingabegerät für ein digitales Endgerät. Es
     <tr>
       <td><strong>Dauer</strong></td>
       <td>Vorbereitung: Material und Software. Aufwändig.<br>
-
-Durchführung: Klemmen oder Kabel an Menschen verteilen. Wenige Minuten.<br>
-
-Nachbereitung: Klemmen und Kabel wieder verstauen.
+          Durchführung: Klemmen oder Kabel an Menschen verteilen. Wenige Minuten.<br>
+          Nachbereitung: Klemmen und Kabel wieder verstauen.
       </td>
     </tr>
     <tr>
