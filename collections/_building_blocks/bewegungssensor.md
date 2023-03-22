@@ -1,7 +1,7 @@
 ---
 hero_tags: subpage method pdf
 title_above: Bausteine
-title: Knopf
+title: Bewegungs-Sensor
 image: /assets/img/tools/building_blocks/bewegungssensor.jpg
 hero_image: /assets/img/tools/building_blocks/bewegungssensor.jpg
 subtitle: Der Bewegungs-Sensor erkennt Bewegungen in einem bestimmten Radius und einer bestimmten Entfernung.
