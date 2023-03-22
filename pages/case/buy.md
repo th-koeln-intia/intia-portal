@@ -4,64 +4,88 @@ title_above: INTIA-Koffer
 permalink: /intia-koffer/erwerben/
 hero_tags: toppage
 subtitle: |
-  Wie kommt man an einen INTIA-Koffer und wie stellt man diesen zusammen? Diese Fragen werden hier beantwortet.
+  Wie kommt man an den INTIA-Koffer oder wie kann ich den Koffer nachbauen? Diese Fragen werden hier beantwortet.
 ---
 
-## Wo gibt es den INTIA-Koffer?
+## Wie komme ich an einen INTIA-Koffer?
 
-Der INTIA-Koffer bietet viele Möglichkeiten für Technikentwicklung. Aktuell kann man den INTIA-Koffer noch nicht direkt bekommen. Das wird sich aber hoffentlich noch ändern.
+Es gibt zwei Möglichkeiten: Du leihst dir den Koffer aus oder du baust den Koffer nach.
 
-Dennoch kann der INTIA-Koffer bereits jetzt benutzt werden: Du kannst dir deinen eigenen Koffer bauen! Bestell dir die Einzelteile mithilfe unserer vorgefertigten Einkaufslisten und folge den Anleitungen. Es ist alles so aufbereitet, dass dieser Prozess sehr einfach sein sollte. Bei Fragen kannst du dich jederzeit bei uns melden.
+Du kannst entweder über eine Bildungfachkraft des Forschungsprojektes den Koffer ausleihen oder du wendest dich an die Stadtbibliothek Köln. Eine weitere Möglichkeit ist, den INTIA-Koffer nachzubauen. Mit Hilfe von einer Einkaufsliste und den frei zugänglichen Anleitungen kannst du dir deinen eigenen INTIA-Koffer zusammenstellen. Es ist alles so beschrieben, dass das Nachbauen sehr einfach gelingt.
 
-## Was kostet der INTIA-Koffer?
+Wichtige Informationen und Materialien zum Leihen oder Nachbauen findest du weiter unten. Bei Fragen kannst du jederzeit das Kontaktformular verwenden.
 
-Und wie viel kostet nun so ein INTIA-Koffer? Die Infos gibt es hier. Die Preise sind eine grobe Schätzung. Dennoch gibt die Tabelle einen Überblick darüber, wie teuer der Koffer und seine Erweiterungen etwa sind.
+## Leihen
 
-<table class="tb">
-    <tr>
-        <th>Bezeichnung</th>
-        <th>Beschreibung</th>
-        <th>Preis</th>
-    </tr>
-    <tr>
-        <td><strong>INTIA-Koffer</strong></td>
-        <td>Der Mini-Computer, eine Auswahl einfacher Bausteine und alle analogen Materialien.<br /> 
-        <td>~ 350 €</td>
-    </tr>
-    <tr>
-        <td>INTIA-Erweiterung: <strong>Knopf-Set</strong></td>
-        <td>Eine Auswahl verschiedener Knöpfe, Schalter und Fernbedienungen.</td>
-        <td>~ 100 €</td>
-    </tr>
-    <tr>
-        <td>INTIA-Erweiterung: <strong>Sensor-Set</strong></td>
-        <td>Eine Auswahl verschiedener Sensoren. Bewegungsmelder, Türkontakte, Temperatursensoren und mehr.</td>
-        <td>~ 125 €</td>
-    </tr>
-    <tr>
-        <td>INTIA-Erweiterung: <strong>Sprachassistenz-Set</strong></td>
-        <td>Der Mini-Computer kann hiermit zu einem Sprachassistenten umgerüstet werden.</td>
-        <td>~ 65 €</td>
-    </tr>
-    <tr>
-        <td><strong>INTIA-Methodensammlung</strong></td>
-        <td>Alle analogen Materialien im hochwertigen Druck (ohne Bausteine). Ideal für Selbst-Bastler, MakerSpaces, Kreativ-Räume und Innovations-Labore!</td>
-        <td>~ 65 €</td>
-    </tr>
-    <tr>
-        <td><strong>INTIA als Laborraum ausstatten</strong></td>
-        <td>Alles aus dem INTIA-Baukasten und der INTIA-Methodensammlung, um einen Raum als Laborraum auszustatten. Der Umfang und der Preis hängen davon ab, was du             brauchst oder möchtest.</td>
-        <td> ab 1.400 €</td>
-    </tr>
-</table>
+Du kannst den INTIA-Koffer als Jugendgruppe oder Fachkraft in sozialen und kulturellen Einrichtungen für einen begrenzten Zeitraum ausleihen. Dabei ist der INTIA-Koffer frei verfügbar und kostenlos.
 
-## Die Einkaufliste
+### INTIA-Koffer Workshop
 
-Unter nachfolgendem Link wirst du zu der Webseite "Mein Online Wunschzettel" weitergeleitet.
+Der INTIA-Koffer bietet einen Zugang zur Technikentwicklung. Mit Hilfe verschiedener Module und Elemente können Jugendliche die Welt der Smart Home Technik erleben, verstehen und gestalten.
+Es braucht allerdings eine Fachkraft, die mit Hilfe einer ausführlichen Moderationsanleitung, die Jugendlichen beim Entdecken begleitet. Wir unterstützen euch bei Bedarf gerne, indem ihr neben dem Koffer auch eine fachliche Unterstützung anfragen könnt.
 
-Hier findest du eine einfache Auflistung:
+Je nachdem wo du wohnst, können wir dir den Koffer auch zusenden. Eine erste Einführung in den INTIA-Koffer ist sowohl online durch unsere Bildungsfachkraft als auch anhand von Videoanleitungen möglich.
 
-<div></div>
+{% include highlighter.html min-height25p=true content='
+
+<div class="columns">
+<div class="column">
+
+## Anwendungsbezogene Anfragen z.B. Ausleihe des INTIA Koffers
+
+[fabian.hesterberg@th-koeln.de](mailto:fabian.hesterberg@th-koeln.de)
+
+<br>
+oder
+<br>
+<br>
+Fabian Hesterberg
+<br>
+Fakultät für Angewandte Sozialwissenschaften
+<br>
+Forschungsprojekt INTIA
+<br>
+Ubierring 48, Raum 2
+<br>
+50678 Köln
+<a href="https://www.th-koeln.de/personen/fabian.hesterberg/" class="button is-rounded is-dark" style="float: right">
+<span>Zur Personenseite</span>
+<span class="icon is-small">
+<i class="fas icon-external fa-xs invert"></i>
+</span>
+</a>
+</div>
+<div class="column">
+<img style="height: auto;" src="/assets/img/logos/TH_Single.png">
+</div>
+</div>
+
+'%}
+
+### Ausleihen in der Bibliothek
+
+Wenn du in Köln oder der Umgebung wohnst, kannst du dir den INTIA-Koffer auch in der Stadtbibliothek Köln anschauen und ausleihen. Der INTIA-Koffer wird dort über den herkömmlichen Leihkatalog angeboten.
+
+## Bauen
+
+Du kannst dir deinen eigenen Koffer bauen! Alle Bestandteile und Anleitungen findest du auf dieser Seite. Es gibt sogar vorgefertigte Einkaufslisten, über die du dir einzelne Technik-Bausteine bestellen kannst.
+
+### Technik-Bausteine und Kosten
+
+Hier findet ihr die unterschiedlichen Bestandteile des Koffers mit einer groben Kostenaufstellung:
+
+TBD
+
+### Einkaufsliste
+
+Wir sind bemüht, hier aktuelle Links zu den vorgeschlagenen Produkten zu präsentieren. Der Markt dieser technischen Produkte ist sehr schnelllebig und verändert sich permanent. Details wie Preise haben nur eine kurze Lebensdauer und sind schnell veraltet. Tatsächlich hat das aber viele Vorteile für dich:
+
+- Das Angebot am Markt wachst ständig, es gibt also häufig neue und bessere Produkte. So gibt es eine wachsende Anzahl an tollen Produkten, die mit dem INTIA Koffer kompatibel sind.
+- Die Produkte werden immer günstiger und damit wird auch der Koffer immer zugänglicher für viele Personen.
+
+Die Einkaufsliste enthält alle notwendigen Angaben und ist nach Produktgruppen gegliedert. Wenn es zwei ähnliche Produkte gibt, beschreibt ein Kurzhinweis worin sie sich unterscheiden. Es braucht also kein tiefes Fachwissen, um selbst über die bereitgestellten Links etwas einzukaufen.
+
+Hier findest du einen Vorschlag von uns:
 {% include button.html label='Zur Einkaufsliste auf "Mein Online Wunschzettel"' link='https://www.meinonlinewunschzettel.de/?wz=dd67ce857592ad4' type="external" %}
 
 {% include highlighter.html min-height25p=false button="Excel-Einkaufsliste herunterladen" button_link='/assets/files/einkaufsliste.xlsx' content="
@@ -72,113 +96,31 @@ Zu beachten ist, dass in der einfachen Auflistung keine Alternativen dargestellt
 
 " %}
 
-### Die Einkaufsliste nutzen
+Leider können aktuell nicht alle Einzelteile bei einem Anbieter bestellt werden. Dennoch soll unsere Liste den Einkauf möglichst einfach machen. Wenn du alles oder möglichst viele Produkte bei einem Shop bekommst, kann das günstiger aufgrund anfallender Versandkosten sein, als sich stets für den niedrigsten Preis zu entscheiden. Außerdem können einige Elemente auch in Geschäften vor Ort wie Baumärkte, Elektrofachgeschäfte oder manchmal sogar beim Discounter gekauft werden.
 
-Wir sind bemüht, hier aktuelle Links zu den vorgeschlagenen Produkten zu präsentieren. Der Markt dieser technischen Produkte ist sehr schnelllebig und verändert sich permanent. Details wie Preise und Artikel-Bezeichnungen haben nur eine kurze Lebensdauer und sind schnell veraltet. Tatsächlich hat das aber viele Vorteile für dich:
+### Wie räumst du den Koffer ein?
 
-- Das Angebot am Markt wachst ständig, es gibt häufig neue und bessere Produkte. So gibt es eine wachsende Anzahl an tollen Produkten, die mit dem INTIA Koffer kompatibel sind. Ein Beispiel ist der Luftreiniger Starkvind von Ikea.
-- Die Produkte werden immer günstiger und damit wird auch der Koffer immer zugänglicher für viele Personen. Hier ist das Markt-Geschehen vergleichbar mit den bekannten Effekten anderer Produkte, wo starke Konkurrenz der Anbieter zu immer günstigeren Preisen führt.
+Es gibt verschiedene Möglichkeiten, wie du alle Bestandteile und Anleitungen in einem Koffer unterbekommen kannst. Gerne zeigen wir dir einen Beispielweg, deiner Kreativität ist jedoch keine Grenzen gesetzt. Du kannst die Einzelteile für dich individuell anordnen. Schick uns doch gerne Fotos von deinem persönlichen INTIA-Koffer oder verlinke uns auf Facebook unter @INTIA.
 
-Die Einkaufsliste enthält alle notwendigen Angaben und ist nach Produktgruppen gegliedert. Die Produktauswahl wird mit regelmäßig aktualisierten Links angeboten. Gibt es zwei ähnliche Produkte, beschreibt ein Kurzhinweis worin sie sich unterscheiden. Es braucht also kein tiefes Fachwissen, um selbst über die bereitgestellten Links etwas einzukaufen.
-
-### Teile für den INTIA-Koffer bestellen oder kaufen
-
-Leider können aktuell nicht alle Einzelteile bei einem Anbieter bestellt werden. Dennoch soll unsere Liste den Einkauf möglichst einfach machen. Es kann dabei sinnvoll sein zu entscheiden, ob man anstelle nach Kosten auch nach dem Anbieter geht: Wenn du alles oder möglichst viele Produkte bei einem Shop bekommst, kann das sinnvoller und wegen der Versandkosten immer noch günstiger sein, als sich stets für den niedrigsten Preis zu entscheiden. Außerdem können einige Elemente auch in Geschäften vor Ort wie Baumärkte, Elektrofachgeschäfte oder manchmal sogar beim Discounter gekauft werden.
-
-{% include highlighter.html min-height25p=false content="
-
-## Was kommt noch in den Koffer?
-
-Der INTIA-Koffer enthält nicht nur digitale Technik, sondern auch jede Menge analoge Materialien. Die meisten davon kannst du selbst ausdrucken. Wenn du aber zum Beispiel Karten häufiger benutzen möchtest, lohnt es sich, diese in einer Druckerei oder einem Copy Shop auf festerem Papier oder Pappe auszudrucken oder sie zu laminieren.
-
-" %}
-
-## Wenn alles da ist: den Koffer einräumen
-
-Sind alle Inhalte des INTIA-Koffers beisammen, kann es noch nicht sofort losgehen. Aber keine Sorge - es ist viel einfacher als es scheint und der Koffer ist bald einsatzbereit! So solltest du vorgehen:
-
-- Zuerst die Innenausstattung des Koffers mit einer Schaumstoff-Einlage zurecht machen. Es soll ja später alles seine Ordnung haben.
-- Die noch leere SD-Karte muss für den Mini-Computer mit Daten von unserer Plattform ausgestattet werden.
-- Den Mini-Computer nun erstmalig einrichten.
-- Nun den Mini-Computer aufrufen und alles für das Hinzufügen der smarten Geräte vorbereiten.
-- Alle smarten Technik-Elemente aus der Verpackung holen und vor den Koffer legen. Jedes Gerät nacheinander koppeln. Wenn eines fertig gekoppelt ist, kommt es in den Koffer. So kommst du nicht durcheinander.
-- Jetzt in Node-RED die INTIA Nodes für das Escape Game hinzufügen.
-- Am besten das Escape Game aufbauen und einmal spielen. Danach einen Funktionstest aller Teile machen.
-- Fertig! Der Koffer ist startklar.
-
-Weiterführende Links zu den einzelnen Punkten folgen in Kürze.
-
-## Interesse?
-
-Wenn der Koffer dein Interesse geweckt hat kannst du einfach unser Kontaktformular nutzen um auf dem laufenden zu bleiben:
-
-<div class="container contact-case">
-<form id="form" action="{{ site.data.contact.action }}"  data-botpoison-public-key="{{ site.data.contact.botpoison_key }}" class="columns">
-<div class="column is-6">
-<div class="field">
-<label class="label">Vor- und Nachname</label>
-<div class="control has-icons-left">
-<input class="input" type="text" id="name" name="name" placeholder="Hier tippen..." required>
-<span class="icon is-small is-left">
-<i class="fas fa-user"></i>
-</span>
+<div class="columns is-centered is-desktop">
+<div class="column is-offset-1">
+<figure>
+  <img src="/assets/img/intia-case/Escape_Game.jpg" alt="" style="height:350px;">
+</figure>
+</div>
+<div class="column">
+<figure>
+  <img src="/assets/img/tools/building_blocks/koffer_4.jpg" alt="" style="height:350px;">
+</figure>
 </div>
 </div>
-<div class="field">
-<label class="label">Kontakt E-Mailadresse</label>
-<div class="control has-icons-left">
-<input class="input" type="email" id="email" name="email" placeholder="Hier tippen...">
-<span class="icon is-small is-left">
-<i class="fas fa-envelope"></i>
-</span>
-</div>
-</div>
-<div class="field hidden">
-<label class="label">Betreff</label>
-<div class="control has-icons-left">
-<input class="input" id="thema" name="thema" value="INTIA-Koffer" placeholder="Hier tippen...">
-<span class="icon is-small is-left">
-<i class="fas fa-pen"></i>
-</span>
-</div>
-</div>
-</div>
-<div class="column is-6">
-<div class="field hidden">
-<label class="label">Nachricht</label>
-<div class="control">
-<textarea
-class="textarea"
-id="message"
-name="message"
-placeholder="Hier tippen..."
-value="Ich habe Interesse über den Koffer auf dem laufenden zu bleiben"
-></textarea>
-</div>
-</div>
-              <div class="checkbox columns">
-                <div class="column contact-box">
-                  <input class="column" type="checkbox" id="agree" name="privacy-policy" value="agreed" required oninvalid="this.setCustomValidity('Bitte dieses Feld anklicken, um fortzufahren')"
-                       oninput="this.setCustomValidity('')">
-                </div>
-                <div class="column contact-agree">
-                  <label for="agree">{{ site.data.contact.checkbox  }}</label><br><br>
-                  <button id="button" class="button is-rounded is-dark" type="submit">Abschicken</button>
-                </div>
-              </div>
-        </div>
-    </form>
-    <script>
-      var formElement = document.getElementById("form");
-      var buttonElement = document.getElementById("button");
-      formElement.addEventListener("botpoison-challenge-start", function () {
-        buttonElement.setAttribute("disabled", "disabled");
-      });
-      formElement.addEventListener("botpoison-challenge-success", function () {
-        buttonElement.removeAttribute("disabled");
-      });
-      formElement.addEventListener("botpoison-challenge-error", function () {
-        buttonElement.removeAttribute("disabled");
-      });
-    </script>
-  </div>
+
+### Anleitungen
+
+Zu dem INTIA-Koffer gibt es für die verschiedenen Module und Elemente Anleitungen. Zum Beispiel erklärt der Technik-Fächer die einzelnen Technik-Bausteine und hilft dir, die Technik besser zu verstehen. Diese Anleitungen findest du unter dem folgenden Link zum Download:
+
+TBD
+
+Die Moderationsanleitung umfasst alle Anleitungen mit Hintergrundinformationen für Fachkräfte. Eine barrierefreie Version, die du auch durch ein Übersetzungsprogramm übersetzen lassen kannst, findest du hier zum Download:
+
+TBD
