@@ -11,14 +11,7 @@ subtitle: "Mit der User-Journey kann eine zuvor festgelegte Handlung Schritt fü
 <table class="tb">
     <tr>
         <th><strong>Ziel der Methode</strong></th>
-        <th>
-
-Identifizieren der Lebensbereiche, in denen ein Unterstützungsbedarf und Unterstützungswunsch besteht. Konkretisieren, welche Bedarfe und Bedürfnisse bestehen.
-
-</th>
-    <tr>
-        <th><strong>Ziel der Methode</strong></th>
-        <th>Kennenlernen einer Alltagssituation des Teilnehmenden, Aufdecken von damit verbundenen Barrieren, Wünschen und Emotionen.</th>
+        <th>Identifizieren der Lebensbereiche, in denen ein Unterstützungsbedarf und Unterstützungswunsch besteht. Konkretisieren, welche Bedarfe und Bedürfnisse bestehen.</th>
     </tr>
     <tr>
       <td><strong>Phase</strong></td>

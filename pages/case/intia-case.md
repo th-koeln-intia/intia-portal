@@ -140,6 +140,43 @@ Hier sind alle Elemente aufgelistet, die sich im INTIA Koffer befinden.
 
 Du kannst den INTIA Koffer auch ausleihen oder selbst nachbauen. Informationen hierzu findest du unter [Erwerben](/intia-koffer/erwerben/).
 
+{% include highlighter.html min-height25p=true content='
+
+<div class="columns">
+<div class="column">
+
+## Anwendungsbezogene Anfragen z.B. Ausleihe des INTIA Koffers
+
+[fabian.hesterberg@th-koeln.de](mailto:fabian.hesterberg@th-koeln.de)
+
+<br>
+oder
+<br>
+<br>
+Fabian Hesterberg
+<br>
+Fakultät für Angewandte Sozialwissenschaften
+<br>
+Forschungsprojekt INTIA
+<br>
+Ubierring 48, Raum 2
+<br>
+50678 Köln
+<a href="https://www.th-koeln.de/personen/fabian.hesterberg/" class="button is-rounded is-dark" style="float: right">
+<span>Zur Personenseite</span>
+<span class="icon is-small">
+<i class="fas icon-external fa-xs invert"></i>
+</span>
+</a>
+</div>
+<div class="column">
+<img style="height: auto;" src="/assets/img/logos/TH_Single.png">
+</div>
+</div>
+
+'%}
+
+<!--
 ## INTIA-Erweiterungen
 
 Der INTIA-Koffer kann durch INTIA-Erweiterungen vergrößert werden. Je nach Bedarf und Interesse können so unterschiedliche Elemente nachgekauft oder ergänzt werden. Die Erweiterungen können nicht alleine genutzt werden.
@@ -248,3 +285,5 @@ value="Ich habe Interesse über den Koffer auf dem laufenden zu bleiben"
       });
     </script>
   </div>
+
+-->

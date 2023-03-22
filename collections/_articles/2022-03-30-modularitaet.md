@@ -1,6 +1,6 @@
 ---
 hero_tags: subpage post pdf
-title_above: Aktuelles
+title_above: Fachartikel
 published: true
 title: Modularität
 author: Dennis Christian Wilk

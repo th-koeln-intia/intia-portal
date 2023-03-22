@@ -11,14 +11,7 @@ subtitle: "Die Impulskarten sollen Unterhaltungen anregen. Ziel ist es, im Dialo
 <table class="tb">
     <tr>
         <th><strong>Ziel der Methode</strong></th>
-        <th>
-
-Identifizieren der Lebensbereiche, in denen ein Unterstützungsbedarf und Unterstützungswunsch besteht. Konkretisieren, welche Bedarfe und Bedürfnisse bestehen.
-
-</th>
-    <tr>
-        <th><strong>Ziel der Methode</strong></th>
-        <th></th>
+        <th>Identifizieren der Lebensbereiche, in denen ein Unterstützungsbedarf und Unterstützungswunsch besteht. Konkretisieren, welche Bedarfe und Bedürfnisse bestehen.</th>
     </tr>
     <tr>
       <td><strong>Phase</strong></td>
