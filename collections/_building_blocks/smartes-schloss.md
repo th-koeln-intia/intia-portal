@@ -2,7 +2,8 @@
 hero_tags: subpage method pdf
 title_above: Bausteine
 title: Smartes Schloss
-image: https://placehold.co/600x400
+image: /assets/img/tools/building_blocks/kiste_offen.jpg
+hero_image: /assets/img/tools/building_blocks/kiste_offen.jpg
 subtitle: Ein (Tür-)Schloss, das sich über Smartphone, Tablet oder Computer steuern lässt. So ist kein analoger Schlüssel nötig, um das Schloss zu öffnen.
 ---
 
