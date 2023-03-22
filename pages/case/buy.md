@@ -1,7 +1,7 @@
 ---
-title: Kaufen
+title: Erwerben
 title_above: INTIA-Koffer
-permalink: /intia-koffer/kaufen/
+permalink: /intia-koffer/erwerben/
 hero_tags: toppage
 subtitle: |
   Wie kommt man an einen INTIA-Koffer und wie stellt man diesen zusammen? Diese Fragen werden hier beantwortet.

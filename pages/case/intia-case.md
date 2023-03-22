@@ -137,11 +137,8 @@ Hier sind alle Elemente aufgelistet, die sich im INTIA Koffer befinden.
 </table>
 
 <br>
-Du kannst den INTIA Koffer auch ausleihen oder selbst nachbauen. Informationen hierzu findest du unter [Erwerben](/intia-koffer/erwerben).
 
-[TBD Ab hier]
-Die Komponenten sind derzeit bereits in einer prototypischen Version des INTIA-Koffers integriert. In Kürze wird es Anleitungen geben, damit du selbst deinen individuellen Koffer zusammenstellen kannst.
-Neben den Basis-Komponenten lässt sich der Koffer sehr gut erweitern, z.B. durch eine Zusammenstellung von Eingabeelementen (Knopf-Set), Sensoren (Sensor-Set) oder eine Sprachsteuerung. Diese Sprachsteuerung funktioniert ohne Anbindung an die Internet-Cloud. Deine Daten und gesprochenen Anweisungen bleiben also lokal bei dir!
+Du kannst den INTIA Koffer auch ausleihen oder selbst nachbauen. Informationen hierzu findest du unter [Erwerben](/intia-koffer/erwerben/).
 
 ## INTIA-Erweiterungen
 
