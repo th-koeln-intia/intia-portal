@@ -1,13 +1,22 @@
 ---
 hero_tags: subpage method pdf
 title_above: Bausteine
-title: Türkontakt
+title: Kontakt-Sensor
 image: /assets/img/tools/building_blocks/kontaktsensor.jpg
 hero_image: /assets/img/tools/building_blocks/kontaktsensor.jpg
-subtitle: Sensoren nehmen etwas wahr. Ein Knopf ist eigentlich auch ein einfacher Sensor. Der Knopf nimmt deine Berührung etwa mit dem Finger, der Hand oder dem Fuß wahr.
+subtitle: Ein Kontakt-Sensor erkennt, ob etwas geschlossen oder geöffnet ist.
 ---
 
-# Türkontakt
+## Was?
 
-Es gibt aber noch viele weitere interessante Momente in deiner Umgebung, die sich mit Sensoren wahrnehmen lassen. Zum Beispiel nimmt ein Türkontakt den Zustand einer Tür wahr: die Tür kann offen oder geschlossen sein. Wenn sich der Zustand ändert – du machst die Tür zu – dann ist das ein interessanter Augenblick. Vielleicht soll die Musik jetzt lauter spielen oder du möchtest andere Lampen einschalten? Das Schließen einer Tür kann solche Aktionen (Musiklautstärke verändern) auslösen – genauso wie ein Knopf dies auslösen kann.
-Ein Türkontakt, der eine smarte Lampe bedient.
+Ein Kontakt-Sensor erkennt, ob etwas geschlossen oder geöffnet ist.
+
+## Wie?
+
+In einem Kontakt-Sensor befindet sich eine Röhre, in der zwei Drähte stecken. Diese berühren sich normalerweise nicht. Wird ein Magnet an diese Röhre geführt, verbinden sich die Drähte, und ein Kreislauf schließt sich. Diesen Kreislauf erkennt der Kontakt-Sensor. Einfache Kontakt-Sensoren bestehen also aus zwei Bauteilen: zum einen aus der Röhre sowie den Drähten (Sensor) und zum anderen aus einem Magneten.
+
+Kontakte könnten auch mit einem Ultraschall-Entfernungsmesser oder einem Bewegungs-Sensor gemessen werden. Dies verbraucht aber mehr Energie und kann unzuverlässiger sein.
+
+## Wofür?
+
+Der Sensor erkennt zuverlässig, ob ein Kontakt geschlossen oder offen ist. Daher kann der Kontakt-Sensor überall eingesetzt werden, wo zwei Objekte aneinander liegen und zum Beispiel erkennen, ob Türen, Schränke oder Fenster geöffnet oder geschlossen sind. Oftmals wird diese Technik bei Alarmanlagen verwendet. Aber auch Zustände können so beobachtet werden, zum Beispiel ob der Kühlschrank geöffnet ist.

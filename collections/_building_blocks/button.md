@@ -7,20 +7,14 @@ hero_image: /assets/img/tools/building_blocks/knopf_2.jpg
 subtitle: "Mit Knöpfen kannst du andere Bausteine ansteuern. Es gibt viele Arten von Knöpfen - mit verschiedenen Funktionen. Einige Knopfe müssen nur leicht berührt werden. Andere Knöpfe müssen feste gedrückt werden. Manchmal reicht eine kurze Berührung, manchmal muss der Knopf lange gedrückt werden. Auch die Formen der Knöpfe können sehr unterschiedlich sein: groß, klein, weiß oder bunt."
 ---
 
-# Knopf
+## Was?
 
-Es gibt unterschiedliche Knöpfe. Mit diesem Knopf können Bausteine gesteuert werden.
+Ein Smarter Knopf ist eine Fernbedienung mit (meistens) nur einer Taste. Wird die Taste gedrückt, führt der Knopf eine vorher programmierte Aktion aus.
 
-## Umsetzungen
+## Wie?
 
-### DIY-Button
+Beim Drücken auf die Taste wird ein elektromagnetischer Kontakt geschlossen. Einige smarte Knöpfe können auch erkennen, ob sie mehrfach hintereinander gedrückt oder gehalten werden. Es gibt die Zustände: kurz gedrückt, zweimal gedrückt und lang gedrückt bzw. gedrückt gehalten. Ein Smarter Knopf wird in der Regel verwendet, um ein Ereignis auszulösen, zum Beispiel das Anschalten einer Lampe. Der Knopf ist ortsunabhängig und kann überall dort benutzt werden, wo er mit dem WLAN verbunden ist. Smarte Knöpfe können nicht nur einen Schaltkreis schließen, sondern auch ein Funk-Signal senden.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent mauris lacus, semper vel massa mattis, ullamcorper auctor libero. Maecenas sit amet ultricies erat. Curabitur eleifend est eget sagittis convallis. Mauris sit amet placerat lacus. Pellentesque vehicula quis massa ac lacinia. Vivamus gravida bibendum tincidunt. Sed eget augue vitae ligula ultricies lacinia a eget augue. Donec vulputate metus ut ante scelerisque sollicitudin. Nullam commodo suscipit venenatis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Ut tristique pharetra mollis.
+## Wofür?
 
-Praesent ut accumsan mauris. Maecenas tempus finibus lectus, in iaculis mauris lobortis ac. Proin ipsum erat, imperdiet at arcu a, egestas hendrerit turpis. Suspendisse in lectus lacinia, sollicitudin felis non, auctor urna. Ut lacinia, ligula a cursus fringilla, diam arcu semper orci, quis sagittis eros quam nec ante.
-
-### Xiaomi Aqara mini switch
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent mauris lacus, semper vel massa mattis, ullamcorper auctor libero. Maecenas sit amet ultricies erat. Curabitur eleifend est eget sagittis convallis. Mauris sit amet placerat lacus. Pellentesque vehicula quis massa ac lacinia. Vivamus gravida bibendum tincidunt. Sed eget augue vitae ligula ultricies lacinia a eget augue. Donec vulputate metus ut ante scelerisque sollicitudin. Nullam commodo suscipit venenatis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Ut tristique pharetra mollis.
-
-Praesent ut accumsan mauris. Maecenas tempus finibus lectus, in iaculis mauris lobortis ac. Proin ipsum erat, imperdiet at arcu a, egestas hendrerit turpis. Suspendisse in lectus lacinia, sollicitudin felis non, auctor urna. Ut lacinia, ligula a cursus fringilla, diam arcu semper orci, quis sagittis eros quam nec ante.
+Da ein Smarter Knopf verschiedene Zustände erkennt, könnte man ihm verschiedene Aktionen zuweisen, zum Beispiel das Licht ausschalten, eine smarte Steckdose steuern, sodass niemand mehr aufstehen muss, um ein Gerät zu bedienen, das Licht einschalten, oder eine Playlist abspielen. Auch als Notrufknopf für Familienmitglieder könnte der Knopf am Körper getragen sinnvoll verwendet werden.
