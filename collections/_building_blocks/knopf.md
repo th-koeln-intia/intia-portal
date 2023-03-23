@@ -4,7 +4,7 @@ title_above: Bausteine
 title: Knopf
 image: /assets/img/tools/building_blocks/knopf_2.jpg
 hero_image: /assets/img/tools/building_blocks/knopf_2.jpg
-subtitle: "Mit Knöpfen kannst du andere Bausteine ansteuern. Es gibt viele Arten von Knöpfen - mit verschiedenen Funktionen. Einige Knopfe müssen nur leicht berührt werden. Andere Knöpfe müssen feste gedrückt werden. Manchmal reicht eine kurze Berührung, manchmal muss der Knopf lange gedrückt werden. Auch die Formen der Knöpfe können sehr unterschiedlich sein: groß, klein, weiß oder bunt."
+subtitle: "Mit Knöpfen kannst du andere Bausteine ansteuern. Es gibt viele Arten von Knöpfen - mit verschiedenen Funktionen. Einige Knopfe müssen nur leicht berührt werden. Andere Knöpfe müssen fest gedrückt werden. Manchmal reicht eine kurze Berührung, manchmal muss der Knopf lange gedrückt werden. Auch die Formen der Knöpfe können sehr unterschiedlich sein: groß, klein, weiß oder bunt."
 ---
 
 ## Was?
@@ -17,4 +17,4 @@ Beim Drücken auf die Taste wird ein elektromagnetischer Kontakt geschlossen. Ei
 
 ## Wofür?
 
-Da ein Smarter Knopf verschiedene Zustände erkennt, könnte man ihm verschiedene Aktionen zuweisen, zum Beispiel das Licht ausschalten, eine smarte Steckdose steuern, sodass niemand mehr aufstehen muss, um ein Gerät zu bedienen, das Licht einschalten, oder eine Playlist abspielen. Auch als Notrufknopf für Familienmitglieder könnte der Knopf am Körper getragen sinnvoll verwendet werden.
+Ein Smarter Knopf erkennt verschiedene Zustände. Daher könnte man ihm verschiedene Aktionen zuweisen: zum Beispiel das Licht ausschalten oder einschalten, eine smarte Steckdose steuern, sodass niemand mehr aufstehen muss, um ein Gerät zu bedienen, oder eine Playlist abspielen. Auch als Notrufknopf für Familienmitglieder könnte der Knopf, am Körper getragen, sinnvoll verwendet werden.
