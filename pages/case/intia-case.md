@@ -33,7 +33,7 @@ Der INTIA Koffer macht es möglich, mit digitalen Technologien zu experimentiere
 </div>
 </div>
 
-## Selbstwirksamkeit und Selbstständigkeit fördern
+## Selbstwirksamkeit und Selbständigkeit fördern
 
 Mit diesem Ansatz lernen Jugendliche, dass sie selbst in der Lage sind, ihre Bedürfnisse zu formulieren und Ideen für die Lösung von Problemen zu entwickeln. Gleichzeitig wird die Neugier der Jugendlichen gefördert und sie erfahren, dass Lernen Spaß machen kann. Fachkräfte können mit dem Koffer neue Ideen bekommen, um ihre Arbeit mit Technik zu unterstützen und ihren Arbeitsalltag einfacher zu machen.
 
