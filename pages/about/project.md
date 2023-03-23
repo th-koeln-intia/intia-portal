@@ -77,7 +77,7 @@ Während der Corona-Pandemie konnten die geplanten Projektarbeiten in den Partne
 Die Menschen im INTIA-Projektteam kommen aus unterschiedlichen Fachdisziplinen:
 
 - **Professor:innen:** Prof. Dr. lsabel Zorn (Fakultät für Angewandte Sozialwissenschaften, Schwerpunkte Digitale Medienbildung in der Sozialen Arbeit), Prof. Dr. Stefan Bente (Fakultät für lnformatik und lngenieurwissenschaften, Schwerpunkt Softwaretechnik), Prof. Birgit Mager (Fakultät für Kulturwissenschaften, Köln lnternational School of Design KISD, Schwerpunkt Service Design) und Prof. Dr. Christian Kohls (Fakultät for lnformatik und lngenieurwissenschaften, Schwerpunkt Soziotechnische Systeme).
-- **Wissenschaftliche Mitarbeiter:innen** aus allen vier wissenschaftlichen Disziplinen: Hanna Thielmann, Carola Janda, Caroline Kortekaas, Eva Zurbrügg, Karsten Gareis und Tabea Mildenberger (Fakultät für Angewandte Sozialwissenschaften), Marc Schmidt, Dennis Wilk, Silke Wiegand und Jan Seidler (Fakultät für lnformatik und lngenieurwissenschaften) sowie Janina Rösch (Köln lnternational School of Design KISD).
+- **Wissenschaftliche Mitarbeiter:innen:** Hanna Thielmann, Carola Janda, Caroline Kortekaas, Eva Zurbrügg, Karsten Gareis und Tabea Mildenberger (Fakultät für Angewandte Sozialwissenschaften), Marc Schmidt, Dennis Wilk, Silke Wiegand und Jan Seidler (Fakultät für lnformatik und lngenieurwissenschaften) sowie Janina Rösch (Köln lnternational School of Design KISD).
 - **Hilfskräfte:** Miriam Hafki, Alena Schmier und Johannes Jülich (Fakultät für Angewandte Sozialwissenschaften), Sophia Johannsen (Fakultät für Informatik und Ingenieurwissenschaften) sowie Maxime Ridzewski, Lisa Blömeke und Duane Meurer (Köln lnternational School of Design KISD)
 
 <div class='columns'>
