@@ -71,6 +71,13 @@ defaults:
       breadcrumbs: [Werkzeuge, Bausteine]
       layout: default   
   - scope:
+      type: prototypes
+      path: _prototypes
+    values:
+      permalink: /werkzeuge/prototypen/:title/
+      breadcrumbs: [Werkzeuge, Prototypen]
+      layout: default   
+  - scope:
       type: methods
       path: _methods
     values:
@@ -88,6 +95,8 @@ collections:
   articles:
     output: true
   building_blocks:
+    output: true
+  prototypes:
     output: true
 
 # --------------------------- Includes and Excludes -------------------------- #

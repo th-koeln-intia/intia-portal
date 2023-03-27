@@ -1,0 +1,68 @@
+{% assign sorted_prototypes = site.prototypes | sort:page.sort %}
+
+{% for prototype in sorted_prototypes %}
+
+<section class="showcase">
+    <div class="showcase-content">
+        <div class="columns is-centered">
+            <div class="column is-6-desktop is-6-tablet">
+                <figure class="image is-4by3">
+                    <img src="{{ prototype.image | relative_url }}" />
+                </figure>
+            </div>
+            <div class="column is-6-desktop is-6-tablet prototype-content">
+                <h2 class="prototype-title">{{ prototype.title }}</h2>
+                <h3 class="prototype-subtitle">{{ prototype.subtitle }}</h3>
+                <div class="buttons is-centered">
+                    <a href="https://github.com/{{ prototype.github }}/stargazers" class="button is-white is-small">
+                        <img alt="GitHub stars" src="https://img.shields.io/github/stars/{{ prototype.github }}?style=social">
+                    </a>
+                    <a href="https://github.com/{{ prototype.github }}/network/members" class="button is-white is-small">
+                        <img alt="GitHub forks" src="https://img.shields.io/github/forks/{{ prototype.github }}?style=social">
+                    </a>
+                    <a href="https://github.com/{{ prototype.github }}/watchers" class="button is-white is-small">
+                        <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/{{ prototype.github }}?style=social">
+                    </a>
+                </div>
+                <div class="content">
+                    <p>{{ prototype.description | markdownify }}</p>
+                </div>
+                <a
+                href="{{ prototype.link }}"
+                class="button is-rounded is-dark"
+                >
+                <span>{{ prototype.link_text }}</span>
+                <span class="icon is-small">
+                    <i class="fas icon-external fa-xs invert"></i>
+                </span> 
+            </a>
+            </div>
+        </div>
+    </div>
+</section>
+
+{% endfor %}
+
+<!-- 
+                    <div class="content">
+                        <p>{{ prototype.description | markdownify }}</p>
+                    </div>
+
+                    {% if prototype.features %}
+                    <ul class="block-list {{ item.features_styles }}">
+                        {% for feature in prototype.features %}
+                        <li>{{ feature }}</li>
+                        {% endfor %}
+                    </ul>
+                    {% endif %}
+                        
+                    <a
+                        href="{{ prototype.link }}"
+                        class="button is-rounded is-dark { % if item.link == page.url % } is-active { % endif % }"
+                        >
+                        <span>{{ prototype.link_text }}</span>
+                        <span class="icon is-small">
+                            <i class="fas icon-external fa-xs invert"></i>
+                        </span> 
+                    </a>
+                -->

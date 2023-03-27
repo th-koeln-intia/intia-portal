@@ -160,3 +160,29 @@ ol li {
 .building-block-subtitle{
   padding: 0 !important;
 }
+
+// Prototypes
+.prototype-content {
+  padding-top: 10;
+}
+.prototype-title {
+  padding-top: 0;
+  padding-bottom: 0;
+}
+.prototype-subtitle {
+  padding-top: 10px;
+  padding-bottom: 0;
+}
+.showcase {
+  margin-bottom: 3rem;
+  box-shadow: $box-shadow;
+
+  &-content {
+      padding: 1.5rem;
+      text-align: center;
+  }
+
+  .block-list {
+      margin-bottom: 1.5rem;
+  }
+}

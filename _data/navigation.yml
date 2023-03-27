@@ -18,10 +18,8 @@
       link: /werkzeuge/bausteine/
     - name: Methoden
       link: /werkzeuge/methoden/
-#- name: Lösungen
-#  dropdown:
-#    - name: Lösungen
-#      link: /loesungen/
+    - name: Prototypen
+      link: /werkzeuge/prototypen/
 - name: Wissen
   dropdown:
     - name: Wörterbuch
