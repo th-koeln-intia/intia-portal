@@ -75,13 +75,13 @@ Hierbei ist explizit auf die Lebensbereiche zu verweisen, welche in der ICF zur 
 - Bedeutende Lebensbereiche
 - Gemeinschafts-, soziales und staatsbürgerliches Leben (DIMDI 2005, 20)
 
-Der Landesrahmenvertrag über die Leistungen der Eingliederungshilfe nach dem SGB IX für Menschen mit Behinderungen betont, dass die Leistungen zur Teilhabe im Alltag der Betroffenen eingebettet sein und dazu zu einer selbstständigen Alltagsbewältigung beitragen sollen. (Landesrahmenvertrag nach §131 SGB IX 2019)
+Der Landesrahmenvertrag über die Leistungen der Eingliederungshilfe nach dem SGB IX für Menschen mit Behinderungen betont, dass die Leistungen zur Teilhabe im Alltag der Betroffenen eingebettet sein und zu einer selbstständigen Alltagsbewältigung beitragen sollen. (Landesrahmenvertrag nach §131 SGB IX 2019)
 
 Zusammenfassend lässt sich feststellen, dass die Befähigung zur und die Ermöglichung von Alltagsbewältigung in der Eingliederungshilfe von hoher Relevanz sind. Die Unterstützung bei der möglichst selbstbestimmten und eigenständigen Alltagsbewältigung wird als eine notwendige Leistung zur gesellschaftlichen Teilhabe verstanden.
 
 ## Fazit
 
-Die Befähigung zur und Ermöglichung von Alltagsbewältigung sind zentrale Aufgabe und teilweise auch Methode der Sozialen Arbeit. Digitale Technologien werden in der Breite der Gesellschaft zunehmend zur Alltagsgestaltung und Alltagsbewältigung genutzt: Beispielhaft seien hier digitale Navigationshilfen, digitale Erinnerungen, digitale Einkaufslisten, selbst bestellender Kühlschrank, automatisierte Sprachassistenten mit künstlicher Intelligenz, digitale Umfeldsteuerung genannt. Es erscheint daher lohnenswert, die Entwicklung und den Einsatz digitaler Werkzeuge auch für die Aufgabenerfüllung in der Sozialen Arbeit in den Blick zu nehmen.
+Die Befähigung zur und Ermöglichung von Alltagsbewältigung sind zentrale Aufgabe und teilweise auch Methode der Sozialen Arbeit. Digitale Technologien werden in der Breite der Gesellschaft zunehmend zur Alltagsgestaltung und Alltagsbewältigung genutzt: Beispielhaft seien hier digitale Navigationshilfen, digitale Erinnerungen, digitale Einkaufslisten, der selbst bestellende Kühlschrank, automatisierte Sprachassistenten mit künstlicher Intelligenz, digitale Umfeldsteuerung genannt. Es erscheint daher lohnenswert, die Entwicklung und den Einsatz digitaler Werkzeuge auch für die Aufgabenerfüllung in der Sozialen Arbeit in den Blick zu nehmen.
 
 ## Quellen
 
