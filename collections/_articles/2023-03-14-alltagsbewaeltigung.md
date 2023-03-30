@@ -4,8 +4,8 @@ title_above: Fachartikel
 categories: News
 tags: news intia probes
 hero_tags: subpage post pdf
-hero_image: /assets/img/uploads/neuigkeit_modularitat_platzhalterbild.jpg
-preview_image: /assets/img/uploads/neuigkeit_modularitat_platzhalterbild.jpg
+hero_image: /assets/img/uploads/alltag.jpg
+preview_image: /assets/img/uploads/alltag.jpg
 subtitle: |
   Alltagsbewältigung im Sinne der Sozialen Arbeit umfasst die Bewältigung der alltäglichen Lebensführung. Die Aufgabe der Sozialen Arbeit ist es, die Adressat:innen bei der Ermöglichung eines gelingenden Alltags zu unterstützen. Die Methoden und Technologien, die im Projekt entwickelt wurden, zielen darauf, Jugendliche bei ihrer Alltagsbewältigung zu unterstützen: Es handelt sich um Methoden zur Erhebung und Identifizierung von Bedarfen sowie zur Ideenfindung für Lösungen bei der Alltagsbewältigung. Dieser Artikel gibt Hintergrundinformationen dazu, warum die Befähigung zur Alltagsbewältigung – vor allem in der Erziehungs- und Jugendhilfe sowie in der Eingliederungshilfe – eine relevante Aufgabe und Methode in der Sozialen Arbeit ist.
 ---
@@ -49,7 +49,7 @@ Teile dieser Hilfen sollen auch jungen Volljährigen angeboten werden:
 Alltagsorientierung wurde bereits im 8. Kinder- und Jugendhilfebericht 1999 als Strukturmaxime der Kinder- und Jugendhilfe benannt. (Füssenhäuser 2018, S. 153)
 
 Die Strukturierung des Alltags wird als häufigste Methode in der stationären Kinder- und Jugendhilfe genannt. (Günder und Nowacki 2020, S. 178ff.) Die Umsetzung dieser Methode erfolgt als „den Alltag analysieren, das Chaos ordnen“ (Günder und Nowacki 2020, S. 191f.) sowie in der „Verbindung von Pädagogik und Alltag“ (Günder und Nowacki 2020, S. 194).
-Günder und Nowacki betonen weiterhin: „Erziehung im Heim geschieht zwar im Alltag, sie muss allerdings immer über die bloße Beherrschung des Alltags hinausgehen. Hektik und Chaos im Gruppenalltag hindern nicht nur die Vorgänge der gezielten pädagogischen Förderung, es werden als Folge neue Defizite und Auffälligkeiten bei den Kindern zu verzeichnen sein.“ (Günder und Nowacki 2020, S. 191) „Einerseits basieren pädagogische Vorgehensweisen auf alltäglichen Handlungsebenen, andererseits sind sie im Alltagsgeschehen integriert vorzufinden.“ (Günder und Nowacki 2020, S. 191) Pädagogische Vorgehensweisen können in der Kinder- und Jugendhilfe nicht losgelöst vom Alltagsgeschehen betrachtet werden. Nach Günder und Nowacki (2020, S. 194) kommen ergiebige Gespräche zwischen Fachkräften und Klient*innen häufig in der alltäglichen Kommunikation z. B. beim Einkaufen oder Kochen zustande. Sie beschreiben Alltagsgestaltung als Voraussetzung, „damit gezielte pädagogische Prozesse wirksam und gemeinsame Ziele angestrebt werden“.
+Günder und Nowacki betonen weiterhin: „Erziehung im Heim geschieht zwar im Alltag, sie muss allerdings immer über die bloße Beherrschung des Alltags hinausgehen. Hektik und Chaos im Gruppenalltag hindern nicht nur die Vorgänge der gezielten pädagogischen Förderung, es werden als Folge neue Defizite und Auffälligkeiten bei den Kindern zu verzeichnen sein.“ (Günder und Nowacki 2020, S. 191) „Einerseits basieren pädagogische Vorgehensweisen auf alltäglichen Handlungsebenen, andererseits sind sie im Alltagsgeschehen integriert vorzufinden.“ (Günder und Nowacki 2020, S. 191) Pädagogische Vorgehensweisen können in der Kinder- und Jugendhilfe nicht losgelöst vom Alltagsgeschehen betrachtet werden. Nach Günder und Nowacki (2020, S. 194) kommen ergiebige Gespräche zwischen Fachkräften und Klient\*innen häufig in der alltäglichen Kommunikation z. B. beim Einkaufen oder Kochen zustande. Sie beschreiben Alltagsgestaltung als Voraussetzung, „damit gezielte pädagogische Prozesse wirksam und gemeinsame Ziele angestrebt werden“.
 
 Zusammenfassend lässt sich demnach feststellen, dass die Befähigung zur Alltagsbewältigung sowohl als Aufgabe als auch als Methode in der Jugendhilfe eine hohe Relevanz hat.
 
