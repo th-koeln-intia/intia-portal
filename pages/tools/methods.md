@@ -12,7 +12,7 @@ jekyll-hyperlink-glossary: false
 
 Um sinnvoll mit Methoden arbeiten zu können, ist es wichtig, dass man sie kennt und weiß, wie und wofür man sie benutzt. Man kann die Methoden nach ihrem Ziel sortieren (zum Beispiel nach Phasen, die in bestimmten Prozessen durchlaufen werden). Neben dieser weit verbreiteten Vorgehensweise könnte man bei der partizipativ inklusiven Technikentwicklung auch fragen: Wie ausgeprägt ist die Zusammenarbeit zwischen denjenigen, die die Technik entwickeln und denen, die sie nutzen? Um das zu beurteilen, gibt es ein Modell, das (je nach Autor:in) in sieben Stufen beschreibt, wie gut diejenigen, die es betrifft, beteiligt werden können. Es heißt „Stufenmodell der Partizipation“.
 
-Das INTIA Methodenradar sortiert Methoden nach diesem Stufenmodell, also danach, wie stark die Beteiligung ist. Jeder Ring ist dabei eine Stufe, angefangen von „nicht beteiligt“ bis zur „vollständigen Entscheidungsmacht“. Außerdem ist das Radar in vier Bereiche (Sektoren) aufgeteilt, in die die verschiedenen Methoden eingeordnet sind. So zum Beispiel Methoden, die dabei helfen, eine Domäne zu entdecken oder Methoden, die diese Domäne definieren. Auch Methoden, die dabei helfen, Produkte zu entwickeln und zu beurteilen, sind im Methodenradar zu finden.
+Das INTIA-Methodenradar sortiert Methoden nach diesem Stufenmodell, also danach, wie stark die Beteiligung ist. Jeder Ring ist dabei eine Stufe, angefangen von „nicht beteiligt“ bis zur „vollständigen Entscheidungsmacht“. Außerdem ist das Radar in vier Bereiche (Sektoren) aufgeteilt, in die die verschiedenen Methoden eingeordnet sind. So zum Beispiel Methoden, die dabei helfen, eine Domäne zu entdecken oder Methoden, die diese Domäne definieren. Auch Methoden, die dabei helfen, Produkte zu entwickeln und zu beurteilen, sind im Methodenradar zu finden.
 
 <a href='#methodenliste' class='button is-dark is-rounded'>
       <span>Zur Methodenliste</span>
@@ -31,7 +31,7 @@ Das INTIA Methodenradar sortiert Methoden nach diesem Stufenmodell, also danach,
 
 # Das Methodenradar benutzen
 
-Im INTIA Methodenradar gibt es eine Übersicht über verschiedene Methoden, die dabei helfen können, Alltagshilfen zu entwerfen, umzusetzen und zu beurteilen. Jeder Punkt im Radar steht für eine bestimmte Methode und führt zu einer genaueren Erklärung. Über dem Radar sind Menüpunkte zu sehen, mit denen man einzelne Teile des Radars genauer anschauen kann. Die Bedeutung der einzelnen Ringe im Radar kann in der Legende unten nachgelesen werden.
+Im INTIA-Methodenradar gibt es eine Übersicht über verschiedene Methoden, die dabei helfen können, Alltagshilfen zu entwerfen, umzusetzen und zu beurteilen. Jeder Punkt im Radar steht für eine bestimmte Methode und führt zu einer genaueren Erklärung. Über dem Radar sind Menüpunkte zu sehen, mit denen man einzelne Teile des Radars genauer anschauen kann. Die Bedeutung der einzelnen Ringe im Radar kann in der Legende unten nachgelesen werden.
 <br>
 <br>
 Die dunklen Punkte im Radar befinden sich bereits auf der Plattform mit einer Detailbeschreibung und sind ebenfalls der untenstehenden Liste zu entnehmen. Die helleren Punkte dagegen befinden sich noch nicht auf der Plattform und folgen später noch.
