@@ -23,7 +23,7 @@ Das Projektteam hat Einrichtungen der Sozialen Arbeit besucht, um mit Jugendlich
 
 ### Besondere Herausforderungen
 
-Während der Corona-Pandemie konnten die geplanten Projektarbeiten in den Partner-Einrichtungen nicht fortgesetzt werden, weil niemand Zutritt hatte. Die Beteiligten mussten umdenken und neue Wege finden, um sich auszutauschen. Daraus entstand die Idee, ein mobiles Labor zu entwickeln, das man in Form eines Koffers mit entsprechendem Inhalt zur Technikentwicklung verschicken kann. Das Projektteam musste sich mit Datenschutz sowie mit großen Datenmengen und ihrer Aussagekraft beschäftigen. Forschungsfragen rückten in den Vordergrund, so zum Beispiel die digitale Inklusion. Gleichzeitig wurden neue Wege der digitalen Partizipation aufgebaut und erprobt. Am Ende war allen klar: Die digitale Zusammenarbeit kann den direkten Austausch zwischen Menschen nicht ersetzen.
+Während der Corona-Pandemie konnten die geplanten Projektarbeiten in den Partner-Einrichtungen nicht fortgesetzt werden, weil niemand Zutritt hatte. Die Beteiligten mussten umdenken und neue Wege finden, um sich auszutauschen. Daraus entstand die Idee, ein mobiles Labor zu schaffen. Das labor in Form eines Koffers ist mit entsprechendem Inhalt zur Technikentwicklung ausleihbar. Das Projektteam musste sich mit Datenschutz sowie mit großen Datenmengen und ihrer Aussagekraft beschäftigen. Forschungsfragen rückten in den Vordergrund, so zum Beispiel die digitale Inklusion. Gleichzeitig wurden neue Wege der digitalen Partizipation aufgebaut und erprobt. Am Ende war allen klar: Die digitale Zusammenarbeit kann den direkten Austausch zwischen Menschen nicht ersetzen.
 
 ## Beteiligte
 
