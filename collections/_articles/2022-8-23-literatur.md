@@ -13,7 +13,14 @@ subtitle: >
 
 ## Literaturreview zu partizipativer Technologieentwicklung in der Behinderten- und Erziehungshilfe im Kontext Sozialer Arbeit
 
-Diese Recherche folgt methodisch einem definierten Korpus der relevanten (überwiegend deutschsprachigen) wissenschaftlichen Fachzeitschriften Sozialer Arbeit zwischen 1994 und Mai 2020. Durchsucht wurden jene Fachzeitschriften, die sich mit Themengebieten angrenzend zum Handlungsfeld befassen: die Thematik der Jugend(hilfe), Medien, Technologie oder Digitalisierung. Die tabellarische Darstellung bildet damit die Ergebnisse eines systematischen Literaturreviews ab, der in Soziale Passagen mit dem Titel 'Literaturreview zu partizipativer Technologieentwicklung in der Behinderten- und Erziehungshilfe im Kontext Sozialer Arbeit' veröffentlicht wird.
+Wie wurde in Fachzeitschriften das Thema partizipative Technikentwicklung im Kontext der Sozialen Arbeit behandelt?
+
+Diese Recherche folgt methodisch einem definierten Korpus der relevanten (überwiegend deutschsprachigen) wissenschaftlichen Fachzeitschriften Sozialer Arbeit zwischen 1994 und Mai 2020. Durchsucht wurden jene Fachzeitschriften, die sich mit Themengebieten angrenzend zum Handlungsfeld befassen: die Thematik der Jugend(hilfe), Medien, Technologie oder Digitalisierung. 
+Die tabellarische Darstellung bildet damit die Ergebnisse eines systematischen Literaturreviews ab, der in Soziale Passagen mit dem Titel 'Literaturreview zu partizipativer Technologieentwicklung in der Behinderten- und Erziehungshilfe im Kontext Sozialer Arbeit' veröffentlicht wurde: 
+
+Mildenberger, Tabea; Schmier, Alena; Zorn, Isabel (2022):
+Literaturreview zu partizipativer Technologieentwicklung in der Behinderten- und Erziehungshilfe im Kontext Sozialer Arbeit
+In Soziale Passagen 2/2022. https://link.springer.com/article/10.1007/s12592-022-00439-z [Titel anhand dieser DOI in Citavi-Projekt übernehmen] 
 
 <table class="tb">
     <caption><h4>Tabelle 1: Kategorisierte Darstellung der Ergebnistreffer</h4></caption>
