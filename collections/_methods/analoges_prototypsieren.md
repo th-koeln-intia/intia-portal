@@ -5,7 +5,7 @@ published: true
 title: Analoges Prototypisieren
 english_title: Analoges Prototypisieren
 last_update: 08.06.2022
-subtitle: "Diese Methode ist ein Set von Bausteinen, die verschiedene (geometrische) Formen haben. Mit den Bausteinen, auch Chips genannt, können einfache Abläufe gelegt und somit abgebildet werden. Dadurch, dass man die Bausteine in die Hand nehmen und nach einfachen Regeln an verschiedenen Stellen ablegen kann, ist es leichter, Ideen gemeinsam auszuarbeiten und sie für eine echte Entwicklung vorzubereiten. Damit ist diese Methode auch für Menschen geeignet, die keine Expert:innen sind oder normalerweise keine Software entwickeln."
+subtitle: "Diese Methode ist ein Set von Plättchen, die verschiedene (geometrische) Formen haben. Mit den Plättchen können einfache Abläufe gelegt und somit abgebildet werden. Die Plättchen kann man in die Hand nehmen und nach Regeln anordnen. Dadurch ist es leicht, sich gemeinsam Ideen zu überlegen und diese abzubilden. Das ist der erste Schritt zum Entwickeln. Diese Methode ist auch für Menschen geeignet, die keine Entwickler:innen sind. Mit den Plättchen können Ideen in einer leichten Form der Programmiersprache dargestellt werden."
 ---
 
 <table class="tb">

@@ -60,7 +60,7 @@ Ein MakeyMakey ist ein Eingabegerät für ein digitales Endgerät. Es wird wie e
 MakeyMakey an den Laptop anschließen mit dem schwarzen USB-Kabel.
 Ein Kabel oder Krokodilklemmen an GND=Ground=EARTH=Erdung am Makey anschließen.
 Kabel oder Krokodilklemmen an den Makey anschließen.
-Gewünschte Software aufrufen, z.B. https://apps.makeymakey.com/piano/ 
+Gewünschte Software aufrufen, z.B. https://apps.makeymakey.com/piano/
 Anderes Ende der Kabel oder Krokodilklemmen an leitendem Gegenstand anbringen, z.B. an Bananen oder Menschen in die Hand geben.
 
 ### Durchführung
@@ -85,7 +85,7 @@ Hier ist eine gute Anleitung:
 http://makeymakey.com/howto.php
 
 Klavier:
-Nutzt dafür ein Klavier: https://www.onlinepianist.com/virtual-piano oder https://apps.makeymakey.com/piano/ 
+Nutzt dafür ein Klavier: https://www.onlinepianist.com/virtual-piano oder https://apps.makeymakey.com/piano/
 Ihr könnt die Noten anspielen, indem du Drähte in die Buchstaben (=Noten) auf dem MakeyMakey steckst. Dann verbinde die Drähte mit einer Krokodilklemme und stecke das andere Ende der Krokodilklemme in etwas, das leitet (Beispiele: Apfel, Wasserbecher, ein Körperteil, Haribo)
 
 Schlagzeug:
@@ -94,4 +94,4 @@ Ihr könnte jedem Menschen eine Krokodilklemme in die Hand geben, die jeweils mi
 
 ## Anpassung
 
-Sollte der aktive Mensch Interesse daran finden, ist die Anschaffung eines professionelleren Equipments zu überlegen, z.B. Gaming-Zubehör (Microsoft Adaptive XBox  https://www.xbox.com/de-DE/accessories/controllers/xbox-adaptive-controller mit Logitech Adaptive Controller https://www.xbox.com/de-DE/accessories/controllers/xbox-adaptive-controller ) oder eine echte Computersteuerung (z.B. https://www.rehavista.de/shop/artikel/simple-switch-interface )
+Sollte der aktive Mensch Interesse daran finden, ist die Anschaffung eines professionelleren Equipments zu überlegen, z.B. Gaming-Zubehör (Microsoft Adaptive XBox https://www.xbox.com/de-DE/accessories/controllers/xbox-adaptive-controller mit Logitech Adaptive Controller https://www.xbox.com/de-DE/accessories/controllers/xbox-adaptive-controller ) oder eine echte Computersteuerung (z.B. https://www.rehavista.de/shop/artikel/simple-switch-interface )

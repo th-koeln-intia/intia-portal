@@ -6,7 +6,7 @@ title: Phasenmodell einer inklusiven Prototypenentwicklung in Präsenz
 permalink: /werkzeuge/methoden/phasenmodell_einer_inklusiven_prototypenentwicklung_in_praesenz/
 english_title: Phasenmodell einer inklusiven Prototypenentwicklung in Präsenz
 last_update: 11.05.2022
-subtitle: Für welche Alltagsaktivitäten wünscht sich die teilnehmende Gruppe Verbesserungen? Welche Ideen für Verbesserungen können digital erreicht werden? Das Phasenmodell beschreibt eine Workshop-Serie in Präsenz mit sechs Abschnitten (Phasen). Stufenweise wird die Gruppe angeleitet, Probleme zu erkennen und zu beschreiben sowie Ideen und Lösungen zu entwickeln.
+subtitle: Für welche Alltagsaktivitäten wünscht sich die teilnehmende Gruppe Verbesserungen? Welche Ideen für Verbesserungen können digital erreicht werden? Das Phasenmodell beschreibt eine Workshop-Serie in Präsenz mit sechs Abschnitten (Phasen). Stufenweise wird die Gruppe angeleitet, Probleme zu erkennen und zu beschreiben. Damit sie schließlich Ideen und Lösungen zu entwickeln.
 ---
 
 <table class="tb">

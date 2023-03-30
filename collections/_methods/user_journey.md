@@ -5,7 +5,7 @@ published: true
 title: User Journey
 english_title: User Journey
 last_update: 08.06.2022
-subtitle: "Mit der User-Journey kann eine zuvor festgelegte Handlung Schritt für Schritt untersucht werden. Zum Beispiel Blumen gießen: Am Anfang steht die Frage „Was ist mein Ziel der Handlung?“ – Die Antwort: „Die Pflanze soll gedeihen.“ Dann gilt es zu überlegen: „Wie komme ich dahin?“ Alle Handlungsschritte – von der Erinnerung, dass gegossen werden muss, über das Füllen der Gießkanne bis zum Wässern der Erde – werden auf mehreren Ebenen untersucht. Am Ende kann überprüft werden, ob das anfangs genannte Ziel passend oder die Grundannahme falsch war. Vielleicht stellt sich heraus, dass es der Pflanze nicht deshalb schlecht ging, weil sie zu wenig, sondern zu viel Wasser bekam oder dass sie am falschen Standort war. Mit der User-Journey lassen sich Alltagssituationen des Teilnehmenden untersuchen und damit verbundene Barrieren, Wünsche und Emotionen aufdecken. Die Ergebnisse sind dann Ausgangspunkt für den weiteren Technik-Entwicklungsprozess. "
+subtitle: "Mit der User-Journey kann eine zuvor festgelegte Handlung Schritt für Schritt untersucht werden. Dabei wird am Anfang ein Ziel gesetzt. Zum Ende wird geprüft, ob dieses Ziel erfüllt ist. Durch die klein-schrittige Betrachtung von Situationen im Alltag können Barrieren, Wünsche und Emotionen aufgedeckt werden. Die Ergebnisse sind dann Ausgangspunkt für den weiteren Technik-Entwicklungsprozess."
 ---
 
 <table class="tb">

@@ -5,8 +5,7 @@ published: true
 title: Escape Game
 english_title: Escape Game
 last_update: 11.05.2022
-subtitle: Das Escape-Game ist ein Set aus Rätseln, die aus Smart-Home-Technik bestehen. Teilnehmende können sich spielerisch mit den verschiedenen Funktionen und Steuerungen der Bausteine vertraut machen. Anschließend können sie selbst Ideen für neue Technologien entwickeln, die ihnen bei der Alltagsbewältigung helfen.
-abstract: Das Escape-Game ist ein Set aus Rätseln, die aus Smart-Home-Technik bestehen. Teilnehmende können sich spielerisch mit den verschiedenen Funktionen und Steuerungen der Bausteine vertraut machen. Anschließend können sie selbst Ideen für neue Technologien entwickeln, die ihnen bei der Alltagsbewältigung helfen.
+subtitle: Das Escape-Game ist ein Set aus Rätseln. Teilnehmende können sich spielerisch mit den verschiedenen Funktionen von Smart-Home-Technik vertraut machen. Sie lernen die Technik-Bausteine kennen und verstehen. Dadurch entwickeln sie eventuell selbst Ideen für neue Technologien, die ihnen im Alltag helfen.
 ---
 
 <table class="tb">
