@@ -8,7 +8,7 @@ sections:
     link_text: Zum INTIA-Koffer
   - title: Methoden
     text: |
-        Methoden, die dabei unterstützen, Alltagshilfen zu entwerfen, zu bauen und auszuwerten. Plus: Methodenradar, um zu erkennen, wie partizipativ eine Methode ist.
+        Methoden, die dabei unterstützen, Alltagshilfen zu entwerfen, zu bauen und auszuwerten. Plus: Methodenradar, um einzuordnen, wie partizipativ eine Methode ist.
     image: /assets/img/landingpage/methoden.jpg
     icon: icon-methods
     link: /werkzeuge/methoden/
@@ -20,13 +20,13 @@ sections:
     icon: icon-briefcase
     link: /wissen/woerterbuch/
     link_text: Zum Wissen
-#  - title: Neuigkeiten
-#    text: |
-#        Hier gibt es alle Neuigkeiten rund um die Angebote von INTIA. Außerdem sammeln wir hier, was andere über uns schreiben.
-#    image: /assets/img/landingpage/neuigkeiten.jpg
-#    icon: icon-newspaper
-#    link: /blog/
-#    link_text: Zu den Neuigkeiten
+  - title: Neuigkeiten
+    text: |
+        Neuigkeiten rund um INTIA sowie Berichte, die andere über uns schreiben.
+    image: /assets/img/landingpage/neuigkeiten.jpg
+    icon: icon-newspaper
+    link: /blog/
+    link_text: Zu den Neuigkeiten
   - title: Mitmachen
     text: |
         Anregungen, Ideen, Kritik und Feedback an INTIA - Bitte hier entlang.
