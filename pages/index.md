@@ -1,7 +1,7 @@
 ---
 title: INTIA – Inklusive Technikideen für den Alltag
 subtitle: |
-  INTIA richtet sich an Menschen aus der Sozialen Arbeit, Informatik und Wissenschaft, aber auch an interessierte Jugendliche. Sie alle finden hier Anregungen und Werkzeuge, um Alltagsprobleme durch den spielerischen Einsatz von Technik zu lösen.
+  INTIA richtet sich an Menschen aus der Sozialen Arbeit, Informatik und Wissenschaft, sowie an interessierte Jugendliche. Sie alle finden hier Anregungen und Werkzeuge, um Alltagsprobleme durch den spielerischen Einsatz von Technik zu lösen.
 hero_image: /assets/img/landingpage/start.jpg
 hero_link: /ueber/plattform
 hero_link_text: Mehr über INTIA…
@@ -22,12 +22,12 @@ Die Plattform INTIA zeigt Möglichkeiten auf, wie partizipativ und inklusiv - au
 
 ## Ein Koffer für eine Reise in die Welt der Technik
 
-Im Zentrum der Plattform steht der INTIA Koffer. Er ist eine Art mobiles Labor mit Anleitungen und Beschreibungen, einem Escape-Game für einen leichten Einstieg in die Welt der Technik sowie technischen Bausteinen, die einfach zu verstehen und zu handhaben sind.
+Im Zentrum der Plattform steht der INTIA Koffer. Er ist eine Art mobiles Labor mit verschiedenen Modulen und Elementen. Es gibt zum Beispiel ein Escape-Game, für einen leichten Einstieg in die Welt der Technik. Darüber hinaus enthält der Koffer Anleitungen und Beschreibungen sowie Technik-Bausteine. Diese sind einfach zu verstehen und zu benutzen
 {% include button.html label="Mehr über den INTIA Koffer…" link="/intia-koffer/" %}
 
 ## Hintergrund und Netzwerk
 
-Außerdem findet man auf der Plattform viele Hintergrundinformationen zum Thema „partizipativ inklusive Technikentwicklung“ sowie Möglichkeiten, mit anderen Interessierten in Kontakt zu treten.
+Auf der Plattform findet man zudem viele Hintergrundinformationen zum Thema „partizipativ inklusive Technikentwicklung“ sowie Möglichkeiten, mit anderen Interessierten in Kontakt zu treten.
 {% include button.html label="Mehr über das Netzwerk…" link="/mitmachen/netzwerk/" %}
 <br><br>
 
