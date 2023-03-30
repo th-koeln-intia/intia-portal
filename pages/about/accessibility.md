@@ -13,11 +13,11 @@ Die Inhalte auf der Plattform sollen für alle zugänglich und verständlich sei
 
 - Pfeil hoch/Pfeil runter: Die Pfeile können über Assistenzsysteme zum Scrollen genutzt werden. Alle Seiten sind so kurz wie möglich gestaltet, damit man nicht so viel scrollen muss.
 - Wörterbuch: Für eine ausführliche Erklärung klickt man auf den Begriff und kommt so zum INTIA Wörterbuch.
-- Alle Texte sind nach speziellen Regeln geschrieben, damit man sie leichter lesen und verstehen kann. Diese Regeln orientieren sich an den Hinweisen zur einfachen Sprache und wurden so umgesetzt, dass sie eine Brücke zwischen wissenschaftlicher Schreibweise und einfachen Texten schlagen.
+- Alle Texte sind möglichst einfach geschrieben, damit man sie leichter lesen und verstehen kann. Sie sollen eine Brücke zwischen wissenschaftlicher Schreibweise und einfachen Texten schlagen.
 - Die Farben auf der Seite wurden so gewählt, dass möglichst hohe Kontraste entstehen und man sich dadurch leichter orientieren kann.
-- Die Seite wurde vorab von Expert:innen getestet. Ihre Meinung wurde vor der Veröffentlichung berücksichtigt.
 - Alle Bilder, die auf der Seite verwendet werden, haben alternative Texte. Diese beschreiben, was auf den Bildern zu sehen ist.
+- Die Seite wurde vorab von Fachleuten getestet. Ihre Meinung wurde vor der Veröffentlichung berücksichtigt.
 
 ## Rückmeldung und Kontakt
 
-Ist ein Text auf dieser Plattform schwer verständlich? Oder wünschst du dir mehr Informationen zu einem bestimmten Thema? Bitte schreibe uns: per E-Mail an [kontakt@intia.de](mailto:kontakt@intia.de).
+Ist ein Text auf dieser Plattform doch nicht ganz verständlich? Oder wünschst du dir mehr Informationen zu einem bestimmten Thema? Dann schreibe uns bitte eine E-Mail an [kontakt@intia.de](mailto:kontakt@intia.de).
