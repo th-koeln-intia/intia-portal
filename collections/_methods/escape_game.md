@@ -13,8 +13,8 @@ subtitle: Das Escape-Game ist ein Set aus Rätseln. Teilnehmende können sich sp
         <th><strong>Ziel der Methode</strong></th>
         <th>
 
-- Smart Home Elementen kennen lernen
-- Berührungsängste abbauen und Spaß an Technik vermitteln
+- Smart-Home-Technik kennenlernen und verstehen
+- Neugier erzeugen und Spaß an Technik vermitteln
 - Grundlage für Technikentwicklung legen
 
 </th>
@@ -25,23 +25,23 @@ subtitle: Das Escape-Game ist ein Set aus Rätseln. Teilnehmende können sich sp
     </tr>
     <tr>
       <td><strong>Altersgruppe</strong></td>
-      <td>10 - 99</td>
+      <td>10 - 18</td>
     </tr>
     <tr>
       <td><strong>Gruppengröße</strong></td>
-      <td>max. 5 pro Gruppe</td>
+      <td>max. 6 pro Gruppe</td>
     </tr>
     <tr>
       <td><strong>Sozialform</strong></td>
-      <td>Einzel oder Kleingruppe</td>
+      <td>Kleingruppe</td>
     </tr>
     <tr>
       <td><strong>Dauer</strong></td>
       <td>
       <strong>
-      Vorbereitung: etwa 1 Minute<br>
+      Vorbereitung durch Moderation: etwa 15-30 Minuten<br>
       ...<br>
-      Durchführung: etwa ca 40-60 Minunten<br>
+      Durchführung: etwa ca. 45-60 Minuten<br>
       ...<br>
       Nachbereitung: etwa 15 Minuten<br>
       ...
@@ -52,15 +52,12 @@ subtitle: Das Escape-Game ist ein Set aus Rätseln. Teilnehmende können sich sp
       <td><strong>Material</strong></td>
       <td>
     <ul>
-    <li>INTIA Koffer</li>
-    <li>Anleitung Escape Game</li>
+    <li>INTIA Koffer mit allen Anleitungen zu dem Escape-Game ODER</li>
+    <li>Moderationsanleitung INTIA Koffer</li>
+    <li>Rätselheft Escape-Game mit Tipps</li>
     <li>Liste aller Bausteine</li>
-    <li>Aufbauanleitung</li>
-    <li>Rätsel Beschreibung</li>
-    <li>Rätsel Blätter</li>
-    <li>Tipps</li>
-    <li>mindestens ein internetfähiges Handy</li>
-    <li>Kugelschreiber o.ä. zum resetten des Routers</li>
+    <li>Technisches Endgerät (z. B. Handy oder Tablet)</li>
+    <li>Technik-Fächer (Hinweise zu den Technik-Bausteinen)</li>
     </ul>
     </td>
     </tr>
@@ -68,95 +65,54 @@ subtitle: Das Escape-Game ist ein Set aus Rätseln. Teilnehmende können sich sp
       <td><strong>Sonstiges</strong></td>
       <td>
 
-- freier Platz auf einem Tisch für das Materialx notfalls den Boden nutzen
-- vier gut erreichbare Stromanschlüsse benötigtx ideal ist eine
-  Mehrfachsteckdose
-- kein Internet notwendig! Der zugehörige Mini Router macht ein eigenes
-  WLAN auf
-- kein technisches Vorwissen nötig! Die Anleitungen führen durch Aufbau
-  und Durchführung der Rätsel
-- bei geringer Frustrationstoleranz sollten (zum Einstieg) leichte Rätsel
-mit schnellem Erfolg gewählt werden
+- Freier Platz auf einem Tisch für das Material; notfalls den Boden nutzen
+- Vier gut erreichbare Stromanschlüsse benötigt; ideal ist eine Mehrfachsteckdose (liegt dem Koffer bei)
+- Kein Internet notwendig, der zugehörige Mini-Router macht ein eigenes WLAN auf
+- Kein technisches Vorwissen nötig
 </td>
 </tr>
 </table>
 
-# Anleitung
+## Beschreibung
 
-Zur Durchführung des Escpae Games sind einige Vorbereitungen notwendig. Was vor, während und
-nach der Durchführung getan und beachtet werden muss wird im Folgenden beschrieben. Alle
-benötigten Materialien und Anleitung sind hier auf intia.de zu finden. Viel Spaß.
+Das Escape-Game ist ein Set aus Rätseln. Teilnehmende können sich spielerisch mit den verschiedenen Funktionen von Smart-Home-Technik vertraut machen. Sie lernen die Technik-Bausteine kennen und verstehen. Dadurch entwickeln sie eventuell selbst Ideen für neue Technologien, die ihnen im Alltag helfen.
+
+## Durchführung
 
 #### Vorbereitung
 
-1. Material ausdrucken
+**Am einfachsten geht es, wenn man einen INTIA Koffer ausleiht.**
 
-- Anleitung Escape Game
-- Liste aller Bausteine
-- Aufbauanleitung
-- Rätselbeschreibung
-- Rätselblätter
-- Tipps
+1. Eine Fachkraft macht sich vertraut mit dem INTIA Koffer. Hierfür gibt es eine Moderationsanleitung.
+2. Optional kann eine Belohnung in die Kiste gelegt werden (z. B. Schokolade). Das motiviert zum Mitmachen.
 
-2. Die Rätsel Blätter und Tipps ausschneiden
-3. Alle benötigten bereit legen
-4. Die Bausteine nach aufbauen und das ausgedruckte Material bereit legen
-5. Empfehlung: Das Escape Game einmal durchspielen. So kannst du testen, ob alles klappt! Falls es Probleme gibt, kannst du in der nach einer Lösung gucken.
-   <br><br>
+**Alternativ:**
 
-#### Durchführung
+1. Material von der Plattform intia.de herunterladen und ausdrucken. (hier geht's zu den Daten) [/pages/tools/methods]
+   1. Moderationsanleitung INTIA Koffer
+   2. Anleitungen des Moduls 2 für die Teilnehmenden
+   3. Rätselheft Escape-Game
+   4. Liste aller Bausteine
+2. Die Bausteine besorgen und programmieren
+3. Optional gibt es einführende Videos zum INTIA Koffer und zum Escape-Game. Damit kann man sich vorbereiten.
 
-1. Die Teilnehmenden erhalten die Erklärung, dass es mit dem Briefumschlag 1 los geht. Und dass sie Karten mit Tipps nutzen können, wenn sie nicht weiter kommen. Sie könne sich also selber helfen.
-2. Die Rätsel werden, soweit es geht, selbständig von den Teilnehmenden durchgeführt. Die Moderation sollte nur eingreifen, wenn die Teilnehmenden von sich aus um Unterstützung bitten, nachdem sie mit den Tipps nicht weiter gekommen sind. Hierfür sind die Rätsel Beschreibungen hilfreich, in denen die gesamte Auflösung der einzelnen Rätsel beschrieben wird. Bei technischen Problemen sollte die Moderation natürlich direkt eingreifen und sie beheben.
-3. Das Escape Game endet, wenn der Beacon mit der Überraschung gefunden wurde.
-4. Wenn Interesse besteht, können die Teilnehmenden im Anschluss noch auf der Webseite die Funktionen der Bausteine aus dem Escape Game testen.
-   <br><br>
+**Durchführung**
 
-#### Nachbereitung
+1. Die Teilnehmenden erhalten ein Rätselheft mit zusätzlichen Tipps in Umschlägen. Sollten sie nicht weiterwissen, können sie diese zu Hilfe nehmen.
+2. Die Rätsel sind nach einer bestimmten Reihenfolge geordnet. Die Teilnehmenden müssen mit Rätsel 1 beginnen, danach Rätsel 2 und so weiter.
+3. Die Teilnehmenden lösen die Rätsel, soweit es geht, selbständig. In den Tipps befinden sich in der Regel auch Lösungswege. Die Moderation sollte so wenig wie möglich eingreifen, kann aber bei technischen Problemen unterstützen.
+4. Das Escape-Game endet, wenn die Steuerungszentrale von den Teilnehmenden kontrolliert werden kann. Dies erkennt man unter anderem an dem Konfetti.
+5. Nun können die Teilnehmenden ausprobieren, die Technik-Bausteine zu steuern.
 
-Die Rätsel reflektieren und über Ideen für individuelle Anwendung sprechen. Im Anschluss können Kreativ Methoden genutzt werden, um Ideen zu finden oder auszuarbeiten.
-<br><br>
+**Nachbereitung**
+Die Funktionsweisen der einzelnen Technik-Bausteine besprechen. Im Anschluss können Kreativ-Methoden genutzt werden, um neue Ideen mit den Technik-Bausteinen zu finden oder auszuarbeiten.
 
-## Hinweis
+## Hinweise zur Durchführung
 
-Am Escape Game sollten maximal 5 Personen teilnehmen. Dann können sich alle aktiv mit einbringen. Wenn es mehr Teilnehmende gibt, wird die Gruppe aufgeteilt. Dann braucht jede Gruppe ein eigenes Escape Game. Am besten sollten die Gruppen in verschiedenen Räumen sein, damit die Bausteinen der beiden Sets nicht durcheinander geraten und keine Lösungen aufgeschnappt werden. Die Gruppen können natürlich auch nacheinander spielen. Die Moderation sollte sich bei der Durchführung möglichst zurückhalten. Sie sollte entweder nur auf direkte Ansprache reagieren oder bei technischen Problemen unterstützen. Die Teilnehmenden sollten stattdessen auf die Tipps hingewiesen werden, damit sie das Escape Game möglichst selbständig lösen können.
+Es sollten höchstens sechs Personen am Escape-Game teilnehmen, damit sich alle aktiv einbringen können. Wenn es mehr Teilnehmende gibt, werden sie in mehrere Gruppen aufgeteilt und spielen in verschiedenen Räumen. In diesem Fall braucht jede Gruppe ein eigenes Escape-Game. Die Gruppen können aber auch nacheinander spielen.
 
-## Anpassungen
+Die Moderation mischt sich beim Spielen des Escape-Games möglichst wenig ein. Sie sollte entweder nur auf direkte Ansprache reagieren oder bei technischen Problemen unterstützen. Die Teilnehmenden sollten stattdessen auf die Tipps hingewiesen werden, damit sie das Escape-Game weitestgehend selbständig lösen können.
 
-Rätsel entwickeln, bei denen die Technik in einen praktischen Rahmen gesetzt wird. Zum Beispiel Türkontakte an Türen/Fenstern nutzen. Das erleichtert die Übertragung auf die Nutzung im eigenen Alltag, also außerhalb des Spiels. Interessant könnte es auch sein, wenn die Rätsel in eine Geschichte eingebunden werden. Es können neue Rätsel mit den Teilnehmenden ausgedacht werden. Unter [ Bausteine ] (intia.de/tools/blocks/) sind alle Smart Home Elemente aufgelistet, die zur Verfügung stehen.
+## Anpassung
 
-<!--
-{% include highlighter.html min-height25p=false content="
-
-## <center>Weitere Define Methoden</center>
-
-#### Methodenname
-
-Kurzbeschreibung Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
-nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
-
-<a href='#' class='button is-rounded is-dark'>
-   <span>Mehr lesen</span>
-  <span class='icon is-small'>
-    <i class='fas fa-chevron-right fa-xs'></i>
-  </span>
-</a>
-<br><br>
-
-#### Methodenname
-
-Kurzbeschreibung Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
-nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
-
-<a href='#' class='button is-rounded is-dark'>
-   <span>Mehr lesen</span>
-  <span class='icon is-small'>
-    <i class='fas fa-chevron-right fa-xs'></i>
-  </span>
-</a>
-<br><br>
-
-" %}
--->
+Rätsel entwickeln, bei denen die Technik praktisch angewendet werden kann. Zum Beispiel Türkontakte an Türen/Fenstern nutzen. Das erleichtert die Übertragung auf den eigenen Alltag. Gemeinsam mit den Teilnehmenden können neue Rätsel entstehen. Unter [ Bausteine ] (intia.de/tools/blocks/) sind alle Smart-Home-Elemente aufgelistet, die zur Verfügung stehen.

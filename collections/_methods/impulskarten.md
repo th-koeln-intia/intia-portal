@@ -11,7 +11,14 @@ subtitle: "Die Impulskarten sollen Unterhaltungen anregen. Ziel ist es, Probleme
 <table class="tb">
     <tr>
         <th><strong>Ziel der Methode</strong></th>
-        <th>Identifizieren der Lebensbereiche, in denen ein Unterstützungsbedarf und Unterstützungswunsch besteht. Konkretisieren, welche Bedarfe und Bedürfnisse bestehen.</th>
+        <th>
+
+- Unterhaltungen anregen (über die eigene Lebenssituation)
+- Austauschmöglichkeit
+- Probleme und Bedürfnisse im Alltag erkennen
+- Unterstützungsbedarf (oder -wunsch) konkretisieren
+
+</th>
     </tr>
     <tr>
       <td><strong>Phase</strong></td>
@@ -32,16 +39,12 @@ subtitle: "Die Impulskarten sollen Unterhaltungen anregen. Ziel ist es, Probleme
     <tr>
       <td><strong>Dauer</strong></td>
       <td>
-      Vorbereitung: etwa 1 Minuten<br>
-      <br>
-      Durchführung: offen<br>
-      <br>
-      Nachbereitung: etwa 10 Minuten<br>
+      Durchführung: 10 - 30min.<br>
       </td>
     </tr>
     <tr>
       <td><strong>Material</strong></td>
-      <td>INTIA-Impulskarten: INTIA-Alltagskarten + INTIA-Bedürfniskarten</td>
+      <td>INTIA-Impulskarten: Alltags-Karten + Bedürfnis-Karten</td>
     </tr>
     <tr>
       <td><strong>Sonstiges</strong></td>
@@ -50,115 +53,59 @@ subtitle: "Die Impulskarten sollen Unterhaltungen anregen. Ziel ist es, Probleme
 </tr>
 </table>
 
-# Anleitung
+## Beschreibung
+
+Die Impulskarten sollen Unterhaltungen anregen. Ziel ist es, Probleme, Wünsche oder Bedürfnisse zu erkennen. Daraus können anschließend mit anderen Methoden Lösungen entwickelt werden.Es kann sein, dass andere Teilnehmende ähnliche Probleme, Wünsche oder Bedürfnisse beschreiben. Diese Themen können gemeinsam in der Gruppe besprochen werden. Daraus ergibt sich eventuell ein Handlungs- oder Unterstützungsbedarf. Auch außerhalb eines Technik-Entwicklungsprozesses können die Impulskarten eingesetzt werden. Zum Beispiel als unterstützendes Werkzeug bei der Vorbereitung eines Hilfeplangesprächs.
+
+## Durchführung
 
 #### Vorbereitung
 
+Im INTIA Koffer befinden sich Impulskarten zu Alltagssituationen und Bedürfnissen.
+
+<br>
+
+**Alternativ:**
+
 1. Karten ausdrucken und ausschneiden
-2. Ggf. Vorauswahl der Karten treffen
-
-- Moderation trifft Vorauswahl der Karten
-  - Um Menge zu reduzieren- weniger Komplexität, da weniger Auswahl
-  - Um relevante Themen werden fokussiert
-  - Irrelevante oder triggernde Themen auszublenden
-- Teilnehmende treffen Vorauswahl
-  - Entfernen Themen, die zum Beispiel nicht in der Gruppe angesprochen werden sollen
-  - Entfernen Themen, die irrelevant für sie sind
-
-<br><br>
+2. Eventuell eine Vorauswahl aus den Karten treffen
+   1. Moderation trifft Vorauswahl, um
+      1. eine kleinere Auswahl zu haben und schwierige Karten auszusortieren
+      2. wichtige Themen zu fokussieren
+      3. Themen, die unwichtig oder sogar verletzend für die Gruppe sind, auszusortieren
+   2. Teilnehmende treffen Vorauswahl, um
+      1. Themen zu entfernen, die für die Gruppe unwichtig sind
+      2. Themen zu entfernen, mit denen sich Teilnehmende unwohl fühlen
 
 #### Durchführung
 
-1. Auswahl der Alltagskarte(n)
+**Alltags-Karten**
+Nacheinander darf jede Person in der Gruppe eine Spielkarte ziehen. Die Gruppe überlegt gemeinsam: Was gefällt mir im Alltag? Was möchte ich verändern? Was stört mich? Wie geht es den anderen in der Gruppe damit?
+**Bedürfnis-Karten**
+Nacheinander darf jede Person in der Gruppe eine Spielkarte ziehen, darüber nachdenken und den Satzanfang beenden. Die Gruppe überlegt gemeinsam: Wie kann das Problem (technisch) gelöst werden? Wie kann mein Wunsch wahr werden? Wie geht es den anderen in der Gruppe damit?
 
-- Jede Person erhält eine zufällige Karte
-  - Wird zufällig ausgeteilt / vom Stapel gezogen
-  - Karten verdeckt auf Tisch verteilt und gezogen
-- Jede Person sucht sich eine Karte aus (Karten offen auf Tisch ausgelegt)
-  - Auswahl aufgrund einer vorher festgelegten Bedürfniskarte oder eigener Fragestellung
-- Pro Runde nutzen alle die selbe Karte
-  - Zufällig gezogen durch M oder TN
-  - Ausgesucht von M oder TN
+Die Alltags-Karten können auch mit den Bedürfnis-Karten zusammen verwendet werden. Die Teilnehmenden ziehen eine Karte von jedem Stapel und bilden Sätze. Danach entsteht ein Austausch. Die Gruppe kann neue Ideen entwickeln.
 
-2. Auswahl der Bedürfniskarte
+Beispiel: Alltags-Karte „Schlafen” und Bedürfnis-Karte „mir hilft...”. Daraus lassen sich unterschiedliche Ideen bilden, die zu den eigenen Bedürfnissen passen:
 
-- Jede Person erhält eine zufällige Karte
-  - Wird zufällig ausgeteilt / vom Stapel gezogen
-  - Karten verdeckt auf Tisch verteilt und gezogen
-- Jede Person sucht sich eine Karte aus (Karten offen auf Tisch ausgelegt)
-  - Auswahl aufgrund einer vorher festgelegten Alltagskarte oder eigener Fragestellung
-- Pro Runde nutzen alle dieselbe Karte
-  - Zufällig gezogen durch M oder TN
-  - Ausgesucht von M oder TN
+„Mir hilft es beim Schlafen, wenn alles dunkel ist.” oder „Mir hilft Musik beim Einschlafen.”
 
-<br><br>
+#### Nachbereitung
 
-#### Beispiele
-
-<strong>1. Start mit Alltagskarten</strong>
-
-Die Moderation/ teilnehmende Person zieht eine zufällige Alltagskarte - z. B. "Sport":
-
-A: Moderator stelle eine eigene Frage: Macht ihr gerne Sport? TN1: Ja M: Was denn? TN1: Yoga! M: Interessant! Wo machst du das? In einem Verein? TN1: Nein, mit YouTube Videos. M: Klappt das gut? TN1: Geht so. Manchmal ist das Internet zu lahm, dann lädt das Video nicht und ich muss warten. Das nervt!
-
-→ Thema Internet kann weiter verfolgt werden. M: Habt ihr anderen auch Probleme mit dem Internet?
-
-→ Weiter beim Thema Sport bleiben. M: Was kannst du dann stattdessen machen? Oder macht ihr anderen auch Sport wie TN1?
-
-B. Teilnehmende suchen sich eine für sie passende Impulskarte aus und formulieren einen Satz aus den beiden Karten. Z.B. "Ich will mehr ... Sport ...machen". Oder "Ich würde gerne ... Sport ... machen".
-
-C: Eine Alltagskarte wird zufällig gezogen und alle überlegen, welches Szenario zur Aussage passen könnte.
-
-<strong>2. Start mit Bedürfniskarte</strong>
-
-Die Moderation/ teilnehmende Person sucht eine Bedürfniskarte aus - z. B. "Ich würde gerne...".
-
-A: Die Moderation/ teilnehmende Person sucht sich eine Alltagskarte dazu aus. Alle können beitragen, ob für sie die Aussage passt oder warum nicht.
-
-B: Alle suchen sich eine Alltagskarte aus, die für sie zum Bedürfnis passt und erzählen darüber.
-
-C: Eine Alltagskarte wird zufällig gezogen und alle überlegen, welches Szenario zur Aussage passen könnte.
+1. Ideen auf Papier festhalten.
+2. Die Ideen können mit anderen Methoden weiterentwickelt werden.
+   Diese Methode kann als Basis für Entwicklungsmethoden dienen.
 
 ## Hinweise zur Durchführung
 
-Es kann vorkommen, dass die Formulierungen mit "Ich" für die Teilnehmenden unangenehm sind. Da sie sich z.B. nicht als inkompetent sehen/ präsentieren möchten. Dann kann ein hypothetisches "Ich" konstruiert werden. Die Moderation bespricht zu Beginn mit den Teilnehmenden, dass mit "Ich" nicht sie selber gemeint sind. Sondern, dass sie sich in die Situation von jemand anderem hineinversetzen sollen. Z.B. jemand in ihrem Alter, in einer ähnlichen Situation, oder jemand ganz anderes. Was würde dann diese Person von sich sagen? Dies setzt jedoch eine ausreichende Abstraktionsfähigkeit voraus.
+Die Moderation bespricht (optional) zu Beginn mit den Teilnehmenden, dass mit „Ich“ nicht sie selber gemeint sind. Sie versetzen sich bloß in andere Menschen hinein. Denn es kann vorkommen, dass ein Satz mit „Ich“ für die Teilnehmenden unangenehm ist. Das kann unterschiedliche Gründe haben. Dann kann der Satz auch mit „Mein Freund“ oder „Meine Freundin“ begonnen werden.
+
+Die Methode kann auch alleine durchgeführt werden. Sie kann dann dazu dienen, dass Menschen sich über eigene Probleme, Wünsche und Bedürfnisse klarwerden.
 
 ## Anpassungen
 
-Es gibt leere Karten, die von der Moderation und/ oder den Teilnehmenden selber ausgefüllt werden können.
+Es gibt leere Karten, die von der Moderation und/oder den Teilnehmenden selber ausgefüllt werden können.
 
-<!--
-{% include highlighter.html min-height25p=false content="
+## Quelle
 
-## <center>Weitere Define Methoden</center>
-
-#### Methodenname
-
-Kurzbeschreibung Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
-nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
-
-<a href='#' class='button is-rounded is-dark'>
-   <span>Mehr lesen</span>
-  <span class='icon is-small'>
-    <i class='fas fa-chevron-right fa-xs'></i>
-  </span>
-</a>
-<br><br>
-
-#### Methodenname
-
-Kurzbeschreibung Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
-nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
-
-<a href='#' class='button is-rounded is-dark'>
-   <span>Mehr lesen</span>
-  <span class='icon is-small'>
-    <i class='fas fa-chevron-right fa-xs'></i>
-  </span>
-</a>
-<br><br>
-
-" %}
--->
+ICF

@@ -11,7 +11,13 @@ subtitle: "Mit der User-Journey kann eine zuvor festgelegte Handlung Schritt fü
 <table class="tb">
     <tr>
         <th><strong>Ziel der Methode</strong></th>
-        <th>Identifizieren der Lebensbereiche, in denen ein Unterstützungsbedarf und Unterstützungswunsch besteht. Konkretisieren, welche Bedarfe und Bedürfnisse bestehen.</th>
+        <th>
+
+- Kennenlernen einer Alltagssituation
+- Entdecken von damit verbundenen Barrieren, Wünschen und Emotionen  
+
+
+</th>
     </tr>
     <tr>
       <td><strong>Phase</strong></td>
@@ -47,87 +53,48 @@ subtitle: "Mit der User-Journey kann eine zuvor festgelegte Handlung Schritt fü
 
 <br><br>
 
-Beschreibung des Aufbau der User Journey (kurz UJ) pro Schritt:
+## Beschreibung
 
-1. Aktion: Was mache ich?
+Mit der User-Journey kann eine zuvor festgelegte Handlung Schritt für Schritt untersucht werden. Dabei wird am Anfang ein Ziel gesetzt. Zum Ende wird geprüft, ob dieses Ziel erfüllt ist. Durch die klein-schrittige Betrachtung von Situationen im Alltag können Barrieren, Wünsche und Emotionen aufgedeckt werden. Die Ergebnisse sind dann Ausgangspunkt für den weiteren Technik-Entwicklungsprozess.
+
+Zum Beispiel Blumen gießen: Am Anfang steht die Frage „Was ist mein Ziel der Handlung?“ – Die Antwort: „Die Pflanze soll leben und im besten Fall wachsen.“ Dann folgt die Überlegung: „Wie schaffe ich das?“ Alle Handlungsschritte werden auf mehreren Ebenen untersucht: Erinnern an das Gießen, Füllen der Gießkanne, Wässern der Erde. Am Ende kann überprüft werden, ob das Anfangs-Ziel passend war. Es kann auch nicht erfüllt sein, dann war die Grundannahme falsch. Vielleicht sind andere Bedingungen, zum Beispiel die Temperatur oder das Licht im Raum, für die Pflanze viel wichtiger.
+
+User-Journey - Schritt für Schritt:
+
+1. Handlung: Was mache ich?
 2. Kontakt: Was benutze ich?
-3. Gefühle: Was denke ich hierbei? Was fühle ich hierbei?
+3. Gefühle: Was fühle ich hierbei?
 4. Wichtig: Mir ist wichtig, dass...
 
-# Anleitung
+## Durchführung
 
 #### Vorbereitung
 
-- Thema ermitteln, dass bearbeitet werden soll. Z.B. durch digitales Probe Kit das Thema ermitteln.
-- Das Raster der UJ vorbereiten:
-
-  - Digital auf miro
-    - Alle sollten einen PC/ Laptop zur Bearbeitung zur Verfügung haben.
-  - Besser analog!
-    - Nach Vorlage sehr groß auf Plakat/Tapete übertragen.
-    - Post-Its.
-    - Dicke Stifte.
-    - Emojis (auf Post-Its?).
-    - Ausreichend Platz an der Wand oder auf dem Boden, um UJ ausbreiten zu können und daran arbeiten zu können.
-
-  <br><br>
+- Ein Thema aussuchen, das mit der Methode bearbeitet wird.
+- Das Raster der Methode vorbereiten:
+  - Digital auf MIRO (dafür brauchen alle ein digitales Endgerät, z. B. Laptop oder PC).
+  - Analog:
+    - Raster bzw. MIRO auf Plakat übertragen.
+    - Post-Its, dicke Stifte besorgen.
 
 #### Durchführung
 
-1. Gut sichtbar für alle anbringen/ positionieren.
-2.
-
-- A) mit Schritten (oberste Zeile) beginnen und anschließend die Spalten füllen.
-- B) die Spalten Schritt für Schritt bearbeiten.
-
-3. Wenn Dinge genannt werden, die noch nicht 'dran sind', aufschreiben und zu gegebener Zeit anbringen.
-
-   <br><br>
+1. Plakat (= Raster) gut sichtbar für alle anbringen.
+2. Entweder A) mit Schritten (oberste Zeile) beginnen und anschließend die Spalten füllen. Oder B) die Spalten Schritt für Schritt bearbeiten.
+3. Werden weitere Alltagssituationen genannt, die noch nicht ‚dran sind‘, diese aufschreiben und zu gegebener Zeit anbringen.
 
 ## Hinweise zur Durchführung
 
 Die Methode kann prinzipiell mit jeder Personengruppe durchgeführt werden. Je nach Alter und Grad der Abstraktionsfähigkeit braucht es jedoch mehr oder weniger Anleitung durch die Moderation.
-Zur Einführung kann die User Journey mit einem für alle bekannten, wenig komplexen und 'unverfänglichen' Beispiel durchgeführt werden. Z.B. "Blumen gießen" (s.o.).
+Zur Einführung kann die Methode User-Journey mit einem für alle bekannten, wenig komplexen und ‚unverfänglichen‘ Beispiel durchgeführt werden (Beispiel s. o.).
 
 ## Anpassungen
 
 Wenn es für die Teilnehmenden zu abstrakt ist, sich einen Handlungsablauf nur vorzustellen, kann folgendes vorher durchgeführt werden:
-Den realen oder nachgestellten Ablauf mit einer Kamera begleiten und alle Schritte fotografieren (z. B. den Ablauf der Wäschepflege). Entweder mit digitalen oder ausgedruckten Fotos die Schritte der User Journey illustrieren. So kann eine Art Bildergeschichte erzählt werden. Beim Durchgehen der Schritte werden vielleicht Lücken aufgedeckt. Diese dann entweder textlich oder mit neuen Fotos füllen. Anschließend die Spalten füllen.
+Den realen oder nachgestellten Ablauf mit einer Kamera begleiten und alle Schritte fotografieren. Mit digitalen oder ausgedruckten Fotos die Schritte der User-Journey illustrieren. So kann eine Art Bildergeschichte erzählt werden. Beim Durchgehen der Schritte werden vielleicht Lücken aufgedeckt. Diese können dann entweder textlich oder mit neuen Fotos gefüllt werden. Anschließend die Spalten füllen.
 
-Die Angaben in der Zeile "Was fühle ich" können auch schriftlich statt mit Emojis erfolgen.
+Die Angaben in der Zeile „Was fühle ich?“ können - statt mit Emojis - auch schriftlich gemacht werden.
 
-<!--
-{% include highlighter.html min-height25p=false content="
+## Quelle
 
-## <center>Weitere Define Methoden</center>
-
-#### Methodenname
-
-Kurzbeschreibung Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
-nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
-
-<a href='#' class='button is-rounded is-dark'>
-   <span>Mehr lesen</span>
-  <span class='icon is-small'>
-    <i class='fas fa-chevron-right fa-xs'></i>
-  </span>
-</a>
-<br><br>
-
-#### Methodenname
-
-Kurzbeschreibung Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
-nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
-
-<a href='#' class='button is-rounded is-dark'>
-   <span>Mehr lesen</span>
-  <span class='icon is-small'>
-    <i class='fas fa-chevron-right fa-xs'></i>
-  </span>
-</a>
-<br><br>
-
-" %}
--->
+User-Journey ist eine Methode des Service Design, die für den Personenkreis der Sozialen Arbeit angepasst wurde.
