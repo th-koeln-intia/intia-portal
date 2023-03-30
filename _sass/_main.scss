@@ -175,14 +175,27 @@ ol li {
 }
 .showcase {
   margin-bottom: 3rem;
+  border-radius: 65px;
   box-shadow: $box-shadow;
 
   &-content {
-      padding: 1.5rem;
+      padding: 0 0 0 0;
       text-align: center;
   }
 
   .block-list {
       margin-bottom: 1.5rem;
   }
+}
+.prototype-image img{
+  border-top-right-radius: 0px;
+  border-bottom-right-radius: 0px;
+  height: 100%;
+  object-fit: cover;
+}
+.column.prototype-image-column {
+  padding: 0 !important;
+}
+.prototype-image {
+  height: 100%;
 }
