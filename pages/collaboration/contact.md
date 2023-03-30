@@ -74,7 +74,7 @@ Gustav-Heinemann-Ufer 54
 </a>
 </div>
 <div class="column">
-<img style="height: auto;" src="/assets/img/uploads/fabian_hesterberg_small.jpg">
+<img style="height: auto;" src="/assets/img/logos/TH_Single.png">
 </div>
 </div>
 
