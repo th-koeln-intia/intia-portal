@@ -38,7 +38,7 @@ Ubierring 48, Raum 2
 </a>
 </div>
 <div class="column">
-<img style="height: auto;" src="/assets/img/logos/TH_Single.png">
+<img style="height: auto;" src="/assets/img/uploads/fabian_hesterberg_small.jpg">
 </div>
 </div>
 
@@ -74,7 +74,7 @@ Gustav-Heinemann-Ufer 54
 </a>
 </div>
 <div class="column">
-<img style="height: auto;" src="/assets/img/logos/TH_Single.png">
+<img style="height: auto;" src="/assets/img/uploads/fabian_hesterberg_small.jpg">
 </div>
 </div>
 

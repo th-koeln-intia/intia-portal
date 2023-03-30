@@ -56,7 +56,7 @@ Ubierring 48, Raum 2
 </a>
 </div>
 <div class="column">
-<img style="height: auto;" src="/assets/img/logos/TH_Single.png">
+<img style="height: auto;" src="/assets/img/uploads/fabian_hesterberg_small.jpg">
 </div>
 </div>
 
@@ -88,7 +88,7 @@ Die Einkaufsliste enthält alle notwendigen Angaben und ist nach Produktgruppen 
 Hier findest du einen Vorschlag von uns:
 {% include button.html label='Zur Einkaufsliste auf "Mein Online Wunschzettel"' link='https://www.meinonlinewunschzettel.de/?wz=dd67ce857592ad4' type="external" %}
 
-{% include highlighter.html min-height25p=false button="Excel-Einkaufsliste herunterladen" button_link='/assets/files/einkaufsliste.xlsx' content="
+{% include highlighter.html min-height25p=false button="Excel-Einkaufsliste herunterladen" button_link='/assets/files/einkaufsliste_10_03_23.xlsx' content="
 
 ### Detaillierte Auflistung
 
