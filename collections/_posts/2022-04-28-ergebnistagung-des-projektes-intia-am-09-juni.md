@@ -1,6 +1,6 @@
 ---
 hero_tags: subpage post pdf
-title_above: Aktuelles
+title_above: Aktivitäten
 published: true
 title: "Ergebnistagung des Projektes INTIA am 09. Juni 2022 "
 author: Carola Janda, Miriam Hafki

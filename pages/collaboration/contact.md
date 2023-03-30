@@ -21,7 +21,11 @@ contact: false
 oder
 <br>
 <br>
+Bildungsfachkraft
+<br>
 Fabian Hesterberg
+<br>
+TH Köln
 <br>
 Fakultät für Angewandte Sozialwissenschaften
 <br>

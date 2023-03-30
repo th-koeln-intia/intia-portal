@@ -74,8 +74,8 @@ defaults:
       type: prototypes
       path: _prototypes
     values:
-      permalink: /werkzeuge/prototypen/:title/
-      breadcrumbs: [Werkzeuge, Prototypen]
+      permalink: /intia-koffer/prototypen/:title/
+      breadcrumbs: [INTIA Koffer, Prototypen]
       layout: default   
   - scope:
       type: methods

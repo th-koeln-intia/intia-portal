@@ -39,7 +39,11 @@ Je nachdem wo du wohnst, können wir dir den Koffer auch zusenden. Eine erste Ei
 oder
 <br>
 <br>
+Bildungsfachkraft
+<br>
 Fabian Hesterberg
+<br>
+TH Köln
 <br>
 Fakultät für Angewandte Sozialwissenschaften
 <br>

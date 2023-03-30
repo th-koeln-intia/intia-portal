@@ -1,9 +1,12 @@
 ---
-title_above: Wissen
+hero_tags: subpage post pdf
+title_above: Fachartikel
 permalink: /wissen/literatur/
 jekyll-hyperlink-glossary: false
-title: Literatur
-hero_tags: toppage
+published: true
+title: Literaturreview zu partizipativer Technikentwicklung im Kontext Sozialer Arbeit
+hero_image: /assets/img/landingpage/wissen.jpg
+preview_image: /assets/img/landingpage/wissen.jpg
 subtitle: >
   Zum Thema der partizipativen Technologieentwicklung mit Jugendlichen in jugendbezogenen Behinderten- und Erziehungshilfen haben wir unten stehende Literatur recherchiert.
 ---

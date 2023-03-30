@@ -11,7 +11,7 @@ subtitle: |
 
 Der INTIA Koffer macht es möglich, mit digitalen Technologien zu experimentieren. Jugendliche entwickeln gemeinsam mit Fachkräften Ideen, wie Technik den Alltag erleichtern kann. Dabei soll die Beteiligung der Jugendlichen gefördert werden.
 
-### Mit dem INTIA-Koffer kann man:
+### Mit dem INTIA Koffer kann man:
 
 - einfach und spielerisch Bedürfnisse erkennen und formulieren
 - einfach und spielerisch Ideen für Lösungen entwickeln
@@ -153,7 +153,11 @@ Du kannst den INTIA Koffer auch ausleihen oder selbst nachbauen. Informationen h
 oder
 <br>
 <br>
+Bildungsfachkraft
+<br>
 Fabian Hesterberg
+<br>
+TH Köln
 <br>
 Fakultät für Angewandte Sozialwissenschaften
 <br>

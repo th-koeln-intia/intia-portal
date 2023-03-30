@@ -6,40 +6,34 @@
       link: /ueber/projekt/
     - name: Barrierearm
       link: /ueber/barrierearm/
-- name: INTIA-Koffer
+- name: INTIA Koffer
   dropdown:
     - name: Über
       link: /intia-koffer/
     - name: Erwerben
       link: /intia-koffer/erwerben
+    - name: Prototypen
+      link: /intia-koffer/prototypen/
 - name: Werkzeuge
   dropdown:
     - name: Bausteine
       link: /werkzeuge/bausteine/
     - name: Methoden
       link: /werkzeuge/methoden/
-    - name: Prototypen
-      link: /werkzeuge/prototypen/
 - name: Wissen
   dropdown:
     - name: Wörterbuch
       link: /wissen/woerterbuch/
     - name: Publikationen
       link: /wissen/publikationen/
-    - name: Literatur
-      link: /wissen/literatur/
-#    - name: Anleitungen
-#      link: /wissen/anleitungen/
 - name: Blog
   dropdown:
-    - name: Neuigkeiten
+    - name: Aktivitäten
       link: /blog/
     - name: Fachartikel
       link: /articles/
 - name: Mitmachen
   dropdown:
-#    - name: Community
-#      link: /mitmachen/community/
     - name: Netzwerk
       link: /mitmachen/netzwerk/
     - name: Kontakt

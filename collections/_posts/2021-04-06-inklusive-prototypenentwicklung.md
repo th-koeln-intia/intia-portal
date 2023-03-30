@@ -1,6 +1,6 @@
 ---
 hero_tags: subpage post pdf
-title_above: Aktuelles
+title_above: Aktivitäten
 published: true
 title: Prototypen mit Jugendlichen entwickeln
 author: Alena Schmier, Hanna Thielmann, Jan Seidler
@@ -11,6 +11,7 @@ subtitle: Methoden einer inklusiven Prototypenentwicklung mit Jugendlichen mit
 tags: news intia prototyping covid-19 inclusive behaviour-driven
 categories: News
 ---
+
 Es soll herausgefunden werden, welche digitalen bzw. technischen Hilfsmittel sich junge Menschen für ihren Alltag tatsächlich wünschen. Doch wie kann so ein Prozess der partizipativen Technikentwicklung gelingen? Beispielhaft wird ein Prozess dargestellt, der in einer Maßnahme zur beruflichen Qualifizierung mit einer Gruppe von jungen Menschen mit Förderbedarf und ihrer Anleiterin stattfand. Er beschreibt die Phasen einer inklusiven Prototypenentwicklung.
 
 Die zehn Qualifikant:innen aus dieser Gruppe waren Mitentwickler:innen (ME) zusammen mit drei Forscher:innen des INTIA Teams aus den Fachdisziplinen Servicedesign, Informatik, Soziotechnik und Soziale Arbeit. Unterstützung erhielten sie von der Anleiterin der beruflichen Qualifizierungsmaßnahme. Die Workshops mit den einzelnen Phasen fanden wöchentlich im Jahr 2019/2020 statt und dauerten 1,5 Stunden.
@@ -34,6 +35,7 @@ Der Prozess zur Entwicklung der Prototypen erfolgte in verschiedenen Phasen:
    Daraufhin wird überlegt, was für Eigenschaften das Rufsystem haben sollte und wie z.B. Reize (Töne, Licht) zum Rufen der Anleiter:in genutzt werden könnten. Dies warf Fragen wie: „Soll das Licht flackern?“ „Soll das System einen Joystick haben?“ oder „Würdet ihr in ein Mikrofon reinsprechen?“ auf. Bei diesen Überlegungen beteiligten sich die MEs unterschiedlich viel. Einige schienen mit Freude teilzunehmen, andere ließen sich eher schwer für die Geschehnisse begeistern und waren im Verlauf zurückhaltender. Um den MEs die weiteren spezifischeren Überlegungen so anschaulich wie möglich zu gestalten, wurde vor dem Termin ein erster Prototyp entwickelt, um haptisch und visuell die Funktionen und möglichen Hürden besser greifbar zu machen. Dieser Prototyp bestand aus einem Knopf (Sendegerät) und einem aufleuchtenden Licht (Empfängergerät), wenn der Knopf gedrückt wird. Zur weiteren Visualisierung hat die Anleiterin das Empfängergerät in der Hand gehalten und die MEs haben gemeinsam mit den Workshop-Leiter:innen überlegt, wo der Knopf am besten platziert werden sollte, damit er möglichst für alle Qualifikant:innen erreichbar ist. Alle sind gemeinsam durch die Arbeitsbereiche gelaufen und die Workshop-Leiter:innen fragten in die Gruppe, wo der Knopf am besten platziert werden solle. Einer der MEs entgegnete daraufhin: „Lieber an der Wand. Da würd‘s keinen stören.“ Daraufhin hielt der Moderator das Sendegerät an die Wand und es wurde gemeinsam ausgetüftelt, welche Höhe oder Ort des Knopfes für alle passend wäre.
 
    Durch das BDP, welches u.a. sowohl das Testen des Prototypen als auch die Verknüpfung einer Idee bis hin zur Prototypisierung umfasst, konnten weitere notwendige Funktionen und Gegebenheiten für den Prototypen erhoben werden. Dadurch konnte mit dem BDP die Schwelle zur Partizipation bei der Technikentwicklung deutlich verringert werden, auch wenn nicht in Gänze, da die technischen Lösungsideen der MEs durch die INTIA Mitarbeiter:innen, wie Hardware verdrahten und Software programmieren, noch umgesetzt werden mussten.
+
 6. **Anpassung des Prototypen**
    Mit den Anregungen der MEs sollte der Prototyp in einem nächsten Schritt an jene erfassten Voraussetzungen angepasst werden und erneut mit den ME erprobt werden. Leider konnten durch die Corona-bedingte Schließung der Einrichtung sowie das Aufteilen der MEs in unterschiedliche Betriebe auf Grundlage des Bundesteilhabegesetzes, diese weiteren Iterationen mit der Einrichtung nicht mehr durchgeführt werden, denn es fanden in der Qualifizierungsmaßnahme keine gemeinsamen Arbeitseinheiten mehr statt.
 
