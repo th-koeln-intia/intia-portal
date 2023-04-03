@@ -1,5 +1,5 @@
 ---
-title: Schreib' uns!
+title: Schreib uns!
 title_above: Mitmachen
 hero_tags: toppage
 subtitle: |
@@ -13,7 +13,7 @@ contact: false
 <div class="columns">
 <div class="column">
 
-## Anwendungsbezogene Anfragen z.B. Ausleihe des INTIA Koffers
+## Anwendungsbezogene Anfragen, z. B. Ausleihe des INTIA Koffers
 
 [fabian.hesterberg@th-koeln.de](mailto:fabian.hesterberg@th-koeln.de)
 
