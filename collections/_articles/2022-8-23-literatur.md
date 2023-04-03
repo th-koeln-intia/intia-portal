@@ -8,12 +8,10 @@ title: Literaturreview zu partizipativer Technikentwicklung im Kontext Sozialer 
 hero_image: /assets/img/landingpage/wissen.jpg
 preview_image: /assets/img/landingpage/wissen.jpg
 subtitle: >
-  Zum Thema der partizipativen Technologieentwicklung mit Jugendlichen in jugendbezogenen Behinderten- und Erziehungshilfen haben wir unten stehende Literatur recherchiert.
+  Wie wurde in Fachzeitschriften das Thema partizipative Technikentwicklung im Kontext der Sozialen Arbeit behandelt?
 ---
 
 ## Literaturreview zu partizipativer Technologieentwicklung in der Behinderten- und Erziehungshilfe im Kontext Sozialer Arbeit
-
-Wie wurde in Fachzeitschriften das Thema partizipative Technikentwicklung im Kontext der Sozialen Arbeit behandelt?
 
 Diese Recherche folgt methodisch einem definierten Korpus der relevanten (überwiegend deutschsprachigen) wissenschaftlichen Fachzeitschriften Sozialer Arbeit zwischen 1994 und Mai 2020. Durchsucht wurden jene Fachzeitschriften, die sich mit Themengebieten angrenzend zum Handlungsfeld befassen: die Thematik der Jugend(hilfe), Medien, Technologie oder Digitalisierung. 
 Die tabellarische Darstellung bildet damit die Ergebnisse eines systematischen Literaturreviews ab, der in Soziale Passagen mit dem Titel 'Literaturreview zu partizipativer Technologieentwicklung in der Behinderten- und Erziehungshilfe im Kontext Sozialer Arbeit' veröffentlicht wurde: 
