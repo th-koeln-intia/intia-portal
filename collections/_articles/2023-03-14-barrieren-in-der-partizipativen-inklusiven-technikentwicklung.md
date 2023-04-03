@@ -9,7 +9,6 @@ preview_image: /assets/img/uploads/barrieren.jpg
 subtitle: |
   Der vorliegende Beitrag setzt sich mit Faktoren auseinander, die möglicherweise Barrieren in der partizipativen, inklusiven Technikentwicklung darstellen. Der Artikel basiert auf einer umfangreichen Literaturrecherche zur partizipativen, inklusiven Technikentwicklung sowie zur partizipativen, inklusiven Forschung. Der Fokus liegt auf der Fragestellung: Welche Barrieren und Herausforderungen können innerhalb partizipativer, inklusiver Technikentwicklung auftreten? Welche weiteren Barrieren können relevant sein, die z. B. in der partizipativen Forschung auftreten? Als Barrieren werden hierbei Faktoren verstanden, welche die erfolgreiche inklusive, partizipative Technikentwicklung behindern können. Der Beitrag fasst strukturelle, organisationale, intrapersonelle und technikbezogene Barrieren zusammen und gibt dafür Beispiele. Er zeigt zudem Möglichkeiten zum Umgang mit diesen Barrieren auf.
 ---
-„“ ‚‘
 
 ## Relevanz
 
