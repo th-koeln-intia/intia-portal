@@ -1,5 +1,5 @@
 ---
-title: Barrieren in der partizipativen inklusiven Technikentwicklung
+title: Barrieren in der partizipativen, inklusiven Technikentwicklung
 title_above: Fachartikel
 categories: News
 tags: news intia probes
@@ -84,34 +84,34 @@ Hinzu kommt, dass derzeitige Forschungsmethoden in manchen Bereichen nicht gut g
 
 Eine weitere Barriere, die das Forschungsvorhaben beeinflussen kann, geht von Tech-Konzernen und deren eigenen Absichten und Zielen innerhalb der Forschung aus. (Zaman 2020, 229-230).
 
-Des Weiteren kann die strategische Planstruktur zu Barrieren führen, etwa wenn manche Aspekte in der Planung nicht berücksichtigt werden. Hier sind zum Beispiel die Lokalitäten für Veranstaltungen zu nennen, die am Ende nicht barrierefrei sind, was sowohl Gamsjäger betonen, als auch die Checkliste von SELFMADE (Gamsjäger, Wetzelhütter 2020, 208-209; Otten 2019, 84; SELFMADE XY, 28-30). Nicht barrierefreie Räumlichkeiten sind teilweise mit zusätzlichem Aufwand verbunden, den es idealerweise zu vermeiden gilt.
+Des Weiteren kann die strategische Planstruktur zu Barrieren führen, etwa wenn manche Aspekte in der Planung nicht berücksichtigt werden. Sowohl die Orte der Veranstaltung als auch die Struktur der Planung für die Partizipation müssen barrierefrei sein (Gamsjäger, Wetzelhütter 2020, 208-209; Otten 2019, 84). Hierfür gibt es eine Checkliste der TU Dortmund (SELFMADE 2019, 28-30). Nicht barrierefreie Räumlichkeiten sind teilweise mit zusätzlichem Aufwand verbunden, den es idealerweise zu vermeiden gilt.
 
-Dadurch, dass in der Forschung nicht regulär Daten zum Thema Behinderung erhoben werden, mangelt es an einer fundierten Basis. Konkret ist damit gemeint, dass zu Daten wie Geschlecht oder Alter durchaus regelmäßig und selbstverständlich Daten erhoben werden, doch Aspekte wie Behinderung werden nicht explizit abgefragt. Stattdessen fokussiert die Forschung sich ausdrücklich auf Behinderung, nimmt sie aber nicht als einen alltäglichen und omnipräsenten Fakt wahr, den es gilt gleichwertig mit zu berücksichtigen (Rudloff 2018, 175). Behinderung ist also meist nur dann von Relevanz, wenn sie konkret untersucht werden soll. Sie wird nicht als allgegenwertig verstanden, was ein Problem darstellt.
+Dadurch, dass in der Forschung nicht regulär Daten zum Thema Behinderung erhoben werden, mangelt es an einer fundierten Basis. Konkret ist damit gemeint, dass zu Daten wie Geschlecht oder Alter durchaus regelmäßig und selbstverständlich Daten erhoben werden, doch Aspekte wie Behinderung werden nicht explizit abgefragt. Stattdessen richtet die Forschung den Fokus auf Behinderung, nimmt diese aber nicht als einen alltäglichen und omnipräsenten Fakt wahr, den es gleichwertig mit zu berücksichtigen gilt (Rudloff 2018, 175). Behinderung ist also meist nur dann von Relevanz, wenn sie konkret untersucht werden soll. Sie wird nicht als allgegenwärtig verstanden, was ein Problem darstellt.
 
-"Zunächst muss beachtet werden, dass jedes Sample auch in gewisser Weise bestimmte Gruppen ausschließt (v. Unger, 2014: 95). Ein umfassendes Sample kann hier entweder zu multiperspektivischen Erkenntnisen führen oder Gefahr laufen sich nur auf dem "kleinsten Nenner" zu begegnen und gehaltlose ERkenntnisse zu generieren (Bergold/Thomas, 2010:342)." (Kucharski/Merkel 2018, 4).
+„Zunächst muss beachtet werden, dass jedes Sample auch in gewisser Weise bestimmte Gruppen ausschließt (v. Unger, 2014: 95). Ein umfassendes Sample kann hier entweder zu multiperspektivischen Erkenntnisen führen oder Gefahr laufen sich nur auf dem ‚kleinsten Nenner‘ zu begegnen und gehaltlose Erkenntnisse zu generieren (Bergold/Thomas, 2010:342).“ (Kucharski/Merkel 2018, 4).
 
-Nicht an die Teilnehmenden angepasste Methoden können Barrieren darstellen (Kucharski/Merkel 2018, 4). "Ein weiteres praktisches Problem besteht in der benötigten langen Zeit für eine partizipativ konzipierte Forschung (Kucharski/Merkel 2018, 5).
+Nicht an die Teilnehmenden angepasste Methoden können Barrieren darstellen (Kucharski/Merkel 2018, 4). „Ein weiteres praktisches Problem besteht in der benötigten langen Zeit für eine partizipativ konzipierte Forschung“ (Kucharski/Merkel 2018, 5).
 
 ### Schwierigkeiten mit Bezugspersonen
 
-Wurde Forschung mit Teilnehmer:innen betrieben, die auf Bezugspersonen angewiesen sind, wirkte sich dies ebenfalls auf den Forschungsprozess aus. Gab es am Tag selber vor den Interviews Konflikte zwischen Teilnehmer:in und der Bezugsperson, so wirkte sich diese negative Stimmung auf den Forschungsprozess aus. Aber auch übereifrige Bezugspersonen können mit ihrem Enthusiasmus den Forschungsprozess beeinflussen. Dies äußert sich beispielsweise durch zu schnelles Eingreifen in Projektsituationen. Des weiteren wird davon berichtet, dass manche Bezugspersonen aufgrund von Sorge und Schutz digitale Technologien verbieten oder um Technologien herum Konflikte entstehen können (Klein 2021, 58-59).
+Wurde Forschung mit Teilnehmer:innen betrieben, die auf Bezugspersonen angewiesen sind, wirkte sich dies ebenfalls auf den Forschungsprozess aus. Gab es zum Beispiel am Tag vor den Interviews Konflikte zwischen Teilnehmer:in und Bezugsperson, so wirkte sich diese negative Stimmung auf den Forschungsprozess aus. Aber auch übereifrige Bezugspersonen können mit ihrem Enthusiasmus den Forschungsprozess beeinflussen. Dies äußert sich beispielsweise durch zu schnelles Eingreifen in Projektsituationen. Des Weiteren wird davon berichtet, dass manche Bezugspersonen aufgrund von Sorge und Schutz digitale Technologien verbieten oder um Technologien herum Konflikte entstehen können (Klein 2021, 58-59).
 
 ### Abwägung zwischen Offenheit und Steuerung
 
-Klein berichtet davon, dass im Rahmen der Forschung eine Balance gefunden werden sollte zwischen Offenheit und Steuerung. Zu viel Offenheit birgt das Potential zu überfordern, während zu viel Steuerung die Entwicklung von Ideen einschränkt, bzw. ein Potential mitbringt, dies zu tun (Klein 2021, 59).
+Klein berichtet davon, dass im Rahmen der Forschung eine Balance gefunden werden sollte zwischen Offenheit und Steuerung. Zu viel Offenheit birgt die Gefahr einer Überforderung, während zu viel Steuerung die Entwicklung von Ideen einschränkt, bzw. ein Potential mitbringt, dies zu tun (Klein 2021, 59).
 
 ### Von Fremdbestimmung zur Selbstermächtigung
 
-Durch Forschung in stationären Settings ist der Alltag von Teilnehmer:innen geprägt von Einschränkungen und Fremdbestimmung. Dies macht es in Teilen schwer, die Teilnehmer:innen nach ihren persönlichen Meinungen zu befragen. Die ungewohnte Art und ein in Teilen mangelndes Selbstbewusstsein stellen hierbei typische Barrieren dar (Klein 2021, 60).
+Durch Forschung in stationären Settings ist der Alltag von Teilnehmer:innen geprägt von Einschränkungen und Fremdbestimmung. Dies macht es in Teilen schwer, die Teilnehmer:innen nach ihren persönlichen Meinungen zu befragen. Die ungewohnte Art und ein teilweise mangelndes Selbstbewusstsein stellen hierbei typische Barrieren dar (Klein 2021, 60).
 
 ### Verständlichkeit
 
-Wie beim Punkt Projektplanung bereits aufgeführt, kann es zu einer Barriere kommen, wenn Texte oder Kommunikationsmittel nicht für alle verständlich und geläufig sind. Dies bezieht sich sowohl auf den Forschungsprozess der Durchführung, als auch auf den Prozess der Veröffentlichung der Daten. In Teilen sind Daten zu kompliziert formuliert, sodass Teilnehmer:innen die gewonnen Erkenntnisse nicht verstehen können. Auch diese müssen zugänglich für die Teilnehmer:innen gemacht werden, sodass die erworbenen Kenntnisse auch die Gruppe erreichen, um die es im Projekt ging (Rudloff 2018, 188-189).
+Wie beim Punkt Projektplanung bereits aufgeführt, kann es zu einer Barriere kommen, wenn Texte oder Kommunikationsmittel nicht für alle verständlich und geläufig sind. Dies bezieht sich sowohl auf den Forschungsprozess der Durchführung, als auch auf den Prozess der Veröffentlichung der Daten. Zum Teil sind Daten zu kompliziert formuliert, sodass Teilnehmer:innen die gewonnenen Erkenntnisse nicht verstehen können. Auch diese müssen zugänglich für die Teilnehmer:innen gemacht werden, sodass die erworbenen Kenntnisse auch die Gruppe erreichen, um die es im Projekt ging (Rudloff 2018, 188-189).
 
 ## Intrapersonale Barrieren
 
-- kognitive Barrieren
-- emotionale Barrieren
+- Kognitive Barrieren
+- Emotionale Barrieren
 - Lernschwierigkeiten
 - Überforderung
 - Ungewohnte Situation
