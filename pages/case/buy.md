@@ -11,7 +11,7 @@ subtitle: |
 
 Es gibt zwei Möglichkeiten: Du leihst dir den Koffer aus oder du baust ihn nach.
 
-Du kannst den Koffer entweder über eine Bildungsfachkraft des Forschungsprojektes ausleihen, oder du wendest dich an die Stadtbibliothek Köln. Eine weitere Möglichkeit ist, den INTIA Koffer nachzubauen. Mit einer Einkaufsliste und den frei zugänglichen Anleitungen kannst du dir deinen eigenen INTIA Koffer zusammenstellen. Es ist alles so beschrieben, dass das Nachbauen sehr einfach ist.
+Du kannst den Koffer entweder über eine Bildungsfachkraft des Forschungsprojektes ausleihen. Eine weitere Möglichkeit ist, den INTIA Koffer nachzubauen. Mit einer Einkaufsliste und den frei zugänglichen Anleitungen kannst du dir deinen eigenen INTIA Koffer zusammenstellen. Es ist alles so beschrieben, dass das Nachbauen sehr einfach ist.
 
 Wichtige Informationen und Materialien zum Leihen oder Nachbauen findest du weiter unten. Bei Fragen kannst du uns gerne eine E-Mail schreiben: kontakt@intia.de.
 
@@ -65,10 +65,6 @@ Ubierring 48, Raum 2
 </div>
 
 '%}
-
-### Ausleihen in der Bibliothek
-
-Wenn du in Köln oder in der Nähe von Köln wohnst, kannst du dir den INTIA Koffer auch in der Stadtbibliothek Köln anschauen und ausleihen. Er wird dort über den normalen Leihkatalog angeboten.
 
 ## Bauen
 
