@@ -46,14 +46,14 @@ defaults:
       type: posts
       path: _posts
     values:
-      permalink: /blog/:title/
+      permalink: /blog/aktivitaeten/:title/
       path: [Blog, Neuigkeiten]
       layout: default
   - scope:
       type: articles
       path: _articles
     values:
-      permalink: /articles/:title/
+      permalink: blog/fachartikel/:title/
       path: [Blog, Fachartikel]
       layout: default
   - scope:

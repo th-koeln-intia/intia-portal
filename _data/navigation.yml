@@ -29,9 +29,9 @@
 - name: Blog
   dropdown:
     - name: Aktivitäten
-      link: /blog/
+      link: /blog/aktivitaeten/
     - name: Fachartikel
-      link: /articles/
+      link: /blog/fachartikel/
 - name: Mitmachen
   dropdown:
     - name: Netzwerk
