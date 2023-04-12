@@ -9,19 +9,18 @@ subtitle: |
 
 ## Wie komme ich an den INTIA Koffer?
 
-Es gibt zwei Möglichkeiten: Du leihst dir den Koffer aus oder du baust ihn nach.
+### 1. Leihen
+Jugendgruppen und Fachkräfte in sozialen und kulturellen Einrichtungen können den INTIA Koffer für einen begrenzten Zeitraum ausleihen - frei verfügbar und kostenlos. Du kannst den Koffer über eine Bildungsfachkraft des Forschungsprojektes ausleihen.
 
-Du kannst den Koffer entweder über eine Bildungsfachkraft des Forschungsprojektes ausleihen. Eine weitere Möglichkeit ist, den INTIA Koffer nachzubauen. Mit einer Einkaufsliste und den frei zugänglichen Anleitungen kannst du dir deinen eigenen INTIA Koffer zusammenstellen. Es ist alles so beschrieben, dass das Nachbauen sehr einfach ist.
+### 2. Bauen
+Mit einer Einkaufsliste und den frei zugänglichen Anleitungen kannst du dir deinen eigenen INTIA Koffer bauen. Es ist alles so beschrieben, dass das Nachbauen sehr einfach ist. Alle Bestandteile und Anleitungen findest du auf dieser Seite. Es gibt sogar vorgefertigte Einkaufslisten, mit denen du dir einzelne Technik-Bausteine bestellen kannst.
 
-Wichtige Informationen und Materialien zum Leihen oder Nachbauen findest du weiter unten. Bei Fragen kannst du uns gerne eine E-Mail schreiben: kontakt@intia.de.
+Weiter unten findest Du die Kontaktdaten für das Leihen sowie Materialien, um den Koffer zu bauen. Bei Fragen kannst du uns gerne eine E-Mail schreiben: kontakt@intia.de.
 
-## Leihen
-
-Jugendgruppen und Fachkräfte in sozialen und kulturellen Einrichtungen können den INTIA Koffer für einen begrenzten Zeitraum ausleihen - frei verfügbar und kostenlos.
-
-### INTIA Koffer Workshop
+## INTIA Koffer Workshop
 
 Der INTIA Koffer bietet einen Zugang zur Technikentwicklung. Mit Hilfe verschiedener Module und Elemente können Jugendliche die Welt der Smart-Home-Technik erleben, verstehen und gestalten.
+
 Es ist allerdings eine Fachkraft nötig, die die Jugendlichen anhand einer ausführlichen Moderationsanleitung beim Entdecken begleitet. Wir unterstützen euch bei Bedarf gerne: Neben dem Koffer könnt ihr auch eine fachliche Unterstützung anfragen.
 
 Je nachdem wo du wohnst, können wir dir den Koffer auch zusenden. Eine erste Einführung in den INTIA Koffer kann online durch unsere Bildungsfachkraft erfolgen, oder du schaust dir die Videoanleitungen an.
@@ -66,10 +65,6 @@ Ubierring 48, Raum 2
 
 '%}
 
-## Bauen
-
-Du kannst dir deinen eigenen Koffer bauen. Alle Bestandteile und Anleitungen findest du auf dieser Seite. Es gibt sogar vorgefertigte Einkaufslisten, mit denen du dir einzelne Technik-Bausteine bestellen kannst.
-
 ### Technik-Bausteine und Kosten
 
 Hier findest du die unterschiedlichen Bestandteile des Koffers mit einer groben Kostenaufstellung:
@@ -95,7 +90,7 @@ Bitte beachten: In der einfachen Auflistung sind keine Alternativen dargestellt.
 
 " %}
 
-Leider können aktuell nicht alle Einzelteile bei einem Anbieter bestellt werden. Dennoch soll unsere Liste den Einkauf möglichst einfach machen. Wenn du alle oder möglichst viele Produkte bei einem Shop bekommst, kann das aufgrund der Versandkosten günstiger sein, als wenn man die Produkte in vielen Shops zu einem niedrigeren Preis bestellt. Einige Elemente kannst du auch in Geschäften vor Ort, zum Beispiel in Baumärkten, Elektrofachgeschäften oder manchmal sogar beim Discounter kaufen.
+Leider können aktuell nicht alle Einzelteile bei einem Anbieter bestellt werden. Dennoch soll unsere Liste den Einkauf möglichst einfach machen. Wenn du alle oder möglichst viele Produkte bei einem Shop bekommst, kann das aufgrund der Versandkosten günstiger sein, als wenn du die Produkte in vielen Shops zu einem niedrigeren Preis bestellst. Einige Elemente kannst du auch in Geschäften vor Ort, zum Beispiel in Baumärkten, Elektrofachgeschäften oder manchmal sogar beim Discounter kaufen.
 
 ### Wie räumst du den Koffer ein?
 
