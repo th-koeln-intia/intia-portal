@@ -1,7 +1,7 @@
 ---
 title: Was ist der INTIA Koffer?
-title_above: INTIA-Koffer
-permalink: /intia-koffer/
+title_above: INTIA Koffer
+permalink: /intia koffer/
 hero_tags: toppage
 subtitle: |
   Der INTIA Koffer ist eine Art mobiles Labor zum Erleben, Verstehen und Gestalten von Smart-Home-Technologie. Er bietet einen ersten Zugang zur Welt der Technik. Der Laborkoffer enthält verschiedene Werkzeuge wie Methoden oder Technik-Bausteine, um Bedürfnisse im Alltag besser zu verstehen und Lösungen für Probleme zu entwickeln – und zu bauen!
@@ -115,9 +115,9 @@ Hier sind alle Elemente aufgelistet, die sich im INTIA Koffer befinden.
         <th>Werkzeuge</th>
         <td>
           <ul>
-          <li><strong>INTIA-Methodensammlung:</strong> Anleitungen zu verschiedenen Methoden, um Bedürfnisse und Lösungen zu erforschen</li>
-          <li><strong>INTIA-Alltags- und Bedürfnis-Karten:</strong> Methoden zum Erforschen und Beschreiben von Alltagsproblemen und Bedürfnissen</li>
-          <li><strong>INTIA-Spielewürfel:</strong> Methode um Technikideen zum Lösen von Alltagsproblemen zu finden</li>
+          <li><strong>INTIA Methodensammlung:</strong> Anleitungen zu verschiedenen Methoden, um Bedürfnisse und Lösungen zu erforschen</li>
+          <li><strong>INTIA Alltags- und Bedürfnis-Karten:</strong> Methoden zum Erforschen und Beschreiben von Alltagsproblemen und Bedürfnissen</li>
+          <li><strong>INTIA Spielewürfel:</strong> Methode um Technikideen zum Lösen von Alltagsproblemen zu finden</li>
           <li><strong>Programmier-Plättchen:</strong> Zugang zur Programmier-Sprache und zum analogen Programmieren</li>
           </ul>
         </td>
@@ -145,7 +145,7 @@ Du kannst den INTIA Koffer auch ausleihen oder selbst nachbauen. Informationen h
 <div class="columns">
 <div class="column">
 
-## Anwendungsbezogene Anfragen z.B. Ausleihe des INTIA Koffers
+## Anwendungsbezogene Anfragen z. B. Ausleihe des INTIA Koffers
 
 [fabian.hesterberg@th-koeln.de](mailto:fabian.hesterberg@th-koeln.de)
 
