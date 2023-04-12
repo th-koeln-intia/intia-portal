@@ -4,12 +4,12 @@ title_above: Über INTIA
 permalink: /ueber/projekt/
 hero_tags: toppage
 subtitle: |
-  Der INTIA Koffer sowie die Werkzeuge und Materialien auf dieser Plattform kommen aus dem Forschungs-Projekt INTIA an der Technischen Hochschule Köln (TH Köln). Die Buchstaben stehen für "Inklusive Technikideen für den Alltag". In diesem Projekt untersuchen Forschende und Jugendliche gemeinsam, wie Technik den Alltag verbessern kann. Um dieses Vorhaben umzusetzen, hat INTIA Fördergelder vom Bundesministerium für Bildung und Forschung (BMBF) erhalten.
+  Der INTIA Koffer sowie die Werkzeuge und Materialien auf dieser Plattform kommen aus dem Forschungs-Projekt INTIA an der Technischen Hochschule Köln (TH Köln). Die Buchstaben stehen für „Inklusive Technikideen für den Alltag“. In diesem Projekt untersuchen Forschende und Jugendliche gemeinsam, wie Technik den Alltag verbessern kann. Um dieses Vorhaben umzusetzen, hat INTIA Fördergelder vom Bundesministerium für Bildung und Forschung (BMBF) erhalten.
 ---
 
 ## Jugendliche als Expert:innen
 
-Es sind die Jugendlichen selbst, die am besten wissen, was sie in ihrem Umfeld stört und was sie verbessern möchten. Zusammen mit dem INTIA-Team erforschen sie ihren Alltag und erarbeiten technische oder digitale Lösungen, um diese Verbesserungen zu erreichen.
+Es sind die Jugendlichen selbst, die am besten wissen, was sie in ihrem Umfeld stört und was sie verbessern möchten. Zusammen mit dem INTIA Team erforschen sie ihren Alltag und erarbeiten technische oder digitale Lösungen, um diese Verbesserungen zu erreichen.
 
 ## Der Projekt-Ansatz
 
@@ -19,15 +19,15 @@ Aber nicht alle Menschen können die vorhandenen Technologien gleich gut nutzen.
 
 ### Das Vorgehen
 
-Das Projektteam hat Einrichtungen der Sozialen Arbeit besucht, um mit Jugendlichen und Fachkräften zu erforschen, wo es im Alltag Probleme und Bedarf gibt. Gemeinsam mit den Jugendlichen entstanden daraufhin Ideen und erste technische Prototypen. Langfristiges Ziel des Projekts ist es, Einrichtungen der Sozialen Arbeit Bausteine für technische Lösungen zur Verfügung zu stellen, mit denen Fachkräfte, Betroffene und Selbsthilfeinitiativen selbstständig arbeiten können. Die Ergebnisse des Projekts sind als Open-Source-Material verfügbar, damit Technikexpert:innen diese nutzen, nachbauen und weiterentwickeln können. Alle wissenschaftlich interessanten Fragen werden auf einer Plattform gesammelt und sollen als Impulse für weitere Forschungsarbeiten dienen.
+Das Projektteam hat Einrichtungen der Sozialen Arbeit besucht, um mit Jugendlichen und Fachkräften zu erforschen, wo es im Alltag Probleme und Bedarf gibt. Gemeinsam mit den Jugendlichen entstanden daraufhin Ideen und erste technische Prototypen. Langfristiges Ziel des Projekts ist es, Einrichtungen der Sozialen Arbeit Bausteine für technische Lösungen zur Verfügung zu stellen. Damit sollen Fachkräfte, Betroffene und Selbsthilfe-Initiativen selbständig arbeiten können. Die Ergebnisse des Projekts sind als Open-Source-Material verfügbar, damit Technikexpert:innen diese nutzen, nachbauen und weiterentwickeln können. Alle wissenschaftlich interessanten Fragen werden auf einer Plattform gesammelt und sollen als Impulse für weitere Forschungsarbeiten dienen. 
 
 ### Besondere Herausforderungen
 
-Während der Corona-Pandemie konnten die geplanten Projektarbeiten in den Partner-Einrichtungen nicht fortgesetzt werden, weil niemand Zutritt hatte. Die Beteiligten mussten umdenken und neue Wege finden, um sich auszutauschen. Daraus entstand die Idee, ein mobiles Labor zu schaffen. Das labor in Form eines Koffers ist mit entsprechendem Inhalt zur Technikentwicklung ausleihbar. Das Projektteam musste sich mit Datenschutz sowie mit großen Datenmengen und ihrer Aussagekraft beschäftigen. Forschungsfragen rückten in den Vordergrund, so zum Beispiel die digitale Inklusion. Gleichzeitig wurden neue Wege der digitalen Partizipation aufgebaut und erprobt. Am Ende war allen klar: Die digitale Zusammenarbeit kann den direkten Austausch zwischen Menschen nicht ersetzen.
+Während der Corona-Pandemie konnten die geplanten Projektarbeiten in den Partner-Einrichtungen nicht fortgesetzt werden, weil niemand Zutritt hatte. Die Beteiligten mussten umdenken und neue Wege finden, um sich auszutauschen. Daraus entstand die Idee, ein mobiles Labor in Form eines Koffers mit Inhalten zur Technikentwicklung zu schaffen, das man ausleihen kann. Das Projektteam musste sich mit Datenschutz sowie mit großen Datenmengen und ihrer Aussagekraft beschäftigen. Forschungsfragen rückten in den Vordergrund, so zum Beispiel die digitale Inklusion. Gleichzeitig wurden neue Wege der digitalen Partizipation aufgebaut und erprobt. Am Ende war allen klar: Die digitale Zusammenarbeit kann den direkten Austausch zwischen Menschen nicht ersetzen.
 
 ## Beteiligte
 
-<h4>Im Projekt INTIA arbeiten Wissenschaftler:innen, Fachkräfte der Sozialen Arbeit, (Forschungs-)Einrichtungen und Betroffene eng zusammen.</h4>
+#### Im Projekt INTIA arbeiten Wissenschaftler:innen, Fachkräfte der Sozialen Arbeit, (Forschungs-)Einrichtungen und Betroffene eng zusammen.
 
 <!-- <img src="/assets/img/about/netzwerkgrafik.png" alt="placeholder" class="content_image" > -->
 
@@ -74,7 +74,7 @@ Während der Corona-Pandemie konnten die geplanten Projektarbeiten in den Partne
 
 ## Projektteam
 
-Die Menschen im INTIA-Projektteam kommen aus unterschiedlichen Fachdisziplinen:
+Die Menschen im INTIA Projektteam kommen aus unterschiedlichen Fachdisziplinen:
 
 - **Professor:innen:** Prof. Dr. lsabel Zorn (Fakultät für Angewandte Sozialwissenschaften, Schwerpunkte Digitale Medienbildung in der Sozialen Arbeit), Prof. Dr. Stefan Bente (Fakultät für lnformatik und lngenieurwissenschaften, Schwerpunkt Softwaretechnik), Prof. Birgit Mager (Fakultät für Kulturwissenschaften, Köln lnternational School of Design KISD, Schwerpunkt Service Design) und Prof. Dr. Christian Kohls (Fakultät for lnformatik und lngenieurwissenschaften, Schwerpunkt Soziotechnische Systeme).
 - **Wissenschaftliche Mitarbeiter:innen:** Hanna Thielmann, Carola Janda, Caroline Kortekaas, Eva Zurbrügg, Karsten Gareis und Tabea Mildenberger (Fakultät für Angewandte Sozialwissenschaften), Marc Schmidt, Dennis Wilk, Silke Wiegand und Jan Seidler (Fakultät für lnformatik und lngenieurwissenschaften) sowie Janina Rösch (Köln lnternational School of Design KISD).
