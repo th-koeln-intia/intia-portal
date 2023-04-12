@@ -7,7 +7,7 @@ subtitle: |
   Der INTIA Koffer ist eine Art mobiles Labor zum Erleben, Verstehen und Gestalten von Smart-Home-Technologie. Er bietet einen ersten Zugang zur Welt der Technik. Der Laborkoffer enthält verschiedene Werkzeuge wie Methoden oder Technik-Bausteine, um Bedürfnisse im Alltag besser zu verstehen und Lösungen für Probleme zu entwickeln – und zu bauen!
 ---
 
-## Wozu ist der INTIA Koffer gedacht?
+## Smart-Home-Technik erleben, verstehen und gestalten
 
 Der INTIA Koffer macht es möglich, mit digitalen Technologien zu experimentieren. Jugendliche entwickeln gemeinsam mit Fachkräften Ideen, wie Technik den Alltag erleichtern kann. Dabei soll die Beteiligung der Jugendlichen gefördert werden.
 
