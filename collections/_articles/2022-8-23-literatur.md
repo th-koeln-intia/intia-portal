@@ -8,17 +8,16 @@ title: Literaturreview zu partizipativer Technikentwicklung im Kontext Sozialer 
 hero_image: /assets/img/landingpage/wissen.jpg
 preview_image: /assets/img/landingpage/wissen.jpg
 subtitle: >
-  Wie wurde in Fachzeitschriften das Thema partizipative Technikentwicklung im Kontext der Sozialen Arbeit behandelt?
+  Wie wurde das Thema partizipative Technikentwicklung im Kontext der Sozialen Arbeit in Fachzeitschriften behandelt?
 ---
 
 ## Literaturreview zu partizipativer Technologieentwicklung in der Behinderten- und Erziehungshilfe im Kontext Sozialer Arbeit
 
-Diese Recherche folgt methodisch einem definierten Korpus der relevanten (überwiegend deutschsprachigen) wissenschaftlichen Fachzeitschriften Sozialer Arbeit zwischen 1994 und Mai 2020. Durchsucht wurden jene Fachzeitschriften, die sich mit Themengebieten angrenzend zum Handlungsfeld befassen: die Thematik der Jugend(hilfe), Medien, Technologie oder Digitalisierung. 
-Die tabellarische Darstellung bildet damit die Ergebnisse eines systematischen Literaturreviews ab, der in Soziale Passagen mit dem Titel 'Literaturreview zu partizipativer Technologieentwicklung in der Behinderten- und Erziehungshilfe im Kontext Sozialer Arbeit' veröffentlicht wurde: 
+Diese Recherche folgt methodisch einem definierten Korpus der relevanten (überwiegend deutschsprachigen) wissenschaftlichen Fachzeitschriften Sozialer Arbeit zwischen 1994 und Mai 2020. Durchsucht wurden jene Fachzeitschriften, die sich mit Themengebieten angrenzend zum Handlungsfeld befassen: Jugend(hilfe), Medien, Technologie oder Digitalisierung.
 
-Mildenberger, Tabea; Schmier, Alena; Zorn, Isabel (2022):
-Literaturreview zu partizipativer Technologieentwicklung in der Behinderten- und Erziehungshilfe im Kontext Sozialer Arbeit
-In Soziale Passagen 2/2022. https://link.springer.com/article/10.1007/s12592-022-00439-z [Titel anhand dieser DOI in Citavi-Projekt übernehmen] 
+Die tabellarische Darstellung bildet damit die Ergebnisse eines systematischen Literaturreviews ab, der in ‚Soziale Passagen - Journal für Empirie und Theorie Sozialer Arbeit‘ mit dem Titel ‚Literaturreview zu partizipativer Technologieentwicklung in der Behinderten- und Erziehungshilfe im Kontext Sozialer Arbeit‘ veröffentlicht wurde: 
+
+[Mildenberger, Tabea; Schmier, Alena; Zorn, Isabel (2022): Literaturreview zu partizipativer Technologieentwicklung in der Behinderten- und Erziehungshilfe im Kontext Sozialer Arbeit. Soziale Passagen 2/2022.](https://link.springer.com/article/10.1007/s12592-022-00439-z) 
 
 <table class="tb">
     <caption><h4>Tabelle 1: Kategorisierte Darstellung der Ergebnistreffer</h4></caption>
@@ -36,25 +35,25 @@ In Soziale Passagen 2/2022. https://link.springer.com/article/10.1007/s12592-022
     </tr>
     <tr>
        <td></td>
-       <td>partizipative Jugendforschung</td>
+       <td>Partizipative Jugendforschung</td>
        <td>7</td>
        <td>Rosenbaum et al. 2017; Mackrill et al. 2015; Dentith et al. 2012; McCartan et al. 2012; Hill 1997; Lewek 2016; Ertelt 2014</td>
     </tr>
     <tr>
        <td></td>
-       <td>grundlegende (ethische) Vorgehensweisen partizipativer Forschung</td>
+       <td>Grundlegende (ethische) Vorgehensweisen partizipativer Forschung</td>
        <td>6</td>
        <td>Bruland et al. 2019; Tlale und Romm 2019; Bergold und Thomas 2012; Unger 2012; Olitsky und Weathers 2005; Goff 2001</td>
     </tr>
     <tr>
        <td>Assistenztechnologien (55)</td>
-       <td>technologische Lernunterstützung</td>
+       <td>Technologische Lernunterstützung</td>
        <td>18</td>
        <td>Nordström et al. 2019; Myrtil et al. 2018; Encarnação et al. 2017; Kirby 2017; Nepo 2017; Nobel und Grünke 2017; Hauck-Thum 2015; Hayhoe et al. 2015; McDowell 2015; Passey 2015; Hintz 2014; Pfeffer-Hoffmann 2013; Unterfrauner et al. 2011; Berger und Marbach 2009; Schwier 2009; Schelhowe 2006; Burgstahler 2003; Kavanaugh et al. 2019</td>
     </tr>
     <tr>
        <td></td>
-       <td>für Menschen mit Behinderungen</td>
+       <td>Für Menschen mit Behinderungen</td>
        <td>16</td>
        <td>Jamwal et al. 2020; Ripat et al. 2020; Pedersen et al. 2019; Behrendt 2018; da Silva et al. 2018; Gjessing et al. 2018; Taherian und Davies 2017; Munde 2017; Darcy et al. 2016; Levasseur et al. 2016; Walters et al. 2015; Bryant et al. 2012; Getz 2012; Borg et al. 2011; Söderström und Ytterhus 2010; Bouck et al. 2007</td>
     </tr>
@@ -66,7 +65,7 @@ In Soziale Passagen 2/2022. https://link.springer.com/article/10.1007/s12592-022
     </tr>
     <tr>
        <td></td>
-       <td>für ältere Menschen</td>
+       <td>Für ältere Menschen</td>
        <td>10</td>
        <td>Tsertsidis 2020; Fehling 2019; Winberg et al. 2019; Getz 2018; Mortenson et al. 2018; Weber 2017; Beer et al. 2015; Allen und Glasby 2013; Blaschke et al. 2009; Landau et al. 2009</td>
     </tr>
@@ -84,7 +83,7 @@ In Soziale Passagen 2/2022. https://link.springer.com/article/10.1007/s12592-022
     </tr>
     <tr>
        <td></td>
-       <td>mediatisierte Lebenswelten</td>
+       <td>Mediatisierte Lebenswelten</td>
        <td>5</td>
        <td>Ebel 2017; Tillmann 2017; Stege 2008; Witzel 2014; Kutscher 2018</td>
     </tr>
@@ -156,7 +155,7 @@ In Soziale Passagen 2/2022. https://link.springer.com/article/10.1007/s12592-022
     </tr>
      <tr>
        <td>Medien + Erziehung</td>
-       <td>Medienkompetenz (für benachteiligte Gruppen) (4); zu Lernunterstützung mit digitalen Technologien (2)</td>
+       <td>Medienkompetenz (für benachteiligte Gruppen) (4); Zu Lernunterstützung mit digitalen Technologien (2)</td>
        <td>6</td>
        <td>Bosse et al. 2019; Müller und Fleischer 2013; Pfeffer-Hoffmann 2013; Schmoelz und König 2016; Hauck-Thum 2015; Rosenbaum et al. 2017</td>
     </tr>
@@ -174,7 +173,7 @@ In Soziale Passagen 2/2022. https://link.springer.com/article/10.1007/s12592-022
     </tr>
      <tr>
        <td>Soziale Arbeit Zeitschrift für soziale und sozialverwandte Gebiete</td>
-       <td>soziale Robotik (1); Digital Divide (1); Digitalisierung & Soz. Arbeit (1)</td>
+       <td>Soziale Robotik (1); Digital Divide (1); Digitalisierung & Soz. Arbeit (1)</td>
        <td>3</td>
        <td>Lenz et al. 2019; Goegercin 2001; Geyer 2018</td>
     </tr>
@@ -210,13 +209,13 @@ In Soziale Passagen 2/2022. https://link.springer.com/article/10.1007/s12592-022
     </tr>
      <tr>
        <td>Social Work Today</td>
-       <td>Mediennutzung von Jugendlichen (1); Mediennutzung von Älteren (1); Assistenztechnologien (2); für Menschen mit Behinderung (1); für vulnerable Gruppen (1); Digital Divide (1)</td>
+       <td>Mediennutzung von Jugendlichen (1); Mediennutzung von Älteren (1); Assistenztechnologien (2); Für Menschen mit Behinderung (1); Für vulnerable Gruppen (1); Digital Divide (1)</td>
        <td>7</td>
        <td>Getz 2019, 2018, 2014, 2012; Jones und Hitchcock 2019; Walters et al. 2015; Coyle 2015</td>
     </tr>
      <tr>
        <td>Child & Family Social Work</td>
-       <td>Assistenztechnologien (1); partizipative Forschung mit Kindern (1)</td>
+       <td>Assistenztechnologien (1); Partizipative Forschung mit Kindern (1)</td>
        <td>2</td>
        <td>Hammond und Cooper 2014; Hill 1997</td>
     </tr>
@@ -228,7 +227,7 @@ In Soziale Passagen 2/2022. https://link.springer.com/article/10.1007/s12592-022
     </tr>
      <tr>
        <td>Advances in Social Work</td>
-       <td>Advances in Social Work	Technologie & Soz. Arbeit (5); Ethik & Technologie (1); Technologie & Behinderung (1); Soz. Arbeit & Vulnerable Gruppen (1); Partizipative  Forschung (1); Inklusion (1)</td>
+       <td>Advances in Social Work	Technologie & Soz. Arbeit (5); Ethik & Technologie (1); Technologie & Behinderung (1); Soz. Arbeit & Vulnerable Gruppen (1); Partizipative Forschung (1); Inklusion (1)</td>
        <td>10</td>
        <td>Bullock und Colvin 2015; Dolinsky und Helbig 2015; Gillingham 2015; Molin et al. 2017; Bowles und Hopps 2014; Fitch 2015; Lee und Walsh 2015; Mackrill et al. 2015; Patchner 2005; Perron et al. 2010</td>
     </tr>
@@ -246,7 +245,7 @@ In Soziale Passagen 2/2022. https://link.springer.com/article/10.1007/s12592-022
     </tr>
      <tr>
        <td>Disability and Rehabilitation: Assistive Technology</td>
-       <td>Assistenztechnologien (5); für Ältere (3); für Partizipation (1); für Lernuntersützung (2); für Menschen mit Behinderung (8)</td>
+       <td>Assistenztechnologien (5); Für Ältere (3); Für Partizipation (1); Für Lernunterstützung (2); Für Menschen mit Behinderung (8)</td>
        <td>19</td>
        <td>Abbott et al. 2014; Brandt et al. 2011; Jamwal et al. 2020; Jamwal et al. 2018; Mortenson et al. 2018; Nordström et al. 2019; Smith et al. 2018; Taherian und Davies 2017; Winberg et al. 2019; Witte et al. 2018; Gjessing et al. 2018; Allsop et al. 2011; da Silva et al. 2018; Encarnação et al. 2017; Levasseur et al. 2016; MacLachlan und Scherer 2018; Pedersen et al. 2019; Ripat et al. 2020; Tsertsidis 2020</td>
     </tr>
@@ -264,7 +263,7 @@ In Soziale Passagen 2/2022. https://link.springer.com/article/10.1007/s12592-022
     </tr>
      <tr>
         <td>Special Education Technology</td>
-        <td>Assistive Technologien für Jugendliche mit Behinderung (2); als Lernunterstützung (1)</td>
+        <td>Assistive Technologien für Jugendliche mit Behinderung (2); Als Lernunterstützung (1)</td>
         <td>3</td>
         <td>Bouck et al. 2007; Burgstahler 2003; Bryant et al. 2012</td>
     </tr>
@@ -282,7 +281,7 @@ In Soziale Passagen 2/2022. https://link.springer.com/article/10.1007/s12592-022
     </tr>
      <tr>
         <td>Sozial Extra</td>
-        <td>Digitalisierung in der Soz. Arbeit (1); Mediennutzung (2); Partizipative Jugendforschung (2); Handlungsweisen für Medienkompetenz (2); mediatisierte Lebenswelten (3)</td>
+        <td>Digitalisierung in der Soz. Arbeit (1); Mediennutzung (2); Partizipative Jugendforschung (2); Handlungsweisen für Medienkompetenz (2); Mediatisierte Lebenswelten (3)</td>
         <td>10</td>
         <td>Kutscher 2018; Lewek 2016; Bader 2012; Ertelt 2012; Alfert 2014; Helbig 2018; Roeske 2018; Ley und Seelmeyer 2018: Kutscher 2014; Witzel 2014</td>
     </tr>
@@ -294,7 +293,7 @@ In Soziale Passagen 2/2022. https://link.springer.com/article/10.1007/s12592-022
     </tr>
      <tr>
         <td>Pflege & Gesellschaft</td>
-        <td>Technische Assistenz in der Pflege (2); für Personen mit Demenz (1); Vulnerabilität (1)</td>
+        <td>Technische Assistenz in der Pflege (2); Für Personen mit Demenz (1); Vulnerabilität (1)</td>
         <td>4</td>
         <td>Weber 2017; Schrems 2017; Beer et al. 2015; Fehling 2019</td>
     </tr>
@@ -413,7 +412,7 @@ Getz, L. (2018). Technology Trends: Technology Improves Older Adults' Quality of
 
 Getz, L. (2019). Technology Trends: Bridging the Digital Divide in Native American Communities. Social Work Today, 19(4). <br/>
 
-Geyer, C. (2018). Teilhabe 4.0: Wie die Digitalisierung die Soziale Arbeit verändert. Soziale Arbeit : Zeitschrift für soziale und sozialverwandte Gebiete, 67(12), 457–464. <br/>
+Geyer, C. (2018). Teilhabe 4.0: Wie die Digitalisierung die Soziale Arbeit verändert. Soziale Arbeit: Zeitschrift für soziale und sozialverwandte Gebiete, 67(12), 457–464. <br/>
 
 Gillingham, P. (2015). Electronic information systems and social work: principles of participatory design for social workers. Advances in Social Work, 16(1), 31–42. <br/>
 
@@ -447,7 +446,7 @@ Hammond, S.P., & Cooper, N.J. (2014). Digital Life Story Work: Using Technology 
 
 Hamzah, A., & Wahid, F. (2016). Participatory design in the development of healthcare systems. In M. Ma (Hrsg.), The 2nd International Conference, Singapore (S. 60–64). ACM: ACM. doi: 10.1145/3018009.3018010. <br/>
 
-Hauck-Thum, U. (2015). "Die kennen sich mit Tablets ja besser aus als ich!": Lehramtsstudentinnen erstellen ein iBook in einer 3. Klasse. medien + erziehung, 59(2), 33–39. <br/>
+Hauck-Thum, U. (2015). „Die kennen sich mit Tablets ja besser aus als ich!“: Lehramtsstudentinnen erstellen ein iBook in einer 3. Klasse. medien + erziehung, 59(2), 33–39. <br/>
 
 Hayhoe, S., Roger, K., Eldritch-Böersen, S., & Kelland, L. (2015). Developing Inclusive Technical Capital beyond the Disabled Students’ Allowance in England. Social Inclusion, 3(6), 29–41. <br/>
 
@@ -473,7 +472,7 @@ Jamwal, R., Callaway, L., Farnworth, L., & Di Winkler (2018). Electronic assisti
 
 Jamwal, R., Enticott, J., Farnworth, L., Di Winkler, & Callaway, L. (2020). The use of electronic assistive technology for social networking by people with disability living in shared supported accommodation. Disability and rehabilitation. Assistive technology, 15(1), 101–108. <br/>
 
-Jerg, J., & Goeke, S. (2011). "Entdecken was geht" - Möglichkeiten Inklusiver Forschung in Hochschulseminaren. Teilhabe, 50(1), 17–22. <br/>
+Jerg, J., & Goeke, S. (2011). „Entdecken was geht“ - Möglichkeiten Inklusiver Forschung in Hochschulseminaren. Teilhabe, 50(1), 17–22. <br/>
 
 Jones, N.P., & Hitchcock, L.I. (2019). Evaluating Technology Use in Client Assessment — The BPD Technology Assessment Checklist. Social Work Today, 19(2). <br/>
 
@@ -500,7 +499,7 @@ Landau, R., Werner, S., Auslander, G.K., Shoval, N., & Heinik, J. (2009). Attitu
 
 Lee, S.J., & Walsh, T.B. (2015). Using Technology in Social Work Practice: The mDad (Mobile Device Assisted Dad) Case Study. Advances in Social Work, 16(1), 107–124. <br/>
 
-Lenz, G., Lüssem, J., Eilers, H., & Wachter, H. (2019). Soziale Robotik in der Altenpflege: Zwischen Unbehagen und Neugier. Soziale Arbeit : Zeitschrift für soziale und sozialverwandte Gebiete(11), 402–409. <br/>
+Lenz, G., Lüssem, J., Eilers, H., & Wachter, H. (2019). Soziale Robotik in der Altenpflege: Zwischen Unbehagen und Neugier. Soziale Arbeit: Zeitschrift für soziale und sozialverwandte Gebiete(11), 402–409. <br/>
 
 Lewek, M. (2016). Auf der Suche nach Beteiligung von geflüchteten Kindern und Jugendlichen. Sozial Extra 40, 39–42. https://doi.org/10.1007/s12054-016-0066-4 <br/>
 
@@ -516,13 +515,13 @@ Mackrill, T., Ebsen, F., & Antczak, H. (2015). Developing scales for apps togeth
 
 MacLachlan, M., & Scherer, M.J. (2018). Systems thinking for assistive technology: a commentary on the GREAT summit. Disability and rehabilitation. Assistive technology, 13(5), 492–496. <br/>
 
-Marx, M. (2007). "Mein Betriebspraktikumsplatz" - Vorbereitende Berufskunde als wichtiger Baustein beruflicher Eingliederung: Aufbau einer schulinternen Homepage zur Bereitstellung eines bedarfsgerechten Informationspools. Behindertenpädagogik(3/4), 427–437. <br/>
+Marx, M. (2007). „Mein Betriebspraktikumsplatz“ - Vorbereitende Berufskunde als wichtiger Baustein beruflicher Eingliederung: Aufbau einer schulinternen Homepage zur Bereitstellung eines bedarfsgerechten Informationspools. Behindertenpädagogik(3/4), 427–437. <br/>
 
 McCartan, C., Schubotz, D., & Murphy, J. (2012). The Self-Conscious Researcher—Post-Modern Perspectives of Participatory Research with Young People. Forum Qualitative Sozialforschung, 13(1), Art. 9. <br/>
 
 McDowell, J. (2015). A Black Swan in a Sea of White Noise: Using Technology-Enhanced Learning to Afford Educational Inclusivity for Learners with Asperger’s Syndrome. Social Inclusion, 3(6), 7–15. <br/>
 
-Miot, W. (1995). "Wir machen ja alles echt" - Aktive Medienarbeit mit Schülerinnen und Schülern der Schule für Lernhilfe. Behindertenpädagogik(3), 314–321. <br/>
+Miot, W. (1995). „Wir machen ja alles echt“ - Aktive Medienarbeit mit Schülerinnen und Schülern der Schule für Lernhilfe. Behindertenpädagogik(3), 314–321. <br/>
 
 Molin, M., Sorbring, E., & Löfgren-Mårtenson, L. (2017). New Em@ncipatory Landscapes? Young People With Intellectual Disabilities, Internet Use, and Identification Processes. Advances in Social Work, 18(2), 645–662. <br/>
 
