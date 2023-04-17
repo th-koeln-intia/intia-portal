@@ -18,7 +18,7 @@ Menschen sind ebenso vielseitig wie ihre Probleme. Damit sind auch die Bedürfni
 Gegenwärtig wird dies über zwei Hauptsäulen erreicht:
 
 1. Vorgefertigte Lösungen vor „DIY“-Hardware
-2. „Dumme“ Hardware-Elemente.
+2. „Dumme“ Hardware-Elemente
 
 Nachfolgend wird erläutert, was das im Einzelnen bedeutet.
 
@@ -32,7 +32,7 @@ Für zehn bis 15 Euro ist eine fertige Lösung in jeder Hinsicht überlegen: ans
 
 **„Dumme“ Hardware-Elemente**
 
-Im Zusammenhang mit Smart Homes ist oft von smarter, also intelligenter Hardware die Rede. Dieser Begriff kann aber zu falschen Schlussfolgerungen führen. Die „smarte“ Glühbirne verfügt nicht über Intelligenz. Mit ihr allein kann man noch nicht einmal einen Wecker oder Schaltzeiten einstellen. Smarte Hardware kann Befehle ausführen. Dafür braucht sie aber eine Art Steuerung. Das Smarte am Smart Home ist also die Schaltzentrale, das Gateway, der Computer im Zentrum. Etwas, das alle Geräte steuert und koordiniert.
+Im Zusammenhang mit Smart Homes ist oft von smarter, also intelligenter Hardware die Rede. Dieser Begriff kann aber zu falschen Schlussfolgerungen führen. Die „smarte“ Glühbirne verfügt nicht über Intelligenz. Mit ihr allein kann man noch nicht einmal einen Wecker oder Schaltzeiten einstellen. Smarte Hardware kann nur Befehle ausführen. Dafür braucht sie aber eine Art Steuerung. Das Smarte am Smart Home ist also die Schaltzentrale, das Gateway, der Computer im Zentrum. Etwas, das alle Geräte steuert und koordiniert.
 
 Dieses Konzept wird im Koffer umgesetzt. Alle Geräte sind so funktional wie möglich gestaltet bzw. integriert. So verhalten sich die Elemente im Koffer wie Arme und Beine – und der Minicomputer ist das Gehirn. Dieses Konzept ermöglicht einen einfachen Austausch. In wenigen Schritten kann eine Glühbirne durch ein Display ersetzt oder ein weiterer Knopf zwischengeschaltet werden. Dies ermutigt auch dazu, Geräte selbst zu entwickeln. Auch wenn fertige Lösungen bevorzugt werden, ist es manchmal notwendig, selbst ein Element zu erstellen und zu integrieren. Ein Beispiel dafür sind Sensoren, die Informationen über Pflanzen und Erde liefern. Das zu bauende Element muss nur einfachste Informationen senden. Der Sensor weiß nicht, ob die Pflanze Wasser braucht. Die Verarbeitung dieser Informationen wird vollständig vom zentralen Minicomputer übernommen.
 
@@ -48,7 +48,7 @@ Diese sehr einfachen und klaren Prinzipien müssen auch für weniger technikaffi
 - Wenn es sich eignet: Wie integriere ich das neue Modul?
 
 
-**Fazit zur Modularisierung**
+**Fazit zur Modularität**
 
 Zusammenfassend kann gesagt werden, dass der modulare Charakter der Bausteine im INTIA Koffer es für Nicht-Techniker:innen einfach macht, weitere Elemente hinzuzufügen. Außerdem können Maker:innen - wenn sie bestimmte Faktoren beachten - schnell neue Elemente integrieren, die sie selbst entwickelt haben.
 
