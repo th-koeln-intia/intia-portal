@@ -1,7 +1,7 @@
 ---
 title: Was ist der INTIA Koffer?
 title_above: INTIA Koffer
-permalink: /intia koffer/
+permalink: /intia-koffer/
 hero_tags: toppage
 subtitle: |
   Der INTIA Koffer ist eine Art mobiles Labor zum Erleben, Verstehen und Gestalten von Smart-Home-Technologie. Er bietet einen ersten Zugang zur Welt der Technik. Der Laborkoffer enthält verschiedene Werkzeuge wie Methoden oder Technik-Bausteine, um Bedürfnisse im Alltag besser zu verstehen und Lösungen für Probleme zu entwickeln – und zu bauen!
