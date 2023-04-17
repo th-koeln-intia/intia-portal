@@ -1,13 +1,13 @@
 ---
 title: Erwerben
-title_above: INTIA-Koffer
+title_above: INTIA Koffer
 permalink: /intia-koffer/erwerben/
 hero_tags: toppage
 subtitle: |
-  Wie kommt man an den INTIA Koffer, oder wie kann ich den Koffer nachbauen? Diese Fragen werden hier beantwortet.
+  Wo kann ich den INTIA Koffer leihen, oder wie kann ich den Koffer selbst bauen? Diese Fragen werden hier beantwortet.
 ---
 
-## Wie komme ich an den INTIA Koffer?
+## Den INTIA Koffer leihen oder bauen
 
 ### 1. Leihen
 Jugendgruppen und Fachkräfte in sozialen und kulturellen Einrichtungen können den INTIA Koffer für einen begrenzten Zeitraum ausleihen - frei verfügbar und kostenlos. Du kannst den Koffer über eine Bildungsfachkraft des Forschungsprojektes ausleihen.
@@ -19,7 +19,7 @@ Weiter unten findest Du die Kontaktdaten für das Leihen sowie Materialien, um d
 
 ## INTIA Koffer Workshop
 
-Der INTIA Koffer bietet einen Zugang zur Technikentwicklung. Mit Hilfe verschiedener Module und Elemente können Jugendliche die Welt der Smart-Home-Technik erleben, verstehen und gestalten.
+Der INTIA Koffer bietet einen Zugang zur Technikentwicklung. Mit verschiedenen Modulen und Elementen können Jugendliche die Welt der Smart-Home-Technik erleben, verstehen und gestalten.
 
 Es ist allerdings eine Fachkraft nötig, die die Jugendlichen anhand einer ausführlichen Moderationsanleitung beim Entdecken begleitet. Wir unterstützen euch bei Bedarf gerne: Neben dem Koffer könnt ihr auch eine fachliche Unterstützung anfragen.
 
