@@ -2,7 +2,7 @@
 title: Fachartikel
 title_above: Blog
 subtitle: |
-  Hier gibt es längere Artikel zu den verschiedensten Themen rund um das Thema Technikentwicklung.
+  Hier findest Du längere Artikel rund um das Thema Technikentwicklung.
 permalink: /blog/fachartikel/
 latest-story: articles
 stories_button: Mehr lesen
