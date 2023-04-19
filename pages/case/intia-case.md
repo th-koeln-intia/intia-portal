@@ -138,14 +138,14 @@ Hier sind alle Elemente aufgelistet, die sich im INTIA Koffer befinden.
 
 <br>
 
-Du kannst den INTIA Koffer auch ausleihen oder selbst nachbauen. Informationen hierzu findest du unter [Erwerben](/intia-koffer/erwerben/).
+Du kannst den INTIA Koffer auch leihen oder selbst nachbauen. Informationen hierzu findest du unter [Beschaffen](/intia-koffer/beschaffen/).
 
 {% include highlighter.html min-height25p=true content='
 
 <div class="columns">
 <div class="column">
 
-## Anwendungsbezogene Anfragen z. B. Ausleihe des INTIA Koffers
+## Anfragen zum Einsatz und Leihen des INTIA Koffers
 
 [fabian.hesterberg@th-koeln.de](mailto:fabian.hesterberg@th-koeln.de)
 
