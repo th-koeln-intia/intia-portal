@@ -4,7 +4,7 @@ title_above: Prototypen
 title: Smarte Trinkflasche
 image: /assets/img/tools/prototypes/trinkflasche.png
 hero_image: /assets/img/tools/prototypes/trinkflasche.png
-description: Es wird vergessen Wasser zu trinken und deshalb zu wenig getrunken. Eine Wasserflasche, welche weiß wann aus ihr getrunken wird. Wenn zu lange nichts getrunken wird, wird erinnert.
+description: Man kann leicht vergessen, ausreichend Wasser zu trinken. Eine Wasserflasche, die weiß, wann aus ihr getrunken wird. Wenn man zu lange nicht aus ihr trinkt, erinnert sie einen daran zu trinken.
 link: https://github.com/th-koeln-intia/prototypen/tree/main/smarte_trinkflasche
 link_text: Selbst nachbauen (GitHub)
 link_type: external
