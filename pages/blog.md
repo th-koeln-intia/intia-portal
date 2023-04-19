@@ -2,7 +2,7 @@
 title: Aktivitäten
 title_above: Blog
 subtitle: |
-  Alle Aktivitäten rund um die Angebote von INTIA. Außerdem sammeln wir hier, was andere über uns schreiben.
+  Hier findest Du Aktivitäten rund um die Angebote von INTIA. Außerdem sammeln wir hier, was andere über uns schreiben.
 permalink: /blog/aktivitaeten/
 latest-story: Neuester Beitrag
 stories_button: Mehr lesen
