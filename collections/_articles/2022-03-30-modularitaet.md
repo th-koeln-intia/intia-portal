@@ -22,7 +22,6 @@ Gegenwärtig wird dies über zwei Hauptsäulen erreicht:
 
 Nachfolgend wird erläutert, was das im Einzelnen bedeutet.
 
-
 **Vorgefertigte Lösungen vor DIY-Hardware**
 
 „DIY“ steht für „Do it yourself“ (Mach es selber). Diese Säule der Modularität ist schnell erklärt: Eigenentwicklung bedeutet Zeit und Aufwand. Auch wenn der Selbstbau oft günstiger erscheint, werden die Aufbauzeit, das benötigte Know-how und die zusätzlichen Werkzeuge oft nicht berücksichtigt. Ein Temperatursensor kann zwar für weniger als fünf Euro gebaut werden, aber man braucht auch Kabel und Lötkolben - und dann hat die Eigenentwicklung noch längst kein Gehäuse und ist außerdem kabelgebunden.
