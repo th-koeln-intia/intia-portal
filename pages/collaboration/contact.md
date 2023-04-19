@@ -13,7 +13,7 @@ contact: false
 <div class="columns">
 <div class="column">
 
-## Anwendungsbezogene Anfragen, z. B. Ausleihe des INTIA Koffers
+## Anfragen zum Einsatz und Leihen des INTIA Koffers
 
 [fabian.hesterberg@th-koeln.de](mailto:fabian.hesterberg@th-koeln.de)
 
