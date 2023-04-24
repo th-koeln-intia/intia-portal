@@ -2,6 +2,8 @@
 title: Beschaffen
 title_above: INTIA Koffer
 permalink: /intia-koffer/beschaffen/
+redirect_from:
+  - /intia-koffer/erwerben/
 hero_tags: toppage
 subtitle: |
   Wie kann ich den INTIA Koffer beschaffen? Es gibt zwei Möglichkeiten: leihen oder nachbauen.
@@ -10,9 +12,11 @@ subtitle: |
 ## Den INTIA Koffer leihen oder nachbauen
 
 ### 1. Leihen
+
 Jugendgruppen und Fachkräfte in sozialen und kulturellen Einrichtungen können den INTIA Koffer für einen begrenzten Zeitraum leihen - frei verfügbar und kostenlos. Du kannst den Koffer über eine Bildungsfachkraft des Forschungsprojektes leihen.
 
 ### 2. Nachbauen
+
 Mit einer Einkaufsliste und den frei zugänglichen Anleitungen kannst du dir deinen eigenen INTIA Koffer nachbauen. Es ist alles so beschrieben, dass das Nachbauen sehr einfach ist. Alle Bestandteile und Anleitungen findest du auf dieser Seite. Es gibt sogar vorgefertigte Einkaufslisten, mit denen du dir einzelne Technik-Bausteine bestellen kannst.
 
 Weiter unten findest Du die Kontaktdaten für das Leihen sowie Materialien, um den Koffer nachzubauen. Bei Fragen kannst du uns gerne eine E-Mail schreiben: kontakt@intia.de.
