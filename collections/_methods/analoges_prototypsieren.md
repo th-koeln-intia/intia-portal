@@ -4,7 +4,7 @@ title_above: Methode
 published: true
 title: Analoges Prototypisieren
 english_title: Analoges Prototypisieren
-subtitle: "Diese Methode ist ein Set von Plättchen, die verschiedene (geometrische) Formen haben. Mit den Plättchen können einfache Abläufe gelegt und somit abgebildet werden. Die Plättchen kann man in die Hand nehmen und nach Regeln anordnen. Dadurch ist es leicht, sich gemeinsam Ideen zu überlegen und diese abzubilden. Das ist der erste Schritt zum Entwickeln. Diese Methode ist auch für Menschen geeignet, die keine Entwickler:innen sind. Mit den Plättchen können Ideen in einer leichten Form der Programmiersprache dargestellt werden."
+subtitle: "Ein Set aus Plättchen mit verschiedenen (geometrischen) Formen. Mit den Plättchen können einfache Abläufe gelegt werden. Die Plättchen kann man in die Hand nehmen und nach Regeln anordnen. Damit kann man sich leicht gemeinsam Ideen überlegen und diese abbilden. Das ist der erste Schritt zum Entwickeln. Diese Methode ist auch für Menschen geeignet, die keine Entwickler:innen sind. Mit den Plättchen kann man Ideen in einfacher Programmiersprache darstellen."
 ---
 
 <table class="tb">
@@ -60,9 +60,9 @@ subtitle: "Diese Methode ist ein Set von Plättchen, die verschiedene (geometris
 
 ## Beschreibung
 
-Diese Methode ist ein Set von Plättchen, die verschiedene (geometrische) Formen haben. Mit den Plättchen können einfache Abläufe gelegt und somit abgebildet werden. Die Plättchen kann man in die Hand nehmen und nach Regeln anordnen. Dadurch ist es leicht, sich gemeinsam Ideen zu überlegen und diese abzubilden. Das ist der erste Schritt zum Entwickeln. Diese Methode ist auch für Menschen geeignet, die keine Entwickler:innen sind. Mit den Plättchen können Ideen in einer leichten Form der Programmiersprache dargestellt werden.
+Ein Set aus Plättchen mit verschiedenen (geometrischen) Formen. Mit den Plättchen können einfache Abläufe gelegt werden. Die Plättchen kann man in die Hand nehmen und nach Regeln anordnen. Damit kann man sich leicht gemeinsam Ideen überlegen und diese abbilden. Das ist der erste Schritt zum Entwickeln. Diese Methode ist auch für Menschen geeignet, die keine Entwickler:innen sind. Mit den Plättchen kann man Ideen in einfacher Programmiersprache darstellen..
 
-Mit den Programmier-Plättchen können Ideen einfach und sichtbar abgebildet werden. Dafür müssen die unterschiedlichen Plättchen in eine Reihe gelegt werden, sodass ein Satz entsteht. In diesem Satz legt man mit Formen und Farben bestimmte Regeln und Strukturen für z. B. die INTIA-Bausteine fest. Die Programmier-Plättchen stehen zum einen für die Technik-Bausteine selbst und zum anderen für die dazugehörigen Aktionen. Es gibt vier Arten von Programmier-Plättchen:
+Dafür müssen die unterschiedlichen Plättchen in eine Reihe gelegt werden, sodass ein Satz entsteht. In diesem Satz legt man mit Formen und Farben bestimmte Regeln und Strukturen fest, zum Beispiel für die INTIA-Bausteine. Die Programmier-Plättchen stehen zum einen für die Technik-Bausteine selbst und zum anderen für die dazugehörigen Aktionen. Es gibt vier Arten von Programmier-Plättchen:
 
 1. **Technik-Bausteine (z. B. Sensor):**
    Diese Plättchen sind immer sechseckig und rot.
@@ -73,7 +73,7 @@ Mit den Programmier-Plättchen können Ideen einfach und sichtbar abgebildet wer
 3. **Satzbau (z. B. „wenn”, „dann”, „und”, „nicht”):**
    Auf diesen Plättchen stehen Verbindungs- oder Bedingungswörter. Sie haben verschiedene Formen und Farben:
 
-**Orange:** Orange-farbenen Plättchen geben Sätzen eine Struktur. Auch sie haben verschiedene Farben. Damit kann man den Satz-Anfang und das Satz-Ende legen. Sie können aber auch einen Neben-Satz einleiten.
+**Orange:** Orange-farbenen Plättchen geben Sätzen eine Struktur. Mit ihnen kann man den Satz-Anfang und das Satz-Ende legen. Sie können aber auch einen Neben-Satz einleiten.
 
 **Grau:** Bei den grauen Plättchen gibt es zwei verschiedene Formen:
 Sanduhr-Form → diese Plättchen stellen Verbindungswörter zwischen Bausteinen dar (z. B. Sensor und Schalter).
@@ -95,7 +95,7 @@ Sollte ein Wort für eine Idee fehlen, können diese Plättchen verwendet werden
 1. Alle (oder nur einige) Plättchen gut sichtbar auf einem Tisch auslegen.
 2. Die Legende, mit Beschreibungen zu den Plättchen-Formen, gut sichtbar hinlegen.
 3. Es ist sinnvoll, vor dem Start einen Beispiel-Ablauf durchzusprechen. Hierbei können die Beispiele weiter unten helfen.
-4. Optional: Kamera oder Handys für das Fotografieren der Ergebnisse bereithalten. Alternativ Stift und Papier bereithalten.
+4. Optional: Kamera oder Handys für das Fotografieren der Ergebnisse. Alternativ Stift und Papier bereithalten.
 
 #### Durchführung
 
@@ -116,7 +116,7 @@ _„Solange der Kontakt-Sensor zu ist, (dann) ist auch die Steckdose an”_
 
 In diesem Beispiel wurde ein Wenn-Plättchen durch ein Solange-Plättchen ersetzt. Das bedeutet: Was links vom Dann-Plättchen steht, hält solange an, bis etwas anderes passiert.
 Alle Sätze brauchen immer mindestens drei orange-farbene Satzbau-Plättchen: Eines am Anfang (Wenn-Plättchen, Solange-Plättchen), ein Dann-Plättchen und ein Schluss-Plättchen.
-So entstehen Sätze, die Bedingungen formulieren. Eine Bedingung besteht immer aus zwei Satz-Teilen. Ein Dann-Plättchen ist wie eine „Grenze” im Satz. Auf der linken Seite des Dann-Plättchen steht, welcher Zustand dort beschrieben ist oder was dort geschieht. Nach dieser „Grenze” (das Dann-Plättchen), zeigt sich, was rechts davon als Folge oder Ergebnis steht.
+So entstehen Sätze, die Bedingungen formulieren. Eine Bedingung besteht immer aus zwei Satzteilen. Ein Dann-Plättchen ist wie eine „Grenze” im Satz. Auf der linken Seite vom Dann-Plättchen steht, welcher Zustand dort beschrieben ist oder was dort geschieht. Nach dieser „Grenze” (das Dann-Plättchen), zeigt sich, was rechts davon als Folge oder Ergebnis steht.
 Der Aufbau sieht also immer so aus: Wenn/Solange etwas passiert..., dann passiert etwas anderes...
 
 Weitere Beispiele mit anderen Plättchen sind weiter unten aufgeführt.
@@ -147,7 +147,7 @@ Ein „Solange”-Plättchen ist ein Start-Plättchen. Es steht immer am Anfang 
 
 **„Sonst”-Plättchen**
 Ein „Sonst”-Plättchen kann im Satz nur in Zusammenhang mit einem „Dann”-Plättchen gelegt werden. Es steht immer im Satz-Teil nach dem „Dann”-Plättchen.
-Es zeigt an, was passiert, wenn die Bedingung des ersten Satz-Teils nicht erfüllt ist.
+Es zeigt an, was passiert, wenn die Bedingung des ersten Satzteils nicht erfüllt ist.
 
 **„Und”-Plättchen (Bausteine)**
 Ein „Und”-Plättchen verbindet zwei Bedingungen. Es zeigt an, dass beide Bedingungen gleichzeitig erfüllt sein müssen. Es verbindet in diesem Fall zwei Technik-Bausteine und deren Aktionen. Es kann vor oder nach dem „Dann”-Plättchen liegen.
@@ -180,7 +180,7 @@ Dieser Satz ist länger als die vorherigen Sätze. Einige Programmier-Plättchen
 
 Auf diese Weise wisst ihr, dass mit „Smartes Schloss” das Schloss der Holzkiste gemeint ist. Denn es könnte sich ja auch um ein anderes Smartes Schloss (z. B. ein Tür-Schloss) handeln.
 
-Die grauen leeren Plättchen heißen Kommentar-Plättchen. Sie sind wichtig, wenn ihr mit den Plättchen Ideen abbilden wollt, in denen Technik-Bausteine doppelt verwendet werden. Zum Beispiel, wenn ihr mehrere Smarte Lampen habt.
+Die grauen, leeren Plättchen heißen Kommentar-Plättchen. Sie sind wichtig, wenn ihr mit den Plättchen Ideen abbilden wollt, in denen Technik-Bausteine doppelt verwendet werden. Zum Beispiel, wenn ihr mehrere Smarte Lampen habt.
 
 #### „Und”-/„Oder”-Plättchen
 
