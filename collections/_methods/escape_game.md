@@ -2,10 +2,10 @@
 hero_tags: subpage method pdf
 title_above: Methode
 published: true
-title: Escape Game
+title: Escape-Game
 english_title: Escape Game
 last_update: 11.05.2022
-subtitle: Das Escape-Game ist ein Set aus Rätseln. Teilnehmende können sich spielerisch mit den verschiedenen Funktionen von Smart-Home-Technik vertraut machen. Sie lernen die Technik-Bausteine kennen und verstehen. Dadurch entwickeln sie eventuell selbst Ideen für neue Technologien, die ihnen im Alltag helfen.
+subtitle: Ein Set aus Rätseln. Teilnehmende können sich spielerisch mit verschiedenen Funktionen von Smart-Home-Technik vertraut machen. Sie lernen die Technik-Bausteine kennen und verstehen. Dadurch können sie selbst Ideen für neue Technologien entwickeln, die ihnen im Alltag helfen.
 ---
 
 <table class="tb">
@@ -75,7 +75,7 @@ subtitle: Das Escape-Game ist ein Set aus Rätseln. Teilnehmende können sich sp
 
 ## Beschreibung
 
-Das Escape-Game ist ein Set aus Rätseln. Teilnehmende können sich spielerisch mit den verschiedenen Funktionen von Smart-Home-Technik vertraut machen. Sie lernen die Technik-Bausteine kennen und verstehen. Dadurch entwickeln sie eventuell selbst Ideen für neue Technologien, die ihnen im Alltag helfen.
+Ein Set aus Rätseln. Teilnehmende können sich spielerisch mit verschiedenen Funktionen von Smart-Home-Technik vertraut machen. Sie lernen die Technik-Bausteine kennen und verstehen. Dadurch können sie selbst Ideen für neue Technologien entwickeln, die ihnen im Alltag helfen.
 
 ## Durchführung
 
@@ -100,7 +100,7 @@ Das Escape-Game ist ein Set aus Rätseln. Teilnehmende können sich spielerisch 
 
 1. Die Teilnehmenden erhalten ein Rätselheft mit zusätzlichen Tipps in Umschlägen. Sollten sie nicht weiterwissen, können sie diese zu Hilfe nehmen.
 2. Die Rätsel sind nach einer bestimmten Reihenfolge geordnet. Die Teilnehmenden müssen mit Rätsel 1 beginnen, danach Rätsel 2 und so weiter.
-3. Die Teilnehmenden lösen die Rätsel, soweit es geht, selbständig. In den Tipps befinden sich in der Regel auch Lösungswege. Die Moderation sollte so wenig wie möglich eingreifen, kann aber bei technischen Problemen unterstützen.
+3. Die Teilnehmenden lösen die Rätsel selbständig (soweit es geht). In den Tipps befinden sich in der Regel auch Lösungswege. Die Moderation sollte so wenig wie möglich eingreifen, kann aber bei technischen Problemen unterstützen.
 4. Das Escape-Game endet, wenn die Steuerungszentrale von den Teilnehmenden kontrolliert werden kann. Dies erkennt man unter anderem an dem Konfetti.
 5. Nun können die Teilnehmenden ausprobieren, die Technik-Bausteine zu steuern.
 
