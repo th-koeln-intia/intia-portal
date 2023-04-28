@@ -5,7 +5,7 @@ published: true
 title: Impulskarten
 english_title: Impulskarten
 last_update: 08.06.2022
-subtitle: "Die Impulskarten sollen Unterhaltungen anregen. Ziel ist es, Probleme, Wünsche oder Bedürfnisse zu erkennen. Daraus können anschließend mit anderen Methoden Lösungen entwickelt werden. Es kann sein, andere Teilnehmende ähnliche Probleme, Wünsche oder Bedürfnisse beschreiben. Diese Themen können gemeinsam in der Gruppe besprochen werden. Daraus ergibt sich eventuell ein Handlungs- oder Unterstützungsbedarf. Auch außerhalb eines Technik-Entwicklungsprozesses können die Impulskarten eingesetzt werden. Zum Beispiel als unterstützendes Werkzeug bei der Vorbereitung eines Hilfeplangesprächs."
+subtitle: "Die Impulskarten sollen Unterhaltungen anregen. Ziel ist es, Probleme, Wünsche oder Bedürfnisse zu erkennen. Daraus können anschließend mit anderen Methoden Lösungen entwickelt werden. Es kann sein, dass andere Teilnehmende ähnliche Probleme, Wünsche oder Bedürfnisse beschreiben. Diese Themen können gemeinsam in der Gruppe besprochen werden. Daraus ergibt sich eventuell ein Handlungs- oder Unterstützungsbedarf. Auch außerhalb eines Technik-Entwicklungsprozesses können die Impulskarten eingesetzt werden. Zum Beispiel als unterstützendes Werkzeug bei der Vorbereitung eines Hilfeplangesprächs."
 ---
 
 <table class="tb">
@@ -55,7 +55,7 @@ subtitle: "Die Impulskarten sollen Unterhaltungen anregen. Ziel ist es, Probleme
 
 ## Beschreibung
 
-Die Impulskarten sollen Unterhaltungen anregen. Ziel ist es, Probleme, Wünsche oder Bedürfnisse zu erkennen. Daraus können anschließend mit anderen Methoden Lösungen entwickelt werden.Es kann sein, dass andere Teilnehmende ähnliche Probleme, Wünsche oder Bedürfnisse beschreiben. Diese Themen können gemeinsam in der Gruppe besprochen werden. Daraus ergibt sich eventuell ein Handlungs- oder Unterstützungsbedarf. Auch außerhalb eines Technik-Entwicklungsprozesses können die Impulskarten eingesetzt werden. Zum Beispiel als unterstützendes Werkzeug bei der Vorbereitung eines Hilfeplangesprächs.
+Die Impulskarten sollen Unterhaltungen anregen. Ziel ist es, Probleme, Wünsche oder Bedürfnisse zu erkennen. Daraus können anschließend mit anderen Methoden Lösungen entwickelt werden. Es kann sein, dass andere Teilnehmende ähnliche Probleme, Wünsche oder Bedürfnisse beschreiben. Diese Themen können gemeinsam in der Gruppe besprochen werden. Daraus ergibt sich eventuell ein Handlungs- oder Unterstützungsbedarf. Auch außerhalb eines Technik-Entwicklungsprozesses können die Impulskarten eingesetzt werden. Zum Beispiel als unterstützendes Werkzeug bei der Vorbereitung eines Hilfeplangesprächs.
 
 ## Durchführung
 
@@ -67,15 +67,15 @@ Im INTIA Koffer befinden sich Impulskarten zu Alltagssituationen und Bedürfniss
 
 **Alternativ:**
 
-1. Karten ausdrucken und ausschneiden
-2. Eventuell eine Vorauswahl aus den Karten treffen
+1. Karten ausdrucken und ausschneiden.
+2. Eventuell eine Vorauswahl aus den Karten treffen.
    1. Moderation trifft Vorauswahl, um
-      1. eine kleinere Auswahl zu haben und schwierige Karten auszusortieren
-      2. wichtige Themen zu fokussieren
-      3. Themen, die unwichtig oder sogar verletzend für die Gruppe sind, auszusortieren
+      1. eine kleinere Auswahl zu haben und schwierige Karten auszusortieren.
+      2. wichtige Themen zu fokussieren.
+      3. Themen auszusortieren, die unwichtig oder sogar verletzend für die Gruppe sind. 
    2. Teilnehmende treffen Vorauswahl, um
-      1. Themen zu entfernen, die für die Gruppe unwichtig sind
-      2. Themen zu entfernen, mit denen sich Teilnehmende unwohl fühlen
+      1. Themen zu entfernen, die für die Gruppe unwichtig sind.
+      2. Themen zu entfernen, mit denen sich Teilnehmende unwohl fühlen.
 
 #### Durchführung
 
@@ -94,13 +94,13 @@ Beispiel: Alltags-Karte „Schlafen” und Bedürfnis-Karte „mir hilft...”. 
 
 1. Ideen auf Papier festhalten.
 2. Die Ideen können mit anderen Methoden weiterentwickelt werden.
-   Diese Methode kann als Basis für Entwicklungsmethoden dienen.
+Diese Methode kann als Basis für Entwicklungsmethoden dienen.
 
 ## Hinweise zur Durchführung
 
 Die Moderation bespricht (optional) zu Beginn mit den Teilnehmenden, dass mit „Ich“ nicht sie selber gemeint sind. Sie versetzen sich bloß in andere Menschen hinein. Denn es kann vorkommen, dass ein Satz mit „Ich“ für die Teilnehmenden unangenehm ist. Das kann unterschiedliche Gründe haben. Dann kann der Satz auch mit „Mein Freund“ oder „Meine Freundin“ begonnen werden.
 
-Die Methode kann auch alleine durchgeführt werden. Sie kann dann dazu dienen, dass Menschen sich über eigene Probleme, Wünsche und Bedürfnisse klarwerden.
+Die Methode kann auch alleine durchgeführt werden. Menschen sich damit über eigene Probleme, Wünsche und Bedürfnisse klarwerden.
 
 ## Anpassungen
 
