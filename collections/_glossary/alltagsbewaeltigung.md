@@ -14,7 +14,7 @@ abstract: Alltagsbewältigung bezieht sich auf das tägliche Leben und die Aufga
 
 ## Beschreibung
 
-Menschen mit Beeinträchtigen können Unterstützung zur Alltagsbewältigung erhalten. Mit dieser Unterstützung sollen sie ein selbstbestimmtes und selbstständiges Leben führen können.
+Menschen mit Beeinträchtigungen können Unterstützung zur Alltagsbewältigung erhalten. Mit dieser Unterstützung sollen sie ein selbstbestimmtes und selbstständiges Leben führen können.
 \[1]. Beispiele für solche Tätigkeiten sind Unterstützung bei alltäglichen Erledigungen, Haushalt, dem kulturellen und sozialen Leben oder bei der Gestaltung der Freizeit. Dadurch wird gesellschaftliche Teilhabe ermöglicht. Alltagsbewältigung ist eine Aufgabe \[2] und eine Methode \[3, p.54f.] der Sozialen Arbeit, der Kinder- und Jugendhilfe \[4] \[5]
 
 ## Relevanz
