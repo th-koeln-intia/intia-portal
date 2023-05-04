@@ -1,7 +1,7 @@
 ---
 hero_tags: subpage method pdf
 title_above: Bausteine
-title: Knopf
+title: Smarter Knopf
 image: /assets/img/tools/building_blocks/knopf_2.jpg
 hero_image: /assets/img/tools/building_blocks/knopf_2.jpg
 subtitle: "Mit Knöpfen kannst du andere Bausteine ansteuern. Es gibt viele Arten von Knöpfen - mit verschiedenen Funktionen. Einige Knopfe müssen nur leicht berührt werden. Andere Knöpfe müssen fest gedrückt werden. Manchmal reicht eine kurze Berührung, manchmal muss der Knopf lange gedrückt werden. Auch die Formen der Knöpfe können sehr unterschiedlich sein: groß, klein, weiß oder bunt."
