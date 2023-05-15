@@ -30,5 +30,5 @@ Bedürfnisse sind ein Gefühl des Mangels. Es fehlt einem Menschen etwas. Es gib
 
 1. Staub-Bernasconi, Silvia. 1995. „Das fachliche Selbstverständnis Sozialer Arbeit - Wege aus der Bescheidenheit. Soziale Arbeit als ‚Human Rights Profession‘.“ In Soziale Arbeit im Wandel ihres Selbstverständnisses - Beruf und Identität, hrsg. v. Wolf Rainer Wendt, 57-104. Freiburg.
 2. Uhlendorff, Uwe. 2012. „Sozialpädagogisch-hermeneutische Diagnosen in der Jugendhilfe.“ In Grundriss Soziale Arbeit. Ein einführendes Handbuch, hrsg. v. Werner Thole, S. 707-718. Wiesbaden.
-3. DIMDI. 2005. „ICF. Internationale Klassifikation der Funktionsfähigkeit, Behinderung und Gesundheit.“ Genf. https://www.dimdi.de/dynamic/.downloads/klassifikationen/icf/icfbp2005.zip
+3. DIMDI. 2005. „ICF. Internationale Klassifikation der Funktionsfähigkeit, Behinderung und Gesundheit.“ Genf. <https://www.dimdi.de/dynamic/.downloads/klassifikationen/icf/icfbp2005.zip>.
 4. Tenorth, Heinz-Elmar (Hrsg.), Tippelt, Rudolf (Hrsg). 2007. Beltz Lexikon Pädagogik. Weinheim und Basel. Beltz Verlag. (S. 55)
