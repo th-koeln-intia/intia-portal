@@ -8,7 +8,7 @@ synonyms:
   - Soziales Modell von Behinderung
 last_update: 11.11.2021
 subtitle: Menschen mit Behinderung werden oft durch äußere Umstände und gesellschaftliche Bedingungen benachteiligt. Das menschenrechtliche Modell von Behinderung richtet den Blick auf diese Umstände und Bedingungen.
-abstract: „Das menschenrechtliche Modell von Behinderung ist von Menschen mit Behinderung für Menschen mit Behinderung erstellt worden. Es folgt dem Grundsatz: „Ich bin nicht behindert, sondern ich werde behindert.“ Nach dem Modell ist Behinderung kein medizinisches oder persönliches Problem, sondern entsteht durch Barrieren in Gesellschaft und Umwelt. Das menschenrechtliche Modell von Behinderung soll dazu beitragen, die Vielfalt von Behinderungen sowie von Menschen mit Behinderungen anzuerkennen und Barrieren abzubauen.“
+abstract: "Das menschenrechtliche Modell von Behinderung ist von Menschen mit Behinderung für Menschen mit Behinderung erstellt worden. Es folgt dem Grundsatz: „Ich bin nicht behindert, sondern ich werde behindert.“ Nach dem Modell ist Behinderung kein medizinisches oder persönliches Problem, sondern entsteht durch Barrieren in Gesellschaft und Umwelt. Das menschenrechtliche Modell von Behinderung soll dazu beitragen, die Vielfalt von Behinderungen sowie von Menschen mit Behinderungen anzuerkennen und Barrieren abzubauen."
 ---
 
 ## Beschreibung
