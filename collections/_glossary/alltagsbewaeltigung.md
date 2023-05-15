@@ -27,10 +27,10 @@ Die Methoden und Technologien für inklusive Technikentwicklung zielen darauf, J
 
 <!--StartFragment-->
 
-1. § 4 Abs. 1 Nr. 4 SGB IX (<https://dejure.org/gesetze/SGB_IX/4.html#Abs1:Nr4>)
-2. DBSH. 2016. Deutschsprachige Definition Sozialer Arbeit des Fachbereichstag Soziale Arbeit und DBSH. Zugriff am 25. Februar 2021. (<https://www.dbsh.de/media/dbsh-www/redaktionell/bilder/Profession/20161114_Dt_Def_Sozialer_Arbeit_FBTS_DBSH_01.pdf>).
-3. May, Michael. 2009. Aktuelle Theoriediskurse Sozialer Arbeit: Eine Einführung. 2., überarbeitete und erweiterte Auflage. Lehrbuch. Wiesbaden: VS Verl. für Sozialwiss. Zugriff am 25. Februar 2021. (<https://link.springer.com/content/pdf/10.1007%2F978-3-531-90838-0.pdf>).
-4. § 34 Satz 1 SGB VIII (<https://dejure.org/gesetze/SGB_VIII/34.html#S1>)
+1. § 4 Abs. 1 Nr. 4 SGB IX <https://dejure.org/gesetze/SGB_IX/4.html#Abs1:Nr4>
+2. DBSH. 2016. Deutschsprachige Definition Sozialer Arbeit des Fachbereichstag Soziale Arbeit und DBSH. <https://www.dbsh.de/media/dbsh-www/redaktionell/bilder/Profession/20161114_Dt_Def_Sozialer_Arbeit_FBTS_DBSH_01.pdf>. Zugriff am 25. Februar 2021.
+3. May, Michael. 2009. Aktuelle Theoriediskurse Sozialer Arbeit: Eine Einführung. 2., überarbeitete und erweiterte Auflage. Lehrbuch. Wiesbaden: VS Verl. für Sozialwiss <https://link.springer.com/content/pdf/10.1007%2F978-3-531-90838-0.pdf>. Zugriff am 25. Februar 2021.
+4. § 34 Satz 1 SGB VIII <https://dejure.org/gesetze/SGB_VIII/34.html#S1>.
 5. Günder, Richard und Katja Nowacki. 2020. Praxis und Methoden der Heimerziehung: Entwicklungen, Veränderungen und Perspektiven der stationären Erziehungshilfe. 
 
 <!--EndFragment-->
