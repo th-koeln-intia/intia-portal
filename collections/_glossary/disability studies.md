@@ -30,11 +30,10 @@ Deswegen wird in manchen Diskursen auch von Menschen mit besonderem Förder- ode
 
 ## Quellen
 
-1. disabilitystudies.de. 2020. Arbeitsgemeinschaft Disability Studies (AGDS) - Wir forschen selbst. (Zugriff 12.11.2020: https://disabilitystudies.de/)
+1. disabilitystudies.de. 2020. Arbeitsgemeinschaft Disability Studies (AGDS) - Wir forschen selbst. <https://disabilitystudies.de/>. Zugriff am 12.11.2020.
 2. Böcher, Hartmut, Britta Ellinghaus und Freya Pausewang. 2017. Erziehen, bilden und begleiten: Die sechs Lernfelder für Erzieherinnen und Erzieher in Ausbildung und Beruf. 1. Auflage.
-3. Barbotte, E., F. Guillemin und N. Chau. 2001. „Prevalence of Impairments, Disabilities, Handicaps and Quality of Life in the General Population: A Review of Recent Literature.“ Bulletin of the World Health Organization 79 (11): 1047–55. (Zugriff: 12.11.2020: https://www.who.int/bulletin/archives/79%2811%291047.pdf)
+3. Barbotte, E., F. Guillemin und N. Chau. 2001. „Prevalence of Impairments, Disabilities, Handicaps and Quality of Life in the General Population: A Review of Recent Literature.“ Bulletin of the World Health Organization 79 (11): 1047–55. <https://www.who.int/bulletin/archives/79%2811%291047.pdf>. Zugriff am 12.11.2020.
 4. Sozialassistenz kompakt NRW. 2017. 1. Auflage. Sozialassistenz kompakt. Köln: Bildungsverlag EINS westermann.
-5. Waldschmidt, Anne und Werner Schneider. 2007. Disability Studies, Kultursoziologie und Soziologie der Behinderung: transcript-Verlag. Zugriff am 25. Februar 2021. https://www.degruyter.com/document/doi/10.14361/9783839404867/html.
-6. Brehme, David, Petra Fuchs und Swantje Köbsell. 2020. Disability Studies im deutschsprachigen Raum: Zwischen Emanzipation und Vereinnahmung. https://content-select.com/index.php?id=bib_view&ean=9783779953579.
-7. Brehme, David, Petra Fuchs und Swantje Köbsell. 2020. Disability Studies im deutschsprachigen Raum: Zwischen Emanzipation und Vereinnahmung. https://content-select.com/index.php?id=bib_view&ean=9783779953579.
-8. behinderung.org. „Definition des Begriffs 'Behinderung'“. (Zugriff: 12.11.2020: https://behinderung.org/gesetze/definition-behinderung.htm)
+5. Waldschmidt, Anne und Werner Schneider. 2007. Disability Studies, Kultursoziologie und Soziologie der Behinderung: transcript-Verlag. <https://www.degruyter.com/document/doi/10.14361/9783839404867/html>. Zugriff am 25. Februar 2021.
+6. Brehme, David, Petra Fuchs und Swantje Köbsell. 2020. Disability Studies im deutschsprachigen Raum: Zwischen Emanzipation und Vereinnahmung. <https://content-select.com/index.php?id=bib_view&ean=9783779953579>.
+7. behinderung.org. „Definition des Begriffs 'Behinderung'“. <https://behinderung.org/gesetze/definition-behinderung.htm>. Zugriff am 12.11.2020.
