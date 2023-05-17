@@ -15,13 +15,13 @@ abstract: "Jeder Mensch ist vulnerabel, also verletzlich oder angreifbar. Doch m
 
 Vulnerabilitäten, zum Beispiel in Bezug auf Isolierung, Armut oder Ähnliches, entstehen durch Lebensumstände oder durch gesellschaftliche Benachteiligung. Folgende Erklärungsfaktoren helfen bei der Charakterisierung von Vulnerabilitäten: materielle Bedingungen, kulturelle und verhaltensbedingte Faktoren, psychosoziale Faktoren oder Lebensereignisse. Außerdem spielen die medizinische Versorgung und Einflüsse aus der frühen Kindheit beziehungsweise aus dem sozialen Lebensumfeld eine Rolle (siehe die Beiträge in Kapitel 3 Richter/ Hurrelmann 2009).\[5]
 
-Jugendliche in der Jugendhilfe oder Behindertenhilfe haben oft strukturelle Benachteiligung erlebt. Diese zeigt sich auch in Nachteilen bei der digitalen Teilhabe. Inklusive Technikentwicklung hat zum Ziel Tools (Werkzeuge) zu entwickeln, die für alle Menschen hilfreich sind und die digitale Teilhabe fördern.
+Jugendliche in der Jugendhilfe oder Behindertenhilfe haben oft strukturelle Benachteiligung erlebt. Diese zeigt sich auch in Nachteilen bei der digitalen Teilhabe. Inklusive Technikentwicklung hat zum Ziel, Tools (Werkzeuge) zu entwickeln, die für alle Menschen hilfreich sind und die digitale Teilhabe fördern.
 
 ## Beschreibung
 
 Der Begriff der Vulnerabilität wird in verschiedenen wissenschaftlichen Feldern unterschiedlich definiert.\[1]
 
-Aus anthropologischer Sicht (Anthropologie = die Lehre vom Menschen) ist Vulnerabilität eine Grundeigenschaft. Jeder Mensch ist vulnerabel. Außerdem gibt es eine spezifische Dimension von Vulnerabilität. Sie ist das Resultat bestimmter Lebensumstände und hat eine eingeschränkte Selbstbestimmung und Entscheidungsfreiheit als Folge. Interne Faktoren wie eine körperliche Abweichung können mit externen Faktoren, wie beispielsweise einem Bildungsrückstand, zusammenkommen und sich gegenseitig verstärken. Dann verstärkt sich auch die Vulnerabilität.\[2]
+Aus anthropologischer Sicht (Anthropologie = die Lehre vom Menschen) ist Vulnerabilität eine Grundeigenschaft. Jeder Mensch ist vulnerabel. Außerdem gibt es eine spezifische Dimension von Vulnerabilität. Sie ist das Ergebnis von bestimmten Lebensumständen und hat zur Folge, dass Selbstbestimmung und Entscheidungsfreiheit eingeschränkt sind. Interne Faktoren wie eine körperliche Abweichung können mit externen Faktoren, wie beispielsweise einem Bildungsrückstand, zusammenkommen und sich gegenseitig verstärken. Dann verstärkt sich auch die Vulnerabilität.\[2]
 
 Es gibt drei bestimmende Merkmale von Vulnerabilität. Erstens das **Ausgesetzt-Sein** (engl.: exposure). Zweitens die **Sensitivität** (engl.: sensitivity). Und drittens die **Möglichkeit, diesem Ausgesetzt-Sein passend begegnen zu können** (engl.: adaption).\[3, p.12]
 
