@@ -44,7 +44,6 @@ Wie sieht Medienkompetenz jedoch am Ende aus? Medienkompetente Menschen können 
 - _Anwendend_: durch die Aufnahme von Informationen. 
 - _Wechselseitig_: durch Angebote, um praktisch zu arbeiten und das Wissen anzuwenden.
 
-
 **Mediengestaltung** meint, dass Medien sowohl kreativ als auch schöpferisch gestaltet werden. Ebenso wichtig ist es, die Bedürfnisse der Kinder und Jugendlichen wahrzunehmen. Es ist zu berücksichtigen, dass Menschen mit ihren individuellen Vorlieben ungestört in den Medien unterwegs sein möchten, ohne dabei belehrt zu werden. Medienbildung soll sich am Menschen und am Konzept des lebenslangen Lernens orientieren.
 
 ## Quellen
