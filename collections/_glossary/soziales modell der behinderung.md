@@ -2,7 +2,7 @@
 hero_tags: subpage glossary pdf
 title_above: Wörterbuch
 published: true
-title: Soziales Modell der Behinderungen
+title: Soziales Modell von Behinderung
 english_title: Social Model of Disability
 synonyms:
   - Menschenrechtliches Modell von Behinderung
