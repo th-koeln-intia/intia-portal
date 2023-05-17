@@ -28,18 +28,22 @@ Wie sieht Medienkompetenz jedoch am Ende aus? Medienkompetente Menschen können 
 3. Mediennutzung 
 4. Mediengestaltung
 
+
 **Medienkritik** umfasst nochmals drei einzelne Bereiche: 
 - _Analytisch_: Eine Person soll in der Lage sein, Probleme in Bezug zu Medien zu erfassen. 
 - _Reflexiv_: Das in den Medien erworbene Wissen soll auf die Person selbst angewandt werden können.
 - _Ethisch_: Die beiden zuerst genannten Bereiche sollen auch sozial verantwortlich definiert werden.
 
+
 **Medienkunde** unterteilt sich in zwei Bereiche: 
 - _Informative Dimension_: Es gibt klassisches Wissen, nämlich das Wissen darüber, was es für Geräte und Angebote gibt. 
 - _Instrumentell-qualifikatorische Dimension_: Das ist die Fähigkeit, die (neuen) Geräte bedienen zu können.
 
+
 **Mediennutzung** wird auf zwei Ebenen vermittelt: 
 - _Anwendend_: durch die Aufnahme von Informationen. 
 - _Wechselseitig_: durch Angebote, um praktisch zu arbeiten und das Wissen anzuwenden.
+
 
 **Mediengestaltung** meint, dass Medien sowohl kreativ als auch schöpferisch gestaltet werden. Ebenso wichtig ist es, die Bedürfnisse der Kinder und Jugendlichen wahrzunehmen. Es ist zu berücksichtigen, dass Menschen mit ihren individuellen Vorlieben ungestört in den Medien unterwegs sein möchten, ohne dabei belehrt zu werden. Medienbildung soll sich am Menschen und am Konzept des lebenslangen Lernens orientieren.
 
