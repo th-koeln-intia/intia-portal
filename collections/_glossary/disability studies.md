@@ -8,8 +8,8 @@ synonyms:
   - Studien zu Menschen mit Beeinträchtigungen
   - Studien zu Behinderung
 last_update: 11.11.2021
-subtitle: Mit den Disability Studies wird erforscht, wie wir als Gesellschaft über Behinderung denken und wie wir Barrieren abbauen können, um Menschen mit Behinderungen ein gleichberechtigtes Leben zu ermöglichen
-abstract: Disability Studies kann man grob mit „Studien über Behinderung“ übersetzen. Sie beschäftigen sich damit, wie eine Gesellschaft Behinderung wahrnimmt und versteht. Dabei werden die Erfahrungen von Menschen betrachtet, die eine Behinderung oder Beeinträchtigung haben. Man untersucht medizinische Aspekte, aber auch soziale, kulturelle, politische und historische Zusammenhänge. Ziel ist es, Barrieren abzubauen, damit Menschen mit einer Behinderung oder Beeinträchtigung leichter am gesellschaftlichen, kulturellen und wirtschaftlichen Leben teilnehmen können.
+subtitle: "Mit den Disability Studies wird erforscht, wie wir als Gesellschaft über Behinderung denken und wie wir Barrieren abbauen können, um Menschen mit Behinderungen ein gleichberechtigtes Leben zu ermöglichen"
+abstract: "Disability Studies kann man grob mit „Studien über Behinderung“ übersetzen. Sie beschäftigen sich damit, wie eine Gesellschaft Behinderung wahrnimmt und versteht. Dabei werden die Erfahrungen von Menschen betrachtet, die eine Behinderung oder Beeinträchtigung haben. Man untersucht medizinische Aspekte, aber auch soziale, kulturelle, politische und historische Zusammenhänge. Ziel ist es, Barrieren abzubauen, damit Menschen mit einer Behinderung oder Beeinträchtigung leichter am gesellschaftlichen, kulturellen und wirtschaftlichen Leben teilnehmen können."
 ---
 
 ## Bedeutung für inklusive Technikentwicklung
