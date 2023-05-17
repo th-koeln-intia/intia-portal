@@ -18,30 +18,34 @@ Für die Reflexion von Alltag konnte daraus das Spiel „Impulskarten“ entwick
 
 ## Beschreibung
 
-Die ICF ist ein Rahmenwerk, das eine einheitliche Sprache und eine konzeptionelle Grundlage für die Bestimmung von Unterstützungsbedarfen bei Behinderungen liefert. Sie vereint Perspektiven auf individuelle Einschränkungen und auf Einschränkungen durch die Umwelt (das sind Umweltbarrieren).
+Die ICF ist ein Rahmenwerk, das eine einheitliche Sprache sowie eine konzeptionelle Grundlage bietet, um Unterstützungsbedarfe bei Behinderungen zu bestimmen. Sie vereint die Sicht auf individuelle Einschränkungen und auf Einschränkungen durch die Umwelt (so genannte Umweltbarrieren).
 
-Die ICF besteht aus folgenden vier Klassifikationen: Körperfunktionen, Körperstrukturen, Aktivitäten und Partizipation sowie Umweltfaktoren.
+Die ICF beschreibt vier Bereiche: 
+1. Körperfunktionen
+2. Körperstrukturen
+3. Aktivitäten und Partizipation
+4. Umweltfaktoren.
 
-Die ICF setzt einen Fokus auf die Frage, welche Unterstützungsbedarfe ein Mensch hat, damit er seine volle Leistungsfähigkeit erreichen kann. Während früher „Behinderung“ vorrangig aufgrund eingeschränkter Körperfunktionen definiert wurde und sich daraus Hilfebedarfe ableiteten, betont die ICF die Leistungsfähigkeiten eines Menschen. Anhand der Leistungsfähigkeiten und der Analyse, was diese Leistungsfähigkeit beschränkt (das sind auch Umweltbarrieren), werden Unterstützungsbedarfe abgeleitet. Das können beispielsweise Hilfsmittel sein. Damit kann ein Anspruch auf solche Unterstützungen besser gerechtfertigt werden.
+Die ICF stellt die Leistungsfähigkeit eines Menschen in den Vordergrund und nicht die Einschränkungen, die sich aus einer Behinderung ergeben. Es wird ein Fokus darauf gesetzt, welche Unterstützungsbedarfe ein Mensch hat, damit er seine volle Leistungsfähigkeit erreichen kann. Früher wurde „Behinderung“ hauptsächlich anhand von eingeschränktern Körperfunktionen definiert, und daraus leiteten sich Hilfebedarfe ab. Die ICF betont hingegen die Leistungsfähigkeiten eines Menschen. Durch die Bewertung dieser Fähigkeiten und die Analyse dessen, was die Leistungsfähigkeit einschränkt (Umweltbarrieren), werden Unterstützungsbedarfe abgeleitet - zum Beispiel Hilfsmittel. Damit kann ein Anspruch auf solche Unterstützungen besser begründet werden.
 
 „Die Internationale Klassifikation der Funktionsfähigkeit, Behinderung und Gesundheit (ICF) der Weltgesundheitsorganisation (WHO) soll eine international einheitliche Kommunikation über die Auswirkungen von Gesundheitsproblemen unter Beachtung des gesamten Lebenshintergrunds eines Menschen ermöglichen. Die ICF ist gemäß BTHG insbesondere Bezugspunkt der Bedarfsermittlung im Eingliederungshilferecht und Grundlage des neu definierten Behinderungsbegriffs“ (Umsetzungsbegleitung Bundesteilhabegesetz o.J., <https://umsetzungsbegleitung-bthg.de/bthg-kompass/bk-bedarfsermittlung-icf/icf/fd1-1003/>).
 
-**Körperfunktionen** sind die physiologischen Funktionen von Körpersystemen (einschließlich psychologische Funktionen).
+**Körperfunktionen** sind die physiologischen und psychologischen Funktionen von Körpersystemen.
 
-**Körperstrukturen** sind anatomische Teile des Körpers, wie Organe, Gliedmaßen und ihre Bestandteile.
+**Körperstrukturen** sind anatomische Teile des Körpers, also Organe, Gliedmaße und ihre Bestandteile.
 
-**Schädigungen** sind Beeinträchtigungen einer Körperfunktion oder -struktur, wie z.B. eine wesentliche Abweichung oder ein Verlust.
+**Schädigungen** sind Beeinträchtigungen einer Körperfunktion oder Körperstruktur, zum Beispiel eine wesentliche Abweichung oder ein Verlust.
 
-Eine **Aktivität** bezeichnet die Durchführung einer Aufgabe oder Handlung (Aktion) durch einen Menschen.
+**Aktivität** bezeichnet die Durchführung einer Aufgabe oder Handlung (Aktion) durch einen Menschen.
 
-**Partizipation [Teilhabe]** ist das Einbezogensein in eine Lebenssituation.
+**Partizipation [Teilhabe]** bedeutet, dass man in eine Lebenssituation einbezogen ist.
 
 **Beeinträchtigungen der Aktivität** sind Schwierigkeiten, die ein Mensch bei der Durchführung einer Aktivität haben kann.
 
-**Beeinträchtigungen der Partizipation [Teilhabe]** sind Probleme, die ein Mensch beim Einbezogensein in eine Lebenssituation erlebt.
+**Beeinträchtigungen der Partizipation [Teilhabe]** sind Probleme, die ein Mensch hat, wenn er in einer bestimmten Lebenssituation nicht richtig einbezogen ist.
 
-**Umweltfaktoren** bilden die materielle, soziale und einstellungsbezogene Umwelt ab, in der Menschen leben und ihr Dasein entfalten.
+**Umweltfaktoren** sind Dinge wie die materielle Welt um uns herum, unsere sozialen Beziehungen und die Einstellungen, mit denen Menschen leben und ihr Dasein entfalten.
 
 ## Quellen
 
-1. Deutsches Institut für medizinische Dokumentation und Information (2005): ICF Internationale Klassifikation der Funktionsfähigkeit, Behinderung und Gesundheit. Online verfügbar unter https://www.dimdi.de/dynamic/.downloads/klassifikationen/icf/icfbp2005.zip, zuletzt geprüft am 04.03.2020.
+1. Deutsches Institut für medizinische Dokumentation und Information (2005): ICF Internationale Klassifikation der Funktionsfähigkeit, Behinderung und Gesundheit. Online verfügbar unter <https://www.dimdi.de/dynamic/.downloads/klassifikationen/icf/icfbp2005.zip>. Zuletzt geprüft am 04.03.2020.
