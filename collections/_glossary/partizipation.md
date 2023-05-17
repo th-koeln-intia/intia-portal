@@ -29,5 +29,5 @@ Die Autorinnen Straßburger und Rieger meinen mit Partizipation: „an Entscheid
 
 ## Quellen
 
-1. Hartung, Susanne, Petra Wihofszky und Michael T. Wright (2020). Partizipative Forschung – ein Forschungsansatz für Gesundheit und seine Methoden, In Partizipative Forschung, hrsg. v. Susanne Hartung, Petra Wihofszky und Michael T. Wright, 1-19. Wiesbaden: Springer Fachmedien Wiesbaden. https://doi.org/10.1007/978-3-658-30361-7
+1. Hartung, Susanne, Petra Wihofszky und Michael T. Wright (2020). Partizipative Forschung – ein Forschungsansatz für Gesundheit und seine Methoden, In Partizipative Forschung, hrsg. v. Susanne Hartung, Petra Wihofszky und Michael T. Wright, 1-19. Wiesbaden: Springer Fachmedien Wiesbaden. <https://doi.org/10.1007/978-3-658-30361-7>
 2. Straßburger, Gaby und Judith Rieger (2019). Partizipation kompakt: Für Studium, Lehre und Praxis sozialer Berufe. 2., überarbeitete Auflage.
