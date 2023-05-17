@@ -8,8 +8,8 @@ synonyms:
   - Bedürfnis
   - Bedarf
 last_update: 08.06.2022
-subtitle: Ein Bedarf ist ein Mangel oder eine Notwendigkeit, die erfüllt werden muss, um ein Bedürfnis zu befriedigen.
-abstract: Ein Bedarf drückt sich in einem Bedürfnis aus, das man befriedigen möchte. Ein Bedürfnis entsteht aus dem Wunsch, einen Mangel zu beseitigen. Zum Beispiel Hunger oder Durst zu stillen (Bedarf an Nahrung oder Wasser) oder sich wärmer anzuziehen, weil man friert (Bedarf an Kleidung). Auch der Wunsch, in Sicherheit zu leben, also, eine Wohnung zu haben, ist ein Bedürfnis. Ebenso der Wunsch nach Freundschaften und anderen sozialen Kontakten sowie nach Teilhabe, Anerkennung oder Ausleben der eigenen Kreativität.
+subtitle: "Ein Bedarf ist ein Mangel oder eine Notwendigkeit, die erfüllt werden muss, um ein Bedürfnis zu befriedigen."
+abstract: "Ein Bedarf drückt sich in einem Bedürfnis aus, das man befriedigen möchte. Ein Bedürfnis entsteht aus dem Wunsch, einen Mangel zu beseitigen. Zum Beispiel Hunger oder Durst zu stillen (Bedarf an Nahrung oder Wasser) oder sich wärmer anzuziehen, weil man friert (Bedarf an Kleidung). Auch der Wunsch, in Sicherheit zu leben, also, eine Wohnung zu haben, ist ein Bedürfnis. Ebenso der Wunsch nach Freundschaften und anderen sozialen Kontakten sowie nach Teilhabe, Anerkennung oder Ausleben der eigenen Kreativität."
 ---
 
 ## Bedeutung für inklusive Technikentwicklung
