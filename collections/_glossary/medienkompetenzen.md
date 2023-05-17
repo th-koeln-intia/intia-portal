@@ -22,25 +22,25 @@ Medienkompetenz ist sowohl ein wichtiges Vermittlungsziel der Sozialen Arbeit al
 
 Medienkompetenz wird hier in Anlehnung an den Begründer des Konzepts, Dieter Baacke, als Fähigkeit verstanden, alle Arten von Medien für das Kommunikations- und Handlungsrepertoire einzusetzen, um sich „in die Welt aktiv“ einzubringen (Baacke 1996: 119). Ziel ist die Erweiterung des Orientierungs- und Handlungsspielraums in und mit Medien. Berücksichtigt wird dabei, dass das Subjekt sich nach seinen „eigenen generativen Ausdrucksmustern“ entwickelt, es aber durchaus angeleitet werden kann (ebd.: 121). Das bedeutet: Medienkompetenz ist eine Fähigkeit, sich die Welt anzueignen. Menschen nutzen Medien zu unterschiedlichen Zwecken, zum Beispiel zur Kommunikation. Das Ziel ist es, die Handlungsmöglichkeiten und Orientierungsmöglichkeiten zu erweitern, und zwar mit und in den Medien. Dabei ist es wichtig zu berücksichtigen, dass Menschen sich im Umgang mit Medien auf eigene Weise weiterentwickeln. Anleitungen zum Umgang mit Medien oder andere Personen können eine Unterstützung für die Entwicklung von Medienkompetenzen sein.
 
-Wie sieht Medienkompetenz jedoch am Ende aus? Medienkompetente Menschen können verantwortungsvoll mit Medien umgehen. Kinder, Jugendliche und Erwachsene sollen gefördert werden, um ihre Medienkompetenzen zu erweitern. Sie sollen lernen, Medien so zu nutzen, dass es ihrem eigenen Wohl und dem Wohl der Gesellschaft dient. Es gibt verschiedene Definitionen von Medien und Medienkompetenzen. Hilfreich für die Gestaltung passender Methoden ist das Modell von Dieter Baacke. Er unterscheidet Medienkompetenzen in vier Dimensionen: 
+Wie sieht Medienkompetenz jedoch am Ende aus? Medienkompetente Menschen können verantwortungsvoll mit Medien umgehen. Kinder, Jugendliche und Erwachsene sollen gefördert werden, um ihre Medienkompetenzen zu erweitern. Sie sollen lernen, Medien so zu nutzen, dass es ihrem eigenen Wohl und dem Wohl der Gesellschaft dient. Es gibt verschiedene Definitionen von Medien und Medienkompetenzen. Hilfreich für die Gestaltung passender Methoden ist das Modell von Dieter Baacke. Er unterscheidet Medienkompetenzen in vier Dimensionen:
 1. Medienkritik
 2. Medienkunde
 3. Mediennutzung 
 4. Mediengestaltung
 
 
-**Medienkritik** umfasst nochmals drei einzelne Bereiche: 
+**Medienkritik** umfasst nochmals drei einzelne Bereiche:
 - _Analytisch_: Eine Person soll in der Lage sein, Probleme in Bezug zu Medien zu erfassen. 
 - _Reflexiv_: Das in den Medien erworbene Wissen soll auf die Person selbst angewandt werden können.
 - _Ethisch_: Die beiden zuerst genannten Bereiche sollen auch sozial verantwortlich definiert werden.
 
 
-**Medienkunde** unterteilt sich in zwei Bereiche: 
+**Medienkunde** unterteilt sich in zwei Bereiche:
 - _Informative Dimension_: Es gibt klassisches Wissen, nämlich das Wissen darüber, was es für Geräte und Angebote gibt. 
 - _Instrumentell-qualifikatorische Dimension_: Das ist die Fähigkeit, die (neuen) Geräte bedienen zu können.
 
 
-**Mediennutzung** wird auf zwei Ebenen vermittelt: 
+**Mediennutzung** wird auf zwei Ebenen vermittelt:
 - _Anwendend_: durch die Aufnahme von Informationen. 
 - _Wechselseitig_: durch Angebote, um praktisch zu arbeiten und das Wissen anzuwenden.
 
