@@ -20,11 +20,12 @@ Für die Reflexion von Alltag konnte daraus das Spiel „Impulskarten“ entwick
 
 Die ICF ist ein Rahmenwerk, das eine einheitliche Sprache sowie eine konzeptionelle Grundlage bietet, um Unterstützungsbedarfe bei Behinderungen zu bestimmen. Sie vereint die Sicht auf individuelle Einschränkungen und auf Einschränkungen durch die Umwelt (so genannte Umweltbarrieren).
 
-Die ICF beschreibt vier Bereiche: 
+Die ICF beschreibt vier Bereiche:
 1. Körperfunktionen
 2. Körperstrukturen
 3. Aktivitäten und Partizipation
-4. Umweltfaktoren.
+4. Umweltfaktoren
+
 
 Die ICF stellt die Leistungsfähigkeit eines Menschen in den Vordergrund und nicht die Einschränkungen, die sich aus einer Behinderung ergeben. Es wird ein Fokus darauf gesetzt, welche Unterstützungsbedarfe ein Mensch hat, damit er seine volle Leistungsfähigkeit erreichen kann. Früher wurde „Behinderung“ hauptsächlich anhand von eingeschränktern Körperfunktionen definiert, und daraus leiteten sich Hilfebedarfe ab. Die ICF betont hingegen die Leistungsfähigkeiten eines Menschen. Durch die Bewertung dieser Fähigkeiten und die Analyse dessen, was die Leistungsfähigkeit einschränkt (Umweltbarrieren), werden Unterstützungsbedarfe abgeleitet - zum Beispiel Hilfsmittel. Damit kann ein Anspruch auf solche Unterstützungen besser begründet werden.
 
