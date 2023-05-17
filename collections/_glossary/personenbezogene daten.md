@@ -8,8 +8,8 @@ synonyms:
   - personenbezogene Merkmale
   - personenbezogene Daten
 last_update: 11.11.2021
-subtitle: Personenbezogene Daten sind Informationen, mit denen ein Mensch identifiziert werden kann.
-abstract: Bei personenbezogenen Daten handelt es sich um Informationen, die einen Menschen betreffen. Das sind vor allem der Name, das Geburtsdatum oder die Adresse und Telefonnummer einer Person. Aber auch eine Kreditkartennummer, Kontodaten, ein Auto-Kennzeichen oder das Aussehen (z. B. blaue Augen) sind personenbezogene Daten.
+subtitle: "Personenbezogene Daten sind Informationen, mit denen ein Mensch identifiziert werden kann."
+abstract: "Bei personenbezogenen Daten handelt es sich um Informationen, die einen Menschen betreffen. Das sind vor allem der Name, das Geburtsdatum oder die Adresse und Telefonnummer einer Person. Aber auch eine Kreditkartennummer, Kontodaten, ein Auto-Kennzeichen oder das Aussehen (z. B. blaue Augen) sind personenbezogene Daten."
 ---
 
 ## Bedeutung für inklusive Technikentwicklung
