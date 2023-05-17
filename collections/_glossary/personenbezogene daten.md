@@ -2,7 +2,7 @@
 hero_tags: subpage glossary pdf
 title_above: Wörterbuch
 published: true
-title: personenbezogene Daten
+title: Personenbezogene Daten
 english_title: personal data
 synonyms:
   - personenbezogene Merkmale
