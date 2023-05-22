@@ -116,5 +116,7 @@ Das Phasenmodell wurde beispielhaft mit einer Gruppe von acht bis zwölf jungen 
     <figcaption>Schematische Darstellung des Phasenmodells</figcaption>
 </figure>
 
+## Anpassung
 
+Phase 1 (Paper-Funktion-Mapping) kann je nach Wissen und Fähigkeiten der Teilnehmenden angepasst werden. Diese Phase kann auch verkürzt durchgeführt werden.
 
