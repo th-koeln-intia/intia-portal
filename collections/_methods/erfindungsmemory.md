@@ -5,7 +5,7 @@ published: false
 title: Erfindungsmemory
 english_title: Invention Memory
 last_update: 11.05.2022
-subtitle: Auf Karten werden nach dem Memoryprinzip technische Erfindungen und ihre Vorläufer dargestellt – Hier also nicht zwei gleiche Gegenstände/Bilder/Tätigkeiten, sondern zwei unterschiedliche Gegenstände/Bilder/Tätigkeiten, welche eine eindeutige gemeinsame Kerneigenschaft haben. Diese gilt es zuzuordnen
+subtitle: "Auf Karten werden nach dem Memoryprinzip technische Erfindungen und ihre Vorläufer dargestellt – Hier also nicht zwei gleiche Gegenstände/Bilder/Tätigkeiten, sondern zwei unterschiedliche Gegenstände/Bilder/Tätigkeiten, welche eine eindeutige gemeinsame Kerneigenschaft haben. Diese gilt es zuzuordnen."
 ---
 
 <table class="tb">
