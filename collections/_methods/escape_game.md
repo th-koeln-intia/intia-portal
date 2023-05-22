@@ -5,7 +5,7 @@ published: true
 title: Escape-Game
 english_title: Escape Game
 last_update: 11.05.2022
-subtitle: Ein Set aus Rätseln. Teilnehmende können sich spielerisch mit verschiedenen Funktionen von Smart-Home-Technik vertraut machen. Sie lernen die Technik-Bausteine kennen und verstehen. Dadurch können sie selbst Ideen für neue Technologien entwickeln, die ihnen im Alltag helfen.
+subtitle: "Ein Set aus Rätseln. Teilnehmende können sich spielerisch mit verschiedenen Funktionen von Smart-Home-Technik vertraut machen. Sie lernen die Technik-Bausteine kennen und verstehen. Dadurch können sie selbst Ideen für neue Technologien entwickeln, die ihnen im Alltag helfen."
 ---
 
 <table class="tb">
