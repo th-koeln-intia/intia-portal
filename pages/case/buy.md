@@ -50,7 +50,7 @@ TH Köln
 <br>
 Fakultät für Angewandte Sozialwissenschaften
 <br>
-Forschungsprojekt INTIA
+Ein Ort für Inklusives Wissen 
 <br>
 Ubierring 48, Raum 2
 <br>
