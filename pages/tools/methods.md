@@ -4,7 +4,7 @@ title_above: Werkzeuge
 permalink: /werkzeuge/methoden/
 hero_tags: toppage
 subtitle: |
-  Hier sind Methoden aufgeführt, die dabei unterstützen können, technische Alltagshilfen zu entwerfen, umzusetzen und zu beurteilen.
+  Hier sind Methoden aufgeführt, die dabei unterstützen können, technische Alltagshilfen zu entwerfen, umzusetzen und zu beurteilen. Für eine übersichtliche Einordnung sorgt das Methodenradar. Es zeigt, wie partizipativ eine Methode ist und macht es leichter, eine bestimmte Methode für einen bestimmten Prozess auszuwählen.
 jekyll-hyperlink-glossary: false
 ---
 
