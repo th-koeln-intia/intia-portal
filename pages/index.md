@@ -22,8 +22,13 @@ Die Plattform INTIA zeigt Möglichkeiten auf, wie partizipativ und inklusiv - au
 
 ## Ein Koffer für eine Reise in die Welt der Technik
 
-Im Zentrum der Plattform steht der INTIA Koffer. Er ist eine Art mobiles Labor mit verschiedenen Modulen und Elementen. Es gibt zum Beispiel ein Escape-Game, für einen leichten Einstieg in die Welt der Technik. Darüber hinaus enthält der Koffer Anleitungen und Beschreibungen sowie Technik-Bausteine. Diese sind einfach zu verstehen und zu benutzen
+Im Zentrum der Plattform steht der INTIA Koffer. Er ist eine Art mobiles Labor mit verschiedenen Modulen und Elementen. Es gibt zum Beispiel ein Escape-Game, für einen leichten Einstieg in die Welt der Technik. Darüber hinaus enthält der Koffer Anleitungen und Beschreibungen sowie Technik-Bausteine. Diese sind einfach zu verstehen und zu benutzen.
 {% include button.html label="Mehr über den INTIA Koffer…" link="/intia-koffer/" %}
+
+## Partizipation leicht gemacht: Mit dem Methodenradar!
+
+Ebenfalls im Fokus der Plattform: Methoden, die die Durchführung von inklusiven, partizipativen Entwicklungsprozessen erleichtern. Ein Methodenradar gibt eine Übersicht und ermöglicht die einfache Auswahl der passenden Methode. 
+{% include button.html label="Mehr über das Methodenradar…" link="/werkzeuge/methoden/" %}
 
 ## Hintergrund und Netzwerk
 
