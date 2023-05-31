@@ -8,7 +8,7 @@ sections:
     link_text: Zum INTIA-Koffer
   - title: Methoden
     text: |
-        Methoden, die dabei unterstützen, Alltagshilfen zu entwerfen, zu bauen und auszuwerten. Plus: Methodenradar, um zu erkennen, wie partizipativ eine Methode ist.
+        Methoden, die dabei unterstützen, Alltagshilfen zu entwerfen, zu bauen und auszuwerten. Ein Methodenradar zeigt darüber hinaus, wie partizipativ eine Methode ist.
     image: /assets/img/landingpage/methoden.jpg
     icon: icon-methods
     link: /werkzeuge/methoden/
