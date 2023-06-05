@@ -2,7 +2,7 @@
 hero_tags: subpage post pdf
 title_above: Fachartikel
 categories: News
-published: false
+published: true
 title: Jugendliche als Gestaltende - Warum Partizipation in der Technikentwicklung wichtig ist
 author: Tabea Mildenberger
 hero_image: /assets/img/uploads/Haende-ueber-einem-Tisch.jpg
