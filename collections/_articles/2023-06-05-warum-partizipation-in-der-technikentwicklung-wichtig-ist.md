@@ -7,7 +7,8 @@ title: Jugendliche als Gestaltende - Warum Partizipation in der Technikentwicklu
 author: Tabea Mildenberger
 hero_image: /assets/img/uploads/Haende-ueber-einem-Tisch.jpg
 preview_image: /assets/img/uploads/Haende-ueber-einem-Tisch.jpg
-subtitle: Die Digitalisierung in der Sozialen Arbeit ermöglicht Inklusion und kann somit die Ausgrenzung von jungen Menschen in stationären Wohnformen verhindern. In dem Fachartikel wird das Zusammenspiel von Hindernissen und Chancen untersucht und erläutert, warum bei der Technikentwicklung mit Jugendlichen Partizipation wichtig ist.
+subtitle: |
+  Die Digitalisierung in der Sozialen Arbeit ermöglicht Inklusion und kann somit die Ausgrenzung von jungen Menschen in stationären Wohnformen verhindern. In dem Fachartikel wird das Zusammenspiel von Hindernissen und Chancen untersucht und erläutert, warum bei der Technikentwicklung mit Jugendlichen Partizipation wichtig ist.
 ---
 ## Einleitung
 
