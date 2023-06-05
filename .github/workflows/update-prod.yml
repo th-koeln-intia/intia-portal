@@ -6,7 +6,7 @@ on:
       - main
 
 env:
-  URL: intia.de
+  URL: test.intia.de
 
 jobs:
   build-test:
