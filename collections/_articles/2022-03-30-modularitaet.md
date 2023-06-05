@@ -7,7 +7,7 @@ author: Dennis Christian Wilk
 hero_image: /assets/img/uploads/neuigkeit_modularitat_platzhalterbild.jpg
 preview_image: /assets/img/uploads/neuigkeit_modularitat_platzhalterbild.jpg
 subtitle: Warum sind fertige Lösungen oft besser als DIY-Hardware? Was hat
-  es mit „dummen“ Hardware-Elementen auf sich? Und was hat das alles mit Modularität
+  es mit „dummen“ Hardware-Elementen auf sich? Und was hat das alles mit Modularität 
   zu tun?
 ---
 
@@ -22,24 +22,24 @@ Gegenwärtig wird dies über zwei Hauptsäulen erreicht:
 
 Nachfolgend wird erläutert, was das im Einzelnen bedeutet.
 
-**Vorgefertigte Lösungen vor DIY-Hardware**
+## Vorgefertigte Lösungen vor DIY-Hardware
 
 „DIY“ steht für „Do it yourself“ (Mach es selber). Diese Säule der Modularität ist schnell erklärt: Eigenentwicklung bedeutet Zeit und Aufwand. Auch wenn der Selbstbau oft günstiger erscheint, werden die Aufbauzeit, das benötigte Know-how und die zusätzlichen Werkzeuge oft nicht berücksichtigt. Ein Temperatursensor kann zwar für weniger als fünf Euro gebaut werden, aber man braucht auch Kabel und Lötkolben - und dann hat die Eigenentwicklung noch längst kein Gehäuse und ist außerdem kabelgebunden.
 
 Für zehn bis 15 Euro ist eine fertige Lösung in jeder Hinsicht überlegen: ansprechendes Design, kabellos, zuverlässig und schnell integriert. Dank dieser Eigenschaften können auch Nicht-Techniker:innen die Bausteine des INTIA Koffers erweitern. Es spricht also einiges dafür, auf vorgefertigte Lösungen zurückzugreifen, anstatt mit viel Aufwand selbst Hardware zu basteln.
 
 
-**„Dumme“ Hardware-Elemente**
+## „Dumme“ Hardware-Elemente
 
 Im Zusammenhang mit Smart Homes ist oft von smarter, also intelligenter Hardware die Rede. Dieser Begriff kann aber zu falschen Schlussfolgerungen führen. Die „smarte“ Glühbirne verfügt nicht über Intelligenz. Mit ihr allein kann man noch nicht einmal einen Wecker oder Schaltzeiten einstellen. Smarte Hardware kann nur Befehle ausführen. Dafür braucht sie aber eine Art Steuerung. Das Smarte am Smart Home ist also die Schaltzentrale, das Gateway, der Computer im Zentrum. Etwas, das alle Geräte steuert und koordiniert.
 
 Dieses Konzept wird im Koffer umgesetzt. Alle Geräte sind so funktional wie möglich gestaltet bzw. integriert. So verhalten sich die Elemente im Koffer wie Arme und Beine – und der Minicomputer ist das Gehirn. Dieses Konzept ermöglicht einen einfachen Austausch. In wenigen Schritten kann eine Glühbirne durch ein Display ersetzt oder ein weiterer Knopf zwischengeschaltet werden. Dies ermutigt auch dazu, Geräte selbst zu entwickeln. Auch wenn fertige Lösungen bevorzugt werden, ist es manchmal notwendig, selbst ein Element zu erstellen und zu integrieren. Ein Beispiel dafür sind Sensoren, die Informationen über Pflanzen und Erde liefern. Das zu bauende Element muss nur einfachste Informationen senden. Der Sensor weiß nicht, ob die Pflanze Wasser braucht. Die Verarbeitung dieser Informationen wird vollständig vom zentralen Minicomputer übernommen.
 
-**Einschränkungen**
+## Einschränkungen
 
 Zum einen sollten alle fertigen Lösungen das Zigbee-Protokoll beherrschen. Zum anderen müssen alle DIY-Lösungen über MQTT kommunizieren. Die Geräte sollten auf der Kompatibilitätsseite von Zigbee2MQTT aufgeführt sein. <https://www.zigbee2mqtt.io/supported-devices/> Sollte dies (noch) nicht der Fall sein, ist es sehr wahrscheinlich, dass die Kompatibilität bald hinzugefügt wird - dieses Projekt ist sehr lebendig und aktiv. 
 
-**How-To-Anleitungen**
+## How-To-Anleitungen
 
 Diese sehr einfachen und klaren Prinzipien müssen auch für weniger technikaffine Menschen „operationalisierbar“ sein, d. h. folgende Fragen müssen leicht verständlich erklärt werden:
 
@@ -47,7 +47,7 @@ Diese sehr einfachen und klaren Prinzipien müssen auch für weniger technikaffi
 - Wenn es sich eignet: Wie integriere ich das neue Modul?
 
 
-**Fazit zur Modularität**
+## Fazit zur Modularität
 
 Zusammenfassend kann gesagt werden, dass der modulare Charakter der Bausteine im INTIA Koffer es für Nicht-Techniker:innen einfach macht, weitere Elemente hinzuzufügen. Außerdem können Maker:innen - wenn sie bestimmte Faktoren beachten - schnell neue Elemente integrieren, die sie selbst entwickelt haben.
 
