@@ -6,6 +6,7 @@ subtitle: |
 permalink: /blog/fachartikel/
 latest-story: articles
 stories_button: Mehr lesen
+jekyll-hyperlink-glossary: false
 hero_tags: toppage
 ---
 
