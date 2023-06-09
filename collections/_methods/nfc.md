@@ -80,4 +80,10 @@ Eine Anleitung zum Vorgehen des Auslesens schreiben, sprechen, aufhängen, etc. 
 
 [![Stofftier eine Geschichte erzählen lassen](https://res.cloudinary.com/marcomontalbano/image/upload/v1686297882/video_to_markdown/images/vimeo--473009436-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://vimeo.com/473009436 "Stofftier eine Geschichte erzählen lassen")
 
+**Mama/Papa/ Freund:in/Kolleg:in eine vorformulierte SMS schicken**
+
+Vorbereitung und Durchführung wie oben.
+
+Aufgabe erstellen:
+![Vorformulierte SMS schicken](assets/img/tools/methods/nfc/NFC-Tools_Screenshot_vorformulierte SMS schicken.jpg)
 
