@@ -3,7 +3,7 @@ hero_tags: subpage method pdf
 title_above: Methode
 published: true
 title: NFC (Near Field Communication)
-english_title: Analoges Prototypisieren
+english_title: NFC (Near Field Communication)
 subtitle: "NFC-Chips ermöglichen automatisierte Funktionen. Damit lassen sich digitale Endgeräte (z. B. ein Handy) zum Asisstenztool umrüsten. Die aktive Person stellt das Handy auf einen NFC-Chip. Oder man klebt den NFC-Aufkleber auf einen gut beweglichen Gegenstand, sodass der Gegenstand gut an das Handy gehalten werden kann. Dann wird der Chip ausgelesen und die Aktion gestartet. Eine Aktion kann zum Beispiel „Wecker stellen“, „SMS schreiben“ oder „Lieblingsbild anzeigen“ sein. Diese Methode fördert die Selbstständigkeit und bietet Unterstützung im Alltag an."
 ---
 
