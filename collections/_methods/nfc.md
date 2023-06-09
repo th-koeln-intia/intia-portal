@@ -1,7 +1,7 @@
 ---
 hero_tags: subpage method pdf
 title_above: Methode
-published: false
+published: true
 title: NFC (Near Field Communication)
 english_title: Analoges Prototypisieren
 subtitle: "NFC-Chips ermöglichen automatisierte Funktionen. Damit lassen sich digitale Endgeräte (z. B. ein Handy) zum Asisstenztool umrüsten. Die aktive Person stellt das Handy auf einen NFC-Chip. Oder man klebt den NFC-Aufkleber auf einen gut beweglichen Gegenstand, sodass der Gegenstand gut an das Handy gehalten werden kann. Dann wird der Chip ausgelesen und die Aktion gestartet. Eine Aktion kann zum Beispiel „Wecker stellen“, „SMS schreiben“ oder „Lieblingsbild anzeigen“ sein. Diese Methode fördert die Selbstständigkeit und bietet Unterstützung im Alltag an."
@@ -85,5 +85,10 @@ Eine Anleitung zum Vorgehen des Auslesens schreiben, sprechen, aufhängen, etc. 
 Vorbereitung und Durchführung wie oben.
 
 Aufgabe erstellen:
-![Vorformulierte SMS schicken](assets/img/tools/methods/nfc/NFC-Tools_Screenshot_vorformulierte SMS schicken.jpg)
+<br>
+<figure>
+    <img src="/assets/img/tools/methods/nfc/NFC-Tools_Screenshot_vorformulierte SMS schicken.jpg" alt="Vorformulierte SMS schicken" style="max-width: 400px;">
+    <figcaption>Screenshot: Vorformulierte SMS schicken</figcaption>
+</figure>
+
 
