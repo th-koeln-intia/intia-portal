@@ -91,7 +91,7 @@ Aufgabe erstellen:
     <figcaption>Screenshot: Vorformulierte SMS schicken</figcaption>
 </figure>
 
-**Automatisiert eine Telefonnummer anrufen
+**Automatisiert eine Telefonnummer anrufen**
 
 Vorbereitung und Durchführung wie oben.
 
@@ -101,7 +101,7 @@ Aufgabe: Telefonanruf tätigen.
 Telefonnummer eingeben.
 2. Aufgabe: Lautstärke auf Lautsprecher einstellen.
 
-**Mama/Papa/Freund:in/Kolleg:in bitten, mich per Messenger im Videoanruf anzurufen (z. B. über meinen Account bei WhatsApp, Threema, Ginlo, Signal, Telegram etc.)
+**Mama/Papa/Freund:in/Kolleg:in bitten, mich per Messenger im Videoanruf anzurufen (z. B. über meinen Account bei WhatsApp, Threema, Ginlo, Signal, Telegram etc.)**
 
 Vorbereitung und Durchführung wie oben.
 
@@ -113,57 +113,57 @@ Voraussetzung: SIM-Karte vorhanden. Messenger-Account vorhanden.
 <br>
 Wie oben:
 <figure>
-    <img src="assets/img/tools/methods/nfc/NFC-Tools_Screenshot_anrufen-lassen.jpg" alt="Screenshot Smartphone: Jemanden bitten, per Messenger im Videoanruf anzurufen" style="max-width: 400px;">
+    <img src="/assets/img/tools/methods/nfc/NFC-Tools_Screenshot_anrufen-lassen.jpg" alt="Screenshot Smartphone: Jemanden bitten, per Messenger im Videoanruf anzurufen" style="max-width: 400px;">
     <figcaption>Screenshot: Jemanden bitten, per Messenger im Videoanruf anzurufen</figcaption>
 </figure>
 <br>
 Oder eine Email versenden, falls keine SIM-Karte vorhanden ist:
 <figure>
-    <img src="assets/img/tools/methods/nfc/NFC-Tools_Screenshot_E-Mail-versenden-ohne-SIM-Karte(1).jpg" alt="Screenshot Smartphone: E-Mail ohne SIM-Karte(1)" style="max-width: 400px;">
+    <img src="/assets/img/tools/methods/nfc/NFC-Tools_Screenshot_E-Mail-versenden-ohne-SIM-Karte(1).jpg" alt="Screenshot Smartphone: E-Mail ohne SIM-Karte(1)" style="max-width: 400px;">
     <figcaption>Screenshot: E-Mail ohne SIM-Karte schreiben(1)</figcaption>
 </figure>
 <br>
 <figure>
-    <img src="assets/img/tools/methods/nfc/NFC-Tools_Screenshot_E-Mail-versenden-ohne-SIM-Karte(2).jpg" alt="Screenshot Smartphone: E-Mail ohne SIM-Karte(2)" style="max-width: 400px;">
+    <img src="/assets/img/tools/methods/nfc/NFC-Tools_Screenshot_E-Mail-versenden-ohne-SIM-Karte(2).jpg" alt="Screenshot Smartphone: E-Mail ohne SIM-Karte(2)" style="max-width: 400px;">
     <figcaption>Screenshot: E-Mail ohne SIM-Karte schreiben(2)</figcaption>
 </figure>
 <br>
 <figure>
-    <img src="assets/img/tools/methods/nfc/NFC-Tools_Screenshot_E-Mail-versenden-ohne-SIM-Karte(3).jpg" alt="Screenshot Smartphone: E-Mail ohne SIM-Karte(3)" style="max-width: 400px;">
+    <img src="/assets/img/tools/methods/nfc/NFC-Tools_Screenshot_E-Mail-versenden-ohne-SIM-Karte(3).jpg" alt="Screenshot Smartphone: E-Mail ohne SIM-Karte(3)" style="max-width: 400px;">
     <figcaption>Screenshot: E-Mail ohne SIM-Karte schreiben(3)</figcaption>
 </figure>
 
-**Alternative: selbst einen Videoanruf starten:
+**Alternative: selbst einen Videoanruf starten**
 
 Leider gibt es noch keine vollständige Automatisierung. Man könnte es so probieren: Ein NFC-Chip wird so programmiert, dass er den Messenger-Account der aktiven Person startet. Darin befinden sich ihre Kontakte. Der aktiven Person werden mehrere Foto von ihrer Familie und ihren Freund:innen zur Auswahl angeboten. Die ausgewählte Person wird in den Kontakten gesucht und von der Fachkraft angewählt. Wenn die aktive Person die entsprechenden Fähigkeiten besitzt, kann sie auch durch Kopfsteuerung (oder durch das Verschieben einer Maus durch die Fachkraft) selbst eine Person auswählen.
 <br>
 <figure>
-    <img src="assets/img/tools/methods/nfc/NFC-Tools_Screenshot_selbst-Videoanruf-starten(1).jpg" alt="Screenshot Smartphone: Selbst einen Videoanruf starten(1)" style="max-width: 400px;">
+    <img src="/assets/img/tools/methods/nfc/NFC-Tools_Screenshot_selbst-Videoanruf-starten(1).jpg" alt="Screenshot Smartphone: Selbst einen Videoanruf starten(1)" style="max-width: 400px;">
     <figcaption>Screenshot: Selbst einen Videoanruf starten(1)</figcaption>
 </figure>
 <br>
 <figure>
-    <img src="assets/img/tools/methods/nfc/NFC-Tools_Screenshot_selbst-Videoanruf-starten(2).jpg" alt="Screenshot Smartphone: Selbst einen Videoanruf starten(2)" style="max-width: 400px;">
+    <img src="/assets/img/tools/methods/nfc/NFC-Tools_Screenshot_selbst-Videoanruf-starten(2).jpg" alt="Screenshot Smartphone: Selbst einen Videoanruf starten(2)" style="max-width: 400px;">
     <figcaption>Screenshot: Selbst einen Videoanruf starten(2)</figcaption>
 </figure>
 
-**Ein Internet-Video automatisiert starten lassen:
+**Ein Internet-Video automatisiert starten lassen**
 
 Vorbereitung und Durchführung wie oben.
 
 Aufgabe erstellen so:
 <br>
 <figure>
-    <img src="assets/img/tools/methods/nfc/NFC-Tools_Screenshot_Internet-Video-automatisiert-starten-lassen(1).jpg" alt="Screenshot Smartphone: Internet-Video automatisiert starten lassen(1)" style="max-width: 400px;">
+    <img src="/assets/img/tools/methods/nfc/NFC-Tools_Screenshot_Internet-Video-automatisiert-starten-lassen(1).jpg" alt="Screenshot Smartphone: Internet-Video automatisiert starten lassen(1)" style="max-width: 400px;">
     <figcaption>Screenshot: Internet-Video automatisiert starten lassen(1)</figcaption>
 </figure>
 <br>
 <figure>
-    <img src="assets/img/tools/methods/nfc/NFC-Tools_Screenshot_Internet-Video-automatisiert-starten-lassen(2).jpg" alt="Screenshot Smartphone: Internet-Video automatisiert starten lassen(2)" style="max-width: 400px;">
+    <img src="/assets/img/tools/methods/nfc/NFC-Tools_Screenshot_Internet-Video-automatisiert-starten-lassen(2).jpg" alt="Screenshot Smartphone: Internet-Video automatisiert starten lassen(2)" style="max-width: 400px;">
     <figcaption>Screenshot: Internet-Video automatisiert starten lassen(2)</figcaption>
 </figure>
 
-**Den Wecker des Handy automatisiert stellen und das Handy in den Lautlos-Modus bringen + Flugmodus einstellen
+**Den Wecker des Handy automatisiert stellen und das Handy in den Lautlos-Modus bringen + Flugmodus einstellen**
 
 Vorbereitung und Durchführung wie oben.
 
@@ -171,27 +171,27 @@ Aufgabe erstellen so:
 Auf dem Nachttisch mehrere Symbole anbringen. Darauf je einen NFC-Chip. Z. B. ein Arbeitssymbol für die Weckzeit an Werktagen. Wird das Handy über den Chip gehalten bzw. auf das Symbol gelegt, so wird der Wecker des Handys auf die im Chip programmierte Uhrzeit gestellt (z. B. 6 Uhr). Gleichzeitig wird das Handy in den Nicht-Stören-Modus und Lautlos-Modus gestellt.
 <br>
 <figure>
-    <img src="assets/img/tools/methods/nfc/NFC-Tools_WeckerAmBett.jpg" alt="Bett und Nachttisch, auf dem Nachttisch sind zwei Symbole mit je einem NFC-Chip" style="max-width: 400px;">
+    <img src="/assets/img/tools/methods/nfc/NFC-Tools_WeckerAmBett.jpg" alt="Bett und Nachttisch, auf dem Nachttisch sind zwei Symbole mit je einem NFC-Chip" style="max-width: 400px;">
     <figcaption>Screenshot: Nachttisch mit zwei Symbolen und NFC-Chips</figcaption>
 </figure>
 <br>
 <figure>
-    <img src="assets/img/tools/methods/nfc/NFC-Tools_WeckerStellen.jpg" alt="Screenshot: Wecker stellen" style="max-width: 400px;">
+    <img src="/assets/img/tools/methods/nfc/NFC-Tools_WeckerStellen.jpg" alt="Screenshot: Wecker stellen" style="max-width: 400px;">
     <figcaption>Screenshot: Wecker stellen</figcaption>
 </figure>
 
-**Einen Timer auf 3 Minuten stellen für das Zähneputzen:
+**Einen Timer auf 3 Minuten stellen für das Zähneputzen**
 
 Vorbereitung und Durchführung wie oben.
 
 Aufgabe erstellen so:
 <br>
 <figure>
-    <img src="assets/img/tools/methods/nfc/NFC-Tools_Screenshot_Timer-auf-3-Minuten-stellen.jpg" alt="Screenshot: Timer auf 3 Minuten stellen" style="max-width: 400px;">
+    <img src="/assets/img/tools/methods/nfc/NFC-Tools_Screenshot_Timer-auf-3-Minuten-stellen.jpg" alt="Screenshot: Timer auf 3 Minuten stellen" style="max-width: 400px;">
     <figcaption>Screenshot: Timer auf 3 Minuten stellen</figcaption>
 </figure>
 
-**Nie mehr Wäsche in der Waschmaschine vergessen
+**Nie mehr Wäsche in der Waschmaschine vergessen**
 
 [Quelle:](https://www.nakieken.de/viele-ideen-fuer-nfc-tags/)
 
@@ -214,26 +214,26 @@ Klebe den programmierten NFC-Chip auf die Waschmaschine.
 Wenn du Wäsche in der Waschmaschine wäschst, starte „NFC“ auf deinem Handy (unter Einstellungen). Dann halte das Handy über den Chip. Der Timer wird gestartet. Nach 3 Stunden klingelt dein Handy und erinnert dich an die fertige Wäsche in der Maschine.
 <br>
 <figure>
-    <img src="assets/img/tools/methods/nfc/NFC-Tools_WeckerStellen.jpg" alt="Screenshot: Wecker stellen" style="max-width: 400px;">
+    <img src="/assets/img/tools/methods/nfc/NFC-Tools_WeckerStellen.jpg" alt="Screenshot: Wecker stellen" style="max-width: 400px;">
     <figcaption>Screenshot: Wecker stellen</figcaption>
 </figure>
 <br>
 <figure>
-    <img src="assets/img/tools/methods/nfc/NFC-WaschmaschineErinnerungDaumenhoch.jpg" alt="Ein NFC-Chip klebt an der Waschmaschine" style="max-width: 400px;">
+    <img src="/assets/img/tools/methods/nfc/NFC-WaschmaschineErinnerungDaumenhoch.jpg" alt="Ein NFC-Chip klebt an der Waschmaschine" style="max-width: 400px;">
     <figcaption>Daumen Hoch: Der NFC-Chip klebt an der Waschmaschine</figcaption>
 </figure>
 <br>
 <figure>
-    <img src="assets/img/tools/methods/nfc/NFC-WaschmaschinenTimer3Std.jpg" alt="Screenshot: Stoppuhr steht auf 3 Stunden" style="max-width: 400px;">
+    <img src="/assets/img/tools/methods/nfc/NFC-WaschmaschinenTimer3Std.jpg" alt="Screenshot: Stoppuhr steht auf 3 Stunden" style="max-width: 400px;">
     <figcaption>Screenshot: Stoppuhr auf dem Smartphone</figcaption>
 </figure>
 <br>
 <figure>
-    <img src="assets/img/tools/methods/nfc/NFC-WaschmaschinenTimer3Std_Uhr.jpg" alt="Screenshot: Timer ist auf 3 Stunden eingestellt" style="max-width: 400px;">
+    <img src="/assets/img/tools/methods/nfc/NFC-WaschmaschinenTimer3Std_Uhr.jpg" alt="Screenshot: Timer ist auf 3 Stunden eingestellt" style="max-width: 400px;">
     <figcaption>Screenshot: Timer ist auf 3 Stunden eingestellt</figcaption>
 </figure>
 
-**Den WLAN-Zugang automatisiert einrichten lassen durch NFC-Chip:
+**Den WLAN-Zugang automatisiert einrichten lassen durch NFC-Chip**
 
 Vorbereitung und Durchführung wie oben.
 
@@ -243,7 +243,7 @@ Aufgabe erstellen so:
 2. Klick WLAN-Netzwerke konfigurieren
 3. Alle Daten zum WLAN eingeben
 
-**Notfall-Daten im Armband
+**Notfall-Daten im Armband**
 
 Aufgabe erstellen so:
 
@@ -254,25 +254,25 @@ Aufgabe erstellen so:
 3. Schreibe die Daten auf
 <br>
 <figure>
-    <img src="assets/img/tools/methods/nfc/NFC-NotfallArmband-programmieren.jpg" alt="Screenshot: Notfallinformationen" style="max-width: 400px;">
+    <img src="/assets/img/tools/methods/nfc/NFC-NotfallArmband-programmieren.jpg" alt="Screenshot: Notfallinformationen" style="max-width: 400px;">
     <figcaption>Screenshot: Hier werden die Notfallinformationen eingegeben</figcaption>
 </figure>
 <br>
 <figure>
-    <img src="assets/img/tools/methods/nfc/NFC-NotfallArmband-ausgelesen.jpg" alt="Screenshot: Neues Tag erfasst" style="max-width: 400px;">
+    <img src="/assets/img/tools/methods/nfc/NFC-NotfallArmband-ausgelesen.jpg" alt="Screenshot: Neues Tag erfasst" style="max-width: 400px;">
     <figcaption>Screenshot: Ein neues Tag wurde erfasst</figcaption>
 </figure>
 <br>
 <figure>
-    <img src="assets/img/tools/methods/nfc/NFC-Notfallarmband-am-Arm.jpg" alt="NFC-Notfallarmband an einem Arm" style="max-width: 400px;">
+    <img src="/assets/img/tools/methods/nfc/NFC-Notfallarmband-am-Arm.jpg" alt="NFC-Notfallarmband an einem Arm" style="max-width: 400px;">
     <figcaption>Das Notfallarmband wird ums Handelenk getragen</figcaption>
 </figure>
 
-**Würfeln
+**Würfeln**
 
 Dem/Der aktiven Mitspieler:in beim Würfelspiel wird ein NFC-Chip mit der Programmierung „Würfel“ an das Körperteil geklebt, das er/sie bewegen kann. Wenn er/sie dran ist, bewegt er/sie das Körperteil mit dem Chip zum Handy. Das Handy führt die Würfel-Aktion zufällig aus und zeigt eine Zahl zwischen 1 und 6.
 
-**Bluetooth-Verbindung zwischen 2 Geräten automatisch herstellen:
+**Bluetooth-Verbindung zwischen 2 Geräten automatisch herstellen**
 
 Anwendungskontext: Handy  mit eigener Musik soll an gemeinsamen Lausprecher gekoppelt werden im Wohnzimmer.
 
@@ -289,13 +289,13 @@ Aufgabe erstellen:
 9. Klick: Schreibe
 10. Halte den Chip unter das Handy.
 
-Workshop-Ablauf:
+### Workshop-Ablauf
 
-    Prüfen Sie, welche Geräte auf jeden Fall NFC-Funktionalität haben. [Welche Smartphones/Tablets können das?](nfc-tag-shop.de/info/nfc-in-smartphones/nfc-faehige-smartphones-und-handys.html)
-    Installieren Sie eine NFC-Lese-App zum Ausführen von NFC-Tasks. [Beispiel](play.google.com/store/apps/details?id=com.wakdev.nfctasks)
-    Installieren Sie eine NFC Programmier-App  zum Programmieren: Ich nutze: NFC Tools Pro wakdev.com/en/apps/nfc-tools.html . Aber es gibt auch andere: nfc-tag-shop.de/info/nfc-tags-beschreiben-und-lesen/nfc-mobile-apps.html
-    (Nehmen Sie NFC-Chips. (wo gibt’s die? nfc-tag-shop.de/nfc-aufkleber/?p=1 ) )
-    Erstellen Sie einen NFC Code Ihrer Wahl  in der NFC Programmier-App.
+- Prüfen Sie, welche Geräte auf jeden Fall NFC-Funktionalität haben. [Welche Smartphones/Tablets können das?](nfc-tag-shop.de/info/nfc-in-smartphones/nfc-faehige-smartphones-und-handys.html)
+- Installieren Sie eine NFC-Lese-App zum Ausführen von NFC-Tasks. [Zum Beispiel NFC Tasks](play.google.com/store/apps/details?id=com.wakdev.nfctasks)
+- Installieren Sie eine NFC Programmier-App zum Programmieren. [Zum Beispiel NFC Tools Pro](wakdev.com/en/apps/nfc-tools.html). Aber es gibt auch andere. [Weitere Tools](nfc-tag-shop.de/info/nfc-tags-beschreiben-und-lesen/nfc-mobile-apps.html)
+- Nehmen Sie NFC-Chips. [Wo gibt’s die? Hier!](nfc-tag-shop.de/nfc-aufkleber/?p=1)
+- Erstellen Sie einen NFC-Code Ihrer Wahl in der NFC-Programmier-App.
 
 
 
