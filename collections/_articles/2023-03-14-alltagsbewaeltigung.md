@@ -1,5 +1,5 @@
 ---
-title: Alltagsbewältigung
+title: Alltagsbewältigung: eine Aufgabe in der Sozialen Arbeit
 title_above: Fachartikel
 categories: News
 tags: news intia probes
