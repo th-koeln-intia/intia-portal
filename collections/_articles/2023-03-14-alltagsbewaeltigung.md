@@ -6,7 +6,7 @@ tags: news intia probes
 hero_tags: subpage post pdf
 hero_image: /assets/img/uploads/alltag.jpg
 preview_image: /assets/img/uploads/alltag.jpg
-subtitle: |
+subtitle: 
   Alltagsbewältigung im Sinne der Sozialen Arbeit umfasst die Bewältigung der alltäglichen Lebensführung. Die Aufgabe der Sozialen Arbeit ist es, die Adressat:innen bei der Ermöglichung eines gelingenden Alltags zu unterstützen. Die Methoden und Technologien, die im Projekt entwickelt wurden, zielen darauf, Jugendliche bei ihrer Alltagsbewältigung zu unterstützen: Es handelt sich um Methoden zur Erhebung und Identifizierung von Bedarfen sowie zur Ideenfindung für Lösungen bei der Alltagsbewältigung. Dieser Artikel gibt Hintergrundinformationen dazu, warum die Befähigung zur Alltagsbewältigung – vor allem in der Erziehungs- und Jugendhilfe sowie in der Eingliederungshilfe – eine relevante Aufgabe und Methode in der Sozialen Arbeit ist.
 ---
 
