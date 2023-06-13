@@ -2,7 +2,7 @@
 hero_tags: subpage post pdf
 title_above: Fachartikel
 published: true
-title: Modularität
+title: Modularität als Grundprinzip im Forschungsprojekt INTIA
 author: Dennis Christian Wilk
 hero_image: /assets/img/uploads/neuigkeit_modularitat_platzhalterbild.jpg
 preview_image: /assets/img/uploads/neuigkeit_modularitat_platzhalterbild.jpg
