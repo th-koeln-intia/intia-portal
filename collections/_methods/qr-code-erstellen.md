@@ -4,7 +4,7 @@ title_above: Methode
 published: true
 title: QR-Code erstellen
 english_title: Create QR code
-subtitle: "Einen QR-Code erstellen, mit dem man schnell auf bevorzugte Webseiten kommt."
+subtitle: "Die Abkürzung „QR“ im QR-Code steht für „Quick Response“, also „Schnelle Antwort“. Mit einem QR-Code kann man per Scan mit einem Handy sehr viele  Informationen in sehr kurzer Zeit übertragen. Einen QR-Code, mit dem man schnell auf bevorzugte Webseiten kommt, kann man selbst erstellen."
 ---
 
 <table class="tb">
@@ -15,10 +15,6 @@ subtitle: "Einen QR-Code erstellen, mit dem man schnell auf bevorzugte Webseiten
 - Häufig besuchte Webseiten schnell und einfach öffnen
 
 </th>
-    </tr>
-    <tr>
-      <td><strong>Phase</strong></td>
-      <td></td>
     </tr>
     <tr>
       <td><strong>Gruppengröße</strong></td>
@@ -46,7 +42,7 @@ subtitle: "Einen QR-Code erstellen, mit dem man schnell auf bevorzugte Webseiten
 
 ## Beschreibung
 
-Einen QR-Code erstellen, mit dem man schnell auf bevorzugte Webseiten kommt.
+Die Abkürzung „QR“ im QR-Code steht für „Quick Response“, also „Schnelle Antwort“. Mit einem QR-Code kann man per Scan mit einem Handy sehr viele  Informationen in sehr kurzer Zeit übertragen. Einen QR-Code, mit dem man schnell auf bevorzugte Webseiten kommt, kann man selbst erstellen.
 [Software: qrcode-generator.de](https://www.qrcode-generator.de/)
 
 ## Durchführung
