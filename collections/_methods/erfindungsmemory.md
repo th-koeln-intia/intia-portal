@@ -1,7 +1,7 @@
 ---
 hero_tags: subpage method pdf
 title_above: Methode
-published: false
+published: true
 title: Erfindungsmemory
 english_title: Invention Memory
 last_update: 11.05.2022
