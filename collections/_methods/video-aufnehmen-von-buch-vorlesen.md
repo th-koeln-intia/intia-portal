@@ -4,7 +4,7 @@ title_above: Methode
 published: true
 title: Video aufnehmen von Buch vorlesen
 english_title: Record video of reading book aloud
-subtitle: "Gemeinsam ein Buch vorlesen und dies als Video aufnehmen."
+subtitle: "Um Medieninhalte selbst zu produzieren, reichen oft einfache Mittel. Ein Handy und ein „Stativ“ aus Büchern genügen, um ein Video zu produzieren. Ein Video davon, wie jemand ein Buch vorliest ist nur ein Beispiel, wie solche Inhalte produziert werden können. Genauso gut können Lernsätze, fremdsprachliche Begriffe oder Anleitungen aufgenommen und bei Bedarf angeschaut werden."
 ---
 
 <table class="tb">
@@ -53,7 +53,7 @@ subtitle: "Gemeinsam ein Buch vorlesen und dies als Video aufnehmen."
 
 ## Beschreibung
 
-Gemeinsam ein Buch vorlesen und dies als Video aufnehmen.
+Um Medieninhalte selbst zu produzieren, reichen oft einfache Mittel. Ein Handy und ein „Stativ“ aus Büchern genügen, um ein Video zu produzieren. Ein Video davon, wie jemand ein Buch vorliest ist nur ein Beispiel, wie solche Inhalte produziert werden können. Genauso gut können Lernsätze, fremdsprachliche Begriffe oder Anleitungen aufgenommen und bei Bedarf angeschaut werden.
 
 ## Durchführung
  
