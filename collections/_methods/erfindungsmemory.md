@@ -119,14 +119,14 @@ So kommen die Jugendlichen in ein Gespräch über technischen Fortschritt, Entwi
 8. Ggf. Blanko-Karten zur Verfügung stellen, um Vorschläge der Teilnehmenden direkt aufnehmen zu können.
 9. Karten werden wieder eingesammelt.
 
-**Hinweise zur Durchführung**
+### Hinweise zur Durchführung
 
-**Offene Fragen:**
+#### Offene Fragen:
 - Bei welchen Karten/Gegenständen/Bildern/Tätigkeiten gab es Schwierigkeiten/Probleme beim Verstehen der Karte an sich? Warum?
 - Bei welchen Karten gab es Schwierigkeiten/Verständnisprobleme in der Paarfindung? Warum?
 - Bei welchen Karten gab es Schwierigkeiten/Verständnisprobleme in der Erklärung selbst oder der Paarerklärung?
 
-**Erfolgskriterien:**
+#### Erfolgskriterien:
 - Die Teilnehmenden verstehen das Spiel. (Es gibt nach unserer Erklärung keine grundlegenden Verständnisfragen.)
 - Die Teilnehmenden können den Gegenständen/Bildern/Tätigkeiten einen Kernnutzen und Kerneigenschaften zuordnen (Die Teilnehmenden finden ihre Partner-Karte ohne große Nachfragen bei den Moderierenden und ohne große sichtbare Schwierigkeiten.)
 - Die Teilnehmenden kennen die technischen Gegenstände/Tätigkeiten (Es werden keine inhaltlichen Nachfragen zu den Karten an sich gestellt.)
