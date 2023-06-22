@@ -131,9 +131,12 @@ So kommen die Jugendlichen in ein Gespräch über technischen Fortschritt, Entwi
 - Die Teilnehmenden können den Gegenständen/Bildern/Tätigkeiten einen Kernnutzen und Kerneigenschaften zuordnen (Die Teilnehmenden finden ihre Partner-Karte ohne große Nachfragen bei den Moderierenden und ohne große sichtbare Schwierigkeiten.)
 - Die Teilnehmenden kennen die technischen Gegenstände/Tätigkeiten (Es werden keine inhaltlichen Nachfragen zu den Karten an sich gestellt.)
 - Die Teilnehmenden verstehen, was wir mit einer „technischen Erfindung“ meinen (Die Teilnehmenden nennen bekannte Weiterentwicklungen für einige Gegenstände/Tätigkeiten – Beispiel: Staubsaugerroboter und Smartwatch.)
+<br>
+<br>
 
+## Für Fachkräfte: Hinweise zur Methode „Erfindungsmemory“
 
-<details open><summary><strong>Für Fachkräfte: Hinweise zur Methode</strong></summary><blockquote>
+<details open><summary><strong>Hinweise hier auf- und zuklappen</strong></summary><blockquote>
   <details><summary>In einer so genannten „Erfinderwerkstatt“ sollen die Teilnehmenden Bedarfe zur Alltagsbewältigung finden und anschließend Ideen für technische Alltagshilfen entwickeln. Das „Memory“ soll ein spielerischer Einsteig in die Erfinderwerkstatt sein. Es soll eine Alternative darstellen zu einem Vorabinterview, um die kognitiven Fähigkeiten und den Wissensstand der Teilnehmenden kennenzulernen. Diese Kenntnisse sind für die weitere Workshopgestaltung elementar. Eine spielerische „Befragung“ in der Gruppe mit Hilfe von konkreten Beispielen aus dem Alltag ersetzt die individuelle Befragung und vermeidet damit mehrere Umstände:<br>
 - hohen Zeitaufwand bei relativ wenig Insights<br>
 - eine Störung des Alltags, weil einzelne TN zeitweise aus „dem Betrieb“ genommen werden müssten, und<br>
