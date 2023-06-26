@@ -134,7 +134,7 @@ So kommen die Jugendlichen in ein Gespräch über technischen Fortschritt, Entwi
 <br>
 <br>
 
-## Für Fachkräfte: Hinweise zur Methode „Erfindungsmemory“
+## Für Fachkräfte: Hinweise zur Durchführung der Methode „Erfindungsmemory“
 
 <details><summary><strong>Hinweise hier auf- und zuklappen</strong></summary><blockquote>
   <details><summary>In einer so genannten „Erfinderwerkstatt“ sollen die Teilnehmenden Bedarfe zur Alltagsbewältigung finden und anschließend Ideen für technische Alltagshilfen entwickeln. Das „Memory“ soll ein spielerischer Einsteig in die Erfinderwerkstatt sein. Es soll eine Alternative darstellen zu einem Vorabinterview, um die kognitiven Fähigkeiten und den Wissensstand der Teilnehmenden kennenzulernen. Diese Kenntnisse sind für die weitere Workshopgestaltung elementar. Eine spielerische „Befragung“ in der Gruppe mit Hilfe von konkreten Beispielen aus dem Alltag ersetzt die individuelle Befragung und vermeidet damit mehrere Umstände:<br>
