@@ -151,9 +151,12 @@ Im Grunde sollen die folgenden Fragen beantwortet werden:
 - Wie verhalten sich die Teilnehmenden untereinander? Gehen sie aufeinander zu? Besprechen sie, warum die beiden Gegenstände/Bilder/Tätigkeiten ein Paar sind?
 - Finden die Teilnehmenden die Paare? Muss ihnen dabei geholfen werden?
 <br>
+<br>
 In einer Gruppenbefragung (anstelle von Einzelbefragungen) sind nur vereinzelt Antworten von den Gruppenführer:innen zu erwarten. Eine individuelle Ansprache in der Gruppe würde vermutlich zu einem verzerrten Eindruck führen. Hierfür bestünde zudem dieVoraussetzung, dass sich alle Teilnehmenden ohne (sprachliche) Barrieren vor der gesamten Gruppe äußern können. Durch die spielerische Form wird eine offensichtliche Einzelbefragung (in der Gruppe) umgangen und eine Gesprächssituation herbeigeführt, in der sich alle Teilnehmenden situativ und im Kontext äußern können. Damit wird nicht nur Hawthorne-Effekt umgangen (Menschen antworten/verhalten sich anders, wenn sie wissen, dass ihnen Fragen zu bestimmten Zwecken gestellt werden/sie beobachten werden), sondern anstelle einer Befragung kann in einer spielerischen Situation auch das direkte Verhalten im Kontext beobachtet werden. „‚Actions speak louder than words‘ is a common saying, and indeed you often observe that people behave differently than they say they would.“4 Vor diesem Hintergrund kann das Memory die Frage umgehen „Was kennst du/kennt ihr?“ und eröffnet den Raum für persönliche Äußerungen im Zusammengang mit einem Gerät (Beispiel: „Was ist das?“, „Was macht man damit?“, „Oh cool, das haben wir zu Hause.“). Des Weiteren kann die Reaktion der Teilnehmenden beim Betrachten der Karten (Verwunderung? Fragende Blicke? Freude? …) einfacher beobachtet werden.
 <br>
+<br>
 Nicht zuletzt erfahren die moderierenden Personen nicht nur etwas über die Teilnehmenden, sondern können auch den Inhalt der folgenden Workshoptermine über den Inhalt des Memorys verdeutlichen und Beispiele zeigen.
+<br>
 <br>
 Möglicher Nebeneffekt: Es können sich (falls noch nicht vorhanden) erste Gruppendynamiken zwischen den Teilnehmenden bilden. Damit könnte dies auch als Methode zum „Aufwärmen/Kennenlernen“ genutzt werden.</summary><blockquote>
   </blockquote></details>
