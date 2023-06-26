@@ -204,7 +204,7 @@ Die Fachstelle für Jugendmedienkultur NRW unterstützt Bildungseinrichtungen un
 
 ## Fachbeirat
 
-Der Fachbeirat unterstützt und berät das Forschungsprojekt mit der Expertise seiner Mitglieder:
+Der Fachbeirat unterstützt und berät das Forschungs-Projekt mit der Expertise seiner Mitglieder:
 
 <strong>Dr. Tom Bieling</strong> (<a href="https://www.haw-hamburg.de/" class="normal">HAW Hamburg<span class="icon is-small">
 <i class="fas icon-external fa-xs"></i>
@@ -232,7 +232,7 @@ Der Fachbeirat unterstützt und berät das Forschungsprojekt mit der Expertise s
 
 ## Finanzielle Förderung
 
-Das Forschungsprojekt INTIA wird von 2019 bis 2023 vom Bundesministerium für Bildung und Forschung (BMBF) finanziell gefördert. Die Förderung ist Teil der Fördermaßnahme „Lebensqualität durch soziale Innovationen“ (FH Sozial). Das Projekt heißt „Inklusive Entwicklung von Methoden und Technologien für digitale Hilfen zur Alltagsbewältigung in der Behinderten- und Erziehungshilfe (INTIA)“ und ist unter dem Förderkennzeichen 13FH534SX7 im
+Das Forschungs-Projekt INTIA wird von 2019 bis 2023 vom Bundesministerium für Bildung und Forschung (BMBF) finanziell gefördert. Die Förderung ist Teil der Fördermaßnahme „Lebensqualität durch soziale Innovationen“ (FH Sozial). Das Projekt heißt „Inklusive Entwicklung von Methoden und Technologien für digitale Hilfen zur Alltagsbewältigung in der Behinderten- und Erziehungshilfe (INTIA)“ und ist unter dem Förderkennzeichen 13FH534SX7 im
 <a href="https://foerderportal.bund.de/foekat/jsp/StartAction.do?actionMode=list" class="normal">Förderkatalog des Bundes<span class="icon is-small">
 <i class="fas icon-external fa-xs"></i>
 </span></a>
