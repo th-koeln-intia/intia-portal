@@ -121,9 +121,9 @@ Es gibt verschiedene Optionen:
   - Umsetzungswege konkret benennen und dann auch umsetzen.
 - Threema-Lizenzen entfernen unter „ID widerrufen“.
 
-## Hinweise zur Durchführung für Fachkräfte
-
-Es sollte möglichst ein schon bekannter Messenger genutzt werden, damit die Benutzung der App keine zusätzliche Hürde darstellt. Außerdem denken die Teilnehmenden so auch eher an die Bearbeitung der Aufgaben, da sie die App ohnehin häufig privat öffnen. Abzuwägen ist hier die Datensicherheit. Gegebenenfalls ist konkret abzusprechen, welche Inhalte geschickt werden dürfen, um die Sicherheit zu wahren (z. B. keine Fotos von erkennbaren Personen).
+### Für Fachkäfte: Hinweise zur Durchführung der Methode „Digitales Probe-Kit“
+<details><summary><strong>Hinweise hier auf- und zuklappen</strong></summary><blockquote>
+  <details><summary>Es sollte möglichst ein schon bekannter Messenger genutzt werden, damit die Benutzung der App keine zusätzliche Hürde darstellt. Außerdem denken die Teilnehmenden so auch eher an die Bearbeitung der Aufgaben, da sie die App ohnehin häufig privat öffnen. Abzuwägen ist hier die Datensicherheit. Gegebenenfalls ist konkret abzusprechen, welche Inhalte geschickt werden dürfen, um die Sicherheit zu wahren (z. B. keine Fotos von erkennbaren Personen).
 
 Eine datensichere App ist Threema.Work. Die App ist kostenlos. Jedoch muss für jede:n Nutzer:in eine Lizenz erworben werden.
 
@@ -141,4 +141,6 @@ Falls kein Messenger genutzt werden soll: Die Dateien des Probe-Kits können auc
 
 ## Quelle
 
-Cultural Probes ist eine Methode aus der Designforschung (Gaver, Dunne & Pacenti (1999): DOI: 10.1145/291224.291235)
+Cultural Probes ist eine Methode aus der Designforschung (Gaver, Dunne & Pacenti (1999): DOI: 10.1145/291224.291235)</summary><blockquote>
+  </blockquote></details>
+    </blockquote></details>
