@@ -19,7 +19,7 @@ Aber nicht alle Menschen können die vorhandenen Technologien gleich gut nutzen.
 
 ### Das Vorgehen
 
-Das Projektteam hat Einrichtungen der Sozialen Arbeit besucht, um mit Jugendlichen und Fachkräften zu erforschen, wo es im Alltag Probleme und Bedarf gibt. Gemeinsam mit den Jugendlichen entstanden daraufhin Ideen und erste technische Prototypen. Langfristiges Ziel des Projekts ist es, Einrichtungen der Sozialen Arbeit Bausteine für technische Lösungen zur Verfügung zu stellen. Damit sollen Fachkräfte, Betroffene und Selbsthilfe-Initiativen selbständig arbeiten können. Die Ergebnisse des Projekts sind als Open-Source-Material verfügbar, damit Technikexpert:innen diese nutzen, nachbauen und weiterentwickeln können. Alle wissenschaftlich interessanten Fragen werden auf einer Plattform gesammelt und sollen als Impulse für weitere Forschungsarbeiten dienen. 
+Das Projekt-Team hat Einrichtungen der Sozialen Arbeit besucht, um mit Jugendlichen und Fachkräften zu erforschen, wo es im Alltag Probleme und Bedarf gibt. Gemeinsam mit den Jugendlichen entstanden daraufhin Ideen und erste technische Prototypen. Langfristiges Ziel des Projekts ist es, Einrichtungen der Sozialen Arbeit Bausteine für technische Lösungen zur Verfügung zu stellen. Damit sollen Fachkräfte, Betroffene und Selbsthilfe-Initiativen selbständig arbeiten können. Die Ergebnisse des Projekts sind als Open-Source-Material verfügbar, damit Technikexpert:innen diese nutzen, nachbauen und weiterentwickeln können. Alle wissenschaftlich interessanten Fragen werden auf einer Plattform gesammelt und sollen als Impulse für weitere Forschungsarbeiten dienen. 
 
 ### Besondere Herausforderungen
 
@@ -72,9 +72,9 @@ Während der Corona-Pandemie konnten die geplanten Projektarbeiten in den Partne
 
 <div class="highlighter">
 
-## Projektteam
+## Projekt-Team
 
-Die Menschen im INTIA Projektteam kommen aus unterschiedlichen Fachdisziplinen:
+Die Menschen im INTIA Projekt-Team kommen aus unterschiedlichen Fachdisziplinen:
 
 - **Professor:innen:** Prof. Dr. lsabel Zorn (Fakultät für Angewandte Sozialwissenschaften, Schwerpunkte Digitale Medienbildung in der Sozialen Arbeit), Prof. Dr. Stefan Bente (Fakultät für lnformatik und lngenieurwissenschaften, Schwerpunkt Softwaretechnik), Prof. Birgit Mager (Fakultät für Kulturwissenschaften, Köln lnternational School of Design KISD, Schwerpunkt Service Design) und Prof. Dr. Christian Kohls (Fakultät for lnformatik und lngenieurwissenschaften, Schwerpunkt Soziotechnische Systeme).
 - **Wissenschaftliche Mitarbeiter:innen:** Hanna Thielmann, Carola Janda, Caroline Kortekaas, Eva Zurbrügg, Karsten Gareis und Tabea Mildenberger (Fakultät für Angewandte Sozialwissenschaften), Marc Schmidt, Dennis Wilk, Silke Wiegand und Jan Seidler (Fakultät für lnformatik und lngenieurwissenschaften) sowie Janina Rösch (Köln lnternational School of Design KISD).
@@ -140,7 +140,7 @@ Die Menschen im INTIA Projektteam kommen aus unterschiedlichen Fachdisziplinen:
 
 ## Praxispartner
 
-Drei Wissenschaftspraxispartnerschaften (kurz WPKs) bestehen seit Beginn des Projekts. In den Einrichtungen dieser Partnerinnen führte das Team Praxiseinsätze durch und arbeitete gemeinsam an Forschungsfragen:
+Drei Wissenschaftspraxis-Partnerschaften (kurz WPKs) bestehen seit Beginn des Projekts. In den Einrichtungen dieser Partner:innen führte das Team Praxis-Einsätze durch und arbeitete gemeinsam an Forschungsfragen:
 
 <div style="margin: 3rem 0 3rem 0" class="columns">       
   <div style="margin-right: 3rem;" class="column is-4 is-round is-centered">
@@ -232,7 +232,7 @@ Der Fachbeirat unterstützt und berät das Forschungsprojekt mit der Expertise s
 
 ## Finanzielle Förderung
 
-Das Forschungsprojekt INTIA wird von 2019 bis 2023 vom Bundesministerium für Bildung und Forschung (BMBF) finanziell gefördert. Die Förderung ist Teil der Fördermaßnahme "Lebensqualität durch soziale Innovationen" (FH Sozial). Das Projekt heißt "Inklusive Entwicklung von Methoden und Technologien für digitale Hilfen zur Alltagsbewältigung in der Behinderten- und Erziehungshilfe (INTIA)" und ist unter dem Förderkennzeichen 13FH534SX7 im
+Das Forschungsprojekt INTIA wird von 2019 bis 2023 vom Bundesministerium für Bildung und Forschung (BMBF) finanziell gefördert. Die Förderung ist Teil der Fördermaßnahme „Lebensqualität durch soziale Innovationen“ (FH Sozial). Das Projekt heißt „Inklusive Entwicklung von Methoden und Technologien für digitale Hilfen zur Alltagsbewältigung in der Behinderten- und Erziehungshilfe (INTIA)“ und ist unter dem Förderkennzeichen 13FH534SX7 im
 <a href="https://foerderportal.bund.de/foekat/jsp/StartAction.do?actionMode=list" class="normal">Förderkatalog des Bundes<span class="icon is-small">
 <i class="fas icon-external fa-xs"></i>
 </span></a>
@@ -247,7 +247,7 @@ zu finden.
 
 #### BMBF
 
-BMBF steht für "Bundesminsterium für Bildung und Forschung". Das Ministerium ist eine Einrichtung der deutschen Regierung. Jedes Jahr hat das BMBF Geld zur Verfügung, mit dem es Projekte zum Thema Bildung und Forschung unterstützt.
+BMBF steht für „Bundesminsterium für Bildung und Forschung“. Das Ministerium ist eine Einrichtung der deutschen Regierung. Jedes Jahr hat das BMBF Geld zur Verfügung, mit dem es Projekte zum Thema Bildung und Forschung unterstützt.
 
 </div>
 <div class="column">
