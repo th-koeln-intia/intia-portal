@@ -170,7 +170,7 @@ Die Diakonie Michaelshoven setzt sich für soziale Belange ein. In über 200 Ein
 
 ### Evangelische Jugendhilfe Godesheim
 
-Die Evangelischen Jugendhilfe Godesheim ist ein Jugendhilfeverbund. Sie ist in der Kinder-, Jugend-, Behinderten- und Gesundheitshilfe tätig.
+Die Evangelische Jugendhilfe Godesheim ist ein Jugendhilfeverbund. Sie ist in der Kinder-, Jugend-, Behinderten- und Gesundheitshilfe tätig.
 
 {% include button.html label="Website" link="https://www.godesheim.de/" type="external" %}
 
