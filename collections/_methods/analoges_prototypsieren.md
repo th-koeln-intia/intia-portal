@@ -129,8 +129,9 @@ Fertige Ideen, Regeln und Bedingungen (also Abläufe) können aufgeschrieben wer
 3. Vielleicht entstehen auch neue Ideen? Diese können noch nachträglich gelegt werden.
 4. Die besten Abläufe (also Prototypen) werden festgehalten und optional fotografiert.
 
-## Hinweise zur Durchführung für die Fachkräfte
-
+### Für Fachkäfte: Hinweise zur Durchführung der Methode „Analoges Prototypisieren“
+<details><summary><strong>Hinweise hier auf- und zuklappen</strong></summary><blockquote>
+  <details><summary>
 Die Programmier-Plättchen sollen immer einen Satz bilden. In der Praxis liegt es aber im Ermessen der Gruppe, wie sich Ideen am besten abbilden lassen. Daher folgt hier nur ein Hinweis, wie der Satzbau gedacht ist:
 
 **„Wenn”-Plättchen**
@@ -305,3 +306,6 @@ _„Wenn der Kontakt-Sensor zu ist und mit dem Knopf der Morsecode gedrückt wur
 Für die schwierigen Plättchen gibt es auch ein neues Sonst-Plättchen. Das könnt ihr direkt unter das Dann-Plättchen legen.
 
 „Wenn der Kontakt-Sensor zu ist und beim Knopf der Morsecode gedrückt wurde, dann geht das Smarte Schloss der Holzkiste auf und die Smarte Lampe wird grün. Sonst (also wenn der Kontakt-Sensor auf ist oder beim Knopf nicht der Morsecode gedrückt wurde) bleibt das Smarte Schloss zu.”
+</summary><blockquote>
+  </blockquote></details>
+    </blockquote></details>
