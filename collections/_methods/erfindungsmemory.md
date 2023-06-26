@@ -136,7 +136,7 @@ So kommen die Jugendlichen in ein Gespräch über technischen Fortschritt, Entwi
 
 ## Für Fachkräfte: Hinweise zur Methode „Erfindungsmemory“
 
-<details open><summary><strong>Hinweise hier auf- und zuklappen</strong></summary><blockquote>
+<details><summary><strong>Hinweise hier auf- und zuklappen</strong></summary><blockquote>
   <details><summary>In einer so genannten „Erfinderwerkstatt“ sollen die Teilnehmenden Bedarfe zur Alltagsbewältigung finden und anschließend Ideen für technische Alltagshilfen entwickeln. Das „Memory“ soll ein spielerischer Einsteig in die Erfinderwerkstatt sein. Es soll eine Alternative darstellen zu einem Vorabinterview, um die kognitiven Fähigkeiten und den Wissensstand der Teilnehmenden kennenzulernen. Diese Kenntnisse sind für die weitere Workshopgestaltung elementar. Eine spielerische „Befragung“ in der Gruppe mit Hilfe von konkreten Beispielen aus dem Alltag ersetzt die individuelle Befragung und vermeidet damit mehrere Umstände:<br>
 - hohen Zeitaufwand bei relativ wenig Insights<br>
 - eine Störung des Alltags, weil einzelne TN zeitweise aus „dem Betrieb“ genommen werden müssten, und<br>
@@ -150,11 +150,11 @@ Im Grunde sollen die folgenden Fragen beantwortet werden:
 - Verstehen die Teilnehmenden den Begriff der „technischen Erfindung/Weiterentwicklung“ und nennen sie weiterführende Entwicklungen? Vermutlich kennen alle Teilnehmenden einen Staubsauger, aber wird aufgrund des Memorys auch die Weiterleitung zum Staubsaugerroboter gemacht?
 - Wie verhalten sich die Teilnehmenden untereinander? Gehen sie aufeinander zu? Besprechen sie, warum die beiden Gegenstände/Bilder/Tätigkeiten ein Paar sind?
 - Finden die Teilnehmenden die Paare? Muss ihnen dabei geholfen werden?
-
+<br>
 In einer Gruppenbefragung (anstelle von Einzelbefragungen) sind nur vereinzelt Antworten von den Gruppenführer:innen zu erwarten. Eine individuelle Ansprache in der Gruppe würde vermutlich zu einem verzerrten Eindruck führen. Hierfür bestünde zudem dieVoraussetzung, dass sich alle Teilnehmenden ohne (sprachliche) Barrieren vor der gesamten Gruppe äußern können. Durch die spielerische Form wird eine offensichtliche Einzelbefragung (in der Gruppe) umgangen und eine Gesprächssituation herbeigeführt, in der sich alle Teilnehmenden situativ und im Kontext äußern können. Damit wird nicht nur Hawthorne-Effekt umgangen (Menschen antworten/verhalten sich anders, wenn sie wissen, dass ihnen Fragen zu bestimmten Zwecken gestellt werden/sie beobachten werden), sondern anstelle einer Befragung kann in einer spielerischen Situation auch das direkte Verhalten im Kontext beobachtet werden. „‚Actions speak louder than words‘ is a common saying, and indeed you often observe that people behave differently than they say they would.“4 Vor diesem Hintergrund kann das Memory die Frage umgehen „Was kennst du/kennt ihr?“ und eröffnet den Raum für persönliche Äußerungen im Zusammengang mit einem Gerät (Beispiel: „Was ist das?“, „Was macht man damit?“, „Oh cool, das haben wir zu Hause.“). Des Weiteren kann die Reaktion der Teilnehmenden beim Betrachten der Karten (Verwunderung? Fragende Blicke? Freude? …) einfacher beobachtet werden.
-
+<br>
 Nicht zuletzt erfahren die moderierenden Personen nicht nur etwas über die Teilnehmenden, sondern können auch den Inhalt der folgenden Workshoptermine über den Inhalt des Memorys verdeutlichen und Beispiele zeigen.
-
+<br>
 Möglicher Nebeneffekt: Es können sich (falls noch nicht vorhanden) erste Gruppendynamiken zwischen den Teilnehmenden bilden. Damit könnte dies auch als Methode zum „Aufwärmen/Kennenlernen“ genutzt werden.</summary><blockquote>
   </blockquote></details>
     </blockquote></details>
