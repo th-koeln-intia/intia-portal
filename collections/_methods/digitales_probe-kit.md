@@ -19,26 +19,22 @@ subtitle: "Das Ziel ist, die Zielgruppe und das Umfeld kennenzulernen. Die Teiln
 </th>
     </tr>
     <tr>
-      <td><strong>Phase</strong></td>
-      <td></td>
-    </tr>
-    <tr>
       <td><strong>Altersgruppe</strong></td>
-      <td>10 - 18</td>
+      <td>10-18</td>
     </tr>
     <tr>
       <td><strong>Gruppengröße</strong></td>
-      <td>max. vier Personen pro Fachkraft</td>
+      <td>max. 4 Personen pro Fachkraft</td>
     </tr>
     <tr>
       <td><strong>Sozialform</strong></td>
-      <td>Einzel, Partnerarbeit, Kleingruppe</td>
+      <td>Einzeln, Partner:innenarbeit, Kleingruppe</td>
     </tr>
     <tr>
       <td><strong>Dauer</strong></td>
       <td>
       <strong>
-      Durchführung: etwa 2 - 4 Wochen
+      Durchführung: ca. 2-4 Wochen
       </strong>
       </td>
     </tr>
@@ -51,11 +47,7 @@ subtitle: "Das Ziel ist, die Zielgruppe und das Umfeld kennenzulernen. Die Teiln
     </ul>
     </td>
     </tr>
-    <tr>
-      <td><strong>Sonstiges</strong></td>
-      <td></td>
-</tr>
-</table>
+    </table>
 
 ## Beschreibung
 
@@ -75,7 +67,7 @@ Aus den Ergebnissen kann ein partizipativer Technik-Entwicklungsprozess geplant 
 
 Es wird ein Messenger benötigt, um während der Anwendung des Probe-Kits Aufgaben, Ergebnisse und Fragen auszutauschen. Die Gruppe kann sich auf einen Messenger einigen. Eine Empfehlung für einen datensicheren Messenger ist Threema.Work.
 
-**So richtest du Threema.Work auf Geräten (Smartphone oder Tablet) ein:**
+**So richtest du Threema.Work auf Geräten (Smartphone oder Tablet) ein:**  
 
 - Idealerweise mit Teilnehmenden zusammen.
 - App installieren und mit Lizenz anmelden.
