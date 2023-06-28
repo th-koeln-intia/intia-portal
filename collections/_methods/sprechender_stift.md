@@ -4,7 +4,7 @@ title_above: Methode
 published: true
 title: Sprechender Stift
 english_title: speaking pen
-subtitle: "Ein Sticker wird auf eine Buchseite oder einen Gegenstand geklebt.Der sprechende Stift wird mit einem Text für den Sticker besprochen. Dann hält man diesen Stift an den Sticker und der Stift liest den Text vor. Diese Methode hilft Menschen, die nicht lesen können. Es unterstützt aber auch Meschen, die nicht sprechen können. Sie können Botschaften besprechen lassen und von dem Stift vorlesen lassen."
+subtitle: "Ein Sticker wird auf eine Buchseite oder einen Gegenstand geklebt. Der sprechende Stift wird mit einem Text für den Sticker besprochen. Dann hält man diesen Stift an den Sticker und der Stift liest den Text vor. Diese Methode hilft Menschen, die nicht lesen können. Es unterstützt aber auch Menschen, die nicht sprechen können. Sie können Botschaften besprechen lassen und von dem Stift vorlesen lassen."
 ---
 
 <table class="tb">
@@ -23,15 +23,15 @@ subtitle: "Ein Sticker wird auf eine Buchseite oder einen Gegenstand geklebt.Der
     </tr>
     <tr>
       <td><strong>Altersgruppe</strong></td>
-      <td>3 - 99</td>
+      <td>3-99</td>
     </tr>
     <tr>
       <td><strong>Gruppengröße</strong></td>
-      <td>1 - 10</td>
+      <td>1-10</td>
     </tr>
     <tr>
       <td><strong>Sozialform</strong></td>
-      <td>Einzel oder Kleingruppe</td>
+      <td>Einzeln oder Kleingruppe</td>
     </tr>
     <tr>
       <td><strong>Dauer</strong></td>
@@ -39,7 +39,7 @@ subtitle: "Ein Sticker wird auf eine Buchseite oder einen Gegenstand geklebt.Der
       <strong>
       Vorbereitung: wenige Minuten<br>
       ...<br>
-      Durchführung: 1 Minute bis ca. 30 Minuten<br>
+      Durchführung: 1 min. bis ca. 30 min.<br>
       ...
       </strong>
       </td>
@@ -117,4 +117,4 @@ Vorab müssen ein Anybook-Reader und Sticker gekauft werden. Der Anybook-Stift h
 
 ## Quellen
 
-Die Methode begründet sich auf dem erwerbbaren Freund:innen-Buch des Herstellers von Anybook: https://anybookreader.de/produkte/freundebuch/
+Die Methode begründet sich auf dem erwerbbaren Freund:innen-Buch des Herstellers von Anybook: [anybookreader](https://anybookreader.de/produkte/freundebuch/)
