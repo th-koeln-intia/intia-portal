@@ -25,11 +25,11 @@ subtitle: "Ein Set aus Plättchen mit verschiedenen (geometrischen) Formen. Mit 
     </tr>
     <tr>
       <td><strong>Altersgruppe</strong></td>
-      <td>6 - 90</td>
+      <td>6-90</td>
     </tr>
     <tr>
       <td><strong>Gruppengröße</strong></td>
-      <td>1 - 6</td>
+      <td>1-6</td>
     </tr>
     <tr>
       <td><strong>Sozialform</strong></td>
@@ -39,11 +39,11 @@ subtitle: "Ein Set aus Plättchen mit verschiedenen (geometrischen) Formen. Mit 
       <td><strong>Dauer</strong></td>
       <td>
       <strong>
-      Vorbereitung: etwa 5 Minuten<br>
+      Vorbereitung: ca. 5 min.<br>
       <br>
       Durchführung: offen<br>
       <br>
-      Nachbereitung: etwa 15 Minuten<br>
+      Nachbereitung: ca. 15 min.<br>
       </strong>
       </td>
     </tr>
