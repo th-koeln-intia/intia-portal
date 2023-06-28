@@ -84,10 +84,9 @@ Ein Set aus Rätseln. Teilnehmende können sich spielerisch mit verschiedenen Fu
 **Am einfachsten geht es, wenn man einen INTIA Koffer ausleiht.**
 
 1. Eine Fachkraft macht sich vertraut mit dem INTIA Koffer. Hierfür gibt es eine Moderationsanleitung.
-2. Optional kann eine Belohnung in die Kiste gelegt werden (z. B. Schokolade). Das motiviert zum Mitmachen.
-<br>
-<br>
-**Alternativ:**
+2. Optional kann eine Belohnung in die Kiste gelegt werden (z. B. Schokolade). Das motiviert zum Mitmachen.  
+
+**Alternativ:**  
 
 1. Material von der Plattform intia.de herunterladen und ausdrucken. (hier geht's zu den Daten) [/pages/tools/methods]
    1. Moderationsanleitung INTIA Koffer
@@ -95,20 +94,18 @@ Ein Set aus Rätseln. Teilnehmende können sich spielerisch mit verschiedenen Fu
    3. Rätselheft Escape-Game
    4. Liste aller Bausteine
 2. Die Bausteine besorgen und programmieren
-3. Optional gibt es einführende Videos zum INTIA Koffer und zum Escape-Game. Damit kann man sich vorbereiten.
-<br>
-<br>
-**Durchführung**
+3. Optional gibt es einführende Videos zum INTIA Koffer und zum Escape-Game. Damit kann man sich vorbereiten.  
+
+**Durchführung**  
 
 1. Die Teilnehmenden erhalten ein Rätselheft mit zusätzlichen Tipps in Umschlägen. Sollten sie nicht weiterwissen, können sie diese zu Hilfe nehmen.
 2. Die Rätsel sind nach einer bestimmten Reihenfolge geordnet. Die Teilnehmenden müssen mit Rätsel 1 beginnen, danach Rätsel 2 und so weiter.
 3. Die Teilnehmenden lösen die Rätsel selbständig (soweit es geht). In den Tipps befinden sich in der Regel auch Lösungswege. Die Moderation sollte so wenig wie möglich eingreifen, kann aber bei technischen Problemen unterstützen.
 4. Das Escape-Game endet, wenn die Steuerungszentrale von den Teilnehmenden kontrolliert werden kann. Dies erkennt man unter anderem an dem Konfetti.
 5. Nun können die Teilnehmenden ausprobieren, die Technik-Bausteine zu steuern.
-<br>
-<br>
-**Nachbereitung**
-<br>
+
+**Nachbereitung**  
+
 Die Funktionsweisen der einzelnen Technik-Bausteine besprechen. Im Anschluss können Kreativ-Methoden genutzt werden, um neue Ideen mit den Technik-Bausteinen zu finden oder auszuarbeiten.
 
 ## Hinweise zur Durchführung
