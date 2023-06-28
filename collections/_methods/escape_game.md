@@ -20,12 +20,8 @@ subtitle: "Ein Set aus Rätseln. Teilnehmende können sich spielerisch mit versc
 </th>
     </tr>
     <tr>
-      <td><strong>Phase</strong></td>
-      <td></td>
-    </tr>
-    <tr>
       <td><strong>Altersgruppe</strong></td>
-      <td>10 - 18</td>
+      <td>10-18</td>
     </tr>
     <tr>
       <td><strong>Gruppengröße</strong></td>
@@ -39,11 +35,11 @@ subtitle: "Ein Set aus Rätseln. Teilnehmende können sich spielerisch mit versc
       <td><strong>Dauer</strong></td>
       <td>
       <strong>
-      Vorbereitung durch Moderation: etwa 15-30 Minuten<br>
+      Vorbereitung durch Moderation: ca. 15-30 min.<br>
       ...<br>
-      Durchführung: etwa ca. 45-60 Minuten<br>
+      Durchführung: ca. 45-60 Minuten<br>
       ...<br>
-      Nachbereitung: etwa 15 Minuten<br>
+      Nachbereitung: ca. 15 Minuten<br>
       ...
       </strong>
       </td>
