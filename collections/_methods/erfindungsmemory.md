@@ -33,32 +33,32 @@ subtitle: "Auf Karten werden nach dem Memory-Prinzip technische Erfindungen und 
     </tr>
     <tr>
       <td><strong>Sozialform</strong></td>
-      <td>Partnerarbeit, (Klein-)Gruppenarbeit</td>
+      <td>Partner:innenarbeit, (Klein-)Gruppe</td>
     </tr>
     <tr>
       <td><strong>Dauer</strong></td>
       <td>
       <strong>
-      Vorbereitung: etwa 8 Stunden<br>
+      Vorbereitung: ca. 8 Stunden<br>
       </strong>
       <ul>
         <li> Ggf. Erstellen der Memory-Karten, falls gewünscht (ein Arbeitstag)
-        <li> 5 Min - ggf. Sortieren der Memory-Karten
+        <li> 5 min. - ggf. Sortieren der Memory-Karten
       </ul>
       <strong>
-      Durchführung: 30 Minunten<br>
+      Durchführung: 30 min.<br>
       </strong>
        <ul>
-        <li> 5 Min - Austeilen/Ziehen der Memory-Karten
-        <li> 5 Min - Suchen der Partner-Karten
-        <li> 10 Min - Erklärung der Partner-Karten
-        <li> 1 Min - Einsammeln der Karten
+        <li> 5 min. - Austeilen/Ziehen der Memory-Karten
+        <li> 5 min. - Suchen der Partner-Karten
+        <li> 10 min. - Erklärung der Partner-Karten
+        <li> 1 min. - Einsammeln der Karten
       </ul>
       <strong>
-      Nachbereitung: etwa 1 Stunde<br>
+      Nachbereitung: ca. 1 Std.<br>
       </strong>
       <ul>
-        <li> 1 Std - Dokumentation und Auswertung der Aussagen
+        <li> 1 Std. - Dokumentation und Auswertung der Aussagen
       </ul>  
       </td>
     </tr>
