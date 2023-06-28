@@ -22,7 +22,7 @@ subtitle: "Die Abkürzung „QR“ im QR-Code steht für „Quick Response“, a
     </tr>
     <tr>
       <td><strong>Sozialform</strong></td>
-      <td>Einzeln, Partnerarbeit, Gruppenarbeit</td>
+      <td>Einzeln, Partner:innenarbeit, Gruppenarbeit</td>
     </tr>
     <tr>
       <td><strong>Dauer</strong></td>
@@ -30,7 +30,7 @@ subtitle: "Die Abkürzung „QR“ im QR-Code steht für „Quick Response“, a
       <strong>
       Vorbereitung: Tablet/Smartphone/Computer bereitstellen<br>
         <br>
-      Durchführung: ca. 1-1,5 Std. als Workshop. Einzelne Code-Erstellung ca. 5 Minuten<br>
+      Durchführung: ca. 1-1,5 Std. als Workshop. Einzelne Code-Erstellung ca. 5 min.<br>
       </strong>
       </td>
     </tr>
@@ -47,18 +47,18 @@ Die Abkürzung „QR“ im QR-Code steht für „Quick Response“, also „Schn
 
 ## Durchführung
  
-**Vorbereitung**
+#### Vorbereitung  
 
 Bereitstellung eines digitalen Endgeräts (z. B. Computer oder Laptop)
 Wenn Ausdrucke des QR-Codes gewünscht sind, muss ein Drucker besorgt werden. Das Endgerät wird an den Drucker angeschlossen.
 
-**Durchführung**
+#### Durchführung  
 
 1. Auswahl an bevorzugten Webseiten.
 2. Webseite finden und öffnen.
 3. URL (Link) kopieren.
-4. Folgende Seite öffnen [qrcode-generator.de](https://www.qrcode-generator.de/) zur Erstellung von QR-Codes.
-5. Eingabe der kopierten URL hier auf der Seite. Daraus wird ein QR-Code erzeugt.
+4. Die Seite [qrcode-generator.de](https://www.qrcode-generator.de/) öffnen zur Erstellung von QR-Codes.
+5. Eingabe der kopierten URL auf dieser Seite. Daraus wird ein QR-Code erzeugt.
 6. Der QR-Code wird auf dem Gerät gespeichert.
 7. Ausdrucken des QR-Codes. Der Ausdruck kann auf Wunsch auch laminiert werden.
 8. Der Ausdruck kann jetzt an eine Stelle geklebt werden, wo die aktive Person sich oft befindet, wenn sie die Webseite besuchen will. Alternativ kann ein Papier/Heft erstellt werden, auf der die beliebten Webseiten als QR-Codes abgebildet sind.
@@ -66,6 +66,6 @@ Wenn Ausdrucke des QR-Codes gewünscht sind, muss ein Drucker besorgt werden. Da
   - [QR-Code-Scanner im GooglePlayStore](https://play.google.com/store/apps/details?id=com.secuso.privacyFriendlyCodeScanner) oder
   - [QR-Code-Scanner von f-droid](https://f-droid.org/de/packages/com.secuso.privacyFriendlyCodeScanner/)
 
-**Nachbereitung**
+#### Nachbereitung  
 
 Alles wieder einpacken.
