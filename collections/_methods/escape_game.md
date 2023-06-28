@@ -85,7 +85,8 @@ Ein Set aus Rätseln. Teilnehmende können sich spielerisch mit verschiedenen Fu
 
 1. Eine Fachkraft macht sich vertraut mit dem INTIA Koffer. Hierfür gibt es eine Moderationsanleitung.
 2. Optional kann eine Belohnung in die Kiste gelegt werden (z. B. Schokolade). Das motiviert zum Mitmachen.
-
+<br>
+<br>
 **Alternativ:**
 
 1. Material von der Plattform intia.de herunterladen und ausdrucken. (hier geht's zu den Daten) [/pages/tools/methods]
@@ -95,7 +96,8 @@ Ein Set aus Rätseln. Teilnehmende können sich spielerisch mit verschiedenen Fu
    4. Liste aller Bausteine
 2. Die Bausteine besorgen und programmieren
 3. Optional gibt es einführende Videos zum INTIA Koffer und zum Escape-Game. Damit kann man sich vorbereiten.
-
+<br>
+<br>
 **Durchführung**
 
 1. Die Teilnehmenden erhalten ein Rätselheft mit zusätzlichen Tipps in Umschlägen. Sollten sie nicht weiterwissen, können sie diese zu Hilfe nehmen.
@@ -103,8 +105,10 @@ Ein Set aus Rätseln. Teilnehmende können sich spielerisch mit verschiedenen Fu
 3. Die Teilnehmenden lösen die Rätsel selbständig (soweit es geht). In den Tipps befinden sich in der Regel auch Lösungswege. Die Moderation sollte so wenig wie möglich eingreifen, kann aber bei technischen Problemen unterstützen.
 4. Das Escape-Game endet, wenn die Steuerungszentrale von den Teilnehmenden kontrolliert werden kann. Dies erkennt man unter anderem an dem Konfetti.
 5. Nun können die Teilnehmenden ausprobieren, die Technik-Bausteine zu steuern.
-
+<br>
+<br>
 **Nachbereitung**
+<br>
 Die Funktionsweisen der einzelnen Technik-Bausteine besprechen. Im Anschluss können Kreativ-Methoden genutzt werden, um neue Ideen mit den Technik-Bausteinen zu finden oder auszuarbeiten.
 
 ## Hinweise zur Durchführung
@@ -115,4 +119,4 @@ Die Moderation mischt sich beim Spielen des Escape-Games möglichst wenig ein. S
 
 ## Anpassung
 
-Rätsel entwickeln, bei denen die Technik praktisch angewendet werden kann. Zum Beispiel Türkontakte an Türen/Fenstern nutzen. Das erleichtert die Übertragung auf den eigenen Alltag. Gemeinsam mit den Teilnehmenden können neue Rätsel entstehen. Unter [ Bausteine ] (intia.de/tools/blocks/) sind alle Smart-Home-Elemente aufgelistet, die zur Verfügung stehen.
+Rätsel entwickeln, bei denen die Technik praktisch angewendet werden kann. Zum Beispiel Türkontakte an Türen/Fenstern nutzen. Das erleichtert die Übertragung auf den eigenen Alltag. Gemeinsam mit den Teilnehmenden können neue Rätsel entstehen. Unter [Bausteine](/werkzeuge/bausteine/) sind alle Smart-Home-Elemente aufgelistet, die zur Verfügung stehen.
