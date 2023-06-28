@@ -33,7 +33,7 @@ subtitle: "Ein Set aus Plättchen mit verschiedenen (geometrischen) Formen. Mit 
     </tr>
     <tr>
       <td><strong>Sozialform</strong></td>
-      <td>Einzeln, Partner:innenarbeit, Kleingruppen und Remotearbeit</td>
+      <td>Einzeln, Partner:innenarbeit, Kleingruppe, Remotearbeit</td>
     </tr>
     <tr>
       <td><strong>Dauer</strong></td>
