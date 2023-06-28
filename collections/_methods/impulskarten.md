@@ -34,7 +34,7 @@ subtitle: "Die Impulskarten sollen Unterhaltungen anregen. Ziel ist es, Probleme
     </tr>
     <tr>
       <td><strong>Sozialform</strong></td>
-      <td>Einzeln, Partnerarbeit, Kleingruppen</td>
+      <td>Einzeln, Partner:innenarbeit, Kleingruppe</td>
     </tr>
     <tr>
       <td><strong>Dauer</strong></td>
@@ -46,11 +46,6 @@ subtitle: "Die Impulskarten sollen Unterhaltungen anregen. Ziel ist es, Probleme
       <td><strong>Material</strong></td>
       <td>INTIA-Impulskarten: Alltags-Karten + Bedürfnis-Karten</td>
     </tr>
-    <tr>
-      <td><strong>Sonstiges</strong></td>
-      <td>
-</td>
-</tr>
 </table>
 
 ## Beschreibung
