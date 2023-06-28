@@ -26,11 +26,11 @@ subtitle: "Die Impulskarten sollen Unterhaltungen anregen. Ziel ist es, Probleme
     </tr>
     <tr>
       <td><strong>Altersgruppe</strong></td>
-      <td>6 - 99</td>
+      <td>6-99</td>
     </tr>
     <tr>
       <td><strong>Gruppengröße</strong></td>
-      <td>1 - 10</td>
+      <td>1-10</td>
     </tr>
     <tr>
       <td><strong>Sozialform</strong></td>
@@ -39,7 +39,7 @@ subtitle: "Die Impulskarten sollen Unterhaltungen anregen. Ziel ist es, Probleme
     <tr>
       <td><strong>Dauer</strong></td>
       <td>
-      Durchführung: 10 - 30min.<br>
+      Durchführung: 10-30 min.<br>
       </td>
     </tr>
     <tr>
@@ -65,7 +65,7 @@ Im INTIA Koffer befinden sich Impulskarten zu Alltagssituationen und Bedürfniss
 
 <br>
 
-**Alternativ:**
+**Alternativ:**  
 
 1. Karten ausdrucken und ausschneiden.
 2. Eventuell eine Vorauswahl aus den Karten treffen.
@@ -79,12 +79,13 @@ Im INTIA Koffer befinden sich Impulskarten zu Alltagssituationen und Bedürfniss
 
 #### Durchführung
 
-**Alltags-Karten**
-Nacheinander darf jede Person in der Gruppe eine Spielkarte ziehen. Die Gruppe überlegt gemeinsam: Was gefällt mir im Alltag? Was möchte ich verändern? Was stört mich? Wie geht es den anderen in der Gruppe damit?
-**Bedürfnis-Karten**
-Nacheinander darf jede Person in der Gruppe eine Spielkarte ziehen, darüber nachdenken und den Satzanfang beenden. Die Gruppe überlegt gemeinsam: Wie kann das Problem (technisch) gelöst werden? Wie kann mein Wunsch wahr werden? Wie geht es den anderen in der Gruppe damit?
+**Alltags-Karten**  
+Nacheinander darf jede Person in der Gruppe eine Spielkarte ziehen. Die Gruppe überlegt gemeinsam: Was gefällt mir im Alltag? Was möchte ich verändern? Was stört mich? Wie geht es den anderen in der Gruppe damit? 
+  
+**Bedürfnis-Karten**  
+Nacheinander darf jede Person in der Gruppe eine Spielkarte ziehen, darüber nachdenken und den Satzanfang beenden. Die Gruppe überlegt gemeinsam: Wie kann das Problem (technisch) gelöst werden? Wie kann mein Wunsch wahr werden? Wie geht es den anderen in der Gruppe damit?  
 
-Die Alltags-Karten können auch mit den Bedürfnis-Karten zusammen verwendet werden. Die Teilnehmenden ziehen eine Karte von jedem Stapel und bilden Sätze. Danach entsteht ein Austausch. Die Gruppe kann neue Ideen entwickeln.
+Die Alltags-Karten können auch mit den Bedürfnis-Karten zusammen verwendet werden. Die Teilnehmenden ziehen eine Karte von jedem Stapel und bilden Sätze. Danach entsteht ein Austausch. Die Gruppe kann neue Ideen entwickeln.  
 
 Beispiel: Alltags-Karte „Schlafen” und Bedürfnis-Karte „mir hilft...”. Daraus lassen sich unterschiedliche Ideen bilden, die zu den eigenen Bedürfnissen passen:
 
