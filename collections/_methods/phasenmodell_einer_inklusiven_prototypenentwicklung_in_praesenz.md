@@ -22,10 +22,6 @@ Prototypenentwicklung durch:
 </th>
     </tr>
     <tr>
-      <td><strong>Phase</strong></td>
-      <td></td>
-    </tr>
-    <tr>
       <td><strong>Altersgruppe</strong></td>
       <td>13-99</td>
     </tr>
@@ -84,8 +80,9 @@ Die sechs Phasen sind:
 2. Über das Ergebnis (d. h. den Prototypen) kann diskutiert werden.
 3. Eventuell gibt es weitere Verbesserungsvorschläge. Der Prototyp kann dann weiterentwickelt werden.
 
-## Hinweise zur Durchführung für Fachkräfte
-
+### Für Fachkäfte: Hinweise zur Durchführung der Methode „Phasenmodell einer inklusiven Prototypenentwicklung in Präsenz“
+<details><summary><strong>Hinweise hier auf- und zuklappen</strong></summary><blockquote>
+  <details><summary>
 Das Phasenmodell wurde beispielhaft mit einer Gruppe von acht bis zwölf jungen Menschen mit Lernbehinderung im Rahmen einer Qualifizierungsmaßnahme durchgeführt. Sie fand im Abstand von 14 Tagen statt und dauerte jeweils zwei Stunden. Es ist ebenso möglich, die Phasen an ca. zwei Tagen hintereinander zu durchlaufen.
 
 #### Ablauf:
@@ -115,8 +112,11 @@ Das Phasenmodell wurde beispielhaft mit einer Gruppe von acht bis zwölf jungen 
     <img src="/assets/img/uploads/PhasenmodellInklusive Technikentwicklung_PRASENZKomplett.jpg" alt="Schematische Darstellung des Phasenmodells" class="">
     <figcaption>Schematische Darstellung des Phasenmodells</figcaption>
 </figure>
+<br>
 
 ## Anpassung
 
 Phase 1 (Paper-Funktion-Mapping) kann je nach Wissen und Fähigkeiten der Teilnehmenden angepasst werden. Diese Phase kann auch verkürzt durchgeführt werden.
-
+</summary><blockquote>
+  </blockquote></details>
+    </blockquote></details>
