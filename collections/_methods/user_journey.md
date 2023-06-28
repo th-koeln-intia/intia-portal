@@ -5,7 +5,7 @@ published: true
 title: User Journey
 english_title: User Journey
 last_update: 08.06.2022
-subtitle: "Mit der User-Journey kann eine zuvor festgelegte Handlung Schritt für Schritt untersucht werden. Dabei wird am Anfang ein Ziel gesetzt. Zum Ende wird geprüft, ob dieses Ziel erfüllt ist. Durch die klein-schrittige Betrachtung von Situationen im Alltag können Barrieren, Wünsche und Emotionen aufgedeckt werden. Die Ergebnisse sind dann Ausgangspunkt für den weiteren Technik-Entwicklungsprozess."
+subtitle: "Mit der User-Journey kann eine zuvor festgelegte Handlung Schritt für Schritt untersucht werden. Dabei wird am Anfang ein Ziel gesetzt. Zum Ende wird geprüft, ob dieses Ziel erreicht ist. Durch die klein-schrittige Betrachtung von Situationen im Alltag können Barrieren, Wünsche und Emotionen aufgedeckt werden. Die Ergebnisse sind dann Ausgangspunkt für den weiteren Technik-Entwicklungsprozess."
 ---
 
 <table class="tb">
@@ -20,46 +20,32 @@ subtitle: "Mit der User-Journey kann eine zuvor festgelegte Handlung Schritt fü
 </th>
     </tr>
     <tr>
-      <td><strong>Phase</strong></td>
-      <td> </td>
-    </tr>
-    <tr>
       <td><strong>Altersgruppe</strong></td>
-      <td>6 - 99</td>
+      <td>6-99</td>
     </tr>
     <tr>
       <td><strong>Gruppengröße</strong></td>
-      <td>1 - 5</td>
+      <td>1-5</td>
     </tr>
     <tr>
       <td><strong>Sozialform</strong></td>
-      <td>Einzeln, Partnerarbeit, Kleingruppen</td>
-    </tr>
-    <tr>
-      <td><strong>Dauer</strong></td>
-      <td>
-      </td>
+      <td>Einzeln, Partner:innenarbeit, Kleingruppe</td>
     </tr>
     <tr>
       <td><strong>Material</strong></td>
-      <td>Vorlage User Journey, digital oder analog</td>
+      <td>Vorlage User-Journey, digital oder analog</td>
     </tr>
-    <tr>
-      <td><strong>Sonstiges</strong></td>
-      <td>
-</td>
-</tr>
 </table>
 
 <br><br>
 
 ## Beschreibung
 
-Mit der User-Journey kann eine zuvor festgelegte Handlung Schritt für Schritt untersucht werden. Dabei wird am Anfang ein Ziel gesetzt. Zum Ende wird geprüft, ob dieses Ziel erfüllt ist. Durch die klein-schrittige Betrachtung von Situationen im Alltag können Barrieren, Wünsche und Emotionen aufgedeckt werden. Die Ergebnisse sind dann Ausgangspunkt für den weiteren Technik-Entwicklungsprozess.
+Mit der User-Journey kann eine zuvor festgelegte Handlung Schritt für Schritt untersucht werden. Dabei wird am Anfang ein Ziel gesetzt. Zum Ende wird geprüft, ob dieses Ziel erreicht ist. Durch die klein-schrittige Betrachtung von Situationen im Alltag können Barrieren, Wünsche und Emotionen aufgedeckt werden. Die Ergebnisse sind dann Ausgangspunkt für den weiteren Technik-Entwicklungsprozess.
 
-Zum Beispiel Blumen gießen: Am Anfang steht die Frage „Was ist mein Ziel der Handlung?“ – Die Antwort: „Die Pflanze soll leben und im besten Fall wachsen.“ Dann folgt die Überlegung: „Wie schaffe ich das?“ Alle Handlungsschritte werden auf mehreren Ebenen untersucht: Erinnern an das Gießen, Füllen der Gießkanne, Wässern der Erde. Am Ende kann überprüft werden, ob das Anfangs-Ziel passend war. Es kann auch nicht erfüllt sein, dann war die Grundannahme falsch. Vielleicht sind andere Bedingungen, zum Beispiel die Temperatur oder das Licht im Raum, für die Pflanze viel wichtiger.
+Zum Beispiel Blumen gießen: Am Anfang steht die Frage „Was ist mein Ziel der Handlung?“ – Die Antwort: „Die Pflanze soll leben und im besten Fall wachsen.“ Dann folgt die Überlegung: „Wie schaffe ich das?“ Alle Handlungsschritte werden auf mehreren Ebenen untersucht: Erinnern an das Gießen, Füllen der Gießkanne, Wässern der Erde. Am Ende kann überprüft werden, ob das Anfangs-Ziel passend war. Es kann auch nicht erreicht sein, dann war die Grundannahme falsch. Vielleicht sind andere Bedingungen, zum Beispiel die Temperatur oder das Licht im Raum, für die Pflanze viel wichtiger.
 
-User-Journey - Schritt für Schritt:
+## User-Journey - Schritt für Schritt
 
 1. Handlung: Was mache ich?
 2. Kontakt: Was benutze ich?
