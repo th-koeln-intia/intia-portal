@@ -4,6 +4,7 @@ title_above: Werkzeuge
 permalink: /werkzeuge/methoden/
 hero_tags: toppage
 subtitle: Hier finden sich Methoden und ein Methodenradar. Die Methoden können dabei unterstützen, technische Alltagshilfen zu finden und zu entwickeln. Das Methodenradar erleichtert die Auswahl. Es zeigt, wann eine Methode sinnvoll in einem Entwicklungsprozess eingesetzt werden kann und wie partizipativ sie ist.
+jekyll-hyperlink-glossary: false
 ---
 
 
