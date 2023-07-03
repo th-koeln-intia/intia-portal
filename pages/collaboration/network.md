@@ -4,7 +4,7 @@ title_above: Mitmachen
 permalink: /mitmachen/netzwerk/
 hero_tags: toppage
 subtitle: |
-  Du möchtest dich mit anderen INTIA-Nutzer:innen vernetzen und austauschen? Oder Feedback zu etwas geben? Das alles ist im INTIA-Netzwerk auf Facebook möglich. Wenn du mitmachst, hilfst du auch allen anderen Nutzer:innen und Entwickler:innen. Hier geht's zu unserer Facebook-Seite.
+  Du möchtest dich mit anderen INTIA Nutzer:innen vernetzen und austauschen? Oder Feedback zu etwas geben? Das alles ist im INTIA Netzwerk auf Facebook möglich. Wenn du mitmachst, hilfst du auch allen anderen Nutzer:innen und Entwickler:innen. Hier geht's zu unserer Facebook-Seite.
   <br>
   Alternativ kannst du dich auch per E-Mail bei uns melden: kontakt@intia.de.
 ---
