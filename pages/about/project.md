@@ -4,7 +4,7 @@ title_above: Über INTIA
 permalink: /ueber/projekt/
 hero_tags: toppage
 subtitle: |
-  Der INTIA Koffer sowie die Werkzeuge und Materialien auf dieser Plattform kommen aus dem Forschungs-Projekt INTIA an der Technischen Hochschule Köln (TH Köln). Die Buchstaben stehen für „Inklusive Technikideen für den Alltag“. In diesem Projekt untersuchen Forschende und Jugendliche gemeinsam, wie Technik den Alltag verbessern kann. Um dieses Vorhaben umzusetzen, hat INTIA Fördergelder vom Bundesministerium für Bildung und Forschung ([BMBF](https://www.bmbf.de/bmbf/de/home/home_node.html)) erhalten.
+  Der INTIA Koffer sowie die Werkzeuge und Materialien auf dieser Plattform kommen aus dem Forschungs-Projekt INTIA an der Technischen Hochschule Köln (TH Köln). Die Buchstaben stehen für „Inklusive Technikideen für den Alltag“. In diesem Projekt untersuchen Forschende und Jugendliche gemeinsam, wie Technik den Alltag verbessern kann. Um dieses Vorhaben umzusetzen, hat INTIA Fördergelder vom Bundesministerium für Bildung und Forschung (BMBF) erhalten.
 ---
 
 ## Jugendliche als Expert:innen
