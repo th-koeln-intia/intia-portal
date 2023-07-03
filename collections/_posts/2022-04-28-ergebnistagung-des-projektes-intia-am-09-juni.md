@@ -15,7 +15,7 @@ Von 2019 bis 2023 bekommt das Forschungsprojekt INTIA vom Bundesministerium für
 
 ### Arbeiten im interdisziplinären Team 
 
-Das INTIA-Projektteam ist interdisziplinär, es besteht also aus Personen, die aus verschiedenen Fachdisziplinen kommen. Die Professor:innen sind: Prof. Dr. lsabel Zorn (Fakultät für Angewandte Sozialwissenschaften, Schwerpunkte Digitale Medienbildung in der Sozialen Arbeit), Prof. Dr. Stefan Bente (Fakultät für Informatik und Ingenieurwissenschaften, Schwerpunkt Softwaretechnik), Prof. Birgit Mager (Fakultät für Kulturwissenschaften, Köln lnternational School of Design KISD, Schwerpunkt Service Design) und Prof. Dr. Christian Kohls (Fakultät für lnformatik und lngenieurwissenschaften, Schwerpunkt Soziotechnische Systeme). Hinzu kommen wissenschaftliche sowie studentische Mitarbeiter:innen aus allen vier wissenschaftlichen Disziplinen.
+Das INTIA Projekt-Team ist interdisziplinär, es besteht also aus Personen, die aus verschiedenen Fachdisziplinen kommen. Die Professor:innen sind: Prof. Dr. lsabel Zorn (Fakultät für Angewandte Sozialwissenschaften, Schwerpunkte Digitale Medienbildung in der Sozialen Arbeit), Prof. Dr. Stefan Bente (Fakultät für Informatik und Ingenieurwissenschaften, Schwerpunkt Softwaretechnik), Prof. Birgit Mager (Fakultät für Kulturwissenschaften, Köln lnternational School of Design KISD, Schwerpunkt Service Design) und Prof. Dr. Christian Kohls (Fakultät für lnformatik und lngenieurwissenschaften, Schwerpunkt Soziotechnische Systeme). Hinzu kommen wissenschaftliche sowie studentische Mitarbeiter:innen aus allen vier wissenschaftlichen Disziplinen.
 
 ### **Virtuelle Ergebnistagung von INTIA** 
 
