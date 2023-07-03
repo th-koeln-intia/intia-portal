@@ -19,7 +19,7 @@ Jugendgruppen und Fachkräfte in sozialen und kulturellen Einrichtungen können 
 
 Mit einer Einkaufsliste und den frei zugänglichen Anleitungen kannst du dir deinen eigenen INTIA Koffer nachbauen. Es ist alles so beschrieben, dass das Nachbauen sehr einfach ist. Alle Bestandteile und Anleitungen findest du auf dieser Seite. Es gibt sogar vorgefertigte Einkaufslisten, mit denen du dir einzelne Technik-Bausteine bestellen kannst.
 
-Weiter unten findest Du die Kontaktdaten für das Leihen sowie Materialien, um den Koffer nachzubauen. Bei Fragen kannst du uns gerne eine E-Mail schreiben: kontakt@intia.de.
+Weiter unten findest Du die Kontaktdaten für das Leihen sowie Materialien, um den Koffer nachzubauen. Bei Fragen kannst du uns gerne eine E-Mail schreiben: [kontakt@intia.de](mailto:kontakt@intia.de).
 
 ## Unterstützung für den Einsatz des INTIA Koffers
 
