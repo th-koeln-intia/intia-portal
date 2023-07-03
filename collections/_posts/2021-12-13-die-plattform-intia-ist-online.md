@@ -14,7 +14,7 @@ subtitle: "Endlich ist es soweit: Die Plattform INTIA ist nun online und für
 
 Auf der Plattform finden sich viele Informationen über inklusive Technikentwicklung. Die Seite ist noch im Aufbau und wird in nächster Zeit weiter wachsen. Es lohnt sich also, immer wieder mal reinzuschauen!
 
-Besucher:innen der Plattform finden hier Wissenswertes in den Kategorien Werkzeuge, Lösungen und Wissen. Auch aktuelle Neuigkeiten zum Projekt und der Plattform gibt es auf INTIA. Wer gerne selbst aktiv werden möchte, kann unter Mitmachen das INTIA-Team kontaktieren oder einfach selbst etwas bauen und ausprobieren.
+Besucher:innen der Plattform finden hier Wissenswertes in den Kategorien Werkzeuge, Lösungen und Wissen. Auch aktuelle Neuigkeiten zum Projekt und der Plattform gibt es auf INTIA. Wer gerne selbst aktiv werden möchte, kann unter Mitmachen das INTIA Team kontaktieren oder einfach selbst etwas bauen und ausprobieren.
 
 Viel Spaß auf INTIA.
 
