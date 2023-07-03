@@ -14,7 +14,7 @@ Ein WLAN-Router verbindet angeschlossene Geräte (wie Fernseher oder Computer) m
 
 ## Wie?
 
-Wird ein Router eingeschaltet, verbindet er sich mit dem Internet. Dann werden die Datenpakete über WLAN an die mit dem WLAN-Router verbundenen Geräte weitergeleitet. Ein WLAN-Router besitzt mehrere Schnittstellen und nimmt Datenpakete über diese in Empfang (IP-Adresse Absender-Gerät). Er schaltet die Verbindungen so schnell hintereinander, dass es wirkt, als seien Computer und Smartphone gleichzeitig im WLAN. Dabei entscheidet der Router, welches Datenpaket über welchen Netzwerkpunkt zu seinem Ziel (IP-Adresse Empfänger-Gerät) geleitet wird.
+Wird ein Router eingeschaltet, verbindet er sich mit dem Internet. Dann werden die Datenpakete über WLAN an die Geräte weitergeleitet, die mit dem WLAN-Router verbunden sind. Ein WLAN-Router besitzt mehrere Schnittstellen und nimmt Datenpakete über diese Schnittstellen in Empfang (IP-Adresse Absender-Gerät). Er schaltet die Verbindungen so schnell hintereinander, dass es wirkt, als seien Computer und Smartphone gleichzeitig im WLAN. Dabei entscheidet der Router, welches Datenpaket über welchen Netzwerkpunkt zu seinem Ziel (IP-Adresse des Empfänger-Gerätes) geleitet wird.
 
 ## Wofür?
 
