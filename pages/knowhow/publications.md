@@ -118,7 +118,7 @@ In Digital Xchange - Bergisches RheinLand. 6. Juni. https://www.youtube.com/watc
 
 Schmidt, Marc, Rösch, Janina & Zorn, Isabel (2020):\
 **Probe Kits für partizipative User Research und Needs Assessments bei Jugendlichen in der Erziehungshilfe.**\
-In Hansen, C., Nürnberger, A. & Preim, B. (Hrsg.), Mensch und Computer 2020 - Workshopband. Bonn:Gesellschaft für Informatik e.V..DOI:10.18420/muc2020-ws109-359
+In Hansen, C., Nürnberger, A. & Preim, B. (Hrsg.), Mensch und Computer 2020 - Workshopband. Bonn: Gesellschaft für Informatik e.V..DOI:10.18420/muc2020-ws109-359
 [DOI aufrufen](https://dx.doi.org/10.18420/muc2020-ws109-359)
 
 Bente, Stefan, Fuhrer, Kornelius (2020):\
@@ -139,7 +139,7 @@ Zorn, Isabel (2020):\
 In Helmut Kreidenweis und Bernd Halfar (Hrsg.): Tagungsdokumentation der 15. Eichstätter Fachtagung Sozialinformatik. Eichstätt: Katholische Universität Eichstätt-Ingolstadt, S. 17–37.
 
 Zorn, Isabel (2020):\
-**Datenschutzfragen beim Einsatz von digitalen Tools in Bildungskontexten (z.B. während der COVID-19-Präventionsmaßnahmen).**\
+**Datenschutzfragen beim Einsatz von digitalen Tools in Bildungskontexten (z. B. während der COVID-19-Präventionsmaßnahmen).**\
 Ringvorlesung PH Freiburg Studium generale. PH Freiburg. PH Freiburg. Freiburg, 15.11.2020.
 
 Zorn, Isabel; Mager, Birgit; Bente, Stefan; Kohls, Christian (2020):\
@@ -167,7 +167,7 @@ Bachelorarbeit Technische Hochschule Köln. Betreut von Dennis Christian Wilk, M
 
 Johannsen, Sophia (2023):\
 **Entwicklung eines Grundsets an Skills für einen Open Source Sprachassistenten**\
-Praxisprojekt Technische Hochschule Köln. Betreut von Dennis Christian Wilk , Marc Schmidt & Prof. Dr. Stefan Bente. Köln.
+Praxisprojekt Technische Hochschule Köln. Betreut von Dennis Christian Wilk, Marc Schmidt & Prof. Dr. Stefan Bente. Köln.
 
 Wehn, Finn (2023):\
 **Überführung eines Studienprojekts in ein Open-Source Projekt anhand eines Skillsystems für den Sprachassistenten Rhasspy**\
@@ -175,15 +175,15 @@ Bachelorarbeit Technische Hochschule Köln. Betreut von Dennis Christian Wilk, M
 
 Wehn, Finn (2023):\
 **Skillsystem für einen Open Source Sprachassistenten**\
-Praxisprojekt Technische Hochschule Köln. Betreut von Dennis Christian Wilk , Marc Schmidt & Prof. Dr. Christian Kohls. Köln.
+Praxisprojekt Technische Hochschule Köln. Betreut von Dennis Christian Wilk, Marc Schmidt & Prof. Dr. Christian Kohls. Köln.
 
 Iyawe, George (2023):\
-**Generierung von Programmabläufen mithilfe von Syntaxbäumen am Beispiel einer Prototypisierungsmeth**\
+**Generierung von Programmabläufen mithilfe von Syntaxbäumen am Beispiel einer Prototypisierungsmethode**\
 Bachelorarbeit Technische Hochschule Köln. Betreut von Dennis Christian Wilk, Marc Schmidt, Prof. Dr. Christian Kohls. Köln.
 
 Iyawe, George (2023):\
 **Digital Prototyping - Plattform zur kollaborativen Darstellung von technischen Intentionen**\
-Praxisprojekt Technische Hochschule Köln. Betreut von Dennis Christian Wilk , Marc Schmidt & Prof. Dr. Christian Kohls. Köln.
+Praxisprojekt Technische Hochschule Köln. Betreut von Dennis Christian Wilk, Marc Schmidt & Prof. Dr. Christian Kohls. Köln.
 
 Klein, Florian (2022):\
 **Dynamische Skalierung von Elementen in einer Radar Visualisierung von Daten.**\
@@ -198,7 +198,7 @@ Przygodzinski, Dawid (2022):\
 Bachelorarbeit Technische Hochschule Köln. Betreut von Marc Schmidt & Prof. Dr. Stefan Bente. Köln.
 
 Landgraf, Eric (2022):\
-**Eruierung von Anforderungen und Erfolgsbedingungen für einen Sprachassistentenmit Fokus auf deutschsprachige Nutzer über 65 Jahre.**\
+**Eruierung von Anforderungen und Erfolgsbedingungen für einen Sprachassistenten mit Fokus auf deutschsprachige Nutzer über 65 Jahre.**\
 Bachelorarbeit Technische Hochschule Köln. Betreut von Marc Schmidt, Dennis Christian Wilk & Prof. Dr. Stefan Bente. Köln.
 
 Landgraf, Eric (2021):\
