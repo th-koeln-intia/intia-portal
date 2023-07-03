@@ -103,7 +103,7 @@ Hier sind alle Elemente aufgelistet, die sich im INTIA Koffer befinden.
        <th>Anleitungen und Lehrmaterial</th>
        <td>
           <ul>
-          <li>Ausführliche Moderationanleitung für die Fachkraft</li>
+          <li>Ausführliche Moderationsanleitung für die Fachkraft</li>
           <li>Willkommensschreiben für die Jugendlichen</li>
           <li>Escape-Game als Einstieg für den Umgang mit den Technik-Bausteinen</li>
           <li>Hintergrundinformationen und Details zu den Technik-Bausteinen</li>
@@ -117,7 +117,7 @@ Hier sind alle Elemente aufgelistet, die sich im INTIA Koffer befinden.
           <ul>
           <li><strong>INTIA Methodensammlung:</strong> Anleitungen zu verschiedenen Methoden, um Bedürfnisse und Lösungen zu erforschen</li>
           <li><strong>INTIA Alltags- und Bedürfnis-Karten:</strong> Methoden zum Erforschen und Beschreiben von Alltagsproblemen und Bedürfnissen</li>
-          <li><strong>INTIA Spielewürfel:</strong> Methode um Technikideen zum Lösen von Alltagsproblemen zu finden</li>
+          <li><strong>INTIA Spielewürfel:</strong> Methode, um Technikideen zum Lösen von Alltagsproblemen zu finden</li>
           <li><strong>Programmier-Plättchen:</strong> Zugang zur Programmier-Sprache und zum analogen Programmieren</li>
           </ul>
         </td>
