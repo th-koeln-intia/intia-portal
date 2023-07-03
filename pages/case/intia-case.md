@@ -16,7 +16,7 @@ Der INTIA Koffer macht es möglich, mit digitalen Technologien zu experimentiere
 - einfach und spielerisch Bedürfnisse erkennen und formulieren
 - einfach und spielerisch Ideen für Lösungen entwickeln
 - Methoden und Technik-Bausteine als Unterstützung bei der Entwicklung von Lösungen nutzen
-- „echte“ Technik-Prototypen bauen und ausprobieren
+- „echte“ Technik-[Prototypen](/wissen/woerterbuch/prototyp/) bauen und ausprobieren
 
 <br>
 
