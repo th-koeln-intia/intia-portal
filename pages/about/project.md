@@ -4,7 +4,7 @@ title_above: Über INTIA
 permalink: /ueber/projekt/
 hero_tags: toppage
 subtitle: |
-  Der INTIA Koffer sowie die Werkzeuge und Materialien auf dieser Plattform kommen aus dem Forschungs-Projekt INTIA an der Technischen Hochschule Köln (TH Köln). Die Buchstaben stehen für „Inklusive Technikideen für den Alltag“. In diesem Projekt untersuchen Forschende und Jugendliche gemeinsam, wie Technik den Alltag verbessern kann. Um dieses Vorhaben umzusetzen, hat INTIA Fördergelder vom Bundesministerium für Bildung und Forschung (BMBF) erhalten.
+  Der INTIA Koffer sowie die Werkzeuge und Materialien auf dieser Plattform kommen aus dem Forschungs-Projekt INTIA an der Technischen Hochschule Köln (TH Köln). Die Buchstaben stehen für „Inklusive Technikideen für den Alltag“. In diesem Projekt untersuchen Forschende und Jugendliche gemeinsam, wie Technik den Alltag verbessern kann. Um dieses Vorhaben umzusetzen, hat INTIA Fördergelder vom Bundesministerium für Bildung und Forschung ([BMBF](https://www.bmbf.de/bmbf/de/home/home_node.html)) erhalten.
 ---
 
 ## Jugendliche als Expert:innen
@@ -19,7 +19,7 @@ Aber nicht alle Menschen können die vorhandenen Technologien gleich gut nutzen.
 
 ### Das Vorgehen
 
-Das Projekt-Team hat Einrichtungen der Sozialen Arbeit besucht, um mit Jugendlichen und Fachkräften zu erforschen, wo es im Alltag Probleme und Bedarf gibt. Gemeinsam mit den Jugendlichen entstanden daraufhin Ideen und erste technische Prototypen. Langfristiges Ziel des Projekts ist es, Einrichtungen der Sozialen Arbeit Bausteine für technische Lösungen zur Verfügung zu stellen. Damit sollen Fachkräfte, Betroffene und Selbsthilfe-Initiativen selbständig arbeiten können. Die Ergebnisse des Projekts sind als Open-Source-Material verfügbar, damit Technikexpert:innen diese nutzen, nachbauen und weiterentwickeln können. Alle wissenschaftlich interessanten Fragen werden auf einer Plattform gesammelt und sollen als Impulse für weitere Forschungsarbeiten dienen. 
+Das Projekt-Team hat Einrichtungen der Sozialen Arbeit besucht, um mit Jugendlichen und Fachkräften zu erforschen, wo es im Alltag Probleme und Bedarf gibt. Gemeinsam mit den Jugendlichen entstanden daraufhin Ideen und erste technische [Prototypen](/wissen/woerterbuch/prototyp/). Langfristiges Ziel des Projekts ist es, Einrichtungen der Sozialen Arbeit Bausteine für technische Lösungen zur Verfügung zu stellen. Damit sollen Fachkräfte, Betroffene und Selbsthilfe-Initiativen selbständig arbeiten können. Die Ergebnisse des Projekts sind als Open-Source-Material verfügbar, damit Technikexpert:innen diese nutzen, nachbauen und weiterentwickeln können. 
 
 ### Besondere Herausforderungen
 
