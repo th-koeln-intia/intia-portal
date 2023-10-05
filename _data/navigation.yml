@@ -14,6 +14,8 @@
       link: /intia-koffer/beschaffen/
     - name: Prototypen
       link: /intia-koffer/prototypen/
+    - name: Anleitungen
+      link: /intia-koffer/anleitungen/
 - name: Werkzeuge
   dropdown:
     - name: Bausteine
