@@ -3,11 +3,8 @@ title_above: INTIA Koffer
 title: Anleitungen
 permalink: /intia-koffer/anleitungen/
 hero_tags: toppage
-subtitle: Anleitungen für den INTIA Koffer
+subtitle: Zum INTIA Koffer gibt es Video-Anleitungen für die verschiedenen Module und Elemente. Zum Beispiel erklärt der Technik-Fächer die einzelnen Technik-Bausteine und hilft dir, die Technik besser zu verstehen. Diese Anleitungen findest du auf dieser Seite. 
 ---
-## Video-Anleitungen
-
-Zum INTIA Koffer gibt es Video-Anleitungen für die verschiedenen Module und Elemente. Zum Beispiel erklärt der Technik-Fächer die einzelnen Technik-Bausteine und hilft dir, die Technik besser zu verstehen. Diese Anleitungen findest du auf dieser Seite.  
 
 ### Video-Anleitung 1: INTIA Koffer Überblick und Inhalte
 <div class="embed-responsive embed-responsive-16by9">
