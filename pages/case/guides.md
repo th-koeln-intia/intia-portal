@@ -1,11 +1,10 @@
 ---
-title: Anleitungen
 title_above: INTIA Koffer
+title: Anleitungen
 permalink: /intia-koffer/anleitungen/
-subtitle: |
-  Anleitungen für den INTIA Koffer
+hero_tags: toppage
+subtitle: Anleitungen für den INTIA Koffer
 ---
-
 ## Video-Anleitungen
 
 Zum INTIA Koffer gibt es Video-Anleitungen für die verschiedenen Module und Elemente. Zum Beispiel erklärt der Technik-Fächer die einzelnen Technik-Bausteine und hilft dir, die Technik besser zu verstehen. Diese Anleitungen findest du auf dieser Seite.  
@@ -87,7 +86,7 @@ Zum INTIA Koffer gibt es Video-Anleitungen für die verschiedenen Module und Ele
 
 
 
-### Video-Anleitung 12: INTIA Koffer Einführung der Programmierplättchen 
+### Video-Anleitung 12: INTIA Koffer Einführung der Programmierplättchen
 <div class="embed-responsive embed-responsive-16by9";style="padding:50% 0 0 0;position:relative;">
   <iframe src="https://player.vimeo.com/video/848382875?h=73f70f606e" class="embed-responsive-item" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 </div>  
