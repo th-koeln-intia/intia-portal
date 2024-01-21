@@ -60,9 +60,9 @@
 - name: 'Erfindungsmemory'
   sectorID: 2
   ringID: 5
-  stateID: 2
+  stateID: 1
   active: true
-  link: '#'
+  link: 'erfindungsmemory'
   moved: 0
 - name: 'Smiley Feedback'
   sectorID: 0
@@ -104,5 +104,5 @@
   ringID: 3
   stateID: 2
   active: true
-  link: '#'
+  link: 'photorecherche'
   moved: 0

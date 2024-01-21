@@ -4,7 +4,9 @@ title_above: Methode
 published: true
 title: Photorecherche
 english_title: Photorecherche
-subtitle: "Ein Set aus einer Polaroid-Kamera und Notizpapier wird benutzt, um im Alltag nervige Situationen zu fotografieren und zu beschreiben. Das Sofortbild wird auf das Papier aufgeklebt und die nervige Situation darauf beschrieben. ---
+last_update: 21.01.2024
+subtitle: "Ein Set aus einer Polaroid-Kamera und Notizpapier wird benutzt, um im Alltag nervige Situationen zu fotografieren und zu beschreiben. Das Sofortbild wird auf das Papier aufgeklebt und die nervige Situation darauf beschrieben."
+---
 
 <table class="tb">
     <tr>
