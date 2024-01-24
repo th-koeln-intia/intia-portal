@@ -39,18 +39,14 @@ subtitle: "Ein Set aus einer Polaroid-Kamera und Notizpapier wird benutzt, um im
     <tr>
       <td><strong>Dauer</strong></td>
       <td>
-      <strong>
-      Vorbereitung: Zusammenstellung des Photo Probe Kits, ggf. Versand an die Zielgruppe. <br>
-      <br>
-      Durchführung: mehrere Tage<br>
-      <br>
-      Nachbereitung: Einsammeln der Photo Probe Kits<br>
-      </strong>
+      <strong>Vorbereitung:</strong> Zusammenstellung des Photo Probe Kits, ggf. Versand an die Zielgruppe. <br>
+      <strong>Durchführung:</strong> mehrere Tage<br>
+      <strong>Nachbereitung:</strong> Einsammeln der Photo Probe Kits
       </td>
     </tr>
     <tr>
       <td><strong>Material</strong></td>
-      <td>Polaroid Sofortbildkamera, DinA 4 papier als Notizpapier, Klebstoff, Stifte, </td>
+      <td>Polaroid Sofortbildkamera, DIN A4 Papier als Notizpapier, Klebstoff, Stifte </td>
     </tr>
     <tr>
       <td><strong>Sonstiges</strong></td>
@@ -62,8 +58,11 @@ subtitle: "Ein Set aus einer Polaroid-Kamera und Notizpapier wird benutzt, um im
 ## Beschreibung
 
 
-Ein Photo Probe Kit  wird pro teilnehmender Person aus der Zielgruppe zusammengestellt und an die Personen verteilt. Sie werden eingeladen, an mehreren Tagen einer Woche im Alltag auf sie nervende Situationen zu achten udn von dieser Situation ein Photo zu machen. DAs Foto dürfen sie auf ein Papier aufkleben und sie werden gebeten, darunter kurz die nervende Situation zu beschreiben.  Das ist der erste Schritt zur Bedarfsanalyse. Diese Methode ist auch für Menschen geeignet, die keine Entwickler:innen sind. 
-
+Ein Photo Probe Kit wird pro teilnehmender Person aus der Zielgruppe zusammengestellt und an die Personen verteilt. 
+Sie werden eingeladen, an mehreren Tagen einer Woche darauf zu achten, was sie nervt. Von dieser Situation sollen
+sie ein Foto machen.  Das Foto dürfen sie auf ein Papier aufkleben und beschreiben mündlich oder in schriftlichen 
+Sätzen kurz die nervende Situation. Das ist der erste Schritt zur Bedarfsanalyse. Diese Methode ist auch für 
+Menschen geeignet, die keine Entwickler:innen sind.
 
 
 ## Durchführung
@@ -72,25 +71,39 @@ Ein Photo Probe Kit  wird pro teilnehmender Person aus der Zielgruppe zusammenge
 
 #### Vorbereitung
 
-1. Photo Probe Kits erstellen und verteilen. 
- 
+Photo Probe Kits erstellen und verteilen. Sie bestehen aus:
+1.	Polaroid-Einmalkamera
+2.	gelbes DIN A4 Papier
+3.	Stifte
+4.	Klebstoff oder Klebstreifen
+5.	3 große FlipChart-Bögen
 
+ 
 #### Durchführung
 
-Teilnehmende anleiten: Bitte fotografiert in der nächsten Woche an verschiedenen Tagen Situationen, die euch nerven. Nehmt das Foto, klöebt es auf das Papier und schreibt kurz darunter, warum diese Situation euch nervt. 
-Zum nächsten Treffen darum bitten, die beklebten und beschrifteten Papiere mit zubringen. 
-Alle Teilnehmende werden beim nächsten Treffen gebeten, 2 Nervsituationen auszuwählen, die entsprechenden Papiere allen zu zeigen und die Nervsituation zu erläutern.Die Plättchen können gemeinsam in der Gruppe oder alleine für sich gelegt werden. Dazu ein Beispiel:
+Teilnehmende anleiten: Bitte fotografiert in der nächsten Woche an verschiedenen Tagen Situationen, die euch nerven. 
+Nehmt das Foto, klebt es auf das Papier und schreibt kurz darunter, warum diese Situation euch nervt. 
+Zum nächsten Treffen sollen alle die beklebten und beschrifteten Papiere mitbringen. Alle Teilnehmende werden 
+beim nächsten Treffen gebeten, 2 Nerv-Situationen auszuwählen, die entsprechenden Papiere allen zu zeigen und die 
+2 Nerv-Situationen zu erläutern. Die Gruppe fragt nach, bis sie das Nervige an der Situation gut verstanden hat. 
+Die Moderation fragt die Gruppe, wie sie diese Nerv-Situation betiteln will, klebt das gelbe Papier auf einen 
+großen FlipChart Bogen und schreibt den Titel drüber.
+
+Dazu ein Beispiel: Ein Mädchen möchte die Betreuerin sprechen, geht zu deren Büro, diese ist verschlossen. 
+Das Mädchen ärgert sich, dass sie die Betreuerin nicht findet. Sie fotografiert die verschlossene Tür. 
+Die Polaroidkamera druckt das Bild. Das Mädchen nimmt das Bild, klebt es auf das gelbe DIN A4 Papier oben 
+und schreibt drunter: "Ich wollte die Betreuerin sprechen, aber sie ist nicht in ihrem Büro. 
+ich weiß nicht, wo sie ist. Das nervt mich."
 
 
 #### Nachbereitung
 
-Aus den vorgesterllten NervSituationen können ein, zwei oder drei Situationen ausgewählt werden, die die gruppe in einem intensiveren ideenentwicklungsprozess einer Läösung oder veränderung zuführen will. 
+Die Kameras und das Material werden eingesammelt.
+
+Aus den vorgestellten Nerv-Situationen der einzelnen Teilnehmenden wählt die gesamte Gruppe ein, 
+zwei oder drei Situationen aus (beispielsweise durch das anonyme Kleben von 3 Klebepunkten pro 
+Person auf die bevorzugten gelben Papiere), die die Gruppe in einem intensiveren Ideenentwicklungsprozess 
+einer Lösung oder Veränderung zuführen will.
 
 
-### Für Fachkäfte: Hinweise zur Durchführung der Methode „Analoges Prototypisieren“
-<details><summary><strong>Hinweise hier auf- und zuklappen</strong></summary><blockquote>
-  <details><summary>
 
-</summary><blockquote>
-  </blockquote></details>
-    </blockquote></details>
