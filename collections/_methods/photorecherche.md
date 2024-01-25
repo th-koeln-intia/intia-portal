@@ -67,8 +67,6 @@ Menschen geeignet, die keine Entwickler:innen sind.
 
 ## Durchführung
 
-**Gezieltes Prototypisieren:** Mit dieser Methode lassen sich (bereits entwickelte) Ideen konkret darstellen. Diese Ideen können das Ergebnis einer kreativen Phase sein. Die Ideen können an Regeln oder Bedingungen gebunden sein. Mit dieser Methode kann man also die Ideen, die Regeln und die Bedingungen abbilden.
-
 #### Vorbereitung
 
 Photo Probe Kits erstellen und verteilen. Sie bestehen aus:
