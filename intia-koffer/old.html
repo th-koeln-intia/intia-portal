@@ -1,0 +1,699 @@
+<!--
+The Default layout that everything is using 
+-->
+
+<!-- Control the width with, if sidebars or menus should appear   -->
+
+
+<!DOCTYPE html>
+<html id="default-layout">
+    <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content=#ffffff>
+    <link rel="stylesheet" href="/assets/styles/main.css">
+    <link rel="shortcut icon" type="image/png"
+           href="/favicon.png" 
+    />
+    <script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.8.0/dist/alpine.min.js" defer></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma-carousel@4.0.3/dist/css/bulma-carousel.min.css">
+    
+        <script src="https://d3js.org/d3.v5.min.js"></script>
+        <!--<script src="https://methods.intia.de/src/radar/radar.js"></script>-->
+        <script src="/assets/js/radar.js"></script>
+        <!--<link rel="stylesheet" href="https://methods.intia.de/src/radar/radar.css" />-->
+    
+    
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma-social@1/bin/bulma-social.min.css">
+    
+    <!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Über den INTIA-Koffer | INTIA</title>
+<meta name="generator" content="Jekyll v4.3.3" />
+<meta property="og:title" content="Über den INTIA-Koffer" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="A plattform for methods, techniques, toolkits and patterns for participative development in a social context." />
+<meta property="og:description" content="A plattform for methods, techniques, toolkits and patterns for participative development in a social context." />
+<link rel="canonical" href="/intia-koffer/old" />
+<meta property="og:url" content="/intia-koffer/old" />
+<meta property="og:site_name" content="INTIA" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Über den INTIA-Koffer" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebPage","description":"A plattform for methods, techniques, toolkits and patterns for participative development in a social context.","headline":"Über den INTIA-Koffer","url":"/intia-koffer/old"}</script>
+<!-- End Jekyll SEO tag -->
+<!-- head scripts -->
+<script src="https://unpkg.com/@botpoison/browser"></script>
+<script type="module" src="/assets/js/main.js"async></script></head>
+
+    <body>
+        <nav class="navbar is-hidden-print is-primary is-fixed-top" x-data="{ openNav: false }">
+    <div class="container">
+        <div class="navbar-brand">
+            <a href="/" class="">
+                <picture>
+                    <source media="(max-width: 1300px)" srcset="/assets/img/logo-short.png">
+                    <img id="navbar-logo" src="/assets/img/logo-horizontal-short.png">
+                </source></picture>     
+            </a>
+            <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navMenu" :class="{ 'is-active': openNav }" x-on:click="openNav = !openNav">
+                <span aria-hidden="true"></span>
+                <span aria-hidden="true"></span>
+                <span aria-hidden="true"></span>
+            </a>
+        </div>
+        <div class="navbar-menu" id="navMenu" :class="{ 'is-active': openNav }">
+            <div id="SearchOverlay" class="searchbar-overlay navbar-end buttons">
+                <div class="navbar-item searchbar">
+                    <div class="field">
+                        <div id="search-container" class="control">
+                          <input class="input search-input" type="text" id="search-input" placeholder="Suchbegriff eintippen">
+                        </div>
+                    </div>
+                    <ul id="results-container" class="search-result-list"></ul>
+                </div>
+                <div class="navbar-end">
+                    <div class="navbar-item navbar-search">
+                        <a id="closeSearch">
+                            <span class="icon">
+                                <i class="fa-solid icon-remove"></i>
+                            </span>
+                        </a>  
+                    </div>
+                </div>
+            </div>
+            <div id="navmenu" class="navbar-end buttons">
+                
+                
+                
+                <div class="navbar-item has-text-left button is-rounded is-dark has-dropdown is-hoverable        ">
+                    
+                    
+                     <a for="navbar-click" class="navbar-link">Über INTIA</a>
+                    
+                    <div class="navbar-dropdown">
+                        
+                        <a href="/ueber/plattform" class="navbar-item button is-rounded is-dark  ">Plattform</a>
+                        
+                        <a href="/ueber/projekt/" class="navbar-item button is-rounded is-dark  ">Projekt</a>
+                        
+                        <a href="/ueber/barrierearm/" class="navbar-item button is-rounded is-dark  ">Barrierearm</a>
+                        
+                    </div>
+                </div>
+                
+                
+                
+                <div class="navbar-item has-text-left button is-rounded is-dark has-dropdown is-hoverable          ">
+                    
+                    
+                     <a for="navbar-click" class="navbar-link">INTIA Koffer</a>
+                    
+                    <div class="navbar-dropdown">
+                        
+                        <a href="/intia-koffer/" class="navbar-item button is-rounded is-dark  ">Über</a>
+                        
+                        <a href="/intia-koffer/beschaffen/" class="navbar-item button is-rounded is-dark  ">Beschaffen</a>
+                        
+                        <a href="/intia-koffer/prototypen/" class="navbar-item button is-rounded is-dark  ">Prototypen</a>
+                        
+                        <a href="/intia-koffer/anleitungen/" class="navbar-item button is-rounded is-dark  ">Anleitungen</a>
+                        
+                    </div>
+                </div>
+                
+                
+                
+                <div class="navbar-item has-text-left button is-rounded is-dark has-dropdown is-hoverable      ">
+                    
+                    
+                     <a for="navbar-click" class="navbar-link">Werkzeuge</a>
+                    
+                    <div class="navbar-dropdown">
+                        
+                        <a href="/werkzeuge/bausteine/" class="navbar-item button is-rounded is-dark  ">Bausteine</a>
+                        
+                        <a href="/werkzeuge/methoden/" class="navbar-item button is-rounded is-dark  ">Methoden</a>
+                        
+                    </div>
+                </div>
+                
+                
+                
+                <div class="navbar-item has-text-left button is-rounded is-dark has-dropdown is-hoverable      ">
+                    
+                    
+                     <a for="navbar-click" class="navbar-link">Wissen</a>
+                    
+                    <div class="navbar-dropdown">
+                        
+                        <a href="/wissen/woerterbuch/" class="navbar-item button is-rounded is-dark  ">Wörterbuch</a>
+                        
+                        <a href="/wissen/publikationen/" class="navbar-item button is-rounded is-dark  ">Publikationen</a>
+                        
+                    </div>
+                </div>
+                
+                
+                
+                <div class="navbar-item has-text-left button is-rounded is-dark has-dropdown is-hoverable      ">
+                    
+                    
+                     <a for="navbar-click" class="navbar-link">Blog</a>
+                    
+                    <div class="navbar-dropdown">
+                        
+                        <a href="/blog/aktivitaeten/" class="navbar-item button is-rounded is-dark  ">Aktivitäten</a>
+                        
+                        <a href="/blog/fachartikel/" class="navbar-item button is-rounded is-dark  ">Fachartikel</a>
+                        
+                    </div>
+                </div>
+                
+                
+                
+                <div class="navbar-item has-text-left button is-rounded is-dark has-dropdown is-hoverable      ">
+                    
+                    
+                     <a for="navbar-click" class="navbar-link">Mitmachen</a>
+                    
+                    <div class="navbar-dropdown">
+                        
+                        <a href="/mitmachen/netzwerk/" class="navbar-item button is-rounded is-dark  ">Netzwerk</a>
+                        
+                        <a href="/mitmachen/kontakt/" class="navbar-item button is-rounded is-dark  ">Kontakt</a>
+                        
+                    </div>
+                </div>
+                
+                
+                
+   
+                    <div class="navbar-item navbar-search">
+                        <a id="openSearch">
+                            <span class="icon">
+                                <i class="fa-solid icon-search"></i>
+                            </span>
+                        </a>  
+                    </div>
+                
+            </div>
+        </div>
+    </div>
+</nav>
+
+<section class="breadcrumb-section green-version">
+    <div class="container breadcrumb-container">
+        <nav class="breadcrumb has-arrow-separator" aria-label="breadcrumbs">
+            <ul>
+            
+            <li><a href="/">INTIA</a></li>
+            
+                
+                    <li><a>INTIA-Koffer</a></li>
+                
+                
+                <li><a href="#">Über den INTIA-Koffer</a></li>
+                
+            
+            </ul>
+        </nav>
+    </div>
+</section>
+
+
+  <!-- Script pointing to search-script.js -->
+  <script src="/assets/js/search.js" type="text/javascript"></script>
+  
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/search.json',
+    searchResultTemplate: '<li><a class="search-item" href="{url}">{title}</a></li>'
+  })
+  </script>
+        <div class="arrow-image is-pulled-left is-hidden-mobile">
+            <img id="scroll-up" src="/assets/img/arrow-down.png" alt="placeholder">
+            <img id="scroll-down" src="/assets/img/arrow-down.png" alt="placeholder" class="is-pointed-down">     
+        </div>
+        <div class="accessibility-image is-pulled-left is-hidden-mobile">
+                <a id="changeFontsize" class="button is-rounded is-dark">
+                    <span class="icon is-small">
+                        <i class="fas icon-font-size fa-xs invert"></i>
+                        </span> 
+                    </a>    
+        </div>
+        
+            <section class="hero is-hidden-print  is-medium   toppage ">
+    <div class="hero-body">
+        <div class="container">
+            
+                <h5 class="overtitle">INTIA-Koffer</h5>
+            
+            <h1 class=" title-with-overtitle ">Über den INTIA-Koffer</h1>
+            
+            
+                <h4>Dieser Use Case zeigt beispielhaft, wie Jugendliche im Projekt INTIA mit dem INTIA-Koffer gearbeitet haben. Er zeigt, mit welchen Methoden und Tools sie im Bedürfnisraum Alltagsprobleme identifiziert haben und wie im Lösungsraum anhand der Koffer-Bestandteile für eines dieser Probleme  eine Lösung entwickelt werde konnte.
+</h4>
+            
+            
+            <div class="buttons-hero has-text-centered">
+                
+
+                <a href="/intia-koffer/" class="button is-rounded is-dark { % if item.link == page.url % } { % endif % }">
+                    <span class="icon is-small">
+                        <i class="fas fa-chevron-left"></i>
+                    </span>
+                    <span>Zur Übersicht</span>
+                </a>
+                <a onclick="window.print()" class="button is-rounded is-dark { % if item.link == page.url % } { % endif % }">
+                    <span>Als PDF Herunterladen</span>
+                    <span class="icon is-small">
+                        <i class="fas fa-chevron-right"></i>
+                    </span>
+                </a>
+            </div>
+        </div>
+    </div>
+</section>
+        
+        <div id="main" class="content-wrapper has-background-primary-light">
+            
+            
+            <div class="columns is-centered">
+                <div id="content" class="container column is-10-desktop is-12-tablet">
+                    
+                    <h2 id="was-ist-der-intia-koffer">Was ist der INTIA-Koffer?</h2>
+<p>Der INTIA-Koffer ist eine Art Werkzeugkoffer. Man könnte ihn auch als kreative Box bezeichnen. Seine Inhalte sorgen für eine schnelle und selbstständige Einarbeitung und können sofort für die Anwendung genutzt werden.
+Er besteht aus verschiedenen analogen und digitalen Elementen:
+<br></p>
+<ul>
+<li>eine Sammlung an grundlegenden Technik-Bausteinen (Smart Home Geräte)</li>
+<li>ein Escape Game aus den Bausteinen des Koffers</li>
+<li>umfangreiche Anleitungen</li>
+<li>eine Methodensammlung</li>
+<li>Beispiele für ganze Prozesse einer kreativen und inklusiven Technik-Entwicklung
+<br>
+</li>
+</ul>
+<p>Der INTIA-Koffer führt spielerisch und niederschwellig an moderne Technik heran. Außerdem kann er dabei helfen, Ideen und Lösungen für den eigenen Alltag zu entwickeln. Dabei kann für Jugendliche oder andere Klient:innen zum Beispiel die Zielerreichung ihrer Selbstwirksamkeit und Selbstständigkeit vereinfacht werden. Andererseits können auch Fachkräfte ihre Arbeitsprozesse durch technische Hilfsmittel ergänzen und so ihren Arbeitsalltag erleichtern.</p>
+<p>Die Ideen des INTIA-Koffers sind vielseitig: Er eignet sich für alle, ist mobil, offen, kostengünstig und modular. Dank seiner Modularität kann jeder Mensch den INTIA-Koffer in einfachen Schritten zu einem personalisierten Koffer machen. Damit du aber nicht selber jedes einzelne Element aussuchen und ausprobieren musst, haben wir hier Erweiterungen für deinen INTIA-Koffer zusammengestellt.</p>
+<a href="/intia-koffer/kaufen" class="button highlighter-column-button is-rounded is-dark">
+      <span>INTIA-Koffer kaufen</span>
+      <span class="icon is-small">
+        <i class="fas fa-chevron-right fa-xs"></i>
+      </span>
+  </a>
+<br>
+<br>
+<br>
+<div class="columns is-centered is-desktop">
+<div class="column is-offset-1">
+<figure>
+  <img src="/assets/img/intia-case/intia-case-2.jpg" alt="Zettel mit technischen Begriffen liegen auf einem Tisch. Dort steht auch ein Bügeleisen." style="height:350px;">
+</figure>
+</div>
+<div class="column">
+<figure>
+  <img src="/assets/img/intia-case/intia-case-1.jpg" alt="Zettel mit technischen Begriffen liegen auf einem Tisch. Dort steht auch ein Bügeleisen." style="height:350px;">
+</figure>
+</div>
+</div>
+<br>
+<h2 id="prinzipien-des-intia-koffers">Prinzipien des INTIA-Koffers</h2>
+<p>Die Ideen des INTIA-Koffers sind vielseitig: Er kann <a href="/wissen/woerterbuch/partizipation/">partizipativ</a> Probleme im Alltag aufdecken und Ideen entwickeln, wie man diese Probleme lösen kann. Am Ende kann diese Idee umgesetzt werden. Die Idee eines Koffers hatten schon viele vorher. Es gibt aber einige Besonderheiten des INTIA-Koffers:</p>
+<div class="container">
+<div class="columns is-multiline is-centered">
+<div class="column is-4 has-text-centered">
+<div class="icon callout-icon">
+<p><i class="with-zone fas icon-for-all fa-4x"></i></p>
+</div>
+<p class="title is-5">Für Alle</p>
+<div class="content">
+<p>Interdisziplinär entwickelt mit Menschen aus verschiedenen Zusammenhängen und Umständen.<br>
+</p>
+</div>
+</div>
+<div class="column is-4 has-text-centered">
+<div class="icon callout-icon">
+<p><i class="with-zone fas icon-mobile fa-4x"></i></p>
+</div>
+<p class="title is-5">Mobil</p>
+<div class="content">
+<p>Kann überall mit hingenommen werden und ist schnell einsatzbereit.<br>
+</p>
+</div>
+</div>
+<div class="column is-4 has-text-centered">
+<div class="icon callout-icon">
+<p><i class="with-zone fas icon-open fa-4x"></i></p>
+</div>
+<p class="title is-5">Offen</p>
+<div class="content">
+<p>Wer möchte, kann den Koffer weiterentwickeln und verändern – dank <a href="/wissen/woerterbuch/open-source/">Open Source</a> und Open Educational Resources.<br>
+</p>
+</div>
+</div>
+<div class="column is-4 has-text-centered">
+<div class="icon callout-icon">
+<p><i class="with-zone fas icon-cost fa-4x"></i></p>
+</div>
+<p class="title is-5">Günstig</p>
+<div class="content">
+<p>Die frei zugänglichen Komponenten können mit preiswerten Smart-Home-Geräten ergänzt werden.<br>
+</p>
+</div>
+</div>
+<div class="column is-4 has-text-centered">
+<div class="icon callout-icon">
+<p><i class="with-zone fas icon-modular fa-4x"></i></p>
+</div>
+<p class="title is-5">Modular</p>
+<div class="content">
+<p>Der Koffer ist erweiterbar, und alle Bausteine können leicht ausgetauscht werden.<br>
+</p>
+</div>
+</div>
+</div>
+</div>
+<h2 id="was-steckt-im-intia-koffer">Was steckt im INTIA-Koffer?</h2>
+<p>Hier sind alle Elemente aufgelistet, die sich im INTIA-Koffer befinden.</p>
+<table class="tb">
+    <tr>
+       <th>Anleitungen und Lehrmaterial</th>
+       <td>
+          <ul>
+          <li>Inhaltsliste</li>
+          <li>Begrüßungsschreiben</li>
+          <li>Anleitung für einen vollständigen Kreativprozess</li>
+          <li>Einführung mit dem Escape Game</li>
+          <li>“Wie entwickle ich mein eigenes Escape Game”</li>
+          <li>Node-Red Einführungen</li>
+          <li>Node-Red Spickzettel</li>
+          <li>Lehrmaterial zum Erlernen des Umgangs mit der Technik</li>
+          </ul>
+        </td>
+    </tr>
+    <tr>
+        <th>Methoden</th>
+        <td>
+          <ul>
+          <li>INTIA-Methodensammlung</li>
+          <li>INTIA-Nerv-Tagebuch</li>
+          <li>INTIA-Impulskarten</li>
+          </ul>
+        </td>
+    </tr>
+    <tr>
+       <th>Bausteine</th>
+       <td>
+          <ul>
+          <li>Mini-Computer</li>
+          <li>Lampe</li>
+          <li>Knöpfe</li>
+          <li>Türkontakt</li>
+          <li>Steckdose</li>
+          <li>Temperatursensor</li>
+          <li>Erschütterungssensor</li>
+          <li>Bewegungssensor</li>
+          <li>verschließbare Kiste</li>
+          <li>Keypad</li>
+          </ul>
+        </td>
+    </tr>
+    <tr>
+       <th>Sonstiges</th>
+       <td>
+          <ul>
+          <li>Netzteile</li>
+          <li>Lampenfassung</li>
+          <li>Display</li>
+          </ul>
+        </td>
+    </tr>
+</table>
+<br>
+Eine genauere Liste mit allen Elementen mit direktem Link zum bestellen findet man hier:
+<br><br>
+<a href="/intia-koffer/kaufen" class="button highlighter-column-button is-rounded is-dark">
+      <span>INTIA-Koffer kaufen</span>
+      <span class="icon is-small">
+        <i class="fas fa-chevron-right fa-xs"></i>
+      </span>
+  </a>
+<h2 id="intia-erweiterungen">INTIA-Erweiterungen</h2>
+<p>Der INTIA-Koffer kann durch INTIA-Erweiterungen vergrößert werden. Je nach <a href="/wissen/woerterbuch/bedarf/">Bedarf</a> und Interesse können so unterschiedliche Elemente nachgekauft oder ergänzt werden. Die Erweiterungen können nicht alleine genutzt werden.</p>
+<div class="highlighter     ">  
+<h3 id="es-gibt-bisher-folgende-intia-erweiterungen">Es gibt bisher folgende INTIA-Erweiterungen:</h3>
+<div class="columns">
+<div class="column is-one-third has-text-centered">
+  <figure class="image">
+    <img class="with-zone" src="/assets/img/intia-case/icons/sl_touch_400px.png">
+  </figure>
+      <h3><center>Knopf-Set</center></h3>
+      Eine Auswahl verschiedener Knöpfe, Schalter und Fernbedienungen.
+</div>
+<div class="column is-one-third has-text-centered">
+  <figure class="image">
+    <img class="with-zone" src="/assets/img/intia-case/icons/sl_smart-door_400px.png">
+  </figure>
+      <h3><center>Sensor-Set</center></h3>
+      Eine Auswahl verschiedener Sensoren. Bewegungsmelder, Türkontakte, Temperatursensoren und mehr.
+</div>
+<div class="column is-one-third has-text-centered">
+  <figure class="image">
+    <img class="with-zone" src="/assets/img/intia-case/icons/sprachassistenz_schwarz_400px.png">
+  </figure>
+      <h3><center>Sprachassistenz-Set</center></h3>
+      Der Mini-Computer kann hiermit zu einem Sprachassistenten umgerüstet werden.
+</div>
+</div>
+</div>
+<h2 id="weitere-varianten">Weitere Varianten</h2>
+<p>Es gibt noch weitere Möglichkeiten und alternative Nutzungen des INTIA-Koffers. Zum einen die INTIA-Methodensammlung, zum anderen den INTIA-Koffer als Laborraum.</p>
+<div class="highlighter   highlighter-fit-image    ">  
+<div class="columns"> 
+<div class="highlighter-image column is-two-fifths">
+<figure class="image">
+<img src="/assets/img/intia-case/intia-case-1.jpg">             
+</figure>
+</div>
+<div class="highlighter-content column">
+<h3 id="intia-methodensammlung">INTIA-Methodensammlung</h3>
+<p>Dich interessieren vor allem die Methoden? Dann schau dir die INTIA-Methodensammlung an! Bald gibt es einen eigenen Bereich für deren Anleitungen und Materialien.</p>
+</div>
+</div>
+</div>
+<div class="highlighter   highlighter-fit-image    ">  
+<div class="columns"> 
+<div class="highlighter-image column is-two-fifths">
+<figure class="image">
+<img src="/assets/img/intia-case/intia_labor.jpg">             
+</figure>
+</div>
+<div class="highlighter-content column">
+<h3 id="intia-koffer-als-laborraum">INTIA-Koffer als Laborraum</h3>
+<p>Der INTIA-Koffer und die INTIA-Erweiterungen müssen nicht mobil genutzt werden. Du kannst auch einen ganzen Raum als Laborraum damit einrichten! Dort kannst du dann stationär und dauerhaft mit dem gesamten Material arbeiten. Du kannst den INTIA-Koffer und seine Erweiterungen natürlich auch in einen schon bestehenden MakerSpace oder Kreativ-Raum integrieren.</p>
+</div>
+</div>
+</div>
+
+                </div>
+            </div> 
+            
+        </div> 
+        
+            <footer class="footer is-hidden-print is-primary">
+    
+    <div class="container columns is-centered is-multiline is-bordered-bottom">
+        <div class="navbar-brand column is-full">
+            <a href="/" class="columns navbar-item">
+                <img class="column" src="/assets/img/logo-white.png">
+                <p class="calumn brand-title"></p>
+            </a>
+        </div>
+        <div class="column is-2">
+            <div class="title">www.intia.de</div>
+                TH-Köln | DITES<br>
+                Campus Südstadt<br>
+                Ubierring 48<br>
+                50678 Köln
+
+        </div>
+        
+        <div class="column ">
+            <div class="title">Site Map</div>
+            <div class="columns footer-nav">
+                
+                    <div class="column">
+                        <a href="" class="link"><strong>Über INTIA</strong></a>
+                        
+                        <div class="">
+                            
+                            <div class="">
+                                <a href="/ueber/plattform" class="link">Plattform</a>
+                            </div>
+                            
+                            <div class="">
+                                <a href="/ueber/projekt/" class="link">Projekt</a>
+                            </div>
+                            
+                            <div class="">
+                                <a href="/ueber/barrierearm/" class="link">Barrierearm</a>
+                            </div>
+                            
+                        </div>                                            
+                    
+                    </div>
+                
+                    <div class="column">
+                        <a href="" class="link"><strong>INTIA Koffer</strong></a>
+                        
+                        <div class="">
+                            
+                            <div class="">
+                                <a href="/intia-koffer/" class="link">Über</a>
+                            </div>
+                            
+                            <div class="">
+                                <a href="/intia-koffer/beschaffen/" class="link">Beschaffen</a>
+                            </div>
+                            
+                            <div class="">
+                                <a href="/intia-koffer/prototypen/" class="link">Prototypen</a>
+                            </div>
+                            
+                            <div class="">
+                                <a href="/intia-koffer/anleitungen/" class="link">Anleitungen</a>
+                            </div>
+                            
+                        </div>                                            
+                    
+                    </div>
+                
+                    <div class="column">
+                        <a href="" class="link"><strong>Werkzeuge</strong></a>
+                        
+                        <div class="">
+                            
+                            <div class="">
+                                <a href="/werkzeuge/bausteine/" class="link">Bausteine</a>
+                            </div>
+                            
+                            <div class="">
+                                <a href="/werkzeuge/methoden/" class="link">Methoden</a>
+                            </div>
+                            
+                        </div>                                            
+                    
+                    </div>
+                
+                    <div class="column">
+                        <a href="" class="link"><strong>Wissen</strong></a>
+                        
+                        <div class="">
+                            
+                            <div class="">
+                                <a href="/wissen/woerterbuch/" class="link">Wörterbuch</a>
+                            </div>
+                            
+                            <div class="">
+                                <a href="/wissen/publikationen/" class="link">Publikationen</a>
+                            </div>
+                            
+                        </div>                                            
+                    
+                    </div>
+                
+                    <div class="column">
+                        <a href="" class="link"><strong>Blog</strong></a>
+                        
+                        <div class="">
+                            
+                            <div class="">
+                                <a href="/blog/aktivitaeten/" class="link">Aktivitäten</a>
+                            </div>
+                            
+                            <div class="">
+                                <a href="/blog/fachartikel/" class="link">Fachartikel</a>
+                            </div>
+                            
+                        </div>                                            
+                    
+                    </div>
+                
+                    <div class="column">
+                        <a href="" class="link"><strong>Mitmachen</strong></a>
+                        
+                        <div class="">
+                            
+                            <div class="">
+                                <a href="/mitmachen/netzwerk/" class="link">Netzwerk</a>
+                            </div>
+                            
+                            <div class="">
+                                <a href="/mitmachen/kontakt/" class="link">Kontakt</a>
+                            </div>
+                            
+                        </div>                                            
+                    
+                    </div>
+                
+            </div>
+        </div>
+        
+        
+        <div class="column is-2">
+            <div class="title">Rechtliches</div>
+            <div class="">
+                
+                <div class="">
+                    <div>
+                        <a href="/about/" class="link">Über die Plattform</a>
+                    </div>
+                </div>
+                
+                <div class="">
+                    <div>
+                        <a href="https://www.th-koeln.de/hochschule/impressum_8159.php" class="link" target="_blank" rel="noopener noreferrer">Impressum</a>
+                    </div>
+                </div>
+                
+                <div class="">
+                    <div>
+                        <a href="https://www.th-koeln.de/hochschule/haftungshinweis_8277.php" class="link" target="_blank" rel="noopener noreferrer">Haftungshinweis</a>
+                    </div>
+                </div>
+                
+                <div class="">
+                    <div>
+                        <a href="https://www.th-koeln.de/hochschule/datenschutzhinweis_8279.php" class="link" target="_blank" rel="noopener noreferrer">Datenschutzhinweis</a>
+                    </div>
+                </div>
+                
+            </div>
+        </div>
+        
+    </div>
+        <div class="columns content is-small has-text-centered footer-logos">
+            <div class="column has-text-right"><div class="page-owner">
+                <p class="has-text-left">Eine Seite von</p>
+                <img src="/assets/img/logos/INTIA_Plattform_Logos_TH_weiss.png">
+                <img src="/assets/img/logos/INTIA_Plattform_Logos_Dites_weiss.png">
+            </div></div>
+            <div class="column has-text-left"><div class="page-sponsor">                
+                <img class="footer-logo-2" src="/assets/img/logos/BMBF_logo.jpg">
+            </div></div>
+        </div>
+        <div class="content is-small has-text-centered">
+            <p class="">INTIA, 2021</p>
+        </div>
+    
+</footer>
+
+        
+    </body>
+</html>

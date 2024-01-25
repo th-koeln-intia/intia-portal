@@ -1,0 +1,637 @@
+<!--
+The Default layout that everything is using 
+-->
+
+<!-- Control the width with, if sidebars or menus should appear   -->
+
+
+<!DOCTYPE html>
+<html id="default-layout">
+    <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content=#ffffff>
+    <link rel="stylesheet" href="/assets/styles/main.css">
+    <link rel="shortcut icon" type="image/png"
+           href="/favicon.png" 
+    />
+    <script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.8.0/dist/alpine.min.js" defer></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma-carousel@4.0.3/dist/css/bulma-carousel.min.css">
+    
+        <script src="https://d3js.org/d3.v5.min.js"></script>
+        <!--<script src="https://methods.intia.de/src/radar/radar.js"></script>-->
+        <script src="/assets/js/radar.js"></script>
+        <!--<link rel="stylesheet" href="https://methods.intia.de/src/radar/radar.css" />-->
+    
+    
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma-social@1/bin/bulma-social.min.css">
+    
+    <!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Erfindungsmemory | INTIA</title>
+<meta name="generator" content="Jekyll v4.3.3" />
+<meta property="og:title" content="Erfindungsmemory" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Ziel der Methode" />
+<meta property="og:description" content="Ziel der Methode" />
+<link rel="canonical" href="/werkzeuge/methoden/erfindungsmemory/" />
+<meta property="og:url" content="/werkzeuge/methoden/erfindungsmemory/" />
+<meta property="og:site_name" content="INTIA" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2024-01-25T16:31:55+00:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Erfindungsmemory" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","dateModified":"2024-01-25T16:31:55+00:00","datePublished":"2024-01-25T16:31:55+00:00","description":"Ziel der Methode","headline":"Erfindungsmemory","mainEntityOfPage":{"@type":"WebPage","@id":"/werkzeuge/methoden/erfindungsmemory/"},"url":"/werkzeuge/methoden/erfindungsmemory/"}</script>
+<!-- End Jekyll SEO tag -->
+<!-- head scripts -->
+<script src="https://unpkg.com/@botpoison/browser"></script>
+<script type="module" src="/assets/js/main.js"async></script></head>
+
+    <body>
+        <nav class="navbar is-hidden-print is-primary is-fixed-top" x-data="{ openNav: false }">
+    <div class="container">
+        <div class="navbar-brand">
+            <a href="/" class="">
+                <picture>
+                    <source media="(max-width: 1300px)" srcset="/assets/img/logo-short.png">
+                    <img id="navbar-logo" src="/assets/img/logo-horizontal-short.png">
+                </source></picture>     
+            </a>
+            <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navMenu" :class="{ 'is-active': openNav }" x-on:click="openNav = !openNav">
+                <span aria-hidden="true"></span>
+                <span aria-hidden="true"></span>
+                <span aria-hidden="true"></span>
+            </a>
+        </div>
+        <div class="navbar-menu" id="navMenu" :class="{ 'is-active': openNav }">
+            <div id="SearchOverlay" class="searchbar-overlay navbar-end buttons">
+                <div class="navbar-item searchbar">
+                    <div class="field">
+                        <div id="search-container" class="control">
+                          <input class="input search-input" type="text" id="search-input" placeholder="Suchbegriff eintippen">
+                        </div>
+                    </div>
+                    <ul id="results-container" class="search-result-list"></ul>
+                </div>
+                <div class="navbar-end">
+                    <div class="navbar-item navbar-search">
+                        <a id="closeSearch">
+                            <span class="icon">
+                                <i class="fa-solid icon-remove"></i>
+                            </span>
+                        </a>  
+                    </div>
+                </div>
+            </div>
+            <div id="navmenu" class="navbar-end buttons">
+                
+                
+                
+                <div class="navbar-item has-text-left button is-rounded is-dark has-dropdown is-hoverable        ">
+                    
+                    
+                     <a for="navbar-click" class="navbar-link">Über INTIA</a>
+                    
+                    <div class="navbar-dropdown">
+                        
+                        <a href="/ueber/plattform" class="navbar-item button is-rounded is-dark  ">Plattform</a>
+                        
+                        <a href="/ueber/projekt/" class="navbar-item button is-rounded is-dark  ">Projekt</a>
+                        
+                        <a href="/ueber/barrierearm/" class="navbar-item button is-rounded is-dark  ">Barrierearm</a>
+                        
+                    </div>
+                </div>
+                
+                
+                
+                <div class="navbar-item has-text-left button is-rounded is-dark has-dropdown is-hoverable          ">
+                    
+                    
+                     <a for="navbar-click" class="navbar-link">INTIA Koffer</a>
+                    
+                    <div class="navbar-dropdown">
+                        
+                        <a href="/intia-koffer/" class="navbar-item button is-rounded is-dark  ">Über</a>
+                        
+                        <a href="/intia-koffer/beschaffen/" class="navbar-item button is-rounded is-dark  ">Beschaffen</a>
+                        
+                        <a href="/intia-koffer/prototypen/" class="navbar-item button is-rounded is-dark  ">Prototypen</a>
+                        
+                        <a href="/intia-koffer/anleitungen/" class="navbar-item button is-rounded is-dark  ">Anleitungen</a>
+                        
+                    </div>
+                </div>
+                
+                
+                
+                <div class="navbar-item has-text-left button is-rounded is-dark has-dropdown is-hoverable      ">
+                    
+                    
+                     <a for="navbar-click" class="navbar-link">Werkzeuge</a>
+                    
+                    <div class="navbar-dropdown">
+                        
+                        <a href="/werkzeuge/bausteine/" class="navbar-item button is-rounded is-dark  ">Bausteine</a>
+                        
+                        <a href="/werkzeuge/methoden/" class="navbar-item button is-rounded is-dark  ">Methoden</a>
+                        
+                    </div>
+                </div>
+                
+                
+                
+                <div class="navbar-item has-text-left button is-rounded is-dark has-dropdown is-hoverable      ">
+                    
+                    
+                     <a for="navbar-click" class="navbar-link">Wissen</a>
+                    
+                    <div class="navbar-dropdown">
+                        
+                        <a href="/wissen/woerterbuch/" class="navbar-item button is-rounded is-dark  ">Wörterbuch</a>
+                        
+                        <a href="/wissen/publikationen/" class="navbar-item button is-rounded is-dark  ">Publikationen</a>
+                        
+                    </div>
+                </div>
+                
+                
+                
+                <div class="navbar-item has-text-left button is-rounded is-dark has-dropdown is-hoverable      ">
+                    
+                    
+                     <a for="navbar-click" class="navbar-link">Blog</a>
+                    
+                    <div class="navbar-dropdown">
+                        
+                        <a href="/blog/aktivitaeten/" class="navbar-item button is-rounded is-dark  ">Aktivitäten</a>
+                        
+                        <a href="/blog/fachartikel/" class="navbar-item button is-rounded is-dark  ">Fachartikel</a>
+                        
+                    </div>
+                </div>
+                
+                
+                
+                <div class="navbar-item has-text-left button is-rounded is-dark has-dropdown is-hoverable      ">
+                    
+                    
+                     <a for="navbar-click" class="navbar-link">Mitmachen</a>
+                    
+                    <div class="navbar-dropdown">
+                        
+                        <a href="/mitmachen/netzwerk/" class="navbar-item button is-rounded is-dark  ">Netzwerk</a>
+                        
+                        <a href="/mitmachen/kontakt/" class="navbar-item button is-rounded is-dark  ">Kontakt</a>
+                        
+                    </div>
+                </div>
+                
+                
+                
+   
+                    <div class="navbar-item navbar-search">
+                        <a id="openSearch">
+                            <span class="icon">
+                                <i class="fa-solid icon-search"></i>
+                            </span>
+                        </a>  
+                    </div>
+                
+            </div>
+        </div>
+    </div>
+</nav>
+
+<section class="breadcrumb-section green-version">
+    <div class="container breadcrumb-container">
+        <nav class="breadcrumb has-arrow-separator" aria-label="breadcrumbs">
+            <ul>
+            
+            <li><a href="/">INTIA</a></li>
+            
+                 
+                    
+                        <li><a>Werkzeuge</a></li>
+                    
+                        <li><a>Methoden</a></li>
+                    
+                
+                
+                <li><a href="#">Erfindungsmemory</a></li>
+                
+            
+            </ul>
+        </nav>
+    </div>
+</section>
+
+
+  <!-- Script pointing to search-script.js -->
+  <script src="/assets/js/search.js" type="text/javascript"></script>
+  
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/search.json',
+    searchResultTemplate: '<li><a class="search-item" href="{url}">{title}</a></li>'
+  })
+  </script>
+        <div class="arrow-image is-pulled-left is-hidden-mobile">
+            <img id="scroll-up" src="/assets/img/arrow-down.png" alt="placeholder">
+            <img id="scroll-down" src="/assets/img/arrow-down.png" alt="placeholder" class="is-pointed-down">     
+        </div>
+        <div class="accessibility-image is-pulled-left is-hidden-mobile">
+                <a id="changeFontsize" class="button is-rounded is-dark">
+                    <span class="icon is-small">
+                        <i class="fas icon-font-size fa-xs invert"></i>
+                        </span> 
+                    </a>    
+        </div>
+        
+            <section class="hero is-hidden-print  is-medium   subpage method pdf ">
+    <div class="hero-body">
+        <div class="container">
+            
+                <h5 class="overtitle">Methode</h5>
+            
+            <h1 class=" title-with-overtitle ">Erfindungsmemory</h1>
+            
+            
+                <h4>Auf Karten werden nach dem Memory-Prinzip technische Erfindungen und ihre Vorgänger dargestellt. Anders als beim bekannten Spiel Memory sind aber nicht zwei gleiche, sondern zwei unterschiedliche Gegenstände, Bilder oder Tätigkeiten abgebildet, die jodoch eine eindeutige gemeinsame Kerneigenschaft haben. Jugendliche kommen auf diese Weise in ein Gespräch über technischen Fortschritt, Entwicklungen oder Erfindungen und Zukunftsperspektiven.</h4>
+            
+            
+            <div class="buttons-hero has-text-centered">
+                
+
+                <a href="/werkzeuge/methoden//" class="button is-rounded is-dark { % if item.link == page.url % } { % endif % }">
+                    <span class="icon is-small">
+                        <i class="fas fa-chevron-left"></i>
+                    </span>
+                    <span>Zur Übersicht</span>
+                </a>
+                <a onclick="window.print()" class="button is-rounded is-dark { % if item.link == page.url % } { % endif % }">
+                    <span>Als PDF Herunterladen</span>
+                    <span class="icon is-small">
+                        <i class="fas fa-chevron-right"></i>
+                    </span>
+                </a>
+            </div>
+        </div>
+    </div>
+</section>
+        
+        <div id="main" class="content-wrapper has-background-primary-light">
+            
+            
+            <div class="columns is-centered">
+                <div id="content" class="container column is-10-desktop is-12-tablet">
+                    
+                    <table class="tb">
+    <tr>
+        <th><strong>Ziel der Methode</strong></th>
+        <th>
+<ul>
+<li>Für Fachkräfte: Kenntnisse und Einstellungen zu „Erfindungen“ und „Technik“ der Zielgruppe erfahren</li>
+<li>Für die Zielgruppe: Erfahren, was eine (technische) Erfindung ist, um an technischen Fortschritt, Entwicklungen oder Erfindungen sowie eventuell Zukunftsperspektiven heranzuführen</li>
+</ul>
+</th>
+    </tr>
+    <tr>
+      <td><strong>Phase</strong></td>
+      <td>Recherche</td>
+    </tr>
+    <tr>
+      <td><strong>Altersgruppe</strong></td>
+      <td>Abhängig von kognitiven Fähigkeiten; Möglichkeit der Anpassung an jüngere und ältere Altersgruppen</td>
+    </tr>
+    <tr>
+      <td><strong>Gruppengröße</strong></td>
+      <td>Eine Person als Moderation und bis zu 16 Teilnehmende (abhängig von Räumlichkeiten und kognitiven Fähigkeiten)<br>
+        (Es ist wichtig, eine gerade Anzahl an Mitwirkenden zu haben; dies kann ggf. durch die Moderation ausgeglichen werden.)</td>
+    </tr>
+    <tr>
+      <td><strong>Sozialform</strong></td>
+      <td>Partner:innenarbeit, (Klein-)Gruppe</td>
+    </tr>
+    <tr>
+      <td><strong>Dauer</strong></td>
+      <td>
+      <strong>
+      Vorbereitung: ca. 8 Stunden<br>
+      </strong>
+      <ul>
+        <li> Ggf. Erstellen der Memory-Karten, falls gewünscht (ein Arbeitstag)
+        </li>
+<li> 5 min. - ggf. Sortieren der Memory-Karten
+      </li>
+</ul>
+      <strong>
+      Durchführung: 30 min.<br>
+      </strong>
+       <ul>
+        <li> 5 min. - Austeilen/Ziehen der Memory-Karten
+        </li>
+<li> 5 min. - Suchen der Partner-Karten
+        </li>
+<li> 10 min. - Erklärung der Partner-Karten
+        </li>
+<li> 1 min. - Einsammeln der Karten
+      </li>
+</ul>
+      <strong>
+      Nachbereitung: ca. 1 Std.<br>
+      </strong>
+      <ul>
+        <li> 1 Std. - Dokumentation und Auswertung der Aussagen
+      </li>
+</ul>  
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Material</strong></td>
+      <td>
+    <ul>
+    <li>Ein Raum mit Platz zur freien Bewegung, um  „Paare zu bilden“ und im Kreis diskutieren zu können</li>
+    <li>„Memory-Karten“ (entweder von uns gestaltet oder selbst gestalten, je nach Umfang und Thematik)</li>    
+    </ul>
+    </td>
+    </tr>
+    <tr>
+      <td><strong>Sonstiges</strong></td>
+      <td>
+    <ul>
+    <li>(Er-)Kennen der Darstellung/Zeichnung der eigenen Karte und der Karten der anderen</li>
+    <li>Lesen der Beschriftung oder ggf. Unterstützung holen/ Zulassen, die Beschriftung vorgelesen zu bekommen</li>
+    <li>Offenheit, auf eine andere Person mit zugehöriger Partnerkarte zuzugehen</li>
+    <li>Kenntnisse über das Spiel  „Memory“ sind von Vorteil</li>
+    </ul>
+</td>
+</tr>
+</table>
+<h2 id="beschreibung">Beschreibung</h2>
+<p>Auf Karten werden nach dem Memory-Prinzip technische Erfindungen und ihre Vorgänger dargestellt – Hier also nicht zwei gleiche Gegenstände/Bilder/Tätigkeiten, sondern zwei unterschiedliche Gegenstände/Bilder/Tätigkeiten, die eine eindeutige gemeinsame Kerneigenschaft haben.</p>
+<p>Beispiel: Besen und Staubsauger, Kerze und Glühbirne, Pferdekutsche und Auto.</p>
+<p>Alle Teilnehmenden bekommen eine Karte zugewiesen bzw. ziehen eine Karte und müssen anschließend die Person mit der entsprechend zugehörigen Karte finden (freie Bewegung im Raum). Haben sich alle Paare gefunden, beschreiben sie (idealerweise jeweils gemeinsam) nacheinander (im Kreis stehend), was auf ihrer Karte zu sehen ist und worin die Partnerschaft zur anderen Karte besteht – dabei sollen vor allem die Kerneigenschaft und der Kernnutzen der Gegenstände/Bilder/Tätigkeiten genannt werden. Beim Beispiel  „Besen und Staubsauger“ wäre das Boden reinigen.</p>
+<p>Hierbei wird auf die Aussagen der Teilnehmenden geachtet, um herauszufinden, inwiefern</p>
+<p>a) die Zielgruppe in der Thematik Technik bewandert ist</p>
+<p>b) die Zielgruppe offen gegenüber neuen Tools/Methoden/Spielen ist</p>
+<p>c) die Zielgruppe die gemeinsame Kerneigenschaft zweier Gegenstände/Bilder/Tätigkeiten versteht</p>
+<p>d) die Zielgruppe die Thematik der „Erfindung“ und „Kerneigenschaft“ versteht</p>
+<p>Zusatz: Was sind weiterführende Entwicklungen? Beispiel: Wanduhr – Armbanduhr + Neue technische Lösung: Smartwatch</p>
+<p>So kommen die Jugendlichen in ein Gespräch über technischen Fortschritt, Entwicklungen oder Erfindungen und Zukunftsperspektiven.</p>
+<h2 id="durchfhrung">Durchführung</h2>
+<p><strong>Schritt-für-Schritt-Anleitung</strong></p>
+<ol>
+<li>Memorykarten erstellen</li>
+<li>Karten sortieren, um sicherzustellen, dass gemäß der Anzahl an Teilnehmenden ausreichend Memorykarten zur Verfügung stehen und immer Paare und keine einzelnen Karten vorhanden sind.</li>
+<li>Karten verdeckt von den Teilnehmenden ziehen lassen bzw. ggf. bei einer heterogenen Gruppe verdeckt austeilen, falls eine Unterscheidung von leichteren Paaren für schwächere Teilnehmende und schwereren Paaren für stärkere Teilnehmende gemacht werden soll. Das Aufstellen im Kreis, sodass sich alle Teilnehmenden sehen können, ist von Vorteil.</li>
+<li>Alle Teilnehmenden sehen sich ihre Karte an. Falls es Fragen zu einer Karte gibt, werden diese in einem Zweier-Gespräch kurz besprochen.</li>
+<li>Alle Teilnehmenden drehen ihre Karten um, sodass alle die anderen Karten sehen können – weiterhin idealerweise in Kreisaufstellung.</li>
+<li>Aufforderung, dass sich nun die Paare finden sollen. Wenn in dieser Phase Schwierigkeiten zu erkennen sind, kann geholfen werden. Alle Paare stellen sich jeweils nebeneinander, wieder im Kreis.</li>
+<li>Reihum wird jedes Paar von den Teilnehmenden einmal kurz erklärt: Was ist auf der eigenen Karte zu sehen? Warum bilden die beiden Karten ein Paar?</li>
+<li>Ggf. Blanko-Karten zur Verfügung stellen, um Vorschläge der Teilnehmenden direkt aufnehmen zu können.</li>
+<li>Karten werden wieder eingesammelt.</li>
+</ol>
+<h3 id="hinweise-zur-durchfhrung">Hinweise zur Durchführung</h3>
+<h4 id="offene-fragen">Offene Fragen:</h4>
+<ul>
+<li>Bei welchen Karten/Gegenständen/Bildern/Tätigkeiten gab es Schwierigkeiten/Probleme beim Verstehen der Karte an sich? Warum?</li>
+<li>Bei welchen Karten gab es Schwierigkeiten/Verständnisprobleme in der Paarfindung? Warum?</li>
+<li>Bei welchen Karten gab es Schwierigkeiten/Verständnisprobleme in der Erklärung selbst oder der Paarerklärung?</li>
+</ul>
+<h4 id="erfolgskriterien">Erfolgskriterien:</h4>
+<ul>
+<li>Die Teilnehmenden verstehen das Spiel. (Es gibt nach unserer Erklärung keine grundlegenden Verständnisfragen.)</li>
+<li>Die Teilnehmenden können den Gegenständen/Bildern/Tätigkeiten einen Kernnutzen und Kerneigenschaften zuordnen (Die Teilnehmenden finden ihre Partner-Karte ohne große Nachfragen bei den Moderierenden und ohne große sichtbare Schwierigkeiten.)</li>
+<li>Die Teilnehmenden kennen die technischen Gegenstände/Tätigkeiten (Es werden keine inhaltlichen Nachfragen zu den Karten an sich gestellt.)</li>
+<li>Die Teilnehmenden verstehen, was wir mit einer „technischen Erfindung“ meinen (Die Teilnehmenden nennen bekannte Weiterentwicklungen für einige Gegenstände/Tätigkeiten – Beispiel: Staubsaugerroboter und Smartwatch.)</li>
+</ul>
+<br>
+<br>
+<h3 id="fr-fachkrfte-hinweise-zur-durchfhrung-der-methode-erfindungsmemory">Für Fachkräfte: Hinweise zur Durchführung der Methode „Erfindungsmemory“</h3>
+<details><summary><strong>Hinweise hier auf- und zuklappen</strong></summary><blockquote>
+  <details><summary>In einer so genannten „Erfinderwerkstatt“ sollen die Teilnehmenden Bedarfe zur <a href="/wissen/woerterbuch/alltagsbewaeltigung/">Alltagsbewältigung</a> finden und anschließend Ideen für technische Alltagshilfen entwickeln. Das „Memory“ soll ein spielerischer Einsteig in die Erfinderwerkstatt sein. Es soll eine Alternative darstellen zu einem Vorabinterview, um die kognitiven Fähigkeiten und den Wissensstand der Teilnehmenden kennenzulernen. Diese Kenntnisse sind für die weitere Workshopgestaltung elementar. Eine spielerische „Befragung“ in der Gruppe mit Hilfe von konkreten Beispielen aus dem Alltag ersetzt die individuelle Befragung und vermeidet damit mehrere Umstände:<br>
+- hohen Zeitaufwand bei relativ wenig Insights<br>
+- eine Störung des Alltags, weil einzelne TN zeitweise aus „dem Betrieb“ genommen werden müssten, und<br>
+- ein gestelltes 1:1-Interviewsetting, in dem womöglich nicht wahrheitsgetreu geantwortet wird, sondern gemäß der erdachten Erwartungen/sozialen Erwünschtheit und auf Grund der Befragung an sich [(Hawthorne-Effekt)](https://de.wikipedia.org/wiki/Hawthorne-Effekt). 
+<p>Zum anderen befinden sich die Teilnehmenden hier in ihrer gewohnten Umgebung und können zudem in der Gruppensituation auf das Gesagte von anderen TN aufbauen. Dadurch kommen ggf. Aspekte zum Vorschein, die in einem 1:1-Interview nicht zur Sprache kommen würden (obwohl hierbei auch Gruppendynamiken entstehen können, die den Eindruck möglicherweise verfälschen (Teilnehmende äußern sich nicht, weil sie Angst haben, vor der Gruppe zu sprechen; Teilnehmende bejahen/verneinen Aussagen aufgrund des „Gruppenzwangs“, etc.).</p>
+<p>Im Grunde sollen die folgenden Fragen beantwortet werden:</p>
+<ul>
+<li>Kennen die Teilnehmenden das Spiel „Memory“? Und verstehen sie auf der Basis unserer Erklärung die geänderte Zuordnung von nicht bildlich GLEICHEN, sondern ZUGEHÖRIGEN Gegenständen/Bildern/Tätigkeiten?</li>
+<li>Können die Teilnehmenden anhand der Karten den Kernnutzen bzw. die Kerneigenschaften der Gegenstände/Bilder/Tätigkeiten erkennen und auf dieser Basis Paare bilden? Vermutlich kennen alle Teilnehmenden einen Staubsauger, aber ist ihnen auch klar, dass der Vorläufer ein Besen ist? → Können die Teilnehmenden auch erklären/sprachlich benennen, warum zwei Gegenstände/Bilder/Tätigkeiten ein Paar sind?</li>
+<li>Verstehen die Teilnehmenden den Begriff der „technischen Erfindung/Weiterentwicklung“ und nennen sie weiterführende Entwicklungen? Vermutlich kennen alle Teilnehmenden einen Staubsauger, aber wird aufgrund des Memorys auch die Weiterleitung zum Staubsaugerroboter gemacht?</li>
+<li>Wie verhalten sich die Teilnehmenden untereinander? Gehen sie aufeinander zu? Besprechen sie, warum die beiden Gegenstände/Bilder/Tätigkeiten ein Paar sind?</li>
+<li>Finden die Teilnehmenden die Paare? Muss ihnen dabei geholfen werden?</li>
+</ul>
+<br>
+<br>
+In einer Gruppenbefragung (anstelle von Einzelbefragungen) sind nur vereinzelt Antworten von den Gruppenführer:innen zu erwarten. Eine individuelle Ansprache in der Gruppe würde vermutlich zu einem verzerrten Eindruck führen. Hierfür bestünde zudem dieVoraussetzung, dass sich alle Teilnehmenden ohne (sprachliche) Barrieren vor der gesamten Gruppe äußern können. Durch die spielerische Form wird eine offensichtliche Einzelbefragung (in der Gruppe) umgangen und eine Gesprächssituation herbeigeführt, in der sich alle Teilnehmenden situativ und im Kontext äußern können. Damit wird nicht nur Hawthorne-Effekt umgangen (Menschen antworten/verhalten sich anders, wenn sie wissen, dass ihnen Fragen zu bestimmten Zwecken gestellt werden/sie beobachten werden), sondern anstelle einer Befragung kann in einer spielerischen Situation auch das direkte Verhalten im Kontext beobachtet werden. „‚Actions speak louder than words‘ is a common saying, and indeed you often observe that people behave differently than they say they would.“4 Vor diesem Hintergrund kann das Memory die Frage umgehen „Was kennst du/kennt ihr?“ und eröffnet den Raum für persönliche Äußerungen im Zusammengang mit einem Gerät (Beispiel: „Was ist das?“, „Was macht man damit?“, „Oh cool, das haben wir zu Hause.“). Des Weiteren kann die Reaktion der Teilnehmenden beim Betrachten der Karten (Verwunderung? Fragende Blicke? Freude? …) einfacher beobachtet werden.
+<br>
+<br>
+Nicht zuletzt erfahren die moderierenden Personen nicht nur etwas über die Teilnehmenden, sondern können auch den Inhalt der folgenden Workshoptermine über den Inhalt des Memorys verdeutlichen und Beispiele zeigen.
+<br>
+<br>
+Möglicher Nebeneffekt: Es können sich (falls noch nicht vorhanden) erste Gruppendynamiken zwischen den Teilnehmenden bilden. Damit könnte dies auch als Methode zum „Aufwärmen/Kennenlernen“ genutzt werden.</summary><blockquote>
+  </blockquote></details>
+    </blockquote></details>
+
+                </div>
+            </div> 
+            
+        </div> 
+        
+            <footer class="footer is-hidden-print is-primary">
+    
+    <div class="container columns is-centered is-multiline is-bordered-bottom">
+        <div class="navbar-brand column is-full">
+            <a href="/" class="columns navbar-item">
+                <img class="column" src="/assets/img/logo-white.png">
+                <p class="calumn brand-title"></p>
+            </a>
+        </div>
+        <div class="column is-2">
+            <div class="title">www.intia.de</div>
+                TH-Köln | DITES<br>
+                Campus Südstadt<br>
+                Ubierring 48<br>
+                50678 Köln
+
+        </div>
+        
+        <div class="column ">
+            <div class="title">Site Map</div>
+            <div class="columns footer-nav">
+                
+                    <div class="column">
+                        <a href="" class="link"><strong>Über INTIA</strong></a>
+                        
+                        <div class="">
+                            
+                            <div class="">
+                                <a href="/ueber/plattform" class="link">Plattform</a>
+                            </div>
+                            
+                            <div class="">
+                                <a href="/ueber/projekt/" class="link">Projekt</a>
+                            </div>
+                            
+                            <div class="">
+                                <a href="/ueber/barrierearm/" class="link">Barrierearm</a>
+                            </div>
+                            
+                        </div>                                            
+                    
+                    </div>
+                
+                    <div class="column">
+                        <a href="" class="link"><strong>INTIA Koffer</strong></a>
+                        
+                        <div class="">
+                            
+                            <div class="">
+                                <a href="/intia-koffer/" class="link">Über</a>
+                            </div>
+                            
+                            <div class="">
+                                <a href="/intia-koffer/beschaffen/" class="link">Beschaffen</a>
+                            </div>
+                            
+                            <div class="">
+                                <a href="/intia-koffer/prototypen/" class="link">Prototypen</a>
+                            </div>
+                            
+                            <div class="">
+                                <a href="/intia-koffer/anleitungen/" class="link">Anleitungen</a>
+                            </div>
+                            
+                        </div>                                            
+                    
+                    </div>
+                
+                    <div class="column">
+                        <a href="" class="link"><strong>Werkzeuge</strong></a>
+                        
+                        <div class="">
+                            
+                            <div class="">
+                                <a href="/werkzeuge/bausteine/" class="link">Bausteine</a>
+                            </div>
+                            
+                            <div class="">
+                                <a href="/werkzeuge/methoden/" class="link">Methoden</a>
+                            </div>
+                            
+                        </div>                                            
+                    
+                    </div>
+                
+                    <div class="column">
+                        <a href="" class="link"><strong>Wissen</strong></a>
+                        
+                        <div class="">
+                            
+                            <div class="">
+                                <a href="/wissen/woerterbuch/" class="link">Wörterbuch</a>
+                            </div>
+                            
+                            <div class="">
+                                <a href="/wissen/publikationen/" class="link">Publikationen</a>
+                            </div>
+                            
+                        </div>                                            
+                    
+                    </div>
+                
+                    <div class="column">
+                        <a href="" class="link"><strong>Blog</strong></a>
+                        
+                        <div class="">
+                            
+                            <div class="">
+                                <a href="/blog/aktivitaeten/" class="link">Aktivitäten</a>
+                            </div>
+                            
+                            <div class="">
+                                <a href="/blog/fachartikel/" class="link">Fachartikel</a>
+                            </div>
+                            
+                        </div>                                            
+                    
+                    </div>
+                
+                    <div class="column">
+                        <a href="" class="link"><strong>Mitmachen</strong></a>
+                        
+                        <div class="">
+                            
+                            <div class="">
+                                <a href="/mitmachen/netzwerk/" class="link">Netzwerk</a>
+                            </div>
+                            
+                            <div class="">
+                                <a href="/mitmachen/kontakt/" class="link">Kontakt</a>
+                            </div>
+                            
+                        </div>                                            
+                    
+                    </div>
+                
+            </div>
+        </div>
+        
+        
+        <div class="column is-2">
+            <div class="title">Rechtliches</div>
+            <div class="">
+                
+                <div class="">
+                    <div>
+                        <a href="/about/" class="link">Über die Plattform</a>
+                    </div>
+                </div>
+                
+                <div class="">
+                    <div>
+                        <a href="https://www.th-koeln.de/hochschule/impressum_8159.php" class="link" target="_blank" rel="noopener noreferrer">Impressum</a>
+                    </div>
+                </div>
+                
+                <div class="">
+                    <div>
+                        <a href="https://www.th-koeln.de/hochschule/haftungshinweis_8277.php" class="link" target="_blank" rel="noopener noreferrer">Haftungshinweis</a>
+                    </div>
+                </div>
+                
+                <div class="">
+                    <div>
+                        <a href="https://www.th-koeln.de/hochschule/datenschutzhinweis_8279.php" class="link" target="_blank" rel="noopener noreferrer">Datenschutzhinweis</a>
+                    </div>
+                </div>
+                
+            </div>
+        </div>
+        
+    </div>
+        <div class="columns content is-small has-text-centered footer-logos">
+            <div class="column has-text-right"><div class="page-owner">
+                <p class="has-text-left">Eine Seite von</p>
+                <img src="/assets/img/logos/INTIA_Plattform_Logos_TH_weiss.png">
+                <img src="/assets/img/logos/INTIA_Plattform_Logos_Dites_weiss.png">
+            </div></div>
+            <div class="column has-text-left"><div class="page-sponsor">                
+                <img class="footer-logo-2" src="/assets/img/logos/BMBF_logo.jpg">
+            </div></div>
+        </div>
+        <div class="content is-small has-text-centered">
+            <p class="">INTIA, 2021</p>
+        </div>
+    
+</footer>
+
+        
+    </body>
+</html>

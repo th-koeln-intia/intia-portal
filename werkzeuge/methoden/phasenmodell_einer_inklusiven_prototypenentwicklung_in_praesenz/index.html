@@ -1,0 +1,597 @@
+<!--
+The Default layout that everything is using 
+-->
+
+<!-- Control the width with, if sidebars or menus should appear   -->
+
+
+<!DOCTYPE html>
+<html id="default-layout">
+    <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content=#ffffff>
+    <link rel="stylesheet" href="/assets/styles/main.css">
+    <link rel="shortcut icon" type="image/png"
+           href="/favicon.png" 
+    />
+    <script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.8.0/dist/alpine.min.js" defer></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma-carousel@4.0.3/dist/css/bulma-carousel.min.css">
+    
+        <script src="https://d3js.org/d3.v5.min.js"></script>
+        <!--<script src="https://methods.intia.de/src/radar/radar.js"></script>-->
+        <script src="/assets/js/radar.js"></script>
+        <!--<link rel="stylesheet" href="https://methods.intia.de/src/radar/radar.css" />-->
+    
+    
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma-social@1/bin/bulma-social.min.css">
+    
+    <!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Phasenmodell einer inklusiven Prototypenentwicklung in Präsenz | INTIA</title>
+<meta name="generator" content="Jekyll v4.3.3" />
+<meta property="og:title" content="Phasenmodell einer inklusiven Prototypenentwicklung in Präsenz" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Ziel der Methode Prototypenentwicklung durch: - Ideengenerierung - Austausch über den Alltag - Gemeinsames Finden von Lösungen - Zugang zu Technikentwicklung" />
+<meta property="og:description" content="Ziel der Methode Prototypenentwicklung durch: - Ideengenerierung - Austausch über den Alltag - Gemeinsames Finden von Lösungen - Zugang zu Technikentwicklung" />
+<link rel="canonical" href="/werkzeuge/methoden/phasenmodell_einer_inklusiven_prototypenentwicklung_in_praesenz/" />
+<meta property="og:url" content="/werkzeuge/methoden/phasenmodell_einer_inklusiven_prototypenentwicklung_in_praesenz/" />
+<meta property="og:site_name" content="INTIA" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2024-01-25T16:31:55+00:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Phasenmodell einer inklusiven Prototypenentwicklung in Präsenz" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","dateModified":"2024-01-25T16:31:55+00:00","datePublished":"2024-01-25T16:31:55+00:00","description":"Ziel der Methode Prototypenentwicklung durch: - Ideengenerierung - Austausch über den Alltag - Gemeinsames Finden von Lösungen - Zugang zu Technikentwicklung","headline":"Phasenmodell einer inklusiven Prototypenentwicklung in Präsenz","mainEntityOfPage":{"@type":"WebPage","@id":"/werkzeuge/methoden/phasenmodell_einer_inklusiven_prototypenentwicklung_in_praesenz/"},"url":"/werkzeuge/methoden/phasenmodell_einer_inklusiven_prototypenentwicklung_in_praesenz/"}</script>
+<!-- End Jekyll SEO tag -->
+<!-- head scripts -->
+<script src="https://unpkg.com/@botpoison/browser"></script>
+<script type="module" src="/assets/js/main.js"async></script></head>
+
+    <body>
+        <nav class="navbar is-hidden-print is-primary is-fixed-top" x-data="{ openNav: false }">
+    <div class="container">
+        <div class="navbar-brand">
+            <a href="/" class="">
+                <picture>
+                    <source media="(max-width: 1300px)" srcset="/assets/img/logo-short.png">
+                    <img id="navbar-logo" src="/assets/img/logo-horizontal-short.png">
+                </source></picture>     
+            </a>
+            <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navMenu" :class="{ 'is-active': openNav }" x-on:click="openNav = !openNav">
+                <span aria-hidden="true"></span>
+                <span aria-hidden="true"></span>
+                <span aria-hidden="true"></span>
+            </a>
+        </div>
+        <div class="navbar-menu" id="navMenu" :class="{ 'is-active': openNav }">
+            <div id="SearchOverlay" class="searchbar-overlay navbar-end buttons">
+                <div class="navbar-item searchbar">
+                    <div class="field">
+                        <div id="search-container" class="control">
+                          <input class="input search-input" type="text" id="search-input" placeholder="Suchbegriff eintippen">
+                        </div>
+                    </div>
+                    <ul id="results-container" class="search-result-list"></ul>
+                </div>
+                <div class="navbar-end">
+                    <div class="navbar-item navbar-search">
+                        <a id="closeSearch">
+                            <span class="icon">
+                                <i class="fa-solid icon-remove"></i>
+                            </span>
+                        </a>  
+                    </div>
+                </div>
+            </div>
+            <div id="navmenu" class="navbar-end buttons">
+                
+                
+                
+                <div class="navbar-item has-text-left button is-rounded is-dark has-dropdown is-hoverable        ">
+                    
+                    
+                     <a for="navbar-click" class="navbar-link">Über INTIA</a>
+                    
+                    <div class="navbar-dropdown">
+                        
+                        <a href="/ueber/plattform" class="navbar-item button is-rounded is-dark  ">Plattform</a>
+                        
+                        <a href="/ueber/projekt/" class="navbar-item button is-rounded is-dark  ">Projekt</a>
+                        
+                        <a href="/ueber/barrierearm/" class="navbar-item button is-rounded is-dark  ">Barrierearm</a>
+                        
+                    </div>
+                </div>
+                
+                
+                
+                <div class="navbar-item has-text-left button is-rounded is-dark has-dropdown is-hoverable          ">
+                    
+                    
+                     <a for="navbar-click" class="navbar-link">INTIA Koffer</a>
+                    
+                    <div class="navbar-dropdown">
+                        
+                        <a href="/intia-koffer/" class="navbar-item button is-rounded is-dark  ">Über</a>
+                        
+                        <a href="/intia-koffer/beschaffen/" class="navbar-item button is-rounded is-dark  ">Beschaffen</a>
+                        
+                        <a href="/intia-koffer/prototypen/" class="navbar-item button is-rounded is-dark  ">Prototypen</a>
+                        
+                        <a href="/intia-koffer/anleitungen/" class="navbar-item button is-rounded is-dark  ">Anleitungen</a>
+                        
+                    </div>
+                </div>
+                
+                
+                
+                <div class="navbar-item has-text-left button is-rounded is-dark has-dropdown is-hoverable      ">
+                    
+                    
+                     <a for="navbar-click" class="navbar-link">Werkzeuge</a>
+                    
+                    <div class="navbar-dropdown">
+                        
+                        <a href="/werkzeuge/bausteine/" class="navbar-item button is-rounded is-dark  ">Bausteine</a>
+                        
+                        <a href="/werkzeuge/methoden/" class="navbar-item button is-rounded is-dark  ">Methoden</a>
+                        
+                    </div>
+                </div>
+                
+                
+                
+                <div class="navbar-item has-text-left button is-rounded is-dark has-dropdown is-hoverable      ">
+                    
+                    
+                     <a for="navbar-click" class="navbar-link">Wissen</a>
+                    
+                    <div class="navbar-dropdown">
+                        
+                        <a href="/wissen/woerterbuch/" class="navbar-item button is-rounded is-dark  ">Wörterbuch</a>
+                        
+                        <a href="/wissen/publikationen/" class="navbar-item button is-rounded is-dark  ">Publikationen</a>
+                        
+                    </div>
+                </div>
+                
+                
+                
+                <div class="navbar-item has-text-left button is-rounded is-dark has-dropdown is-hoverable      ">
+                    
+                    
+                     <a for="navbar-click" class="navbar-link">Blog</a>
+                    
+                    <div class="navbar-dropdown">
+                        
+                        <a href="/blog/aktivitaeten/" class="navbar-item button is-rounded is-dark  ">Aktivitäten</a>
+                        
+                        <a href="/blog/fachartikel/" class="navbar-item button is-rounded is-dark  ">Fachartikel</a>
+                        
+                    </div>
+                </div>
+                
+                
+                
+                <div class="navbar-item has-text-left button is-rounded is-dark has-dropdown is-hoverable      ">
+                    
+                    
+                     <a for="navbar-click" class="navbar-link">Mitmachen</a>
+                    
+                    <div class="navbar-dropdown">
+                        
+                        <a href="/mitmachen/netzwerk/" class="navbar-item button is-rounded is-dark  ">Netzwerk</a>
+                        
+                        <a href="/mitmachen/kontakt/" class="navbar-item button is-rounded is-dark  ">Kontakt</a>
+                        
+                    </div>
+                </div>
+                
+                
+                
+   
+                    <div class="navbar-item navbar-search">
+                        <a id="openSearch">
+                            <span class="icon">
+                                <i class="fa-solid icon-search"></i>
+                            </span>
+                        </a>  
+                    </div>
+                
+            </div>
+        </div>
+    </div>
+</nav>
+
+<section class="breadcrumb-section green-version">
+    <div class="container breadcrumb-container">
+        <nav class="breadcrumb has-arrow-separator" aria-label="breadcrumbs">
+            <ul>
+            
+            <li><a href="/">INTIA</a></li>
+            
+                 
+                    
+                        <li><a>Werkzeuge</a></li>
+                    
+                        <li><a>Methoden</a></li>
+                    
+                
+                
+                <li><a href="#">Phasenmodell einer inklusiven Prototypenentwicklung in Präsenz</a></li>
+                
+            
+            </ul>
+        </nav>
+    </div>
+</section>
+
+
+  <!-- Script pointing to search-script.js -->
+  <script src="/assets/js/search.js" type="text/javascript"></script>
+  
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/search.json',
+    searchResultTemplate: '<li><a class="search-item" href="{url}">{title}</a></li>'
+  })
+  </script>
+        <div class="arrow-image is-pulled-left is-hidden-mobile">
+            <img id="scroll-up" src="/assets/img/arrow-down.png" alt="placeholder">
+            <img id="scroll-down" src="/assets/img/arrow-down.png" alt="placeholder" class="is-pointed-down">     
+        </div>
+        <div class="accessibility-image is-pulled-left is-hidden-mobile">
+                <a id="changeFontsize" class="button is-rounded is-dark">
+                    <span class="icon is-small">
+                        <i class="fas icon-font-size fa-xs invert"></i>
+                        </span> 
+                    </a>    
+        </div>
+        
+            <section class="hero is-hidden-print  is-medium   subpage method pdf ">
+    <div class="hero-body">
+        <div class="container">
+            
+                <h5 class="overtitle">Methode</h5>
+            
+            <h1 class=" title-with-overtitle ">Phasenmodell einer inklusiven Prototypenentwicklung in Präsenz</h1>
+            
+            
+                <h4>Für welche Alltagsaktivitäten wünscht sich die teilnehmende Gruppe Verbesserungen? Welche Ideen für Verbesserungen können digital erreicht werden? Das Phasenmodell beschreibt eine Workshop-Serie in Präsenz mit sechs Abschnitten (Phasen). Stufenweise wird die Gruppe angeleitet, Probleme zu erkennen und zu beschreiben. Damit sie schließlich Ideen und Lösungen zu entwickeln.</h4>
+            
+            
+            <div class="buttons-hero has-text-centered">
+                
+
+                <a href="/werkzeuge/methoden//" class="button is-rounded is-dark { % if item.link == page.url % } { % endif % }">
+                    <span class="icon is-small">
+                        <i class="fas fa-chevron-left"></i>
+                    </span>
+                    <span>Zur Übersicht</span>
+                </a>
+                <a onclick="window.print()" class="button is-rounded is-dark { % if item.link == page.url % } { % endif % }">
+                    <span>Als PDF Herunterladen</span>
+                    <span class="icon is-small">
+                        <i class="fas fa-chevron-right"></i>
+                    </span>
+                </a>
+            </div>
+        </div>
+    </div>
+</section>
+        
+        <div id="main" class="content-wrapper has-background-primary-light">
+            
+            
+            <div class="columns is-centered">
+                <div id="content" class="container column is-10-desktop is-12-tablet">
+                    
+                    <table class="tb">
+    <tr>
+        <th><strong>Ziel der Methode</strong></th>
+        <th>
+Prototypenentwicklung durch:
+- Ideengenerierung
+- Austausch über den Alltag
+- Gemeinsames Finden von Lösungen
+- Zugang zu Technikentwicklung
+</th>
+    </tr>
+    <tr>
+      <td><strong>Altersgruppe</strong></td>
+      <td>13-99</td>
+    </tr>
+    <tr>
+      <td><strong>Gruppengröße</strong></td>
+      <td>3-15</td>
+    </tr>
+    <tr>
+      <td><strong>Sozialform</strong></td>
+      <td>Kleingruppe und Großgruppe</td>
+    </tr>
+    <tr>
+      <td><strong>Dauer</strong></td>
+      <td>
+      <strong>
+      6 Workshops à 2 Stunden.
+      </strong>
+      <br>
+      Es ist ebenso möglich, die Phasen an ca. 2 Tagen hintereinander durchzuführen. Allerdings muss zwischen Phase 4 und 5 eine erste (ggf. technische oder papierbasierte) Prototypenentwicklung stattfinden.
+      </td>
+    </tr>
+</table>
+<h2 id="beschreibung">Beschreibung</h2>
+<p>Bei welchen Alltagsaktivitäten wünscht sich die teilnehmende Gruppe Verbesserungen? Welche potenziellen Verbesserungsideen können digital erreicht werden? Das Phasenmodell beschreibt eine Workshopserie in Präsenz mit 6 Phasen, mit der eine Gruppe angeleitet werden kann, Probleme zu erkennen und zu beschreiben sowie Ideen und Lösungen zu entwickeln. Diese Phasen beinhalten diverse Methoden eines inklusiven partizipativen Gestaltungsprozesses durch die Gruppe bis hin zur Entwicklung eines ersten Prototypen durch die unterstützenden Techniker:innen.</p>
+<p>Die sechs Phasen sind:</p>
+<ol>
+<li>Paper Function Mapping</li>
+<li>Ideenfindung: Was nervt?</li>
+<li>Diskussion über geäußerte Alltagsprobleme</li>
+<li>Überprüfung der Lösungsidee
+(Entwicklung eines ersten Prototypens durch unterstützende Techniker:innen)</li>
+<li>„Spielen“ mit dem ersten Prototypen</li>
+<li>Entwicklung und Überprüfung des Prototypen</li>
+</ol>
+<h2 id="durchfhrung">Durchführung</h2>
+<h4 id="vorbereitung">Vorbereitung</h4>
+<ol>
+<li>Interessen im Vorfeld mit der Gruppe abstimmen.</li>
+<li>Zeitliche Abstimmung: Wann bearbeiten wir welche Phase?</li>
+</ol>
+<h4 id="durchfhrung-1">Durchführung</h4>
+<ol>
+<li>Die Gruppe versammelt sich um einen Tisch.</li>
+<li>Die Moderation bringt Materialien wie Kreativ-Methoden mit.</li>
+<li>Die Gruppe durchläuft mit Hilfe der Materialien die einzelnen Phasen: Paper-Function-Mapping, Nervtagebuch, Impulskarten.</li>
+<li>Am Ende kann der erste <a href="/wissen/woerterbuch/prototyp/">Prototyp</a> gezeigt werden, um die Lösung zu veranschaulichen. Er ist noch nicht voll funktionsfähig.</li>
+</ol>
+<h4 id="nachbereitung">Nachbereitung</h4>
+<ol>
+<li>Mit zeitlichem Abstand trifft sich die Gruppe erneut. Alle Gruppen-Mitglieder haben den Prototypen ausprobiert.</li>
+<li>Über das Ergebnis (d. h. den Prototypen) kann diskutiert werden.</li>
+<li>Eventuell gibt es weitere Verbesserungsvorschläge. Der <a href="/wissen/woerterbuch/prototyp/">Prototyp</a> kann dann weiterentwickelt werden.</li>
+</ol>
+<h3 id="fr-fachkfte-hinweise-zur-durchfhrung-der-methode-phasenmodell-einer-inklusiven-prototypenentwicklung-in-prsenz">Für Fachkäfte: Hinweise zur Durchführung der Methode „Phasenmodell einer inklusiven Prototypenentwicklung in Präsenz“</h3>
+<details><summary><strong>Hinweise hier auf- und zuklappen</strong></summary><blockquote>
+  <details><summary>
+Das Phasenmodell wurde beispielhaft mit einer Gruppe von acht bis zwölf jungen Menschen mit Lernbehinderung im Rahmen einer Qualifizierungsmaßnahme durchgeführt. Sie fand im Abstand von 14 Tagen statt und dauerte jeweils zwei Stunden. Es ist ebenso möglich, die Phasen an ca. zwei Tagen hintereinander zu durchlaufen.
+<h4 id="ablauf">Ablauf:</h4>
+<ol>
+<li>
+<strong>Phase 1: Paper Function Mapping </strong>
+<br>
+Mit „Paper-Function-Mapping“ wird das technische Wissen der Jugendlichen ermittelt und erweitert. Anhand von bereits existierenden Geräten (z. B. Bügeleisen, Stereoanlage) sollen abstraktere Überlegungen angestellt werden, um so zu einer neuen Erfindung zu gelangen. Gleichzeitig werden auf diese Weise die verschiedenen technischen Möglichkeiten vorgestellt. Die Zuordnung (engl. „Mapping“) vom konkreten Gerät zu einer abstrakten Abbildung (z. B. vom CD-Player zum Musikhören) ist ein Kernbestandteil davon. Es ist essenziell, dass die Teilnehmenden verstehen, dass die Abbildungen auf Papier eine abstrakte Repräsentation des echten Geräts sind. Dadurch wird eine Basis geschaffen, auf die das anschließende Prototyping aufbaut und auf der mögliche neue Ideen entwickelt werden können.</li>
+<li>
+<strong>Phase 2: Ideengenerierung auf Basis von "Was nervt?" </strong>
+<br>
+Um eine Ideenfindung anzustoßen, wird die alltagspraktische Frage gestellt: „Was nervt dich bei …. (z. B. bei der Arbeit)?“. Hier trifft zum Beispiel einer der Teilnehmenden die Aussage, dass es ihn nerve, wenn ständig Leute in die Küche kämen und seine Arbeit unterbrechen würden, da dies seine Konzentration störe. Die eintretenden Personen würden meistens fragen, wo die Anleiter:innen der beruflichen Qualifizierungsmaßnahme zu finden seien. Es werden viele „Nervsachen“ berichtet und gesammelt und stichworthaft auf einem Flipchart festgehalten oder visualisiert.</li>
+<li>
+<strong>Phase 3: Reflexionsgespräch der artikulierten Alltagsprobleme </strong>
+<br>
+Diese getätigten Aussagen werden im Reflexionsgespräch mit der Gruppe oder – falls notwendig – mit einer Bezugsperson der Gruppe und den Workshop-Moderator:innen aufgegriffen. Es wird eruiert, wie dieses Problem behoben werden könnte. Eine mögliche Lösung des artikulierten Problems (z. B. dass eintretende und nachfragende Personen die Konzentration stören), kann hierbei sein, dass die Qualifikant:innen eigenständig die Anleiter:innen rufen. Dies kann sogar auch ein Lernziel der Qualifizierungsmaßnahme sein.</li>
+<li>
+<strong>Phase 4: Validierung </strong>
+<br>
+Um herauszufinden, ob der abgeleitete <a href="/wissen/woerterbuch/bedarf/">Bedarf</a> auch für die anderen Teilnehmenden möglicherweise als relevant erachtet wird, sollte dieser in einer nächsten Phase auf Richtigkeit geprüft und die Problem- und Lösungsidee technisch spezifiziert werden. Diese Methode der Spezifizierung nennen wir „Behavior-Driven-Prototyping (BDP)“. Das BDP beantwortet die Frage: „Wie lassen sich technische Lösungsideen aus einem gegebenen <a href="/wissen/woerterbuch/bedarf/">Bedarf</a> prototypisieren?“ Die Moderator:innen schreiben hierfür zunächst das erfasste Problem auf eine Tafel: „Es nervt mich, wenn ich die Anleiterin suchen muss. Als Qualifikant in der Küche möchte ich die Anleiterin nicht suchen müssen. Denn ich möchte damit keine wertvolle Arbeitszeit verschwenden.“ So wird der <a href="/wissen/woerterbuch/bedarf/">Bedarf</a> auf eine möglichst einfache Art vor den Augen der Teilnehmenden definiert und veranschaulicht. Auf einer anderen Tafel werden Prototyping-Karten aufgehängt, um anhand existierender Technologien technische Lösungsideen zu prototypisieren. Die Moderation versucht, Ideen zur Lösung des Problems herauszufinden: „Könnte es eine Lösung sein, dass ihr einen Knopf drückt, der die Anleiterin ruft? Also so, wie eine Krankenschwester im Krankenhaus gerufen wird?“ In Zuge dessen werden die Teilnehmenden Folgendes gefragt: „Wenn ich einen Knopf drücke, dann geht eine Lampe – …?“. Eine/r der Teilnehmenden antwortet darauf „an“ oder „aus“. Diese Aussage nutzen die Workshop-Moderator:innen, um die Teilnehmenden zu fragen, ob sie wissen, wie dies das geschilderte Problem lösen könnte. Daraufhin wird überlegt, was für Eigenschaften das Rufsystem haben sollte und wie z. B. Reize (Töne, Licht) genutzt werden könnten, um die Anleiter:in zu rufen. Hierfür eignen sich Fragen wie: „Soll das Licht flackern?“, „Soll das System einen Joystick haben?“ oder „Würdet ihr in ein Mikrofon sprechen?“.</li>
+<li>
+<strong>Phase 5: „Spielen“ mit dem ersten Prototypen </strong>
+<br>
+Um die weiteren spezifischeren Überlegungen für die Teilnehmenden so anschaulich wie möglich zu gestalten, wird vor dem nächsten Termin ein erster <a href="/wissen/woerterbuch/prototyp/">Prototyp</a> entwickelt. So können die die Funktionen und möglichen Hürden haptisch und visuell besser greifbar gemacht werden. Im Beispielfall bestand dieser <a href="/wissen/woerterbuch/prototyp/">Prototyp</a> aus einem Knopf (Sendegerät) und einem Licht, das leuchtet (Empfängergerät), wenn der Knopf gedrückt wird. Zur weiteren Visualisierung kann das Vorgehen „gespielt“ werden. Die hier am Problem beteiligte Anleiterin hält den Prototypen des Empfängergeräts in der Hand. Die Teilnehmenden überlegen gemeinsam mit den Workshop-Moderator:innen, wo der Knopf am besten platziert werden sollte, damit er möglichst für alle Beteiligten erreichbar ist. Alle gehen gemeinsam durch die Arbeitsbereiche, und die Workshop-Moderator:innen fragen die Gruppe, wo der Knopf am besten platziert werden sollte. Es kommt zu Äußerungen wie z. B.: „Lieber an der Wand. Da würde es keinen stören.“ Daraufhin hält der/die Moderator:in das Sendegerät an die Wand. Dann wird gemeinsam ausgetüftelt, welcher genaue Ort oder welche Höhe für alle passend wäre.
+Durch das BDP, welches eine Idee bis zur Prototypisierung beschreibt, können weitere notwendige Funktionen und Gegebenheiten für den Prototypen definiert werden. Dadurch kann mit dem BDP die Schwelle zur <a href="/wissen/woerterbuch/partizipation/">Partizipation</a> bei der Technikentwicklung verringert werden. Allerdings erfolgt dies hier nicht vollumfänglich, da die technischen Lösungsideen der Teilnehmenden durch die unterstützenden Techniker:innen umgesetzt werden müssen (Hardware verdrahten und Software programmieren).</li>
+<li>
+<strong>Phase 6: Anpassung des Prototypen </strong>
+<br>
+Mit den Anregungen der Teilnehmenden soll der <a href="/wissen/woerterbuch/prototyp/">Prototyp</a> in einem nächsten Schritt an die erfassten Voraussetzungen angepasst und erneut mit den Teilnehmenden erprobt werden.</li>
+</ol>
+<br>
+<figure>
+    <img src="/assets/img/uploads/PhasenmodellInklusive%20Technikentwicklung_PRASENZKomplett.jpg" alt="Schematische Darstellung des Phasenmodells" class="">
+    <figcaption>Schematische Darstellung des Phasenmodells</figcaption>
+</figure>
+<br>
+<h2 id="anpassung">Anpassung</h2>
+<p>Phase 1 (Paper-Funktion-Mapping) kann je nach Wissen und Fähigkeiten der Teilnehmenden angepasst werden. Diese Phase kann auch verkürzt durchgeführt werden.</p>
+</summary><blockquote>
+  </blockquote></details>
+    </blockquote></details>
+
+                </div>
+            </div> 
+            
+        </div> 
+        
+            <footer class="footer is-hidden-print is-primary">
+    
+    <div class="container columns is-centered is-multiline is-bordered-bottom">
+        <div class="navbar-brand column is-full">
+            <a href="/" class="columns navbar-item">
+                <img class="column" src="/assets/img/logo-white.png">
+                <p class="calumn brand-title"></p>
+            </a>
+        </div>
+        <div class="column is-2">
+            <div class="title">www.intia.de</div>
+                TH-Köln | DITES<br>
+                Campus Südstadt<br>
+                Ubierring 48<br>
+                50678 Köln
+
+        </div>
+        
+        <div class="column ">
+            <div class="title">Site Map</div>
+            <div class="columns footer-nav">
+                
+                    <div class="column">
+                        <a href="" class="link"><strong>Über INTIA</strong></a>
+                        
+                        <div class="">
+                            
+                            <div class="">
+                                <a href="/ueber/plattform" class="link">Plattform</a>
+                            </div>
+                            
+                            <div class="">
+                                <a href="/ueber/projekt/" class="link">Projekt</a>
+                            </div>
+                            
+                            <div class="">
+                                <a href="/ueber/barrierearm/" class="link">Barrierearm</a>
+                            </div>
+                            
+                        </div>                                            
+                    
+                    </div>
+                
+                    <div class="column">
+                        <a href="" class="link"><strong>INTIA Koffer</strong></a>
+                        
+                        <div class="">
+                            
+                            <div class="">
+                                <a href="/intia-koffer/" class="link">Über</a>
+                            </div>
+                            
+                            <div class="">
+                                <a href="/intia-koffer/beschaffen/" class="link">Beschaffen</a>
+                            </div>
+                            
+                            <div class="">
+                                <a href="/intia-koffer/prototypen/" class="link">Prototypen</a>
+                            </div>
+                            
+                            <div class="">
+                                <a href="/intia-koffer/anleitungen/" class="link">Anleitungen</a>
+                            </div>
+                            
+                        </div>                                            
+                    
+                    </div>
+                
+                    <div class="column">
+                        <a href="" class="link"><strong>Werkzeuge</strong></a>
+                        
+                        <div class="">
+                            
+                            <div class="">
+                                <a href="/werkzeuge/bausteine/" class="link">Bausteine</a>
+                            </div>
+                            
+                            <div class="">
+                                <a href="/werkzeuge/methoden/" class="link">Methoden</a>
+                            </div>
+                            
+                        </div>                                            
+                    
+                    </div>
+                
+                    <div class="column">
+                        <a href="" class="link"><strong>Wissen</strong></a>
+                        
+                        <div class="">
+                            
+                            <div class="">
+                                <a href="/wissen/woerterbuch/" class="link">Wörterbuch</a>
+                            </div>
+                            
+                            <div class="">
+                                <a href="/wissen/publikationen/" class="link">Publikationen</a>
+                            </div>
+                            
+                        </div>                                            
+                    
+                    </div>
+                
+                    <div class="column">
+                        <a href="" class="link"><strong>Blog</strong></a>
+                        
+                        <div class="">
+                            
+                            <div class="">
+                                <a href="/blog/aktivitaeten/" class="link">Aktivitäten</a>
+                            </div>
+                            
+                            <div class="">
+                                <a href="/blog/fachartikel/" class="link">Fachartikel</a>
+                            </div>
+                            
+                        </div>                                            
+                    
+                    </div>
+                
+                    <div class="column">
+                        <a href="" class="link"><strong>Mitmachen</strong></a>
+                        
+                        <div class="">
+                            
+                            <div class="">
+                                <a href="/mitmachen/netzwerk/" class="link">Netzwerk</a>
+                            </div>
+                            
+                            <div class="">
+                                <a href="/mitmachen/kontakt/" class="link">Kontakt</a>
+                            </div>
+                            
+                        </div>                                            
+                    
+                    </div>
+                
+            </div>
+        </div>
+        
+        
+        <div class="column is-2">
+            <div class="title">Rechtliches</div>
+            <div class="">
+                
+                <div class="">
+                    <div>
+                        <a href="/about/" class="link">Über die Plattform</a>
+                    </div>
+                </div>
+                
+                <div class="">
+                    <div>
+                        <a href="https://www.th-koeln.de/hochschule/impressum_8159.php" class="link" target="_blank" rel="noopener noreferrer">Impressum</a>
+                    </div>
+                </div>
+                
+                <div class="">
+                    <div>
+                        <a href="https://www.th-koeln.de/hochschule/haftungshinweis_8277.php" class="link" target="_blank" rel="noopener noreferrer">Haftungshinweis</a>
+                    </div>
+                </div>
+                
+                <div class="">
+                    <div>
+                        <a href="https://www.th-koeln.de/hochschule/datenschutzhinweis_8279.php" class="link" target="_blank" rel="noopener noreferrer">Datenschutzhinweis</a>
+                    </div>
+                </div>
+                
+            </div>
+        </div>
+        
+    </div>
+        <div class="columns content is-small has-text-centered footer-logos">
+            <div class="column has-text-right"><div class="page-owner">
+                <p class="has-text-left">Eine Seite von</p>
+                <img src="/assets/img/logos/INTIA_Plattform_Logos_TH_weiss.png">
+                <img src="/assets/img/logos/INTIA_Plattform_Logos_Dites_weiss.png">
+            </div></div>
+            <div class="column has-text-left"><div class="page-sponsor">                
+                <img class="footer-logo-2" src="/assets/img/logos/BMBF_logo.jpg">
+            </div></div>
+        </div>
+        <div class="content is-small has-text-centered">
+            <p class="">INTIA, 2021</p>
+        </div>
+    
+</footer>
+
+        
+    </body>
+</html>

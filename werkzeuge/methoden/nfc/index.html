@@ -1,0 +1,771 @@
+<!--
+The Default layout that everything is using 
+-->
+
+<!-- Control the width with, if sidebars or menus should appear   -->
+
+
+<!DOCTYPE html>
+<html id="default-layout">
+    <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content=#ffffff>
+    <link rel="stylesheet" href="/assets/styles/main.css">
+    <link rel="shortcut icon" type="image/png"
+           href="/favicon.png" 
+    />
+    <script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.8.0/dist/alpine.min.js" defer></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma-carousel@4.0.3/dist/css/bulma-carousel.min.css">
+    
+        <script src="https://d3js.org/d3.v5.min.js"></script>
+        <!--<script src="https://methods.intia.de/src/radar/radar.js"></script>-->
+        <script src="/assets/js/radar.js"></script>
+        <!--<link rel="stylesheet" href="https://methods.intia.de/src/radar/radar.css" />-->
+    
+    
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma-social@1/bin/bulma-social.min.css">
+    
+    <!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>NFC (Near Field Communication) | INTIA</title>
+<meta name="generator" content="Jekyll v4.3.3" />
+<meta property="og:title" content="NFC (Near Field Communication)" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Ziel der Methode - Automatisierte Assistenz - Selbständigkeit - Unterstützung im Alltag Altersgruppe 6-99 Gruppengröße 1 Sozialform Einzeln Material NFC-Programmiersoftware, NFC-Auslese-Software, NFC-Chips, weitere Kreativgegenstände Sonstiges Programmierung übernimmt Fachkraft. Ausführen des NFC-Chips kann aktive Person übernehmen." />
+<meta property="og:description" content="Ziel der Methode - Automatisierte Assistenz - Selbständigkeit - Unterstützung im Alltag Altersgruppe 6-99 Gruppengröße 1 Sozialform Einzeln Material NFC-Programmiersoftware, NFC-Auslese-Software, NFC-Chips, weitere Kreativgegenstände Sonstiges Programmierung übernimmt Fachkraft. Ausführen des NFC-Chips kann aktive Person übernehmen." />
+<link rel="canonical" href="/werkzeuge/methoden/nfc/" />
+<meta property="og:url" content="/werkzeuge/methoden/nfc/" />
+<meta property="og:site_name" content="INTIA" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2024-01-25T16:31:55+00:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="NFC (Near Field Communication)" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","dateModified":"2024-01-25T16:31:55+00:00","datePublished":"2024-01-25T16:31:55+00:00","description":"Ziel der Methode - Automatisierte Assistenz - Selbständigkeit - Unterstützung im Alltag Altersgruppe 6-99 Gruppengröße 1 Sozialform Einzeln Material NFC-Programmiersoftware, NFC-Auslese-Software, NFC-Chips, weitere Kreativgegenstände Sonstiges Programmierung übernimmt Fachkraft. Ausführen des NFC-Chips kann aktive Person übernehmen.","headline":"NFC (Near Field Communication)","mainEntityOfPage":{"@type":"WebPage","@id":"/werkzeuge/methoden/nfc/"},"url":"/werkzeuge/methoden/nfc/"}</script>
+<!-- End Jekyll SEO tag -->
+<!-- head scripts -->
+<script src="https://unpkg.com/@botpoison/browser"></script>
+<script type="module" src="/assets/js/main.js"async></script></head>
+
+    <body>
+        <nav class="navbar is-hidden-print is-primary is-fixed-top" x-data="{ openNav: false }">
+    <div class="container">
+        <div class="navbar-brand">
+            <a href="/" class="">
+                <picture>
+                    <source media="(max-width: 1300px)" srcset="/assets/img/logo-short.png">
+                    <img id="navbar-logo" src="/assets/img/logo-horizontal-short.png">
+                </source></picture>     
+            </a>
+            <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navMenu" :class="{ 'is-active': openNav }" x-on:click="openNav = !openNav">
+                <span aria-hidden="true"></span>
+                <span aria-hidden="true"></span>
+                <span aria-hidden="true"></span>
+            </a>
+        </div>
+        <div class="navbar-menu" id="navMenu" :class="{ 'is-active': openNav }">
+            <div id="SearchOverlay" class="searchbar-overlay navbar-end buttons">
+                <div class="navbar-item searchbar">
+                    <div class="field">
+                        <div id="search-container" class="control">
+                          <input class="input search-input" type="text" id="search-input" placeholder="Suchbegriff eintippen">
+                        </div>
+                    </div>
+                    <ul id="results-container" class="search-result-list"></ul>
+                </div>
+                <div class="navbar-end">
+                    <div class="navbar-item navbar-search">
+                        <a id="closeSearch">
+                            <span class="icon">
+                                <i class="fa-solid icon-remove"></i>
+                            </span>
+                        </a>  
+                    </div>
+                </div>
+            </div>
+            <div id="navmenu" class="navbar-end buttons">
+                
+                
+                
+                <div class="navbar-item has-text-left button is-rounded is-dark has-dropdown is-hoverable        ">
+                    
+                    
+                     <a for="navbar-click" class="navbar-link">Über INTIA</a>
+                    
+                    <div class="navbar-dropdown">
+                        
+                        <a href="/ueber/plattform" class="navbar-item button is-rounded is-dark  ">Plattform</a>
+                        
+                        <a href="/ueber/projekt/" class="navbar-item button is-rounded is-dark  ">Projekt</a>
+                        
+                        <a href="/ueber/barrierearm/" class="navbar-item button is-rounded is-dark  ">Barrierearm</a>
+                        
+                    </div>
+                </div>
+                
+                
+                
+                <div class="navbar-item has-text-left button is-rounded is-dark has-dropdown is-hoverable          ">
+                    
+                    
+                     <a for="navbar-click" class="navbar-link">INTIA Koffer</a>
+                    
+                    <div class="navbar-dropdown">
+                        
+                        <a href="/intia-koffer/" class="navbar-item button is-rounded is-dark  ">Über</a>
+                        
+                        <a href="/intia-koffer/beschaffen/" class="navbar-item button is-rounded is-dark  ">Beschaffen</a>
+                        
+                        <a href="/intia-koffer/prototypen/" class="navbar-item button is-rounded is-dark  ">Prototypen</a>
+                        
+                        <a href="/intia-koffer/anleitungen/" class="navbar-item button is-rounded is-dark  ">Anleitungen</a>
+                        
+                    </div>
+                </div>
+                
+                
+                
+                <div class="navbar-item has-text-left button is-rounded is-dark has-dropdown is-hoverable      ">
+                    
+                    
+                     <a for="navbar-click" class="navbar-link">Werkzeuge</a>
+                    
+                    <div class="navbar-dropdown">
+                        
+                        <a href="/werkzeuge/bausteine/" class="navbar-item button is-rounded is-dark  ">Bausteine</a>
+                        
+                        <a href="/werkzeuge/methoden/" class="navbar-item button is-rounded is-dark  ">Methoden</a>
+                        
+                    </div>
+                </div>
+                
+                
+                
+                <div class="navbar-item has-text-left button is-rounded is-dark has-dropdown is-hoverable      ">
+                    
+                    
+                     <a for="navbar-click" class="navbar-link">Wissen</a>
+                    
+                    <div class="navbar-dropdown">
+                        
+                        <a href="/wissen/woerterbuch/" class="navbar-item button is-rounded is-dark  ">Wörterbuch</a>
+                        
+                        <a href="/wissen/publikationen/" class="navbar-item button is-rounded is-dark  ">Publikationen</a>
+                        
+                    </div>
+                </div>
+                
+                
+                
+                <div class="navbar-item has-text-left button is-rounded is-dark has-dropdown is-hoverable      ">
+                    
+                    
+                     <a for="navbar-click" class="navbar-link">Blog</a>
+                    
+                    <div class="navbar-dropdown">
+                        
+                        <a href="/blog/aktivitaeten/" class="navbar-item button is-rounded is-dark  ">Aktivitäten</a>
+                        
+                        <a href="/blog/fachartikel/" class="navbar-item button is-rounded is-dark  ">Fachartikel</a>
+                        
+                    </div>
+                </div>
+                
+                
+                
+                <div class="navbar-item has-text-left button is-rounded is-dark has-dropdown is-hoverable      ">
+                    
+                    
+                     <a for="navbar-click" class="navbar-link">Mitmachen</a>
+                    
+                    <div class="navbar-dropdown">
+                        
+                        <a href="/mitmachen/netzwerk/" class="navbar-item button is-rounded is-dark  ">Netzwerk</a>
+                        
+                        <a href="/mitmachen/kontakt/" class="navbar-item button is-rounded is-dark  ">Kontakt</a>
+                        
+                    </div>
+                </div>
+                
+                
+                
+   
+                    <div class="navbar-item navbar-search">
+                        <a id="openSearch">
+                            <span class="icon">
+                                <i class="fa-solid icon-search"></i>
+                            </span>
+                        </a>  
+                    </div>
+                
+            </div>
+        </div>
+    </div>
+</nav>
+
+<section class="breadcrumb-section green-version">
+    <div class="container breadcrumb-container">
+        <nav class="breadcrumb has-arrow-separator" aria-label="breadcrumbs">
+            <ul>
+            
+            <li><a href="/">INTIA</a></li>
+            
+                 
+                    
+                        <li><a>Werkzeuge</a></li>
+                    
+                        <li><a>Methoden</a></li>
+                    
+                
+                
+                <li><a href="#">NFC (Near Field Communication)</a></li>
+                
+            
+            </ul>
+        </nav>
+    </div>
+</section>
+
+
+  <!-- Script pointing to search-script.js -->
+  <script src="/assets/js/search.js" type="text/javascript"></script>
+  
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/search.json',
+    searchResultTemplate: '<li><a class="search-item" href="{url}">{title}</a></li>'
+  })
+  </script>
+        <div class="arrow-image is-pulled-left is-hidden-mobile">
+            <img id="scroll-up" src="/assets/img/arrow-down.png" alt="placeholder">
+            <img id="scroll-down" src="/assets/img/arrow-down.png" alt="placeholder" class="is-pointed-down">     
+        </div>
+        <div class="accessibility-image is-pulled-left is-hidden-mobile">
+                <a id="changeFontsize" class="button is-rounded is-dark">
+                    <span class="icon is-small">
+                        <i class="fas icon-font-size fa-xs invert"></i>
+                        </span> 
+                    </a>    
+        </div>
+        
+            <section class="hero is-hidden-print  is-medium   subpage method pdf ">
+    <div class="hero-body">
+        <div class="container">
+            
+                <h5 class="overtitle">Methode</h5>
+            
+            <h1 class=" title-with-overtitle ">NFC (Near Field Communication)</h1>
+            
+            
+                <h4>NFC-Chips ermöglichen automatisierte Funktionen. Damit lassen sich digitale Endgeräte (z. B. ein Handy) zum Asisstenztool umrüsten. Die aktive Person stellt das Handy auf einen NFC-Chip. Oder man klebt den NFC-Aufkleber auf einen gut beweglichen Gegenstand, sodass der Gegenstand gut an das Handy gehalten werden kann. Dann wird der Chip ausgelesen und die Aktion gestartet. Eine Aktion kann zum Beispiel „Wecker stellen“, „SMS schreiben“ oder „Lieblingsbild anzeigen“ sein. Diese Methode fördert die Selbstständigkeit und bietet Unterstützung im Alltag an.</h4>
+            
+            
+            <div class="buttons-hero has-text-centered">
+                
+
+                <a href="/werkzeuge/methoden//" class="button is-rounded is-dark { % if item.link == page.url % } { % endif % }">
+                    <span class="icon is-small">
+                        <i class="fas fa-chevron-left"></i>
+                    </span>
+                    <span>Zur Übersicht</span>
+                </a>
+                <a onclick="window.print()" class="button is-rounded is-dark { % if item.link == page.url % } { % endif % }">
+                    <span>Als PDF Herunterladen</span>
+                    <span class="icon is-small">
+                        <i class="fas fa-chevron-right"></i>
+                    </span>
+                </a>
+            </div>
+        </div>
+    </div>
+</section>
+        
+        <div id="main" class="content-wrapper has-background-primary-light">
+            
+            
+            <div class="columns is-centered">
+                <div id="content" class="container column is-10-desktop is-12-tablet">
+                    
+                    <table class="tb">
+    <tr>
+        <th><strong>Ziel der Methode</strong></th>
+        <th>
+          - Automatisierte Assistenz
+          <br>
+          - Selbständigkeit
+          <br>
+          - Unterstützung im Alltag  
+        </th>
+    </tr>
+    <tr>
+      <td><strong>Altersgruppe</strong></td>
+      <td>6-99</td>
+    </tr>
+    <tr>
+      <td><strong>Gruppengröße</strong></td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><strong>Sozialform</strong></td>
+      <td>Einzeln</td>
+    </tr>
+        <tr>
+      <td><strong>Material</strong></td>
+      <td>NFC-Programmiersoftware, NFC-Auslese-Software, NFC-Chips, weitere Kreativgegenstände</td>
+    </tr>
+    <tr>
+      <td><strong>Sonstiges</strong></td>
+      <td>Programmierung übernimmt Fachkraft. Ausführen des NFC-Chips kann aktive Person übernehmen.</td>
+</tr>
+</table>
+<h2 id="beschreibung">Beschreibung</h2>
+<p>NFC-Chips ermöglichen automatisierte Funktionen. Damit lassen sich digitale Endgeräte (z. B. ein Handy) zum Asisstenztool umrüsten. Die aktive Person stellt das Handy auf einen NFC-Chip. Oder man klebt den NFC-Aufkleber auf einen gut beweglichen Gegenstand, sodass der Gegenstand gut an das Handy gehalten werden kann. Dann wird der Chip ausgelesen und die Aktion gestartet. Eine Aktion kann zum Beispiel „Wecker stellen“, „SMS schreiben“ oder „Lieblingsbild anzeigen“ sein. Diese Methode fördert die Selbstständigkeit und bietet Unterstützung im Alltag an.</p>
+<h2 id="durchfhrung">Durchführung</h2>
+<h4 id="vorbereitung-fr-alle-nfc-projekte">Vorbereitung für alle NFC-Projekte</h4>
+<ol>
+<li>Ein Smartphone/Tablet mit NFC-Funktion (hier gibt es eine <a href="https://nfc-tag-shop.de/info/nfc-in-smartphones/nfc-faehige-smartphones-und-handys.html" target="_blank" rel="noopener noreferrer">Liste mit digitalen Endgeräten und NFC-Funktion</a>
+</li>
+<li>NFC-Chips erwerben (diese können z. B. hier bestellt werden: <a href="https://nfc-tag-shop.de/nfc-aufkleber/?p=1" target="_blank" rel="noopener noreferrer">nfc-tag-shop.de</a>
+</li>
+<li>Eine App zum Programmieren herunterladen. Eine App zum Ausführen von NFC-Aufgaben herunterladen. Es gibt unterschiedliche Auswahlmöglichkeiten. Unter <a href="https://www.wakdev.com/en/" target="_blank" rel="noopener noreferrer">Wakdev</a> findet man beide Apps.</li>
+<li>Auf dem Handy die NFC-Funkion anschalten. Das geht über „Einstellungen“.</li>
+</ol>
+<h3 id="durchfhrung-diese-ist-immer-hnlich-sie-wird-hier-an-folgendem-beispiel-erklrt-einen-text-vorlesen-lassen">Durchführung (diese ist immer ähnlich; sie wird hier an folgendem Beispiel erklärt: einen Text vorlesen lassen)</h3>
+<ol>
+<li>Nimm einen NFC-Chip, z. B. einen NFC-Aufkleber.</li>
+<li>Programmiere den NFC-Chip/-Aufkleber. Installiere dazu eine NFC-Programmier-App, z. B. <a href="play.google.com/store/apps/details?id=com.wakdev.nfctools.pro">NFC Tools Pro</a>.<br>
+<strong>AUFGABE ERSTELLEN:</strong>
+</li>
+<li>Klick AUFGABEN. Klick AUFGABE HINZUFÜGEN.</li>
+<li>Programmiere die Aufgabe: Was willst du tun? Hier ein Beispiel: Aufgabe: ein Türschild vorlesen lassen: Klick VERSCHIEDENE. Scroll nach unten. Klick TEXT ZUR SPRACHE. Trage deinen Text ein. Klick OK.</li>
+<li>Klick SCHREIBEN. Halte den NFC-Aufkleber unter dein Handy, dort, wo sich der NFC-Leser/-Reader befindet (<a href="netcast.ch/2016/12/24/position-des-nfc-chips-im-handy/">wo ist der?</a>). Dann den NFC-Chip unter das Handy legen, damit die Aufgabe auf den Chip geschrieben/übertragen wird.</li>
+<li>Wenn der Auftrag auf den Aufkleber überspielt wurde, meldet das Handy OK.</li>
+<li>Klebe den Aufkleber auf ein Türschild.</li>
+<li>Streiche mit dem Smartphone auf dem Türschild über den Aufkleber (es wird eine Gebäudeanleitung benötigt, die den Menschen informiert, wo sich Türschilder und Aufkleber befinden).</li>
+<li>DER TEXT WIRD JETZT VOM HANDY VORGELESEN. Und zwar von JEDEM Handy, das a) NFC-fähig ist und das b) die App NFC Tasks installiert hat.</li>
+</ol>
+<h3 id="nachbereitung">Nachbereitung</h3>
+<p>Eine Anleitung zum Vorgehen des Auslesens schreiben, sprechen, aufhängen, etc. Beim Türschild-NFC: im Gebäude aufhängen: Handy auf NFC schalten, Handy an Türschild halten.</p>
+<p><strong>Beispiel: Türschild vorlesen lassen</strong></p>
+<div style="padding:50% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/473834713?h=b8fdefb6bf&amp;title=0&amp;byline=0&amp;portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div>
+<script src="https://player.vimeo.com/api/player.js"></script>
+<h3 id="weitere-projektideen">Weitere Projektideen:</h3>
+<p><strong>Stofftier eine Geschichte erzählen lassen (ähnlich wie Toni Box)</strong></p>
+<div style="padding:50% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/473009436?h=e28d214406" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div>
+<script src="https://player.vimeo.com/api/player.js"></script>
+<p><strong>Mama/Papa/ Freund:in/Kolleg:in eine vorformulierte SMS schicken</strong></p>
+<p>Vorbereitung und Durchführung wie oben.</p>
+<p>Aufgabe erstellen:
+<br></p>
+<figure>
+    <img src="/assets/img/tools/methods/nfc/NFC-Tools_Screenshot_vorformulierte%20SMS%20schicken.jpg" alt="Screenshot Smartphone: Vorformulierte SMS schicken" class="content_image small-height-image">
+    <figcaption>Screenshot: Vorformulierte SMS schicken</figcaption>
+</figure>
+<br>
+<br>
+<p><strong>Automatisiert eine Telefonnummer anrufen</strong></p>
+<p>Vorbereitung und Durchführung wie oben.</p>
+<p>Aufgabe erstellen:
+<br>
+Aufgabe: Telefonanruf tätigen.
+Telefonnummer eingeben.
+Aufgabe: Lautstärke auf Lautsprecher einstellen.</p>
+<p><strong>Mama/Papa/Freund:in/Kolleg:in bitten, mich per Messenger im Videoanruf anzurufen (z. B. über meinen Account bei WhatsApp, Threema, Ginlo, Signal, Telegram etc.)</strong></p>
+<p>Vorbereitung und Durchführung wie oben.</p>
+<p>Aufgabe erstellen so:
+<br>
+SMS schicken: „Liebe/r Mama/Papa/ Freund:in/Kolleg:in, bitte rufe mich per Videoanruf an.“
+<br>
+Voraussetzung: SIM-Karte vorhanden. Messenger-Account vorhanden.
+<br>
+Wie oben:</p>
+<figure>
+    <img src="/assets/img/tools/methods/nfc/NFC-Tools_Screenshot_anrufen-lassen.jpg" alt="Screenshot Smartphone: Jemanden bitten, per Messenger im Videoanruf anzurufen" class="content_image small-height-image">
+    <figcaption>Screenshot: Jemanden bitten, per Messenger im Videoanruf anzurufen</figcaption>
+</figure>
+Oder eine Email versenden, falls keine SIM-Karte vorhanden ist:
+<div class="columns">
+<div class="column">
+<figure>
+    <img src="/assets/img/tools/methods/nfc/NFC-Tools_Screenshot_E-Mail-versenden-ohne-SIM-Karte(1).jpg" alt="Screenshot Smartphone: E-Mail ohne SIM-Karte(1)" class="content_image">
+    <figcaption>Screenshot: E-Mail ohne SIM-Karte schreiben(1)</figcaption>
+</figure>
+</div>
+<div class="column">
+<figure>
+    <img src="/assets/img/tools/methods/nfc/NFC-Tools_Screenshot_E-Mail-versenden-ohne-SIM-Karte(2).jpg" alt="Screenshot Smartphone: E-Mail ohne SIM-Karte(2)" class="content_image">
+    <figcaption>Screenshot: E-Mail ohne SIM-Karte schreiben(2)</figcaption>
+</figure>
+</div>
+<div class="column">
+<figure>
+    <img src="/assets/img/tools/methods/nfc/NFC-Tools_Screenshot_E-Mail-versenden-ohne-SIM-Karte(3).jpg" alt="Screenshot Smartphone: E-Mail ohne SIM-Karte(3)" class="content_image">
+    <figcaption>Screenshot: E-Mail ohne SIM-Karte schreiben(3)</figcaption>
+</figure>
+</div>
+</div>
+<p><strong>Alternative: selbst einen Videoanruf starten</strong></p>
+<p>Leider gibt es noch keine vollständige Automatisierung. Man könnte es so probieren: Ein NFC-Chip wird so programmiert, dass er den Messenger-Account der aktiven Person startet. Darin befinden sich ihre Kontakte. Der aktiven Person werden mehrere Foto von ihrer Familie und ihren Freund:innen zur Auswahl angeboten. Die ausgewählte Person wird in den Kontakten gesucht und von der Fachkraft angewählt. Wenn die aktive Person die entsprechenden Fähigkeiten besitzt, kann sie auch durch Kopfsteuerung (oder durch das Verschieben einer Maus durch die Fachkraft) selbst eine Person auswählen.
+<br></p>
+<div class="columns">
+<div class="column">
+<figure>
+    <img src="/assets/img/tools/methods/nfc/NFC-Tools_Screenshot_selbst-Videoanruf-starten(1).jpg" alt="Screenshot Smartphone: Selbst einen Videoanruf starten(1)" class="content_image small-height-image">
+    <figcaption>Screenshot: Selbst einen Videoanruf starten(1)</figcaption>
+</figure>
+</div>
+<div class="column">
+<figure>
+    <img src="/assets/img/tools/methods/nfc/NFC-Tools_Screenshot_selbst-Videoanruf-starten(2).jpg" alt="Screenshot Smartphone: Selbst einen Videoanruf starten(2)" class="content_image small-height-image">
+    <figcaption>Screenshot: Selbst einen Videoanruf starten(2)</figcaption>
+</figure>
+</div>
+</div>
+<figure>
+<p><strong>Ein Internet-Video automatisiert starten lassen</strong></p>
+<p>Vorbereitung und Durchführung wie oben.</p>
+<p>Aufgabe erstellen so:
+<br></p>
+<div class="columns">
+<div class="column">
+<figure>
+    <img src="/assets/img/tools/methods/nfc/NFC-Tools_Screenshot_Internet-Video-automatisiert-starten-lassen(1).jpg" alt="Screenshot Smartphone: Internet-Video automatisiert starten lassen(1)" class="content_image small-height-image">
+    <figcaption>Screenshot: Internet-Video automatisiert starten lassen(1)</figcaption>
+</figure>
+</div>
+<div class="column">
+<figure>
+    <img src="/assets/img/tools/methods/nfc/NFC-Tools_Screenshot_Internet-Video-automatisiert-starten-lassen(2).jpg" alt="Screenshot Smartphone: Internet-Video automatisiert starten lassen(2)" class="content_image small-height-image">
+    <figcaption>Screenshot: Internet-Video automatisiert starten lassen(2)</figcaption>
+</figure>
+</div>
+</div>
+<p><strong>Den Wecker des Handy automatisiert stellen und das Handy in den Lautlos-Modus bringen + Flugmodus einstellen</strong></p>
+<p>Vorbereitung und Durchführung wie oben.</p>
+<p>Aufgabe erstellen so:
+Auf dem Nachttisch mehrere Symbole anbringen. Darauf je einen NFC-Chip. Z. B. ein Arbeitssymbol für die Weckzeit an Werktagen. Wird das Handy über den Chip gehalten bzw. auf das Symbol gelegt, so wird der Wecker des Handys auf die im Chip programmierte Uhrzeit gestellt (z. B. 6 Uhr). Gleichzeitig wird das Handy in den Nicht-Stören-Modus und Lautlos-Modus gestellt.
+<br></p>
+<figure>
+    <img src="/assets/img/tools/methods/nfc/NFC-Tools_WeckerAmBett.jpg" alt="Bett und Nachttisch, auf dem Nachttisch sind zwei Symbole mit je einem NFC-Chip" style="max-width: class=" content_image small-height-image>
+    <figcaption>Screenshot: Nachttisch mit zwei Symbolen und NFC-Chips</figcaption>
+</figure>
+<br>
+<br>
+<figure>
+    <img src="/assets/img/tools/methods/nfc/NFC-Tools_WeckerStellen.jpg" alt="Screenshot: Wecker stellen" class="content_image small-height-image">
+    <figcaption>Screenshot: Wecker stellen</figcaption>
+</figure>
+<br>
+<br>
+<p><strong>Einen Timer auf 3 Minuten stellen für das Zähneputzen</strong></p>
+<p>Vorbereitung und Durchführung wie oben.</p>
+<p>Aufgabe erstellen so:
+<br></p>
+<figure>
+    <img src="/assets/img/tools/methods/nfc/NFC-Tools_Screenshot_Timer-auf-3-Minuten-stellen.jpg" alt="Screenshot: Timer auf 3 Minuten stellen" class="content_image small-height-image">
+    <figcaption>Screenshot: Timer auf 3 Minuten stellen</figcaption>
+</figure>
+<br>
+<br>
+<p><strong>Nie mehr Wäsche in der Waschmaschine vergessen</strong></p>
+<p><a href="https://www.nakieken.de/viele-ideen-fuer-nfc-tags/" target="_blank" rel="noopener noreferrer">Quelle:</a></p>
+<p>Ein NFC-Tag am Wäscheständer im Garten oder auf dem Balkon, an der Waschmaschine oder am Trockner speichert eine freundliche Erinnerung, um die Wäsche nicht zu vergessen (bevor es Abend wird). Auch hier kann eine freundliche Stimme daran erinnern, die Wäsche wieder abzunehmen, da diese über Nacht feucht werden könnte. Wenn andere Menschen das miterleben, schindet man nicht nur Eindruck – man infiziert auch andere mit dem ‚NFC-Virus‘ :-)</p>
+<p>Aufgabe erstellen: z. B. durch Timer</p>
+<ol>
+<li>Klick Konfiguration</li>
+<li>Klick „Stoppuhr“</li>
+<li>Stelle die Sanduhr ein - wieviel Zeit soll vergehen, bis der Timer klingelt, um dich an die fertig gewaschene Wäsche zu erinnern (z. B. 3 Std.).</li>
+<li>Klick*„schreibe“</li>
+<li>Halte den NFC-Aufkleber unter das Handy, um die Daten zu übertragen.</li>
+<li>Klebe den programmierten NFC-Chip auf die Waschmaschine.</li>
+</ol>
+<p>Wenn du Wäsche in der Waschmaschine wäschst, starte „NFC“ auf deinem Handy (unter Einstellungen). Dann halte das Handy über den Chip. Der Timer wird gestartet. Nach 3 Stunden klingelt dein Handy und erinnert dich an die fertige Wäsche in der Maschine.
+<br></p>
+<figure>
+    <img src="/assets/img/tools/methods/nfc/NFC-Tools_WeckerStellen.jpg" alt="Screenshot: Wecker stellen" class="content_image small-height-image">
+    <figcaption>Screenshot: Wecker stellen</figcaption>
+</figure>
+<br>
+<br>
+<figure>
+    <img src="/assets/img/tools/methods/nfc/NFC-WaschmaschineErinnerungDaumenhoch.jpg" alt="Ein NFC-Chip klebt an der Waschmaschine" class="content_image small-height-image">
+    <figcaption>Daumen Hoch: Der NFC-Chip klebt an der Waschmaschine</figcaption>
+</figure>
+<br>
+<br>
+<figure>
+    <img src="/assets/img/tools/methods/nfc/NFC-WaschmaschinenTimer3Std.jpg" alt="Screenshot: Stoppuhr steht auf 3 Stunden" class="content_image small-height-image">
+    <figcaption>Screenshot: Stoppuhr auf dem Smartphone</figcaption>
+</figure>
+<br>
+<br>
+<figure>
+    <img src="/assets/img/tools/methods/nfc/NFC-WaschmaschinenTimer3Std_Uhr.jpg" alt="Screenshot: Timer ist auf 3 Stunden eingestellt" class="content_image small-height-image">
+    <figcaption>Screenshot: Timer ist auf 3 Stunden eingestellt</figcaption>
+</figure>
+<br>
+<br>
+<p><strong>Den WLAN-Zugang automatisiert einrichten lassen durch NFC-Chip</strong></p>
+<p>Vorbereitung und Durchführung wie oben.</p>
+<p>Aufgabe erstellen so:</p>
+<ol>
+<li>Klick Aufgabe</li>
+<li>Klick WLAN-Netzwerke konfigurieren</li>
+<li>Alle Daten zum WLAN eingeben</li>
+</ol>
+<p><strong>Notfall-Daten im Armband</strong></p>
+<p>Aufgabe erstellen so:</p>
+<p><a href="https://www.nfc-tag-shop.de/NFC-Armband-Stoff-185-x-25-mm-NTAG216-924-Byte-grau-Groesse-M-Durchmesser-59-mm/68846" target="_blank" rel="noopener noreferrer">Armband</a> oder <a href="https://www.amazon.de/Armband-Stoff-flexibel-NTAG216-Gr%C3%B6%C3%9Fe-oliv-M/dp/B07V9VMFGS/ref=sr_1_29?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&amp;crid=NKIPDAEK3JTU&amp;keywords=NFC+%2B+Armband&amp;qid=1656357021&amp;sprefix=nfc+%2B+armband%2Caps%2C117&amp;sr=8-29" target="_blank" rel="noopener noreferrer">Notfall-Chipkarte kaufen</a></p>
+<ol>
+<li>Klick Schreiben</li>
+<li>Klick Notfallinformationen</li>
+<li>Schreibe die Daten auf</li>
+</ol>
+<br>
+<figure>
+    <img src="/assets/img/tools/methods/nfc/NFC-NotfallArmband-programmieren.jpg" alt="Screenshot: Notfallinformationen" class="content_image small-height-image">
+    <figcaption>Screenshot: Hier werden die Notfallinformationen eingegeben</figcaption>
+</figure>
+<br>
+<br>
+<figure>
+    <img src="/assets/img/tools/methods/nfc/NFC-NotfallArmband-ausgelesen.jpg" alt="Screenshot: Neues Tag erfasst" class="content_image small-height-image">
+    <figcaption>Screenshot: Ein neues Tag wurde erfasst</figcaption>
+</figure>
+<br>
+<br>
+<figure>
+    <img src="/assets/img/tools/methods/nfc/NFC-Notfallarmband-am-Arm.jpg" alt="NFC-Notfallarmband an einem Arm" class="content_image small-height-image">
+    <figcaption>Das Notfallarmband wird ums Handelenk getragen</figcaption>
+</figure>
+<p><strong>Würfeln</strong></p>
+<p>Dem/Der aktiven Mitspieler:in beim Würfelspiel wird ein NFC-Chip mit der Programmierung „Würfel“ an das Körperteil geklebt, das er/sie bewegen kann. Wenn er/sie dran ist, bewegt er/sie das Körperteil mit dem Chip zum Handy. Das Handy führt die Würfel-Aktion zufällig aus und zeigt eine Zahl zwischen 1 und 6.</p>
+<p><strong>Bluetooth-Verbindung zwischen 2 Geräten automatisch herstellen</strong></p>
+<p>Anwendungskontext: Handy mit eigener Musik soll an gemeinsamen Lausprecher gekoppelt werden im Wohnzimmer.</p>
+<p>Aufgabe erstellen:</p>
+<ol>
+<li>Klick Aufgabe</li>
+<li>Klick Netzwerke</li>
+<li>Wähle: Bluetooth aktivieren</li>
+<li>Klick: aktivieren</li>
+<li>Erstelle neue Aufgabe</li>
+<li>Klick Netzwerke</li>
+<li>Klick Bluetooth verbinden</li>
+<li>Gib alle benötigten Daten des Empfängers ein. Dazu wird die MAC-Adresse des gerätes verwendet. Die steht meistens auf dem Gerät drauf.</li>
+<li>Klick: Schreibe</li>
+<li>Halte den Chip unter das Handy.</li>
+</ol>
+<h3 id="workshop-ablauf">Workshop-Ablauf</h3>
+<ul>
+<li>Prüfen Sie, welche Geräte auf jeden Fall NFC-Funktionalität haben. <a href="nfc-tag-shop.de/info/nfc-in-smartphones/nfc-faehige-smartphones-und-handys.html">Welche Smartphones/Tablets können das?</a>
+</li>
+<li>Installieren Sie eine NFC-Lese-App zum Ausführen von NFC-Tasks. <a href="play.google.com/store/apps/details?id=com.wakdev.nfctasks">Zum Beispiel NFC Tasks</a>
+</li>
+<li>Installieren Sie eine NFC Programmier-App zum Programmieren. <a href="wakdev.com/en/apps/nfc-tools.html">Zum Beispiel NFC Tools Pro</a>. Aber es gibt auch andere. <a href="nfc-tag-shop.de/info/nfc-tags-beschreiben-und-lesen/nfc-mobile-apps.html">Weitere Tools</a>
+</li>
+<li>Nehmen Sie NFC-Chips. <a href="nfc-tag-shop.de/nfc-aufkleber/?p=1">Wo gibt’s die? Hier!</a>
+</li>
+<li>Erstellen Sie einen NFC-Code Ihrer Wahl in der NFC-Programmier-App.</li>
+</ul>
+
+                </figure>
+</div>
+            </div> 
+            
+        </div> 
+        
+            <footer class="footer is-hidden-print is-primary">
+    
+    <div class="container columns is-centered is-multiline is-bordered-bottom">
+        <div class="navbar-brand column is-full">
+            <a href="/" class="columns navbar-item">
+                <img class="column" src="/assets/img/logo-white.png">
+                <p class="calumn brand-title"></p>
+            </a>
+        </div>
+        <div class="column is-2">
+            <div class="title">www.intia.de</div>
+                TH-Köln | DITES<br>
+                Campus Südstadt<br>
+                Ubierring 48<br>
+                50678 Köln
+
+        </div>
+        
+        <div class="column ">
+            <div class="title">Site Map</div>
+            <div class="columns footer-nav">
+                
+                    <div class="column">
+                        <a href="" class="link"><strong>Über INTIA</strong></a>
+                        
+                        <div class="">
+                            
+                            <div class="">
+                                <a href="/ueber/plattform" class="link">Plattform</a>
+                            </div>
+                            
+                            <div class="">
+                                <a href="/ueber/projekt/" class="link">Projekt</a>
+                            </div>
+                            
+                            <div class="">
+                                <a href="/ueber/barrierearm/" class="link">Barrierearm</a>
+                            </div>
+                            
+                        </div>                                            
+                    
+                    </div>
+                
+                    <div class="column">
+                        <a href="" class="link"><strong>INTIA Koffer</strong></a>
+                        
+                        <div class="">
+                            
+                            <div class="">
+                                <a href="/intia-koffer/" class="link">Über</a>
+                            </div>
+                            
+                            <div class="">
+                                <a href="/intia-koffer/beschaffen/" class="link">Beschaffen</a>
+                            </div>
+                            
+                            <div class="">
+                                <a href="/intia-koffer/prototypen/" class="link">Prototypen</a>
+                            </div>
+                            
+                            <div class="">
+                                <a href="/intia-koffer/anleitungen/" class="link">Anleitungen</a>
+                            </div>
+                            
+                        </div>                                            
+                    
+                    </div>
+                
+                    <div class="column">
+                        <a href="" class="link"><strong>Werkzeuge</strong></a>
+                        
+                        <div class="">
+                            
+                            <div class="">
+                                <a href="/werkzeuge/bausteine/" class="link">Bausteine</a>
+                            </div>
+                            
+                            <div class="">
+                                <a href="/werkzeuge/methoden/" class="link">Methoden</a>
+                            </div>
+                            
+                        </div>                                            
+                    
+                    </div>
+                
+                    <div class="column">
+                        <a href="" class="link"><strong>Wissen</strong></a>
+                        
+                        <div class="">
+                            
+                            <div class="">
+                                <a href="/wissen/woerterbuch/" class="link">Wörterbuch</a>
+                            </div>
+                            
+                            <div class="">
+                                <a href="/wissen/publikationen/" class="link">Publikationen</a>
+                            </div>
+                            
+                        </div>                                            
+                    
+                    </div>
+                
+                    <div class="column">
+                        <a href="" class="link"><strong>Blog</strong></a>
+                        
+                        <div class="">
+                            
+                            <div class="">
+                                <a href="/blog/aktivitaeten/" class="link">Aktivitäten</a>
+                            </div>
+                            
+                            <div class="">
+                                <a href="/blog/fachartikel/" class="link">Fachartikel</a>
+                            </div>
+                            
+                        </div>                                            
+                    
+                    </div>
+                
+                    <div class="column">
+                        <a href="" class="link"><strong>Mitmachen</strong></a>
+                        
+                        <div class="">
+                            
+                            <div class="">
+                                <a href="/mitmachen/netzwerk/" class="link">Netzwerk</a>
+                            </div>
+                            
+                            <div class="">
+                                <a href="/mitmachen/kontakt/" class="link">Kontakt</a>
+                            </div>
+                            
+                        </div>                                            
+                    
+                    </div>
+                
+            </div>
+        </div>
+        
+        
+        <div class="column is-2">
+            <div class="title">Rechtliches</div>
+            <div class="">
+                
+                <div class="">
+                    <div>
+                        <a href="/about/" class="link">Über die Plattform</a>
+                    </div>
+                </div>
+                
+                <div class="">
+                    <div>
+                        <a href="https://www.th-koeln.de/hochschule/impressum_8159.php" class="link" target="_blank" rel="noopener noreferrer">Impressum</a>
+                    </div>
+                </div>
+                
+                <div class="">
+                    <div>
+                        <a href="https://www.th-koeln.de/hochschule/haftungshinweis_8277.php" class="link" target="_blank" rel="noopener noreferrer">Haftungshinweis</a>
+                    </div>
+                </div>
+                
+                <div class="">
+                    <div>
+                        <a href="https://www.th-koeln.de/hochschule/datenschutzhinweis_8279.php" class="link" target="_blank" rel="noopener noreferrer">Datenschutzhinweis</a>
+                    </div>
+                </div>
+                
+            </div>
+        </div>
+        
+    </div>
+        <div class="columns content is-small has-text-centered footer-logos">
+            <div class="column has-text-right"><div class="page-owner">
+                <p class="has-text-left">Eine Seite von</p>
+                <img src="/assets/img/logos/INTIA_Plattform_Logos_TH_weiss.png">
+                <img src="/assets/img/logos/INTIA_Plattform_Logos_Dites_weiss.png">
+            </div></div>
+            <div class="column has-text-left"><div class="page-sponsor">                
+                <img class="footer-logo-2" src="/assets/img/logos/BMBF_logo.jpg">
+            </div></div>
+        </div>
+        <div class="content is-small has-text-centered">
+            <p class="">INTIA, 2021</p>
+        </div>
+    
+</footer>
+
+        
+    </body>
+</html>

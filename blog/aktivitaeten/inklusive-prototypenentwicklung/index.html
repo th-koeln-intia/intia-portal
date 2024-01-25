@@ -1,0 +1,527 @@
+<!--
+The Default layout that everything is using 
+-->
+
+<!-- Control the width with, if sidebars or menus should appear   -->
+
+
+<!DOCTYPE html>
+<html id="default-layout">
+    <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content=#ffffff>
+    <link rel="stylesheet" href="/assets/styles/main.css">
+    <link rel="shortcut icon" type="image/png"
+           href="/favicon.png" 
+    />
+    <script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.8.0/dist/alpine.min.js" defer></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma-carousel@4.0.3/dist/css/bulma-carousel.min.css">
+    
+        <script src="https://d3js.org/d3.v5.min.js"></script>
+        <!--<script src="https://methods.intia.de/src/radar/radar.js"></script>-->
+        <script src="/assets/js/radar.js"></script>
+        <!--<link rel="stylesheet" href="https://methods.intia.de/src/radar/radar.css" />-->
+    
+    
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma-social@1/bin/bulma-social.min.css">
+    
+    <!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Prototypen mit Jugendlichen entwickeln | INTIA</title>
+<meta name="generator" content="Jekyll v4.3.3" />
+<meta property="og:title" content="Prototypen mit Jugendlichen entwickeln" />
+<meta name="author" content="Alena Schmier, Hanna Thielmann, Jan Seidler" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Es soll herausgefunden werden, welche digitalen bzw. technischen Hilfsmittel sich junge Menschen für ihren Alltag tatsächlich wünschen. Doch wie kann so ein Prozess der partizipativen Technikentwicklung gelingen? Beispielhaft wird ein Prozess dargestellt, der in einer Maßnahme zur beruflichen Qualifizierung mit einer Gruppe von jungen Menschen mit Förderbedarf und ihrer Anleiterin stattfand. Er beschreibt die Phasen einer inklusiven Prototypenentwicklung." />
+<meta property="og:description" content="Es soll herausgefunden werden, welche digitalen bzw. technischen Hilfsmittel sich junge Menschen für ihren Alltag tatsächlich wünschen. Doch wie kann so ein Prozess der partizipativen Technikentwicklung gelingen? Beispielhaft wird ein Prozess dargestellt, der in einer Maßnahme zur beruflichen Qualifizierung mit einer Gruppe von jungen Menschen mit Förderbedarf und ihrer Anleiterin stattfand. Er beschreibt die Phasen einer inklusiven Prototypenentwicklung." />
+<link rel="canonical" href="/blog/aktivitaeten/inklusive-prototypenentwicklung/" />
+<meta property="og:url" content="/blog/aktivitaeten/inklusive-prototypenentwicklung/" />
+<meta property="og:site_name" content="INTIA" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2021-04-06T00:00:00+00:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Prototypen mit Jugendlichen entwickeln" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Alena Schmier, Hanna Thielmann, Jan Seidler"},"dateModified":"2021-04-06T00:00:00+00:00","datePublished":"2021-04-06T00:00:00+00:00","description":"Es soll herausgefunden werden, welche digitalen bzw. technischen Hilfsmittel sich junge Menschen für ihren Alltag tatsächlich wünschen. Doch wie kann so ein Prozess der partizipativen Technikentwicklung gelingen? Beispielhaft wird ein Prozess dargestellt, der in einer Maßnahme zur beruflichen Qualifizierung mit einer Gruppe von jungen Menschen mit Förderbedarf und ihrer Anleiterin stattfand. Er beschreibt die Phasen einer inklusiven Prototypenentwicklung.","headline":"Prototypen mit Jugendlichen entwickeln","mainEntityOfPage":{"@type":"WebPage","@id":"/blog/aktivitaeten/inklusive-prototypenentwicklung/"},"url":"/blog/aktivitaeten/inklusive-prototypenentwicklung/"}</script>
+<!-- End Jekyll SEO tag -->
+<!-- head scripts -->
+<script src="https://unpkg.com/@botpoison/browser"></script>
+<script type="module" src="/assets/js/main.js"async></script></head>
+
+    <body>
+        <nav class="navbar is-hidden-print is-primary is-fixed-top" x-data="{ openNav: false }">
+    <div class="container">
+        <div class="navbar-brand">
+            <a href="/" class="">
+                <picture>
+                    <source media="(max-width: 1300px)" srcset="/assets/img/logo-short.png">
+                    <img id="navbar-logo" src="/assets/img/logo-horizontal-short.png">
+                </source></picture>     
+            </a>
+            <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navMenu" :class="{ 'is-active': openNav }" x-on:click="openNav = !openNav">
+                <span aria-hidden="true"></span>
+                <span aria-hidden="true"></span>
+                <span aria-hidden="true"></span>
+            </a>
+        </div>
+        <div class="navbar-menu" id="navMenu" :class="{ 'is-active': openNav }">
+            <div id="SearchOverlay" class="searchbar-overlay navbar-end buttons">
+                <div class="navbar-item searchbar">
+                    <div class="field">
+                        <div id="search-container" class="control">
+                          <input class="input search-input" type="text" id="search-input" placeholder="Suchbegriff eintippen">
+                        </div>
+                    </div>
+                    <ul id="results-container" class="search-result-list"></ul>
+                </div>
+                <div class="navbar-end">
+                    <div class="navbar-item navbar-search">
+                        <a id="closeSearch">
+                            <span class="icon">
+                                <i class="fa-solid icon-remove"></i>
+                            </span>
+                        </a>  
+                    </div>
+                </div>
+            </div>
+            <div id="navmenu" class="navbar-end buttons">
+                
+                
+                
+                <div class="navbar-item has-text-left button is-rounded is-dark has-dropdown is-hoverable        ">
+                    
+                    
+                     <a for="navbar-click" class="navbar-link">Über INTIA</a>
+                    
+                    <div class="navbar-dropdown">
+                        
+                        <a href="/ueber/plattform" class="navbar-item button is-rounded is-dark  ">Plattform</a>
+                        
+                        <a href="/ueber/projekt/" class="navbar-item button is-rounded is-dark  ">Projekt</a>
+                        
+                        <a href="/ueber/barrierearm/" class="navbar-item button is-rounded is-dark  ">Barrierearm</a>
+                        
+                    </div>
+                </div>
+                
+                
+                
+                <div class="navbar-item has-text-left button is-rounded is-dark has-dropdown is-hoverable          ">
+                    
+                    
+                     <a for="navbar-click" class="navbar-link">INTIA Koffer</a>
+                    
+                    <div class="navbar-dropdown">
+                        
+                        <a href="/intia-koffer/" class="navbar-item button is-rounded is-dark  ">Über</a>
+                        
+                        <a href="/intia-koffer/beschaffen/" class="navbar-item button is-rounded is-dark  ">Beschaffen</a>
+                        
+                        <a href="/intia-koffer/prototypen/" class="navbar-item button is-rounded is-dark  ">Prototypen</a>
+                        
+                        <a href="/intia-koffer/anleitungen/" class="navbar-item button is-rounded is-dark  ">Anleitungen</a>
+                        
+                    </div>
+                </div>
+                
+                
+                
+                <div class="navbar-item has-text-left button is-rounded is-dark has-dropdown is-hoverable      ">
+                    
+                    
+                     <a for="navbar-click" class="navbar-link">Werkzeuge</a>
+                    
+                    <div class="navbar-dropdown">
+                        
+                        <a href="/werkzeuge/bausteine/" class="navbar-item button is-rounded is-dark  ">Bausteine</a>
+                        
+                        <a href="/werkzeuge/methoden/" class="navbar-item button is-rounded is-dark  ">Methoden</a>
+                        
+                    </div>
+                </div>
+                
+                
+                
+                <div class="navbar-item has-text-left button is-rounded is-dark has-dropdown is-hoverable      ">
+                    
+                    
+                     <a for="navbar-click" class="navbar-link">Wissen</a>
+                    
+                    <div class="navbar-dropdown">
+                        
+                        <a href="/wissen/woerterbuch/" class="navbar-item button is-rounded is-dark  ">Wörterbuch</a>
+                        
+                        <a href="/wissen/publikationen/" class="navbar-item button is-rounded is-dark  ">Publikationen</a>
+                        
+                    </div>
+                </div>
+                
+                
+                
+                <div class="navbar-item has-text-left button is-rounded is-dark has-dropdown is-hoverable      ">
+                    
+                    
+                     <a for="navbar-click" class="navbar-link">Blog</a>
+                    
+                    <div class="navbar-dropdown">
+                        
+                        <a href="/blog/aktivitaeten/" class="navbar-item button is-rounded is-dark  ">Aktivitäten</a>
+                        
+                        <a href="/blog/fachartikel/" class="navbar-item button is-rounded is-dark  ">Fachartikel</a>
+                        
+                    </div>
+                </div>
+                
+                
+                
+                <div class="navbar-item has-text-left button is-rounded is-dark has-dropdown is-hoverable      ">
+                    
+                    
+                     <a for="navbar-click" class="navbar-link">Mitmachen</a>
+                    
+                    <div class="navbar-dropdown">
+                        
+                        <a href="/mitmachen/netzwerk/" class="navbar-item button is-rounded is-dark  ">Netzwerk</a>
+                        
+                        <a href="/mitmachen/kontakt/" class="navbar-item button is-rounded is-dark  ">Kontakt</a>
+                        
+                    </div>
+                </div>
+                
+                
+                
+   
+                    <div class="navbar-item navbar-search">
+                        <a id="openSearch">
+                            <span class="icon">
+                                <i class="fa-solid icon-search"></i>
+                            </span>
+                        </a>  
+                    </div>
+                
+            </div>
+        </div>
+    </div>
+</nav>
+
+<section class="breadcrumb-section green-version">
+    <div class="container breadcrumb-container">
+        <nav class="breadcrumb has-arrow-separator" aria-label="breadcrumbs">
+            <ul>
+            
+            <li><a href="/">INTIA</a></li>
+            
+                
+                    <li><a>Aktivitäten</a></li>
+                
+                
+                <li><a href="#">Prototypen mit Jugendlichen entwickeln</a></li>
+                
+            
+            </ul>
+        </nav>
+    </div>
+</section>
+
+
+  <!-- Script pointing to search-script.js -->
+  <script src="/assets/js/search.js" type="text/javascript"></script>
+  
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/search.json',
+    searchResultTemplate: '<li><a class="search-item" href="{url}">{title}</a></li>'
+  })
+  </script>
+        <div class="arrow-image is-pulled-left is-hidden-mobile">
+            <img id="scroll-up" src="/assets/img/arrow-down.png" alt="placeholder">
+            <img id="scroll-down" src="/assets/img/arrow-down.png" alt="placeholder" class="is-pointed-down">     
+        </div>
+        <div class="accessibility-image is-pulled-left is-hidden-mobile">
+                <a id="changeFontsize" class="button is-rounded is-dark">
+                    <span class="icon is-small">
+                        <i class="fas icon-font-size fa-xs invert"></i>
+                        </span> 
+                    </a>    
+        </div>
+        
+            <section class="hero is-hidden-print  is-medium   subpage post pdf ">
+    <div class="hero-body">
+        <div class="container">
+            
+                <h5 class="overtitle">Aktivitäten</h5>
+            
+            <h1 class=" title-with-overtitle ">Prototypen mit Jugendlichen entwickeln</h1>
+            
+                <img src="/assets/img/uploads/prototypen_mit_jugendlichen.jpg" alt="placeholder" class="is-rounded is-hidden-mobile">
+            
+            
+                <h4>Methoden einer inklusiven Prototypenentwicklung mit Jugendlichen mit Beeinträchtigung.</h4>
+            
+            
+            <div class="buttons-hero has-text-centered">
+                
+
+                <a href="/blog/aktivitaeten//" class="button is-rounded is-dark { % if item.link == page.url % } { % endif % }">
+                    <span class="icon is-small">
+                        <i class="fas fa-chevron-left"></i>
+                    </span>
+                    <span>Zur Übersicht</span>
+                </a>
+                <a onclick="window.print()" class="button is-rounded is-dark { % if item.link == page.url % } { % endif % }">
+                    <span>Als PDF Herunterladen</span>
+                    <span class="icon is-small">
+                        <i class="fas fa-chevron-right"></i>
+                    </span>
+                </a>
+            </div>
+        </div>
+    </div>
+</section>
+        
+        <div id="main" class="content-wrapper has-background-primary-light">
+            
+            
+            <div class="columns is-centered">
+                <div id="content" class="container column is-10-desktop is-12-tablet">
+                    
+                    <p>Es soll herausgefunden werden, welche digitalen bzw. technischen Hilfsmittel sich junge Menschen für ihren Alltag tatsächlich wünschen. Doch wie kann so ein Prozess der partizipativen Technikentwicklung gelingen? Beispielhaft wird ein Prozess dargestellt, der in einer Maßnahme zur beruflichen Qualifizierung mit einer Gruppe von jungen Menschen mit Förder<a href="/wissen/woerterbuch/bedarf/">bedarf</a> und ihrer Anleiterin stattfand. Er beschreibt die Phasen einer inklusiven Prototypenentwicklung.</p>
+<p>Die zehn Qualifikant:innen aus dieser Gruppe waren Mitentwickler:innen (ME) zusammen mit drei Forscher:innen des INTIA Teams aus den Fachdisziplinen Service Design, Informatik, Soziotechnik und <a href="/wissen/woerterbuch/soziale-arbeit/">Soziale Arbeit</a>. Unterstützung erhielten sie von der Anleiterin der beruflichen Qualifizierungsmaßnahme. Die Workshops mit den einzelnen Phasen fanden wöchentlich im Jahr 2019/2020 statt und dauerten 1,5 Stunden.</p>
+<h2 id="phasen-des-inklusiven-entwicklungsprozesses">Phasen des inklusiven Entwicklungsprozesses</h2>
+<p>Der Prozess zur Entwicklung der Prototypen erfolgte in verschiedenen Phasen:</p>
+<ol>
+<li>
+<p><strong>Aufwärmen</strong><br>
+Um den Beginn eines jeden Workshops vom übrigen Arbeitsalltag der Jugendlichen abzugrenzen, suchten sich die MEs – im Sinne des partizipativen Grundgedankens – zu Anfang jeder Entwicklungssession ein Aufwärmspiel aus, womit auch eine lockere Atmosphäre für den Prozess der Technikentwicklung geschaffen werden konnte. Um dem Workshop einen Rahmen zu geben, ist der Prozess nicht nur inhaltlich beendet worden, sondern auch auf einer Beziehungsebene. Mit Hilfe von Punkten, die auf entsprechend vorgefertigte Smileys geklebt worden sind, konnte so eine Stimmungsabfrage eingeholt werden.</p>
+</li>
+<li>
+<p><strong>Phase: Paper Function Mapping</strong>
+Zu Anfang ist mittels „Paper Function Mapping“ das technische Wissen der Jugendlichen ermittelt und erweitert worden. Mittels bereits existierender Geräte (z. B. Bügeleisen, Stereoanlage) sollten abstraktere Überlegungen angestellt werden, um so zu einer neuen Erfindung zu gelangen. Gleichzeitig wurden so die verschiedenen technischen Möglichkeiten vorgestellt. Die Zuordnung (engl. „Mapping“) vom konkreten Gerät zu abstrakter Abbildung ist Kernbestandteil davon gewesen (z. B. vom CD-Player zum Musikhören). Es war essenziell, dass die Jugendlichen verstehen, dass die Abbildungen auf Papier eine abstrakte Repräsentation des echten Geräts sind.
+Dadurch konnte eine Basis geschaffen werden, auf die das anschließende Prototyping aufbaut und mögliche neue Ideen entwickelt werden können.</p>
+</li>
+<li>
+<p><strong>Phase: Ideengenerierung auf Basis von „Was nervt?“</strong>
+Um eine Ideengenerierung anzustoßen, ist die alltagspraktische Frage gestellt worden „Was nervt dich bei der Arbeit?“. Hier hat einer der MEs die Aussage getroffen, dass es ihn nervt, wenn ständig Leute in die Küche kommen und seine Arbeit unterbrechen, da dies seine Konzentration störe. Die eintretenden Personen würden meistens fragen, wo die Anleiter:innen der beruflichen Qualifizierungsmaßnahme zu finden sind.</p>
+</li>
+<li>
+<p><strong>Phase: Reflexionsgespräch der artikulierten Alltagsprobleme</strong>
+Diese getätigte Aussage ist im Reflexionsgespräch mit der im Prozess anwesenden Anleiterin und zwei INTIA Mitarbeiter:innen aufgegriffen worden, indem eruiert worden ist, wie dieses Problem behoben werden könnte. In jenem Gespräch ist deutlich geworden, dass die Anleiterin in diesem abgeleiteten <a href="/wissen/woerterbuch/bedarf/">Bedarf</a> auch einen Nutzen für andere MEs zum weiteren Gebrauch in Folgeeinrichtungen sieht. Eine mögliche Lösung des artikulierten Problems (nämlich dass eintretende und nachfragende Personen die Konzentration stören), kann hierbei das eigenständige Rufen der Anleiter:innen durch die Qualifikant:innen der Qualifizierungsmaßnahme sein.</p>
+</li>
+<li>
+<p><strong>Phase: Validierung</strong>
+Um herauszufinden, ob jener abgeleitete <a href="/wissen/woerterbuch/bedarf/">Bedarf</a> auch für die anderen MEs als potenziell relevant erachtet wird, sollte dieser in einem zweiten Termin, eine Woche später, auf Richtigkeit geprüft und der Gedanke in Zuge dessen mittels Behaviour-Driven Prototyping (BDP) technisch spezifiziert werden. Das BDP beantwortet die Frage „Wie lassen sich technische Lösungsideen aus einem gegebenen <a href="/wissen/woerterbuch/bedarf/">Bedarf</a> prototypisieren?“ Die Forscher:innen des INTIA Teams schreiben hierfür zunächst das erfasste Problem auf eine Tafel: „Es nervt mich, wenn ich die Anleiterin suchen muss. Als Qualifikant in der Küche möchte ich die Anleiterin nicht suchen müssen. Damit ich keine wertvolle Arbeitszeit verschwende.“ So wird der <a href="/wissen/woerterbuch/bedarf/">Bedarf</a> auf eine möglichst einfache Art vor den Augen der MEs definiert und veranschaulicht. Auf einer anderen Tafel werden Prototyping-Karten aufgehängt, um anhand existierender Technologien technische Lösungsideen zu prototypisieren. In Zuge dessen werden die Jugendlichen Folgendes gefragt: „Wenn ich einen Knopf drücke, dann geht eine Lampe – …?“. Eine der MEs antwortet darauf „an“ oder „aus“. Diese Aussage nutzen die Workshop-Leiter:innen, um die Gruppe zu fragen, ob sie wissen, wie dies das geschilderte Problem lösen könnte.</p>
+<p>Daraufhin wird überlegt, was für Eigenschaften das Rufsystem haben sollte und wie z. B. Reize (Töne, Licht) zum Rufen der Anleiter:in genutzt werden könnten. Dies warf Fragen wie: „Soll das Licht flackern?“ „Soll das System einen Joystick haben?“ oder „Würdet ihr in ein Mikrofon reinsprechen?“ auf. Bei diesen Überlegungen beteiligten sich die MEs unterschiedlich viel. Einige schienen mit Freude teilzunehmen, andere ließen sich eher schwer für die Geschehnisse begeistern und waren im Verlauf zurückhaltender. Um den MEs die weiteren spezifischeren Überlegungen so anschaulich wie möglich zu gestalten, wurde vor dem Termin ein erster <a href="/wissen/woerterbuch/prototyp/">Prototyp</a> entwickelt, um haptisch und visuell die Funktionen und möglichen Hürden besser greifbar zu machen. Dieser <a href="/wissen/woerterbuch/prototyp/">Prototyp</a> bestand aus einem Knopf (Sendegerät) und einem aufleuchtenden Licht (Empfängergerät), wenn der Knopf gedrückt wird. Zur weiteren Visualisierung hat die Anleiterin das Empfängergerät in der Hand gehalten und die MEs haben gemeinsam mit den Workshop-Leiter:innen überlegt, wo der Knopf am besten platziert werden sollte, damit er möglichst für alle Qualifikant:innen erreichbar ist. Alle sind gemeinsam durch die Arbeitsbereiche gelaufen und die Workshop-Leiter:innen fragten in die Gruppe, wo der Knopf am besten platziert werden solle. Einer der MEs entgegnete daraufhin: „Lieber an der Wand. Da würd‘s keinen stören.“ Daraufhin hielt der Moderator das Sendegerät an die Wand und es wurde gemeinsam ausgetüftelt, welche Höhe oder Ort des Knopfes für alle passend wäre.</p>
+<p>Durch das BDP, welches u. a. sowohl das Testen des Prototypen als auch die Verknüpfung einer Idee bis hin zur Prototypisierung umfasst, konnten weitere notwendige Funktionen und Gegebenheiten für den Prototypen erhoben werden. Dadurch konnte mit dem BDP die Schwelle zur <a href="/wissen/woerterbuch/partizipation/">Partizipation</a> bei der Technikentwicklung deutlich verringert werden, auch wenn nicht in Gänze, da die technischen Lösungsideen der MEs durch die INTIA Mitarbeiter:innen, wie Hardware verdrahten und Software programmieren, noch umgesetzt werden mussten.</p>
+</li>
+<li>
+<p><strong>Anpassung des Prototypen</strong>
+Mit den Anregungen der MEs sollte der <a href="/wissen/woerterbuch/prototyp/">Prototyp</a> in einem nächsten Schritt an jene erfassten Voraussetzungen angepasst werden und erneut mit den ME erprobt werden. Leider konnten durch die Corona-bedingte Schließung der Einrichtung sowie das Aufteilen der MEs in unterschiedliche Betriebe auf Grundlage des Bundesteilhabegesetzes, diese weiteren Iterationen mit der Einrichtung nicht mehr durchgeführt werden, denn es fanden in der Qualifizierungsmaßnahme keine gemeinsamen Arbeitseinheiten mehr statt.</p>
+</li>
+</ol>
+<h2 id="reflexion-der-herausforderungen">Reflexion der Herausforderungen</h2>
+<p>Weiter zu reflektieren gilt es, dass der gesteckte zeitliche Rahmen von wöchentlich 1,5 Stunden eine prozessuale Herausforderung darstellte. Jedoch war dieser durch die Aufnahme- und Konzentrationsfähigkeit der MEs im Vorhinein so festgelegt worden, damit keine Überforderungsmomente hervorgerufen werden. Dieser Abstand zwischen den einzelnen Terminen konnte jedoch gleichzeitig bedeuten, dass Vieles aus den vorigen Terminen wieder vergessen wird. Daher ist es zu vermuten, dass ein zeitlicher Modus, mit schnelleren aufeinanderfolgenden Terminen, begünstigend auf den partizipativen Technikentwicklungsprozess wirken könnte. Denkbar wäre eine „Erfinderwerkstatt“, d. h. eine Projektwoche mit kurzen, dafür täglichen Einheiten über eine bestimmte Zeitspanne hinweg. In welchem Modus diese Einheiten schlussendlich durchgeführt werden können, hängt individuell von den Rahmenbedingungen der Projektpartner:innen und den MEs aus den jeweiligen Gruppen ab.</p>
+<p>Weiterhin geht jede Personengruppe mit individuellen Herausforderungen und Möglichkeiten einher. Bei der hier vorgestellten Gruppe mit Jugendlichen mit Lernbeeinträchtigung, standen die INTIA Mitarbeiter:innen stets im Spannungsfeld zwischen einem offenen vs. lenkenden Prozess. Denn nur durch zielführende Richtungsweisungen konnte ein Ergebnis erzielt werden, jedoch sollten dabei die Ideen, Wünsche und Anregungen der MEs nicht übergangen werden. Auch stellte die Heterogenität der Gruppe im Grad der Abstraktion eine Schwierigkeit dar, denn die Jugendlichen brachten dahingehend unterschiedliche Voraussetzungen mit, wodurch sich manche im Verlauf mehr als andere einbringen konnten. Die aktive <a href="/wissen/woerterbuch/partizipation/">Beteiligung</a> wurde zudem stark durch das persönliche Interesse am Projekt geprägt. Weiterhin war bei dieser Gruppe die Freiwilligkeit der Teilnahme stets zu hinterfragen, da sich der Technikentwicklungsworkshop während der Qualifizierungszeit abspielte und so bei einem Nicht-Teilnehmen die Alternative aus der täglichen Arbeit bestanden hätte.</p>
+<p>Die Rolle der Fachkraft ist bedeutsam. Im vorliegenden Fall handelte es sich um die Anleiterin einer beruflichen Qualifizierungsmaßnahme. Die Fachkraft konnte im Laufe der Zusammenarbeit durch die bestehende Beziehung zu den MEs und ihr fachliches Know-how, wenn nötig, beratend zur Seite stehen und im Anschluss den Forschenden in der gemeinsamen Reflexion wichtige Ergänzungen und Eindrücke zum Gruppenprozess liefern. Die INTIA Forschenden haben den Technikentwicklungsprozess vor Ort initiiert und begleitet. Dabei waren die unterschiedlichen Perspektiven gewinnbringend, denn nur so war der Prozess in seiner Tiefe durchführbar.</p>
+<p>Der Prozess mit den MEs wird als erfolgreich gewertet: Es konnten Methoden entwickelt und erprobt werden, die den jungen Menschen mit Förder<a href="/wissen/woerterbuch/bedarf/">bedarf</a> die Möglichkeit eröffnete, ihre Bedürfnisse zu erkennen, zu äußern, sowie an Technikentwicklungsprozessen zu partizipieren. Sie beteiligten sich an diesen Aktivitäten, die ihnen potenziell ermöglichten, Selbstwirksamkeit zu erfahren sowie ihre Skills in Teamarbeit und Abstraktion auszubauen.
+Auch für INTIA war es ein Erfolg, denn durch diese Form der partizipativen Prototypisierung konnten neue Techniken und Methoden sowie Potentiale in der interdisziplinären Zusammenarbeit erprobt und geschaffen werden.</p>
+
+                </div>
+            </div> 
+            
+        </div> 
+        
+            <footer class="footer is-hidden-print is-primary">
+    
+    <div class="container columns is-centered is-multiline is-bordered-bottom">
+        <div class="navbar-brand column is-full">
+            <a href="/" class="columns navbar-item">
+                <img class="column" src="/assets/img/logo-white.png">
+                <p class="calumn brand-title"></p>
+            </a>
+        </div>
+        <div class="column is-2">
+            <div class="title">www.intia.de</div>
+                TH-Köln | DITES<br>
+                Campus Südstadt<br>
+                Ubierring 48<br>
+                50678 Köln
+
+        </div>
+        
+        <div class="column ">
+            <div class="title">Site Map</div>
+            <div class="columns footer-nav">
+                
+                    <div class="column">
+                        <a href="" class="link"><strong>Über INTIA</strong></a>
+                        
+                        <div class="">
+                            
+                            <div class="">
+                                <a href="/ueber/plattform" class="link">Plattform</a>
+                            </div>
+                            
+                            <div class="">
+                                <a href="/ueber/projekt/" class="link">Projekt</a>
+                            </div>
+                            
+                            <div class="">
+                                <a href="/ueber/barrierearm/" class="link">Barrierearm</a>
+                            </div>
+                            
+                        </div>                                            
+                    
+                    </div>
+                
+                    <div class="column">
+                        <a href="" class="link"><strong>INTIA Koffer</strong></a>
+                        
+                        <div class="">
+                            
+                            <div class="">
+                                <a href="/intia-koffer/" class="link">Über</a>
+                            </div>
+                            
+                            <div class="">
+                                <a href="/intia-koffer/beschaffen/" class="link">Beschaffen</a>
+                            </div>
+                            
+                            <div class="">
+                                <a href="/intia-koffer/prototypen/" class="link">Prototypen</a>
+                            </div>
+                            
+                            <div class="">
+                                <a href="/intia-koffer/anleitungen/" class="link">Anleitungen</a>
+                            </div>
+                            
+                        </div>                                            
+                    
+                    </div>
+                
+                    <div class="column">
+                        <a href="" class="link"><strong>Werkzeuge</strong></a>
+                        
+                        <div class="">
+                            
+                            <div class="">
+                                <a href="/werkzeuge/bausteine/" class="link">Bausteine</a>
+                            </div>
+                            
+                            <div class="">
+                                <a href="/werkzeuge/methoden/" class="link">Methoden</a>
+                            </div>
+                            
+                        </div>                                            
+                    
+                    </div>
+                
+                    <div class="column">
+                        <a href="" class="link"><strong>Wissen</strong></a>
+                        
+                        <div class="">
+                            
+                            <div class="">
+                                <a href="/wissen/woerterbuch/" class="link">Wörterbuch</a>
+                            </div>
+                            
+                            <div class="">
+                                <a href="/wissen/publikationen/" class="link">Publikationen</a>
+                            </div>
+                            
+                        </div>                                            
+                    
+                    </div>
+                
+                    <div class="column">
+                        <a href="" class="link"><strong>Blog</strong></a>
+                        
+                        <div class="">
+                            
+                            <div class="">
+                                <a href="/blog/aktivitaeten/" class="link">Aktivitäten</a>
+                            </div>
+                            
+                            <div class="">
+                                <a href="/blog/fachartikel/" class="link">Fachartikel</a>
+                            </div>
+                            
+                        </div>                                            
+                    
+                    </div>
+                
+                    <div class="column">
+                        <a href="" class="link"><strong>Mitmachen</strong></a>
+                        
+                        <div class="">
+                            
+                            <div class="">
+                                <a href="/mitmachen/netzwerk/" class="link">Netzwerk</a>
+                            </div>
+                            
+                            <div class="">
+                                <a href="/mitmachen/kontakt/" class="link">Kontakt</a>
+                            </div>
+                            
+                        </div>                                            
+                    
+                    </div>
+                
+            </div>
+        </div>
+        
+        
+        <div class="column is-2">
+            <div class="title">Rechtliches</div>
+            <div class="">
+                
+                <div class="">
+                    <div>
+                        <a href="/about/" class="link">Über die Plattform</a>
+                    </div>
+                </div>
+                
+                <div class="">
+                    <div>
+                        <a href="https://www.th-koeln.de/hochschule/impressum_8159.php" class="link" target="_blank" rel="noopener noreferrer">Impressum</a>
+                    </div>
+                </div>
+                
+                <div class="">
+                    <div>
+                        <a href="https://www.th-koeln.de/hochschule/haftungshinweis_8277.php" class="link" target="_blank" rel="noopener noreferrer">Haftungshinweis</a>
+                    </div>
+                </div>
+                
+                <div class="">
+                    <div>
+                        <a href="https://www.th-koeln.de/hochschule/datenschutzhinweis_8279.php" class="link" target="_blank" rel="noopener noreferrer">Datenschutzhinweis</a>
+                    </div>
+                </div>
+                
+            </div>
+        </div>
+        
+    </div>
+        <div class="columns content is-small has-text-centered footer-logos">
+            <div class="column has-text-right"><div class="page-owner">
+                <p class="has-text-left">Eine Seite von</p>
+                <img src="/assets/img/logos/INTIA_Plattform_Logos_TH_weiss.png">
+                <img src="/assets/img/logos/INTIA_Plattform_Logos_Dites_weiss.png">
+            </div></div>
+            <div class="column has-text-left"><div class="page-sponsor">                
+                <img class="footer-logo-2" src="/assets/img/logos/BMBF_logo.jpg">
+            </div></div>
+        </div>
+        <div class="content is-small has-text-centered">
+            <p class="">INTIA, 2021</p>
+        </div>
+    
+</footer>
+
+        
+    </body>
+</html>

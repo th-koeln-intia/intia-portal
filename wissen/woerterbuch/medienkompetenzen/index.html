@@ -1,0 +1,534 @@
+<!--
+The Default layout that everything is using 
+-->
+
+<!-- Control the width with, if sidebars or menus should appear   -->
+
+
+<!DOCTYPE html>
+<html id="default-layout">
+    <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content=#ffffff>
+    <link rel="stylesheet" href="/assets/styles/main.css">
+    <link rel="shortcut icon" type="image/png"
+           href="/favicon.png" 
+    />
+    <script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.8.0/dist/alpine.min.js" defer></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma-carousel@4.0.3/dist/css/bulma-carousel.min.css">
+    
+        <script src="https://d3js.org/d3.v5.min.js"></script>
+        <!--<script src="https://methods.intia.de/src/radar/radar.js"></script>-->
+        <script src="/assets/js/radar.js"></script>
+        <!--<link rel="stylesheet" href="https://methods.intia.de/src/radar/radar.css" />-->
+    
+    
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma-social@1/bin/bulma-social.min.css">
+    
+    <!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Medienkompetenz | INTIA</title>
+<meta name="generator" content="Jekyll v4.3.3" />
+<meta property="og:title" content="Medienkompetenz" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Bedeutung für inklusive Technikentwicklung" />
+<meta property="og:description" content="Bedeutung für inklusive Technikentwicklung" />
+<link rel="canonical" href="/wissen/woerterbuch/medienkompetenzen/" />
+<meta property="og:url" content="/wissen/woerterbuch/medienkompetenzen/" />
+<meta property="og:site_name" content="INTIA" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2024-01-25T16:31:55+00:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Medienkompetenz" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","dateModified":"2024-01-25T16:31:55+00:00","datePublished":"2024-01-25T16:31:55+00:00","description":"Bedeutung für inklusive Technikentwicklung","headline":"Medienkompetenz","mainEntityOfPage":{"@type":"WebPage","@id":"/wissen/woerterbuch/medienkompetenzen/"},"url":"/wissen/woerterbuch/medienkompetenzen/"}</script>
+<!-- End Jekyll SEO tag -->
+<!-- head scripts -->
+<script src="https://unpkg.com/@botpoison/browser"></script>
+<script type="module" src="/assets/js/main.js"async></script></head>
+
+    <body>
+        <nav class="navbar is-hidden-print is-primary is-fixed-top" x-data="{ openNav: false }">
+    <div class="container">
+        <div class="navbar-brand">
+            <a href="/" class="">
+                <picture>
+                    <source media="(max-width: 1300px)" srcset="/assets/img/logo-short.png">
+                    <img id="navbar-logo" src="/assets/img/logo-horizontal-short.png">
+                </source></picture>     
+            </a>
+            <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navMenu" :class="{ 'is-active': openNav }" x-on:click="openNav = !openNav">
+                <span aria-hidden="true"></span>
+                <span aria-hidden="true"></span>
+                <span aria-hidden="true"></span>
+            </a>
+        </div>
+        <div class="navbar-menu" id="navMenu" :class="{ 'is-active': openNav }">
+            <div id="SearchOverlay" class="searchbar-overlay navbar-end buttons">
+                <div class="navbar-item searchbar">
+                    <div class="field">
+                        <div id="search-container" class="control">
+                          <input class="input search-input" type="text" id="search-input" placeholder="Suchbegriff eintippen">
+                        </div>
+                    </div>
+                    <ul id="results-container" class="search-result-list"></ul>
+                </div>
+                <div class="navbar-end">
+                    <div class="navbar-item navbar-search">
+                        <a id="closeSearch">
+                            <span class="icon">
+                                <i class="fa-solid icon-remove"></i>
+                            </span>
+                        </a>  
+                    </div>
+                </div>
+            </div>
+            <div id="navmenu" class="navbar-end buttons">
+                
+                
+                
+                <div class="navbar-item has-text-left button is-rounded is-dark has-dropdown is-hoverable        ">
+                    
+                    
+                     <a for="navbar-click" class="navbar-link">Über INTIA</a>
+                    
+                    <div class="navbar-dropdown">
+                        
+                        <a href="/ueber/plattform" class="navbar-item button is-rounded is-dark  ">Plattform</a>
+                        
+                        <a href="/ueber/projekt/" class="navbar-item button is-rounded is-dark  ">Projekt</a>
+                        
+                        <a href="/ueber/barrierearm/" class="navbar-item button is-rounded is-dark  ">Barrierearm</a>
+                        
+                    </div>
+                </div>
+                
+                
+                
+                <div class="navbar-item has-text-left button is-rounded is-dark has-dropdown is-hoverable          ">
+                    
+                    
+                     <a for="navbar-click" class="navbar-link">INTIA Koffer</a>
+                    
+                    <div class="navbar-dropdown">
+                        
+                        <a href="/intia-koffer/" class="navbar-item button is-rounded is-dark  ">Über</a>
+                        
+                        <a href="/intia-koffer/beschaffen/" class="navbar-item button is-rounded is-dark  ">Beschaffen</a>
+                        
+                        <a href="/intia-koffer/prototypen/" class="navbar-item button is-rounded is-dark  ">Prototypen</a>
+                        
+                        <a href="/intia-koffer/anleitungen/" class="navbar-item button is-rounded is-dark  ">Anleitungen</a>
+                        
+                    </div>
+                </div>
+                
+                
+                
+                <div class="navbar-item has-text-left button is-rounded is-dark has-dropdown is-hoverable      ">
+                    
+                    
+                     <a for="navbar-click" class="navbar-link">Werkzeuge</a>
+                    
+                    <div class="navbar-dropdown">
+                        
+                        <a href="/werkzeuge/bausteine/" class="navbar-item button is-rounded is-dark  ">Bausteine</a>
+                        
+                        <a href="/werkzeuge/methoden/" class="navbar-item button is-rounded is-dark  ">Methoden</a>
+                        
+                    </div>
+                </div>
+                
+                
+                
+                <div class="navbar-item has-text-left button is-rounded is-dark has-dropdown is-hoverable      ">
+                    
+                    
+                     <a for="navbar-click" class="navbar-link">Wissen</a>
+                    
+                    <div class="navbar-dropdown">
+                        
+                        <a href="/wissen/woerterbuch/" class="navbar-item button is-rounded is-dark  ">Wörterbuch</a>
+                        
+                        <a href="/wissen/publikationen/" class="navbar-item button is-rounded is-dark  ">Publikationen</a>
+                        
+                    </div>
+                </div>
+                
+                
+                
+                <div class="navbar-item has-text-left button is-rounded is-dark has-dropdown is-hoverable      ">
+                    
+                    
+                     <a for="navbar-click" class="navbar-link">Blog</a>
+                    
+                    <div class="navbar-dropdown">
+                        
+                        <a href="/blog/aktivitaeten/" class="navbar-item button is-rounded is-dark  ">Aktivitäten</a>
+                        
+                        <a href="/blog/fachartikel/" class="navbar-item button is-rounded is-dark  ">Fachartikel</a>
+                        
+                    </div>
+                </div>
+                
+                
+                
+                <div class="navbar-item has-text-left button is-rounded is-dark has-dropdown is-hoverable      ">
+                    
+                    
+                     <a for="navbar-click" class="navbar-link">Mitmachen</a>
+                    
+                    <div class="navbar-dropdown">
+                        
+                        <a href="/mitmachen/netzwerk/" class="navbar-item button is-rounded is-dark  ">Netzwerk</a>
+                        
+                        <a href="/mitmachen/kontakt/" class="navbar-item button is-rounded is-dark  ">Kontakt</a>
+                        
+                    </div>
+                </div>
+                
+                
+                
+   
+                    <div class="navbar-item navbar-search">
+                        <a id="openSearch">
+                            <span class="icon">
+                                <i class="fa-solid icon-search"></i>
+                            </span>
+                        </a>  
+                    </div>
+                
+            </div>
+        </div>
+    </div>
+</nav>
+
+<section class="breadcrumb-section green-version">
+    <div class="container breadcrumb-container">
+        <nav class="breadcrumb has-arrow-separator" aria-label="breadcrumbs">
+            <ul>
+            
+            <li><a href="/">INTIA</a></li>
+            
+                 
+                    
+                        <li><a>Wissen</a></li>
+                    
+                        <li><a>Wörterbuch</a></li>
+                    
+                
+                
+                <li><a href="#">Medienkompetenz</a></li>
+                
+            
+            </ul>
+        </nav>
+    </div>
+</section>
+
+
+  <!-- Script pointing to search-script.js -->
+  <script src="/assets/js/search.js" type="text/javascript"></script>
+  
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/search.json',
+    searchResultTemplate: '<li><a class="search-item" href="{url}">{title}</a></li>'
+  })
+  </script>
+        <div class="arrow-image is-pulled-left is-hidden-mobile">
+            <img id="scroll-up" src="/assets/img/arrow-down.png" alt="placeholder">
+            <img id="scroll-down" src="/assets/img/arrow-down.png" alt="placeholder" class="is-pointed-down">     
+        </div>
+        <div class="accessibility-image is-pulled-left is-hidden-mobile">
+                <a id="changeFontsize" class="button is-rounded is-dark">
+                    <span class="icon is-small">
+                        <i class="fas icon-font-size fa-xs invert"></i>
+                        </span> 
+                    </a>    
+        </div>
+        
+            <section class="hero is-hidden-print  is-medium   subpage glossary pdf ">
+    <div class="hero-body">
+        <div class="container">
+            
+                <h5 class="overtitle">Wörterbuch</h5>
+            
+            <h1 class=" title-with-overtitle ">Medienkompetenz</h1>
+            
+            
+                <h4>Medienkompetenz ist die Fähigkeit, Medien kritisch zu nutzen, zu verstehen und zu bewerten.</h4>
+            
+            
+            <div class="buttons-hero has-text-centered">
+                
+
+                <a href="/wissen/woerterbuch//" class="button is-rounded is-dark { % if item.link == page.url % } { % endif % }">
+                    <span class="icon is-small">
+                        <i class="fas fa-chevron-left"></i>
+                    </span>
+                    <span>Zur Übersicht</span>
+                </a>
+                <a onclick="window.print()" class="button is-rounded is-dark { % if item.link == page.url % } { % endif % }">
+                    <span>Als PDF Herunterladen</span>
+                    <span class="icon is-small">
+                        <i class="fas fa-chevron-right"></i>
+                    </span>
+                </a>
+            </div>
+        </div>
+    </div>
+</section>
+        
+        <div id="main" class="content-wrapper has-background-primary-light">
+            
+            
+            <div class="columns is-centered">
+                <div id="content" class="container column is-10-desktop is-12-tablet">
+                    
+                    <h2 id="bedeutung-fr-inklusive-technikentwicklung">Bedeutung für inklusive Technikentwicklung</h2>
+<p>Kinder und Jugendliche wachsen in einer medienlastigen Lebenswelt auf und sollen lernen, kompetent mit Medien umzugehen. Doch es besteht ein Konflikt, denn es gibt nicht genug Angebote. Und nicht alle Menschen können die vorhandenen Angebote gleichermaßen nutzen, weil sie keinen Zugang dazu haben. Einige benachteiligte Jugendliche nutzen daher digitale Medien weniger sinnvoll als der Durchschnitt der Bevölkerung. Es fehlen zudem Anleitungen und Vorbilder. Nicht alle Fachkräfte in stationären Eingliederungs- oder Jugendhilfeeinrichtungen konnten bislang medienpädagogische Fähigkeiten erwerben. Im inklusiven Entwicklungsprozess von Technologien sollen beide Zielgruppen, also Fachkräfte und Kinder bzw. Jugendliche, technologische Lösungen erfinden und gestalten. Diese Technologien dienen dazu, den Alltag besser zu bewältigen. Hierdurch sollen Medienkompetenzen entwickelt und medienpädagogische Fähigkeiten gestärkt werden.</p>
+<p>Medienkompetenz ist sowohl ein wichtiges Vermittlungsziel der Sozialen Arbeit als auch eine notwendige Fähigkeit für Fachkräfte, um mit den Anforderungen und Herausforderungen im Umgang mit Medien umzugehen. Die Nutzung digitaler Medien hat sich aufgrund der Covid-19-Pandemie weiter verstärkt. Umso mehr benötigen sowohl Jugendliche als auch Fachkräfte Fähigkeiten im Umgang mit digitalen Medien.</p>
+<h2 id="beschreibung">Beschreibung</h2>
+<p>Medienkompetenz wird hier in Anlehnung an den Begründer des Konzepts, Dieter Baacke, als Fähigkeit verstanden, alle Arten von Medien für das Kommunikations- und Handlungsrepertoire einzusetzen, um sich „in die Welt aktiv“ einzubringen (Baacke 1996: 119). Ziel ist die Erweiterung des Orientierungs- und Handlungsspielraums in und mit Medien. Berücksichtigt wird dabei, dass das Subjekt sich nach seinen „eigenen generativen Ausdrucksmustern“ entwickelt, es aber durchaus angeleitet werden kann (ebd.: 121). Das bedeutet: Medienkompetenz ist eine Fähigkeit, sich die Welt anzueignen. Menschen nutzen Medien zu unterschiedlichen Zwecken, zum Beispiel zur Kommunikation. Das Ziel ist es, die Handlungsmöglichkeiten und Orientierungsmöglichkeiten zu erweitern, und zwar mit und in den Medien. Dabei ist es wichtig zu berücksichtigen, dass Menschen sich im Umgang mit Medien auf eigene Weise weiterentwickeln. Anleitungen zum Umgang mit Medien oder andere Personen können eine Unterstützung für die Entwicklung von Medienkompetenzen sein.</p>
+<p>Wie sieht Medienkompetenz jedoch am Ende aus? Medienkompetente Menschen können verantwortungsvoll mit Medien umgehen. Kinder, Jugendliche und Erwachsene sollen gefördert werden, um ihre Medienkompetenzen zu erweitern. Sie sollen lernen, Medien so zu nutzen, dass es ihrem eigenen Wohl und dem Wohl der Gesellschaft dient. Es gibt verschiedene Definitionen von Medien und Medienkompetenzen. Hilfreich für die Gestaltung passender Methoden ist das Modell von Dieter Baacke. Er unterscheidet Medienkompetenzen in vier Dimensionen:</p>
+<ol>
+<li>Medienkritik</li>
+<li>Medienkunde</li>
+<li>Mediennutzung</li>
+<li>Mediengestaltung</li>
+</ol>
+<p><strong>Medienkritik</strong> umfasst nochmals drei einzelne Bereiche:</p>
+<ul>
+<li>
+<em>Analytisch</em>: Eine Person soll in der Lage sein, Probleme in Bezug zu Medien zu erfassen.</li>
+<li>
+<em>Reflexiv</em>: Das in den Medien erworbene Wissen soll auf die Person selbst angewandt werden können.</li>
+<li>
+<em>Ethisch</em>: Die beiden zuerst genannten Bereiche sollen auch sozial verantwortlich definiert werden.</li>
+</ul>
+<p><strong>Medienkunde</strong> unterteilt sich in zwei Bereiche:</p>
+<ul>
+<li>
+<em>Informative Dimension</em>: Es gibt klassisches Wissen, nämlich das Wissen darüber, was es für Geräte und Angebote gibt.</li>
+<li>
+<em>Instrumentell-qualifikatorische Dimension</em>: Das ist die Fähigkeit, die (neuen) Geräte bedienen zu können.</li>
+</ul>
+<p><strong>Mediennutzung</strong> wird auf zwei Ebenen vermittelt:</p>
+<ul>
+<li>
+<em>Anwendend</em>: durch die Aufnahme von Informationen.</li>
+<li>
+<em>Wechselseitig</em>: durch Angebote, um praktisch zu arbeiten und das Wissen anzuwenden.</li>
+</ul>
+<p><strong>Mediengestaltung</strong> meint, dass Medien sowohl kreativ als auch schöpferisch gestaltet werden. Ebenso wichtig ist es, die Bedürfnisse der Kinder und Jugendlichen wahrzunehmen. Es ist zu berücksichtigen, dass Menschen mit ihren individuellen Vorlieben ungestört in den Medien unterwegs sein möchten, ohne dabei belehrt zu werden. Medienbildung soll sich am Menschen und am Konzept des lebenslangen Lernens orientieren.</p>
+<h2 id="quellen">Quellen</h2>
+<ol>
+<li>Klimsa, Anja und Andreas Lange (2019): Medien in der Sozialen Arbeit. Stuttgart: Kohlhammer (Grundwissen Soziale Arbeit, Band 27). Online verfügbar unter <a href="http://www.kohlhammer.de/wms/instances/KOB/appDE/nav_product.php?product=978-3-17-032069-7" target="_blank" rel="noopener noreferrer">http://www.kohlhammer.de/wms/instances/KOB/appDE/nav_product.php?product=978-3-17-032069-7</a>.</li>
+<li>Initiative D21 e.V. (2016): 2016 D21-DIGITAL-INDEX. Jährliches Lagebild zur Digitalen Gesellschaft. Online verfügbar unter <a href="https://initiatived21.de/app/uploads/2017/01/studie-d21-digital-index-2016.pdf" target="_blank" rel="noopener noreferrer">https://initiatived21.de/app/uploads/2017/01/studie-d21-digital-index-2016.pdf</a>. Zuletzt geprüft am 05.05.2021.</li>
+<li>Bosse, Ingo und Uwe Hasebrink (2016): Mediennutzung von Menschen mit Behinderungen. Forschungsbericht. Online verfügbar unter <a href="https://www.aktion-mensch.de/dam/jcr:8b186ca0-b0f1-46f8-acb1-a59f295b5bb4/aktion-mensch-studie-mediennutzung-langfassung-2017-03.pdf" target="_blank" rel="noopener noreferrer">https://www.aktion-mensch.de/dam/jcr:8b186ca0-b0f1-46f8-acb1-a59f295b5bb4/aktion-mensch-studie-mediennutzung-langfassung-2017-03.pdf</a>. Zuletzt geprüft am 22.07.2021.</li>
+<li>Eickelmann, Birgit, Wilfried Bos, Julia Gerick und Ameli Labusch, (2014): Computer- und informationsbezogene Kompetenzen von Schülerinnen und Schülern der 8. Jahrgangsstufe in Deutschland im zweiten internationalen Vergleich. In: Knut Schwippert, Birgit Eickelmann, Wilfried Bos, Frank Goldhammer, Heike Schaumburg und Julia Gerick (Hrsg.): ICILS 2013. s.l.: Waxmann Verlag, S. 113–135.</li>
+<li>Tillmann, Angela (2020): Veränderte Lebenswelten im Zuge gesellschaftlicher Digitalisierungsprozesse. In: Nadia Kutscher, Thomas Ley, Udo Seelmeyer, Friederike Siller, Angela Tillmann und Isabel Zorn (Hrsg.): Handbuch <a href="/wissen/woerterbuch/soziale-arbeit/">Soziale Arbeit</a> und Digitalisierung. 1. Auflage. Weinheim: Beltz Juventa, S. 89–100.</li>
+<li>Tillmann, Angela (2018): Erziehungshilfen im Kontext der Digitalisierung: Herausforderungen und Aufgaben. In: Forum Erziehungshilfen (3), S. 135–141. Online verfügbar unter <a href="https://content-select.com/media/moz_viewer/5b475f9c-02e0-4dbe-aefd-07dcb0dd2d03/language:de" target="_blank" rel="noopener noreferrer">https://content-select.com/media/moz_viewer/5b475f9c-02e0-4dbe-aefd-07dcb0dd2d03/language:de</a>. Zuletzt geprüft am 04.02.2021.</li>
+</ol>
+
+                </div>
+            </div> 
+            
+        </div> 
+        
+            <footer class="footer is-hidden-print is-primary">
+    
+    <div class="container columns is-centered is-multiline is-bordered-bottom">
+        <div class="navbar-brand column is-full">
+            <a href="/" class="columns navbar-item">
+                <img class="column" src="/assets/img/logo-white.png">
+                <p class="calumn brand-title"></p>
+            </a>
+        </div>
+        <div class="column is-2">
+            <div class="title">www.intia.de</div>
+                TH-Köln | DITES<br>
+                Campus Südstadt<br>
+                Ubierring 48<br>
+                50678 Köln
+
+        </div>
+        
+        <div class="column ">
+            <div class="title">Site Map</div>
+            <div class="columns footer-nav">
+                
+                    <div class="column">
+                        <a href="" class="link"><strong>Über INTIA</strong></a>
+                        
+                        <div class="">
+                            
+                            <div class="">
+                                <a href="/ueber/plattform" class="link">Plattform</a>
+                            </div>
+                            
+                            <div class="">
+                                <a href="/ueber/projekt/" class="link">Projekt</a>
+                            </div>
+                            
+                            <div class="">
+                                <a href="/ueber/barrierearm/" class="link">Barrierearm</a>
+                            </div>
+                            
+                        </div>                                            
+                    
+                    </div>
+                
+                    <div class="column">
+                        <a href="" class="link"><strong>INTIA Koffer</strong></a>
+                        
+                        <div class="">
+                            
+                            <div class="">
+                                <a href="/intia-koffer/" class="link">Über</a>
+                            </div>
+                            
+                            <div class="">
+                                <a href="/intia-koffer/beschaffen/" class="link">Beschaffen</a>
+                            </div>
+                            
+                            <div class="">
+                                <a href="/intia-koffer/prototypen/" class="link">Prototypen</a>
+                            </div>
+                            
+                            <div class="">
+                                <a href="/intia-koffer/anleitungen/" class="link">Anleitungen</a>
+                            </div>
+                            
+                        </div>                                            
+                    
+                    </div>
+                
+                    <div class="column">
+                        <a href="" class="link"><strong>Werkzeuge</strong></a>
+                        
+                        <div class="">
+                            
+                            <div class="">
+                                <a href="/werkzeuge/bausteine/" class="link">Bausteine</a>
+                            </div>
+                            
+                            <div class="">
+                                <a href="/werkzeuge/methoden/" class="link">Methoden</a>
+                            </div>
+                            
+                        </div>                                            
+                    
+                    </div>
+                
+                    <div class="column">
+                        <a href="" class="link"><strong>Wissen</strong></a>
+                        
+                        <div class="">
+                            
+                            <div class="">
+                                <a href="/wissen/woerterbuch/" class="link">Wörterbuch</a>
+                            </div>
+                            
+                            <div class="">
+                                <a href="/wissen/publikationen/" class="link">Publikationen</a>
+                            </div>
+                            
+                        </div>                                            
+                    
+                    </div>
+                
+                    <div class="column">
+                        <a href="" class="link"><strong>Blog</strong></a>
+                        
+                        <div class="">
+                            
+                            <div class="">
+                                <a href="/blog/aktivitaeten/" class="link">Aktivitäten</a>
+                            </div>
+                            
+                            <div class="">
+                                <a href="/blog/fachartikel/" class="link">Fachartikel</a>
+                            </div>
+                            
+                        </div>                                            
+                    
+                    </div>
+                
+                    <div class="column">
+                        <a href="" class="link"><strong>Mitmachen</strong></a>
+                        
+                        <div class="">
+                            
+                            <div class="">
+                                <a href="/mitmachen/netzwerk/" class="link">Netzwerk</a>
+                            </div>
+                            
+                            <div class="">
+                                <a href="/mitmachen/kontakt/" class="link">Kontakt</a>
+                            </div>
+                            
+                        </div>                                            
+                    
+                    </div>
+                
+            </div>
+        </div>
+        
+        
+        <div class="column is-2">
+            <div class="title">Rechtliches</div>
+            <div class="">
+                
+                <div class="">
+                    <div>
+                        <a href="/about/" class="link">Über die Plattform</a>
+                    </div>
+                </div>
+                
+                <div class="">
+                    <div>
+                        <a href="https://www.th-koeln.de/hochschule/impressum_8159.php" class="link" target="_blank" rel="noopener noreferrer">Impressum</a>
+                    </div>
+                </div>
+                
+                <div class="">
+                    <div>
+                        <a href="https://www.th-koeln.de/hochschule/haftungshinweis_8277.php" class="link" target="_blank" rel="noopener noreferrer">Haftungshinweis</a>
+                    </div>
+                </div>
+                
+                <div class="">
+                    <div>
+                        <a href="https://www.th-koeln.de/hochschule/datenschutzhinweis_8279.php" class="link" target="_blank" rel="noopener noreferrer">Datenschutzhinweis</a>
+                    </div>
+                </div>
+                
+            </div>
+        </div>
+        
+    </div>
+        <div class="columns content is-small has-text-centered footer-logos">
+            <div class="column has-text-right"><div class="page-owner">
+                <p class="has-text-left">Eine Seite von</p>
+                <img src="/assets/img/logos/INTIA_Plattform_Logos_TH_weiss.png">
+                <img src="/assets/img/logos/INTIA_Plattform_Logos_Dites_weiss.png">
+            </div></div>
+            <div class="column has-text-left"><div class="page-sponsor">                
+                <img class="footer-logo-2" src="/assets/img/logos/BMBF_logo.jpg">
+            </div></div>
+        </div>
+        <div class="content is-small has-text-centered">
+            <p class="">INTIA, 2021</p>
+        </div>
+    
+</footer>
+
+        
+    </body>
+</html>

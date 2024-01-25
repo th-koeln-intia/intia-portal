@@ -1,0 +1,589 @@
+<!--
+The Default layout that everything is using 
+-->
+
+<!-- Control the width with, if sidebars or menus should appear   -->
+
+
+<!DOCTYPE html>
+<html id="default-layout">
+    <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content=#ffffff>
+    <link rel="stylesheet" href="/assets/styles/main.css">
+    <link rel="shortcut icon" type="image/png"
+           href="/favicon.png" 
+    />
+    <script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.8.0/dist/alpine.min.js" defer></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma-carousel@4.0.3/dist/css/bulma-carousel.min.css">
+    
+        <script src="https://d3js.org/d3.v5.min.js"></script>
+        <!--<script src="https://methods.intia.de/src/radar/radar.js"></script>-->
+        <script src="/assets/js/radar.js"></script>
+        <!--<link rel="stylesheet" href="https://methods.intia.de/src/radar/radar.css" />-->
+    
+    
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma-social@1/bin/bulma-social.min.css">
+    
+    <!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Anleitung der Erstinbetriebnahme des INTIA-Koffers | INTIA</title>
+<meta name="generator" content="Jekyll v4.3.3" />
+<meta property="og:title" content="Anleitung der Erstinbetriebnahme des INTIA-Koffers" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="A plattform for methods, techniques, toolkits and patterns for participative development in a social context." />
+<meta property="og:description" content="A plattform for methods, techniques, toolkits and patterns for participative development in a social context." />
+<link rel="canonical" href="/wissen/anleitungen/erstbenutzung" />
+<meta property="og:url" content="/wissen/anleitungen/erstbenutzung" />
+<meta property="og:site_name" content="INTIA" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Anleitung der Erstinbetriebnahme des INTIA-Koffers" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebPage","description":"A plattform for methods, techniques, toolkits and patterns for participative development in a social context.","headline":"Anleitung der Erstinbetriebnahme des INTIA-Koffers","url":"/wissen/anleitungen/erstbenutzung"}</script>
+<!-- End Jekyll SEO tag -->
+<!-- head scripts -->
+<script src="https://unpkg.com/@botpoison/browser"></script>
+<script type="module" src="/assets/js/main.js"async></script></head>
+
+    <body>
+        <nav class="navbar is-hidden-print is-primary is-fixed-top" x-data="{ openNav: false }">
+    <div class="container">
+        <div class="navbar-brand">
+            <a href="/" class="">
+                <picture>
+                    <source media="(max-width: 1300px)" srcset="/assets/img/logo-short.png">
+                    <img id="navbar-logo" src="/assets/img/logo-horizontal-short.png">
+                </source></picture>     
+            </a>
+            <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navMenu" :class="{ 'is-active': openNav }" x-on:click="openNav = !openNav">
+                <span aria-hidden="true"></span>
+                <span aria-hidden="true"></span>
+                <span aria-hidden="true"></span>
+            </a>
+        </div>
+        <div class="navbar-menu" id="navMenu" :class="{ 'is-active': openNav }">
+            <div id="SearchOverlay" class="searchbar-overlay navbar-end buttons">
+                <div class="navbar-item searchbar">
+                    <div class="field">
+                        <div id="search-container" class="control">
+                          <input class="input search-input" type="text" id="search-input" placeholder="Suchbegriff eintippen">
+                        </div>
+                    </div>
+                    <ul id="results-container" class="search-result-list"></ul>
+                </div>
+                <div class="navbar-end">
+                    <div class="navbar-item navbar-search">
+                        <a id="closeSearch">
+                            <span class="icon">
+                                <i class="fa-solid icon-remove"></i>
+                            </span>
+                        </a>  
+                    </div>
+                </div>
+            </div>
+            <div id="navmenu" class="navbar-end buttons">
+                
+                
+                
+                <div class="navbar-item has-text-left button is-rounded is-dark has-dropdown is-hoverable        ">
+                    
+                    
+                     <a for="navbar-click" class="navbar-link">Über INTIA</a>
+                    
+                    <div class="navbar-dropdown">
+                        
+                        <a href="/ueber/plattform" class="navbar-item button is-rounded is-dark  ">Plattform</a>
+                        
+                        <a href="/ueber/projekt/" class="navbar-item button is-rounded is-dark  ">Projekt</a>
+                        
+                        <a href="/ueber/barrierearm/" class="navbar-item button is-rounded is-dark  ">Barrierearm</a>
+                        
+                    </div>
+                </div>
+                
+                
+                
+                <div class="navbar-item has-text-left button is-rounded is-dark has-dropdown is-hoverable          ">
+                    
+                    
+                     <a for="navbar-click" class="navbar-link">INTIA Koffer</a>
+                    
+                    <div class="navbar-dropdown">
+                        
+                        <a href="/intia-koffer/" class="navbar-item button is-rounded is-dark  ">Über</a>
+                        
+                        <a href="/intia-koffer/beschaffen/" class="navbar-item button is-rounded is-dark  ">Beschaffen</a>
+                        
+                        <a href="/intia-koffer/prototypen/" class="navbar-item button is-rounded is-dark  ">Prototypen</a>
+                        
+                        <a href="/intia-koffer/anleitungen/" class="navbar-item button is-rounded is-dark  ">Anleitungen</a>
+                        
+                    </div>
+                </div>
+                
+                
+                
+                <div class="navbar-item has-text-left button is-rounded is-dark has-dropdown is-hoverable      ">
+                    
+                    
+                     <a for="navbar-click" class="navbar-link">Werkzeuge</a>
+                    
+                    <div class="navbar-dropdown">
+                        
+                        <a href="/werkzeuge/bausteine/" class="navbar-item button is-rounded is-dark  ">Bausteine</a>
+                        
+                        <a href="/werkzeuge/methoden/" class="navbar-item button is-rounded is-dark  ">Methoden</a>
+                        
+                    </div>
+                </div>
+                
+                
+                
+                <div class="navbar-item has-text-left button is-rounded is-dark has-dropdown is-hoverable      ">
+                    
+                    
+                     <a for="navbar-click" class="navbar-link">Wissen</a>
+                    
+                    <div class="navbar-dropdown">
+                        
+                        <a href="/wissen/woerterbuch/" class="navbar-item button is-rounded is-dark  ">Wörterbuch</a>
+                        
+                        <a href="/wissen/publikationen/" class="navbar-item button is-rounded is-dark  ">Publikationen</a>
+                        
+                    </div>
+                </div>
+                
+                
+                
+                <div class="navbar-item has-text-left button is-rounded is-dark has-dropdown is-hoverable      ">
+                    
+                    
+                     <a for="navbar-click" class="navbar-link">Blog</a>
+                    
+                    <div class="navbar-dropdown">
+                        
+                        <a href="/blog/aktivitaeten/" class="navbar-item button is-rounded is-dark  ">Aktivitäten</a>
+                        
+                        <a href="/blog/fachartikel/" class="navbar-item button is-rounded is-dark  ">Fachartikel</a>
+                        
+                    </div>
+                </div>
+                
+                
+                
+                <div class="navbar-item has-text-left button is-rounded is-dark has-dropdown is-hoverable      ">
+                    
+                    
+                     <a for="navbar-click" class="navbar-link">Mitmachen</a>
+                    
+                    <div class="navbar-dropdown">
+                        
+                        <a href="/mitmachen/netzwerk/" class="navbar-item button is-rounded is-dark  ">Netzwerk</a>
+                        
+                        <a href="/mitmachen/kontakt/" class="navbar-item button is-rounded is-dark  ">Kontakt</a>
+                        
+                    </div>
+                </div>
+                
+                
+                
+   
+                    <div class="navbar-item navbar-search">
+                        <a id="openSearch">
+                            <span class="icon">
+                                <i class="fa-solid icon-search"></i>
+                            </span>
+                        </a>  
+                    </div>
+                
+            </div>
+        </div>
+    </div>
+</nav>
+
+<section class="breadcrumb-section green-version">
+    <div class="container breadcrumb-container">
+        <nav class="breadcrumb has-arrow-separator" aria-label="breadcrumbs">
+            <ul>
+            
+            <li><a href="/">INTIA</a></li>
+            
+                 
+                    
+                        <li><a>Wissen</a></li>
+                    
+                        <li><a>Anleitungen</a></li>
+                    
+                
+                
+                <li><a href="#">Anleitung der Erstinbetriebnahme des INTIA-Koffers</a></li>
+                
+            
+            </ul>
+        </nav>
+    </div>
+</section>
+
+
+  <!-- Script pointing to search-script.js -->
+  <script src="/assets/js/search.js" type="text/javascript"></script>
+  
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/search.json',
+    searchResultTemplate: '<li><a class="search-item" href="{url}">{title}</a></li>'
+  })
+  </script>
+        <div class="arrow-image is-pulled-left is-hidden-mobile">
+            <img id="scroll-up" src="/assets/img/arrow-down.png" alt="placeholder">
+            <img id="scroll-down" src="/assets/img/arrow-down.png" alt="placeholder" class="is-pointed-down">     
+        </div>
+        <div class="accessibility-image is-pulled-left is-hidden-mobile">
+                <a id="changeFontsize" class="button is-rounded is-dark">
+                    <span class="icon is-small">
+                        <i class="fas icon-font-size fa-xs invert"></i>
+                        </span> 
+                    </a>    
+        </div>
+        
+            <section class="hero is-hidden-print  is-medium   subpage pdf ">
+    <div class="hero-body">
+        <div class="container">
+            
+                <h5 class="overtitle">Anleitungen</h5>
+            
+            <h1 class=" title-with-overtitle ">Anleitung der Erstinbetriebnahme des INTIA-Koffers</h1>
+            
+                <img src="/assets/img/uploads/neuigkeit-koffertermin-piksl-1.jpg" alt="placeholder" class="is-rounded is-hidden-mobile">
+            
+            
+                <h4></h4>
+            
+            
+            <div class="buttons-hero has-text-centered">
+                
+
+                <a href="/wissen/anleitungen/" class="button is-rounded is-dark { % if item.link == page.url % } { % endif % }">
+                    <span class="icon is-small">
+                        <i class="fas fa-chevron-left"></i>
+                    </span>
+                    <span>Zur Übersicht</span>
+                </a>
+                <a onclick="window.print()" class="button is-rounded is-dark { % if item.link == page.url % } { % endif % }">
+                    <span>Als PDF Herunterladen</span>
+                    <span class="icon is-small">
+                        <i class="fas fa-chevron-right"></i>
+                    </span>
+                </a>
+            </div>
+        </div>
+    </div>
+</section>
+        
+        <div id="main" class="content-wrapper has-background-primary-light">
+            
+            
+            <div class="columns is-centered">
+                <div id="content" class="container column is-10-desktop is-12-tablet">
+                    
+                    <!--StartFragment-->
+<p>Herzlichen Glückwunsch! Du hast einen INTIA Koffer erworben.</p>
+<p>Um damit arbeiten zu können wird WLAN benötigt. Ähnlich wie man es vom Smartphone oder Computer kennt. Dafür gibt es zwei verschiedene Möglichkeiten: Einmal die Erstinbetriebnahme mit einem dedizierten Router und einmal ohne Router. Letzterer nutzt ein bereits existierendes WLAN. Die Nachfolgende Anleitung umfasst beide Optionen, dabei sind Schritte wo es unterschiede gibt mit einem "*" gekennzeichnet.</p>
+<div class="highlighter     ">  
+<h4 id="brauche-ich-einen-dedizierten-router-oder-nicht">Brauche ich einen dedizierten Router oder nicht?</h4>
+<p>Wenn du planst den Koffer in verschiedene Einrichtungen mitzunehmen und dabei unabhängig sein möchtest empfiehlt sich die Nutzung eines dedizierten Routers. Hierfür haben wir Empfehlungen in der Einkaufsliste hinterlegt.</p>
+<p>Arbeitest du innerhalb einer Einrichtung oder bist dir sicher das du an deinem Zielort WLAN hast, kannst du auf einen eigenen Router verzichten und das bereits existierende Netz nutzen. ABER: Hierbei muss man allen Bausteinen das zu nutzende Netzwerk mitteilen.</p>
+</div>
+<h2 id="anleitung-zur-erstinbetriebnahme-des-intia-koffers-">Anleitung zur Erstinbetriebnahme des INTIA-Koffers  </h2>
+<ol>
+<li>
+<p>Koffer öffnen</p>
+</li>
+<li>
+<p>*Router herausholen
+(Weißes Element mit der großen "1" drauf)</p>
+</li>
+<li>
+<p>*Router mit dem mitgelieferten USB-Kabel an den Strom anschließen. Der Router ist jetzt einsatzbereit.
+(Schwarzes Element mit der Nummer 5 ist ein USB-Hub, also eine Box die mit einem Stromstecker mehrere USB-Anschlüsse anbietet. Die dafür benötigten Kabel befinden sind in der Mitte unten)</p>
+</li>
+</ol>
+<div class="highlighter     ">  
+<h4 id="wenn-der-router-noch-nicht-eingerichtet-ist">Wenn der Router noch nicht eingerichtet ist</h4>
+<p>Sollte der Router noch nicht eingerichtet sein sollte zuvor die Ersteinrichtung durchgeführt werden.</p>
+<ul>
+<li>Der Anleitung des Herstellers folgen</li>
+<li>Mit einem WLAN-fähigen Gerät nachsehen, ob der Router ein WLAN freigegeben hat</li>
+<li>Bei der Router-Einrichtung dem WLAN den Namen "INTIA" und das Passwort "BuntesLicht10" geben</li>
+</ul>
+<p>Andere Namen sind möglich, benötigen aber ein paar Extraschritte beim Mini-Computer</p>
+</div>
+<ol start="4">
+<li>Mini-Computer herausholen
+(Grünes Element mit Wabenmuster im Bild oben)</li>
+</ol>
+<div class="highlighter     ">  
+<h4 id="wenn-der-mini-computer-noch-nicht-eingerichtet-ist">Wenn der Mini-Computer noch nicht eingerichtet ist</h4>
+<p>Anleitung zur Einrichtung des Mini-Computers folgen. Siehe: https://intia.de/wissen/anleitungen/installation</p>
+</div>
+<ol start="5">
+<li>Lampenfassung herausholen. Sicherstellen, dass eine Steckdose (ggf. durch Bereitstellen einer Mehrfachsteckdose oder eines Verlängerungskabel) in der Nähe ist. Lampenfassung an den Strom stecken.
+(Unten rechts im Bild. Ggfs. kann es sich hierbei auch um eine andere sogenannte GU10 Fassung handeln. Diese sieht etwas anders aus wird am genauso benutzt)</li>
+<li>Genauso mit allen anderen Elementen im Koffer verfahren, die man nutzen möchte.
+(Nicht alle Elemente im Koffer benötigen einen Stromanschluss. Diese Geräte sind Batteriebetrieben und es kann vorkommen das diese gewechselt werden müssen)</li>
+</ol>
+<h3 id="nach-der-einrichtung-des-routers-mit-dem-mini-computer-fortfahren-ein-eigenes-wlan-erstellen">Nach der Einrichtung des Routers mit dem Mini-Computer fortfahren: Ein eigenes WLAN erstellen</h3>
+<ol>
+<li>Mini-Computer an den Strom und ein paar Minuten warten
+(Hierfür ein weiteres der mitgelieferten Kabel nutzen über den USB-Hub)</li>
+<li>*Wenn das WLAN "INTIA" heißt, verbindet sich der Mini-Computer von selbst. Auf dem Display erscheint eine Zahlenfolge, die folgender ähnelt "192.168.1.100"
+(Dies ist nur bei einem Koffer mit dedizierten Router möglich)
+a. Zahlenfolge bitte als "ADRESSE" notieren</li>
+<li>*Wenn das WLAN anders heißen sollte:
+(Dies ist der Fall wenn man ein existierendes Netzwerk nutzt)
+a. Nach einigen Minuten erscheint ein neues WLAN mit dem Namen "INTIA-(zufällige Zahlen)"
+b. Mit diesem WLAN verbinden
+c. Eine Webseite wird angezeigt auf der ein WLAN eingerichtet werden kann
+d. Nach fertigem Einrichten erscheint eine Zahlenfolge die folgender ähnelt "192.168.1.100"
+e. Wenn dies nicht geschieht den Mini-Computer neu starten und kurz warten</li>
+<li>Nun ein internetfähiges Endgerät (PC, Tablet, Smartphone) mit dem WLAN verbinden, mit dem der Mini-Computer verbunden ist. Es erscheint die Meldung "kein gesichertes Netz", das ist aber kein Grund zur Sorge. So lange man mit dem WLAN verbunden ist, ist man nicht mehr im regulären Internet, sondern in einem kleinen Raum.
+a. Bei Mobilgeräten kann es zu Problemen kommen, wenn das WLAN nicht auch einen Internetzugriff bietet. Die Mobilen Daten zu deaktivieren kann helfen</li>
+<li>In den Internet-Browser (Chrome, Firefox usw.) die zuvor Notierte "ADRESSE" mit dem Anhang ":1880/ui" eingeben (Zum Beispiel: "192.168.1.100:1880/ui"). Eine Seite sollte sich öffnen. Es kann sein das der Browser eine Warnung ausspricht und die Seite als "nicht sicher" angibt. Da es sich hierbei um eine lokale Seite (von unserem Mini-Computer) handelt und nicht eine Internetadresse kann dies Bedenkenlos geöffnet werden. Also keine Sorge!
+a. Auf dieser Seite findet man eine Grafische Oberfläche mit der man die Koffer-Inhalte steuern kann.
+b. Sollte diese Seite noch nicht vor konfiguriert sein muss der Anleitung zur: grafischen Oberfläche gefolgt werden.
+c. Z.B. kann hier das Escape Game de- und aktiviert werden.
+d. Ist das Escape Game deaktiviert, kann das Licht frei gesteuert werden. Probiere einmal mit der Lampe aus, ob es geklappt hat.</li>
+<li>Nun können Glühbirne, Knöpfe und alle anderen Bausteine hinzugefügt werden. Dafür findest du HIER eine Anleitung.</li>
+</ol>
+<p><img src="/assets/img/instructions/intia_nodered_dashboard.png" alt=""></p>
+<p>Abschließend kann getestet werden ob nicht nur mit der notierten ADRESSE diese Seite erreicht werden kann sondern auch folgende Adressen funktionieren:</p>
+<ul>
+<li>http://intia:1880/ui - Das Dashboard</li>
+<li>http://intia:1880/ - Die Programmierumgebung</li>
+<li>http://intia:8080/ - Oberfläche zum einrichten und Steuern der Zigbee-Bausteine</li>
+</ul>
+<h4 id="gerte-die-nicht-kommerziell-erworben-wurden-sondern-zu-unseren-selbstgebauten-technik-blcken-gehren-mssen-anders-hinzugefgt-werden">Geräte, die nicht kommerziell erworben wurden, sondern zu unseren selbstgebauten Technik-Blöcken gehören, müssen anders hinzugefügt werden</h4>
+<ol>
+<li>Gerät an Strom anschließen (die meisten USB-Ports reichen hierfür aus!)</li>
+<li>Nach einiger Zeit öffnet sich ein neues WLAN ohne Passwort</li>
+<li>Nachdem mit dem WLAN verbunden, sollte sich eine Webseite öffnen</li>
+<li>Auf dieser kann ein WLAN hinzugefügt werden</li>
+</ol>
+<h3 id="grafische-oberflche">Grafische Oberfläche</h3>
+<ol>
+<li>Wir befinden uns auf der grafischen Oberfläche oder diese ist nicht erreichbar unter der zuvor notierten "ADRESSE" mit dem Anhang ":1880/ui"</li>
+<li>Dann müssen wir erst noch die Konfiguration dieser Oberfläche einrichten. Dafür geht man auf die zuvor Notierte "ADRESSE" und dem Anhang ":1880" oder http://intia:1880/.</li>
+<li>Wir sehen jetzt eine Oberfläche die sich Node-Red nennt.</li>
+<li>Sind hier noch keine Flows (Flows sind die Programm-Abläufe) vorhanden, müssen sie importiert werden (Bilder)</li>
+<li>Importiere Wunsch-Flows aus unserer Sammlung
+a. Ein Dashboard um die Webseite auf ADRESSE:1880/ui besuchbar zu machen
+b. Escape Game um das Escape Game zu installieren
+c. Verschiedene Beispiel-Flows für unsere Entwicklungen wie die Pomodoro-Kiste</li>
+<li>Geräte müssen nun den Nodes zugewiesen werden (Bilder)</li>
+</ol>
+<h3 id="escape-game">Escape Game</h3>
+<p>In diesem Teil wird kurz beschrieben wie man die Bausteine mit dem Escape Game verwendet.</p>
+<p>Handelt es sich bei dem Betriebssystem auf dem Mini-Computer um eines von INTIA vorbereitetes sollte das Escape Game bereits installiert sein. War dies nicht der Fall wurde im schritt zuvor beschreiben wie man das Escape Game nach installiert.</p>
+<!--EndFragment-->
+
+                </div>
+            </div> 
+            
+        </div> 
+        
+            <footer class="footer is-hidden-print is-primary">
+    
+    <div class="container columns is-centered is-multiline is-bordered-bottom">
+        <div class="navbar-brand column is-full">
+            <a href="/" class="columns navbar-item">
+                <img class="column" src="/assets/img/logo-white.png">
+                <p class="calumn brand-title"></p>
+            </a>
+        </div>
+        <div class="column is-2">
+            <div class="title">www.intia.de</div>
+                TH-Köln | DITES<br>
+                Campus Südstadt<br>
+                Ubierring 48<br>
+                50678 Köln
+
+        </div>
+        
+        <div class="column ">
+            <div class="title">Site Map</div>
+            <div class="columns footer-nav">
+                
+                    <div class="column">
+                        <a href="" class="link"><strong>Über INTIA</strong></a>
+                        
+                        <div class="">
+                            
+                            <div class="">
+                                <a href="/ueber/plattform" class="link">Plattform</a>
+                            </div>
+                            
+                            <div class="">
+                                <a href="/ueber/projekt/" class="link">Projekt</a>
+                            </div>
+                            
+                            <div class="">
+                                <a href="/ueber/barrierearm/" class="link">Barrierearm</a>
+                            </div>
+                            
+                        </div>                                            
+                    
+                    </div>
+                
+                    <div class="column">
+                        <a href="" class="link"><strong>INTIA Koffer</strong></a>
+                        
+                        <div class="">
+                            
+                            <div class="">
+                                <a href="/intia-koffer/" class="link">Über</a>
+                            </div>
+                            
+                            <div class="">
+                                <a href="/intia-koffer/beschaffen/" class="link">Beschaffen</a>
+                            </div>
+                            
+                            <div class="">
+                                <a href="/intia-koffer/prototypen/" class="link">Prototypen</a>
+                            </div>
+                            
+                            <div class="">
+                                <a href="/intia-koffer/anleitungen/" class="link">Anleitungen</a>
+                            </div>
+                            
+                        </div>                                            
+                    
+                    </div>
+                
+                    <div class="column">
+                        <a href="" class="link"><strong>Werkzeuge</strong></a>
+                        
+                        <div class="">
+                            
+                            <div class="">
+                                <a href="/werkzeuge/bausteine/" class="link">Bausteine</a>
+                            </div>
+                            
+                            <div class="">
+                                <a href="/werkzeuge/methoden/" class="link">Methoden</a>
+                            </div>
+                            
+                        </div>                                            
+                    
+                    </div>
+                
+                    <div class="column">
+                        <a href="" class="link"><strong>Wissen</strong></a>
+                        
+                        <div class="">
+                            
+                            <div class="">
+                                <a href="/wissen/woerterbuch/" class="link">Wörterbuch</a>
+                            </div>
+                            
+                            <div class="">
+                                <a href="/wissen/publikationen/" class="link">Publikationen</a>
+                            </div>
+                            
+                        </div>                                            
+                    
+                    </div>
+                
+                    <div class="column">
+                        <a href="" class="link"><strong>Blog</strong></a>
+                        
+                        <div class="">
+                            
+                            <div class="">
+                                <a href="/blog/aktivitaeten/" class="link">Aktivitäten</a>
+                            </div>
+                            
+                            <div class="">
+                                <a href="/blog/fachartikel/" class="link">Fachartikel</a>
+                            </div>
+                            
+                        </div>                                            
+                    
+                    </div>
+                
+                    <div class="column">
+                        <a href="" class="link"><strong>Mitmachen</strong></a>
+                        
+                        <div class="">
+                            
+                            <div class="">
+                                <a href="/mitmachen/netzwerk/" class="link">Netzwerk</a>
+                            </div>
+                            
+                            <div class="">
+                                <a href="/mitmachen/kontakt/" class="link">Kontakt</a>
+                            </div>
+                            
+                        </div>                                            
+                    
+                    </div>
+                
+            </div>
+        </div>
+        
+        
+        <div class="column is-2">
+            <div class="title">Rechtliches</div>
+            <div class="">
+                
+                <div class="">
+                    <div>
+                        <a href="/about/" class="link">Über die Plattform</a>
+                    </div>
+                </div>
+                
+                <div class="">
+                    <div>
+                        <a href="https://www.th-koeln.de/hochschule/impressum_8159.php" class="link" target="_blank" rel="noopener noreferrer">Impressum</a>
+                    </div>
+                </div>
+                
+                <div class="">
+                    <div>
+                        <a href="https://www.th-koeln.de/hochschule/haftungshinweis_8277.php" class="link" target="_blank" rel="noopener noreferrer">Haftungshinweis</a>
+                    </div>
+                </div>
+                
+                <div class="">
+                    <div>
+                        <a href="https://www.th-koeln.de/hochschule/datenschutzhinweis_8279.php" class="link" target="_blank" rel="noopener noreferrer">Datenschutzhinweis</a>
+                    </div>
+                </div>
+                
+            </div>
+        </div>
+        
+    </div>
+        <div class="columns content is-small has-text-centered footer-logos">
+            <div class="column has-text-right"><div class="page-owner">
+                <p class="has-text-left">Eine Seite von</p>
+                <img src="/assets/img/logos/INTIA_Plattform_Logos_TH_weiss.png">
+                <img src="/assets/img/logos/INTIA_Plattform_Logos_Dites_weiss.png">
+            </div></div>
+            <div class="column has-text-left"><div class="page-sponsor">                
+                <img class="footer-logo-2" src="/assets/img/logos/BMBF_logo.jpg">
+            </div></div>
+        </div>
+        <div class="content is-small has-text-centered">
+            <p class="">INTIA, 2021</p>
+        </div>
+    
+</footer>
+
+        
+    </body>
+</html>

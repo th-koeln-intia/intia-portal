@@ -1,0 +1,643 @@
+<!--
+The Default layout that everything is using 
+-->
+
+<!-- Control the width with, if sidebars or menus should appear   -->
+
+
+<!DOCTYPE html>
+<html id="default-layout">
+    <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content=#ffffff>
+    <link rel="stylesheet" href="/assets/styles/main.css">
+    <link rel="shortcut icon" type="image/png"
+           href="/favicon.png" 
+    />
+    <script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.8.0/dist/alpine.min.js" defer></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma-carousel@4.0.3/dist/css/bulma-carousel.min.css">
+    
+        <script src="https://d3js.org/d3.v5.min.js"></script>
+        <!--<script src="https://methods.intia.de/src/radar/radar.js"></script>-->
+        <script src="/assets/js/radar.js"></script>
+        <!--<link rel="stylesheet" href="https://methods.intia.de/src/radar/radar.css" />-->
+    
+    
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma-social@1/bin/bulma-social.min.css">
+    
+    <!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Publikationen | INTIA</title>
+<meta name="generator" content="Jekyll v4.3.3" />
+<meta property="og:title" content="Publikationen" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="A plattform for methods, techniques, toolkits and patterns for participative development in a social context." />
+<meta property="og:description" content="A plattform for methods, techniques, toolkits and patterns for participative development in a social context." />
+<link rel="canonical" href="/wissen/publikationen/" />
+<meta property="og:url" content="/wissen/publikationen/" />
+<meta property="og:site_name" content="INTIA" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Publikationen" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebPage","description":"A plattform for methods, techniques, toolkits and patterns for participative development in a social context.","headline":"Publikationen","url":"/wissen/publikationen/"}</script>
+<!-- End Jekyll SEO tag -->
+<!-- head scripts -->
+<script src="https://unpkg.com/@botpoison/browser"></script>
+<script type="module" src="/assets/js/main.js"async></script></head>
+
+    <body>
+        <nav class="navbar is-hidden-print is-primary is-fixed-top" x-data="{ openNav: false }">
+    <div class="container">
+        <div class="navbar-brand">
+            <a href="/" class="">
+                <picture>
+                    <source media="(max-width: 1300px)" srcset="/assets/img/logo-short.png">
+                    <img id="navbar-logo" src="/assets/img/logo-horizontal-short.png">
+                </source></picture>     
+            </a>
+            <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navMenu" :class="{ 'is-active': openNav }" x-on:click="openNav = !openNav">
+                <span aria-hidden="true"></span>
+                <span aria-hidden="true"></span>
+                <span aria-hidden="true"></span>
+            </a>
+        </div>
+        <div class="navbar-menu" id="navMenu" :class="{ 'is-active': openNav }">
+            <div id="SearchOverlay" class="searchbar-overlay navbar-end buttons">
+                <div class="navbar-item searchbar">
+                    <div class="field">
+                        <div id="search-container" class="control">
+                          <input class="input search-input" type="text" id="search-input" placeholder="Suchbegriff eintippen">
+                        </div>
+                    </div>
+                    <ul id="results-container" class="search-result-list"></ul>
+                </div>
+                <div class="navbar-end">
+                    <div class="navbar-item navbar-search">
+                        <a id="closeSearch">
+                            <span class="icon">
+                                <i class="fa-solid icon-remove"></i>
+                            </span>
+                        </a>  
+                    </div>
+                </div>
+            </div>
+            <div id="navmenu" class="navbar-end buttons">
+                
+                
+                
+                <div class="navbar-item has-text-left button is-rounded is-dark has-dropdown is-hoverable        ">
+                    
+                    
+                     <a for="navbar-click" class="navbar-link">Über INTIA</a>
+                    
+                    <div class="navbar-dropdown">
+                        
+                        <a href="/ueber/plattform" class="navbar-item button is-rounded is-dark  ">Plattform</a>
+                        
+                        <a href="/ueber/projekt/" class="navbar-item button is-rounded is-dark  ">Projekt</a>
+                        
+                        <a href="/ueber/barrierearm/" class="navbar-item button is-rounded is-dark  ">Barrierearm</a>
+                        
+                    </div>
+                </div>
+                
+                
+                
+                <div class="navbar-item has-text-left button is-rounded is-dark has-dropdown is-hoverable          ">
+                    
+                    
+                     <a for="navbar-click" class="navbar-link">INTIA Koffer</a>
+                    
+                    <div class="navbar-dropdown">
+                        
+                        <a href="/intia-koffer/" class="navbar-item button is-rounded is-dark  ">Über</a>
+                        
+                        <a href="/intia-koffer/beschaffen/" class="navbar-item button is-rounded is-dark  ">Beschaffen</a>
+                        
+                        <a href="/intia-koffer/prototypen/" class="navbar-item button is-rounded is-dark  ">Prototypen</a>
+                        
+                        <a href="/intia-koffer/anleitungen/" class="navbar-item button is-rounded is-dark  ">Anleitungen</a>
+                        
+                    </div>
+                </div>
+                
+                
+                
+                <div class="navbar-item has-text-left button is-rounded is-dark has-dropdown is-hoverable      ">
+                    
+                    
+                     <a for="navbar-click" class="navbar-link">Werkzeuge</a>
+                    
+                    <div class="navbar-dropdown">
+                        
+                        <a href="/werkzeuge/bausteine/" class="navbar-item button is-rounded is-dark  ">Bausteine</a>
+                        
+                        <a href="/werkzeuge/methoden/" class="navbar-item button is-rounded is-dark  ">Methoden</a>
+                        
+                    </div>
+                </div>
+                
+                
+                
+                <div class="navbar-item has-text-left button is-rounded is-dark has-dropdown is-hoverable      is-active-header  ">
+                    
+                    
+                     <a for="navbar-click" class="navbar-link">Wissen</a>
+                    
+                    <div class="navbar-dropdown">
+                        
+                        <a href="/wissen/woerterbuch/" class="navbar-item button is-rounded is-dark  ">Wörterbuch</a>
+                        
+                        <a href="/wissen/publikationen/" class="navbar-item button is-rounded is-dark   is-active ">Publikationen</a>
+                        
+                    </div>
+                </div>
+                
+                
+                
+                <div class="navbar-item has-text-left button is-rounded is-dark has-dropdown is-hoverable      ">
+                    
+                    
+                     <a for="navbar-click" class="navbar-link">Blog</a>
+                    
+                    <div class="navbar-dropdown">
+                        
+                        <a href="/blog/aktivitaeten/" class="navbar-item button is-rounded is-dark  ">Aktivitäten</a>
+                        
+                        <a href="/blog/fachartikel/" class="navbar-item button is-rounded is-dark  ">Fachartikel</a>
+                        
+                    </div>
+                </div>
+                
+                
+                
+                <div class="navbar-item has-text-left button is-rounded is-dark has-dropdown is-hoverable      ">
+                    
+                    
+                     <a for="navbar-click" class="navbar-link">Mitmachen</a>
+                    
+                    <div class="navbar-dropdown">
+                        
+                        <a href="/mitmachen/netzwerk/" class="navbar-item button is-rounded is-dark  ">Netzwerk</a>
+                        
+                        <a href="/mitmachen/kontakt/" class="navbar-item button is-rounded is-dark  ">Kontakt</a>
+                        
+                    </div>
+                </div>
+                
+                
+                
+   
+                    <div class="navbar-item navbar-search">
+                        <a id="openSearch">
+                            <span class="icon">
+                                <i class="fa-solid icon-search"></i>
+                            </span>
+                        </a>  
+                    </div>
+                
+            </div>
+        </div>
+    </div>
+</nav>
+
+<section class="breadcrumb-section green-version">
+    <div class="container breadcrumb-container">
+        <nav class="breadcrumb has-arrow-separator" aria-label="breadcrumbs">
+            <ul>
+            
+            <li><a href="/">INTIA</a></li>
+            
+                
+                    <li><a>Wissen</a></li>
+                
+                
+                <li><a href="#">Publikationen</a></li>
+                
+            
+            </ul>
+        </nav>
+    </div>
+</section>
+
+
+  <!-- Script pointing to search-script.js -->
+  <script src="/assets/js/search.js" type="text/javascript"></script>
+  
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/search.json',
+    searchResultTemplate: '<li><a class="search-item" href="{url}">{title}</a></li>'
+  })
+  </script>
+        <div class="arrow-image is-pulled-left is-hidden-mobile">
+            <img id="scroll-up" src="/assets/img/arrow-down.png" alt="placeholder">
+            <img id="scroll-down" src="/assets/img/arrow-down.png" alt="placeholder" class="is-pointed-down">     
+        </div>
+        <div class="accessibility-image is-pulled-left is-hidden-mobile">
+                <a id="changeFontsize" class="button is-rounded is-dark">
+                    <span class="icon is-small">
+                        <i class="fas icon-font-size fa-xs invert"></i>
+                        </span> 
+                    </a>    
+        </div>
+        
+            <section class="hero is-hidden-print  is-medium   toppage ">
+    <div class="hero-body">
+        <div class="container">
+            
+                <h5 class="overtitle">Wissen</h5>
+            
+            <h1 class=" title-with-overtitle ">Publikationen</h1>
+            
+            
+                <h4>Hier findest du alle Veröffentlichungen, die im Zusammenhang mit dem Projekt INTIA entstanden sind. Sie haben alle für den Inhalt dieser Plattform eine Bedeutung. Das können wissenschaftliche Artikel, ganze Bücher oder Präsentationen auf internationalen Konferenzen sein.
+</h4>
+            
+            
+            <div class="buttons-hero has-text-centered">
+                
+
+                <a href="/wissen//" class="button is-rounded is-dark { % if item.link == page.url % } { % endif % }">
+                    <span class="icon is-small">
+                        <i class="fas fa-chevron-left"></i>
+                    </span>
+                    <span>Zur Übersicht</span>
+                </a>
+                <a onclick="window.print()" class="button is-rounded is-dark { % if item.link == page.url % } { % endif % }">
+                    <span>Als PDF Herunterladen</span>
+                    <span class="icon is-small">
+                        <i class="fas fa-chevron-right"></i>
+                    </span>
+                </a>
+            </div>
+        </div>
+    </div>
+</section>
+        
+        <div id="main" class="content-wrapper has-background-primary-light">
+            
+            
+            <div class="columns is-centered">
+                <div id="content" class="container column is-10-desktop is-12-tablet">
+                    
+                    <h2 id="wissenschaftliche-verffentlichungen">Wissenschaftliche Veröffentlichungen</h2>
+<p>Schmidt, Marc; Bente, Stefan; Baruque Zanón, Bruno; Lara Palma, Ana María (2023):<br>
+<strong>The Method Radar: a way to organize methods for technology development with participation in mind</strong><br>
+In: i-com 22 (3), S. 253–268. DOI: 10.1515/icom-2023-0012.</p>
+<p>Mildenberger, Tabea; Schmier, Alena; Zorn, Isabel (2022):<br>
+<strong>Literaturreview zu partizipativer Technologieentwicklung in der Behinderten- und Erziehungshilfe im Kontext Sozialer Arbeit</strong><br>
+In Soziale Passagen 2/2022. https://link.springer.com/article/10.1007/s12592-022-00439-z.</p>
+<p>Zorn, Isabel; Bente, Stefan; Kohls, Christian; Mager, Birgit (2022): <br>
+<strong>Inklusive Entwicklung von Methoden und Technologien für digitale Hilfen zur Alltagsbewältigung in der Behinderten- und Erziehungshilfe.</strong><br>
+In EREV-Buch (Hrsg.), Inklusion in der Erziehungshilfe. Partizipation und Selbstbestimmung in einer inklusiven Erziehungshilfe (S. 248-259) Lambertusverlag.</p>
+<p>Mager, Birgit; Oertzen, Anna-Sophie; Vink, Josina; (2022):<br>
+<strong>Co-Creation in Health Services through Service Design</strong><br>
+In Pfannstiel / Brehmer / Rasche, Service Design Practices for Healthcare Innovation, S. 497-510, Springer ISBN 978-3-030-87272-4
+<a href="https://link.springer.com/content/pdf/10.1007%2F978-3-030-87273-1.pdf" target="_blank" rel="noopener noreferrer">Hier PDF von Springer Link ab Seite 497 ansehen</a></p>
+<p>Kortekaas, Caroline; Zurbrügg, Eva; Zorn, Isabel. (2022):<br>
+<strong>Digitale Unterstützung von Alltagsbedarfen Jugendlicher. Eine Pilotstudie der Perspektiven von Fachkräften in der Jugend- sowie Eingliederungshilfe</strong><br>
+In Soziale Arbeit 11/2022. doi.org/10.5771/0490-1606-2022-11-409.</p>
+<p>Artikel über INTIA (2021). Journal hn-21 - Hochschulnetzwerk: Soziale Arbeit:<br>
+<strong>Digitale Alltagshilfen für Kinder und Jugendliche.</strong><br>
+https://www.hn-nrw.de/mediathek/ Ausgabe 2021, S.3<br>
+<a href="https://www.hn-nrw.de/mediathek/" target="_blank" rel="noopener noreferrer">Hier unter Ausgabe 2021 auf Seite 3 ansehen</a></p>
+<p>Zorn, Isabel (2021):<br>
+<strong>Medienpädagogik für Fachkräfte und Medienbildung für Menschen mit Komplexer Behinderung.</strong><br>
+In N.J. Maier-Michalitsch &amp; A. Zuleger (Hrsg.), Digitalisierung und Menschen mit komplexer Behinderung. Düsseldorf: verlag selbstbestimmtes leben. S. 32-52</p>
+<p>Bente, Stefan, Fuhrer, Kornelius (2020):<br>
+<strong>Pragmatisch umgesetzt - Mindsets und Methoden für eine praxisnahe Digitale Ethik.</strong><br>
+In I’X, August 2020.<br>
+<a href="https://www.heise.de/select/ix/2020/8/2006210391529546421" target="_blank" rel="noopener noreferrer">I’X Artikel aufrufen</a></p>
+<p>Zorn, Isabel; Schwarz, Christine (2019):<br>
+<strong>MakeyMakey - verblüffende Computersteuerungen erstellen.</strong><br>
+In Deutsche Telekom Stiftung (Hrsg.): Digitale Kompetenzen in der Jugendarbeit. Bonn, S. 31–38.<br>
+<a href="https://www.telekom-stiftung.de/sites/default/files/files/Ordner-Digitale-Kompetenzen.pdf" target="_blank" rel="noopener noreferrer">PDF Digitale Kompetenzen in der Jugendarbeit aufrufen</a></p>
+<p>Zorn, Isabel; Wilken-Dapper, Stephanie (2019):<br>
+<strong>Lasst uns mitmischen! Lasst uns mitgestalten!</strong><br>
+In Das Band, S. 6–13. https://bvkm.de/wp-content/uploads/2019/08/daba_4_18_internet_klein.pdf.<br>
+<a href="https://bvkm.de/wp-content/uploads/2019/08/daba_4_18_internet_klein.pdf" target="_blank" rel="noopener noreferrer">PDF Das Band: Digitale Teilhabe aufrufen</a></p>
+<h2 id="konferenzbeitrge">Konferenzbeiträge</h2>
+<p>Kohls, Christian; Wilk, Dennis Christian (2022):<br>
+<strong>Maker Spaces for Hybrid Education</strong><br>
+In European Conference on Pattern Languages of Programs (EuroPLoP’22), July 6–10, 2022, Irsee Monastery, Bavaria, Germany.</p>
+<p>Schmidt, Marc (2022):<br>
+<strong>Building upon Patterns for visual programming: With a focus on flowbased programming inspired systems.</strong><br>
+In European Conference on Pattern Languages of Programs (EuroPLoP’22), July 6–10, 2022, Irsee Monastery, Bavaria, Germany</p>
+<p>Kortekaas, Caroline; Zorn, Isabel (2022).<br>
+<strong>Communication Styles as Challenges for Participatory Design Process Facilitators Working with Young People with Additional Needs in a Residential Care Setting</strong><br>
+In Miesenberger, Klaus/Kouroupetroglou, Georgios/Mavrou, Katerina/Manduchi, Roberto/Covarrubias Rodriguez, Mario/Penáz, Petr (Hrsg.) (2022). Computers helping people with special needs. 18th international. Cham: Springer International Publishing. https://link.springer.com/chapter/10.1007/978-3-031-08645-8_36. S. 310-319.</p>
+<p>Schmidt, Marc (2022).<br>
+<strong>Escape Games - An approach to start participative technology development</strong><br>
+In ICCHP-AAATE 2022 Open Access Compendium „Assistive Technology, Accessibility and (e)Inclusion“ Part I, 259–264. Association ICCHP. doi:10.35011/icchp-aaate22-p1, http://epub.jku.at/obvulioa/7944369.</p>
+<p>Schmidt, Marc; Wilk, Dennis Christian (2021):<br>
+<strong>Evaluation of different Technology Stacks for Open-Source Voice Assistant.</strong><br>
+In Digital Xchange - Bergisches RheinLand. 2. Oktober. https://www.youtube.com/watch?v=RwMQVAtR4iI.<br>
+<a href="https://www.youtube.com/watch?v=RwMQVAtR4iI" target="_blank" rel="noopener noreferrer">Beitrag auf Youtube ansehen</a></p>
+<p>Kortekaas, Caroline; Rösch, Janina; Schmidt, Marc (2021):<br>
+<strong>How to fail with Zoom.</strong><br>
+In Digital Xchange - Bergisches RheinLand. 2. Oktober.</p>
+<p>Schmidt, Marc (2021):<br>
+<strong>Patterns for visual programming: With a focus on flowbased programming inspired systems.</strong><br>
+In European Conference on Pattern Languages of Programs (EuroPLoP’21), July 7–11, 2021, Graz, Austria. ACM, New York, NY, USA, 7 pages. https://doi.org/10.1145/3489449.3489977</p>
+<p>Wilk, Dennis Christian; Kohls, Christian (2021):<br>
+<strong>Hiding Technology - Reducing the distraction created by technical devices.</strong><br>
+In European Conference on Pattern Languages of Programs (EuroPLoP’21), July 7–11, 2021, Graz, Austria. ACM, New York, NY, USA.</p>
+<p>Klein, Peter; Bente, Stefan (2021):<br>
+<strong>Digitale Ethik im UX Gestaltungsprozess – Tool-Unterstützung für eine transparente und umfängliche Entscheidung.</strong><br>
+MuC 2021, Workshop UP-TUT06. https://muc2021.mensch-und-computer.de/event/3084/<br>
+<a href="https://muc2021.mensch-und-computer.de/event/3084/" target="_blank" rel="noopener noreferrer">Eventinformation aufrufen</a></p>
+<p>Zorn, Isabel; Schmidt, Marc; Wilk, Dennis Christian; Rösch, Janina (2021):<br>
+<strong>Digital participatory research with adolescents in youth service residential care under Covid-19 containment measures - A messenger-based digital research method.</strong><br>
+European Conference on Social Work Research (ECSWR 2021). Bukarest, Romania, 07.05.2021.<br>
+<a href="https://www.researchgate.net/publication/351732696_Digital_participatory_research_with_adolescents_in_youth_service_residential_care_under_Covid-19_containment_measures_-_A_messenger-based_digital_research_method_ECSWR_European_Conference_on_Social_Wo" target="_blank" rel="noopener noreferrer">Auf ResearchGate aufrufen</a></p>
+<p>Zorn, Isabel (2021):<br>
+<strong>Medienpädagogik für Fachkräfte und Medienbildung bei Menschen mit Komplexer Behinderung.</strong><br>
+Tagung der Stiftung Leben Pur. Digitalisierung und Menschen mit Komplexer Behinderung. Stiftung Leben Pur. Stiftung Leben Pur, 21.04.2021-26.04.2021. https://www.stiftung-leben-pur.de/termine/tagungen-leben-pur/einzelansicht.html?tx_seminars_pi1[showUid]=111.<br>
+<a href="https://www.stiftung-leben-pur.de/termine/tagungen-leben-pur/einzelansicht.html?tx_seminars_pi1%5BshowUid%5D=111" target="_blank" rel="noopener noreferrer">Eventinformation aufrufen</a></p>
+<p>Schmidt, Marc; Seidler, Jan; Wilk, Dennis Christian (2020):<br>
+<strong>Playful Introduction to Technology and Co-Creative Prototyping.</strong><br>
+In Digital Xchange - Bergisches RheinLand. 6. Juni. https://www.youtube.com/watch?v=qCMQKZok3pI (zugegriffen: 22. Juni 2020).<br>
+<a href="https://www.youtube.com/watch?v=qCMQKZok3pI" target="_blank" rel="noopener noreferrer">Beitrag auf Youtube ansehen</a></p>
+<p>Bente, Stefan (2020):<br>
+<strong>Digitale Ethik ganz konkret: Wie man Social Impact Analysis in die SW-Entwicklung integriert.</strong><br>
+In Digital Xchange - Bergisches RheinLand. 6. Juni. https://www.youtube.com/watch?v=3OQzpUGqJnE (zugegriffen: 16. November 2020).<br>
+<a href="https://www.youtube.com/watch?v=3OQzpUGqJnE" target="_blank" rel="noopener noreferrer">Beitrag auf Youtube ansehen</a></p>
+<p>Schmidt, Marc, Rösch, Janina &amp; Zorn, Isabel (2020):<br>
+<strong>Probe Kits für partizipative User Research und Needs Assessments bei Jugendlichen in der Erziehungshilfe.</strong><br>
+In Hansen, C., Nürnberger, A. &amp; Preim, B. (Hrsg.), Mensch und Computer 2020 - Workshopband. Bonn: Gesellschaft für Informatik e.V..DOI:10.18420/muc2020-ws109-359
+<a href="https://dx.doi.org/10.18420/muc2020-ws109-359" target="_blank" rel="noopener noreferrer">DOI aufrufen</a></p>
+<p>Bente, Stefan, Fuhrer, Kornelius (2020):<br>
+<strong>Digitale Ethik mal pragmatisch.</strong><br>
+OOP, München, 3.-7. Februar 2020.<br>
+<a href="https://www.oop-konferenz.de/oop2020/programm/konferenzprogramm/sessiondetails/action/detail/session/mi-61-3/title/digitale-ethik-mal-pragmatisch-wie-man-gut-und-gleichzeitig-erfolgreich-sein-kann.html" target="_blank" rel="noopener noreferrer">Eventinformation aufrufen</a></p>
+<p>Schmidt, Marc, Rösch, Janina (2020):<br>
+<strong>Probe Kits für partizipative User Research und Needs Assessments bei Jugendlichen in der Erziehungshilfe.</strong><br>
+Beitrag DITES Forschungskolloquium 15.10.2020</p>
+<p>Bente, Stefan, Kohls, Christian (2020):<br>
+<strong>Entwurf eines Domänenmodells zum Begriff "Bedarf".</strong><br>
+Beitrag DITES Forschungskolloquium 15.10.2020</p>
+<p>Zorn, Isabel (2020):<br>
+<strong>To whatsapp or to protect data? Erkenntnisse zur pädagogischen und organisatorischen Einbindung von Kommunikationstechnologien in die Soziale Arbeit.</strong><br>
+In Helmut Kreidenweis und Bernd Halfar (Hrsg.): Tagungsdokumentation der 15. Eichstätter Fachtagung Sozialinformatik. Eichstätt: Katholische Universität Eichstätt-Ingolstadt, S. 17–37.</p>
+<p>Zorn, Isabel (2020):<br>
+<strong>Datenschutzfragen beim Einsatz von digitalen Tools in Bildungskontexten (z. B. während der COVID-19-Präventionsmaßnahmen).</strong><br>
+Ringvorlesung PH Freiburg Studium generale. PH Freiburg. PH Freiburg. Freiburg, 15.11.2020.</p>
+<p>Zorn, Isabel; Mager, Birgit; Bente, Stefan; Kohls, Christian (2020):<br>
+<strong>INTIA Inklusive Entwicklung von Methoden und Technologien für digitale Hilfen zur Alltagsbewältigung in der Behinderten- und Erziehungshilfe.</strong><br>
+Poster. Tag der Forschung der TH Köln. Köln.</p>
+<p>Bente, Stefan, Egelhaaf, Baptiste &amp; Zorn, Isabel, (2019):<br>
+<strong>ELSI-Scrum als integrierte ELSI-by-Design-Entwicklungsmethode für Technologieprojekte.</strong><br>
+Mensch und Computer 2019 - Workshopband. Bonn: Gesellschaft für Informatik e.V.. DOI: 10.18420/muc2019-ws-629<br>
+<a href="https://dx.doi.org/10.18420/muc2019-ws-629" target="_blank" rel="noopener noreferrer">DOI aufrufen</a></p>
+<p>Bente, Stefan; Kohls, Christian; Mager, Birgit; Zorn, Isabel (2019):<br>
+<strong>Inklusive Entwicklung von Methoden und Technologien für digitale Hilfen zur Alltagsbewältigung in der Behinderten- und Erziehungshilfe.</strong><br>
+Poster. Tag der Forschung der TH Köln. Köln.</p>
+<p>Rösch, Janina; Seidler, Jan; Thielmann, Hanna; Zorn, Isabel (2019):<br>
+<strong>Inklusive partizipative Technikentwicklung am Beispiel InTiA.</strong><br>
+Vortrag im Forschungsforum der Fakultät für Angewandte Sozialwissenschaften, TH Köln. Köln.</p>
+<h2 id="abschluss--und-projektarbeiten">Abschluss- und Projektarbeiten</h2>
+<p>Johannsen, Sophia (2023):<br>
+<strong>Entwicklung eines Smart Home Erlebnisraumes</strong><br>
+Bachelorarbeit Technische Hochschule Köln. Betreut von Dennis Christian Wilk, Marc Schmidt, Prof. Dr. Stefan Bente &amp; Prof. Dr. Christian Kohls. Köln.</p>
+<p>Johannsen, Sophia (2023):<br>
+<strong>Entwicklung eines Grundsets an Skills für einen Open Source Sprachassistenten</strong><br>
+Praxisprojekt Technische Hochschule Köln. Betreut von Dennis Christian Wilk, Marc Schmidt &amp; Prof. Dr. Stefan Bente. Köln.</p>
+<p>Wehn, Finn (2023):<br>
+<strong>Überführung eines Studienprojekts in ein Open-Source Projekt anhand eines Skillsystems für den Sprachassistenten Rhasspy</strong><br>
+Bachelorarbeit Technische Hochschule Köln. Betreut von Dennis Christian Wilk, Marc Schmidt &amp; Prof. Dr. Stefan Bente. Köln.</p>
+<p>Wehn, Finn (2023):<br>
+<strong>Skillsystem für einen Open Source Sprachassistenten</strong><br>
+Praxisprojekt Technische Hochschule Köln. Betreut von Dennis Christian Wilk, Marc Schmidt &amp; Prof. Dr. Christian Kohls. Köln.</p>
+<p>Iyawe, George (2023):<br>
+<strong>Generierung von Programmabläufen mithilfe von Syntaxbäumen am Beispiel einer Prototypisierungsmethode</strong><br>
+Bachelorarbeit Technische Hochschule Köln. Betreut von Dennis Christian Wilk, Marc Schmidt, Prof. Dr. Christian Kohls. Köln.</p>
+<p>Iyawe, George (2023):<br>
+<strong>Digital Prototyping - Plattform zur kollaborativen Darstellung von technischen Intentionen</strong><br>
+Praxisprojekt Technische Hochschule Köln. Betreut von Dennis Christian Wilk, Marc Schmidt &amp; Prof. Dr. Christian Kohls. Köln.</p>
+<p>Klein, Florian (2022):<br>
+<strong>Dynamische Skalierung von Elementen in einer Radar Visualisierung von Daten.</strong><br>
+Bachelorarbeit Technische Hochschule Köln. Betreut von Marc Schmidt &amp; Prof. Dr. Stefan Bente. Köln.</p>
+<p>Klein, Florian (2022):<br>
+<strong>Neustrukturierung und responsive Umsetzung des INTIA Methoden-Radars in JavaScript.</strong><br>
+Praxisprojekt Technische Hochschule Köln. Betreut von Marc Schmidt &amp; Prof. Dr. Stefan Bente. Köln.</p>
+<p>Przygodzinski, Dawid (2022):<br>
+<strong>Vergleich des Sprachassistenten Amazon Alexa mit Open Source Alternativen, am Beispiel von Mycroft.</strong><br>
+Bachelorarbeit Technische Hochschule Köln. Betreut von Marc Schmidt &amp; Prof. Dr. Stefan Bente. Köln.</p>
+<p>Landgraf, Eric (2022):<br>
+<strong>Eruierung von Anforderungen und Erfolgsbedingungen für einen Sprachassistenten mit Fokus auf deutschsprachige Nutzer über 65 Jahre.</strong><br>
+Bachelorarbeit Technische Hochschule Köln. Betreut von Marc Schmidt, Dennis Christian Wilk &amp; Prof. Dr. Stefan Bente. Köln.</p>
+<p>Landgraf, Eric (2021):<br>
+<strong>Realisierung eines offlinefähigen Open Source-Sprachassistenten zur Nutzung durch vulnerable Personengruppen.</strong><br>
+Praxisprojekt Technische Hochschule Köln. Betreut von Marc Schmidt, Dennis Christian Wilk &amp; Prof. Dr. Stefan Bente. Köln.</p>
+<p>Klein, Stefanie (2021):<br>
+<strong>Herangehensweisen und Herausforderungen für die Teilhabe von Menschen mit Lernschwierigkeiten in der partizipativen Technologieentwicklung.</strong><br>
+Masterarbeit Katholische Hochschule Nordrhein-Westfalen. Betreut von Prof. Dr. Armin Wildfeuer und Prof. Dr. Isabel Zorn. Köln.</p>
+<p>Heutz, Robin (2021):<br>
+<strong>Empowermentprozesse bei Jugendlichen und Heranwachsenden mit Behinderung.</strong><br>
+Bachelorarbeit Technische Hochschule Köln. Betreut von Prof. Dr. Isabel Zorn und Caroline Kortekaas. Köln.</p>
+<p>Gawlik, Jennifer (2020):<br>
+<strong>Partizipative und inklusive Technologieentwicklungsprozesse aus der Perspektive der Sozialen Arbeit.</strong><br>
+Bachelorarbeit Technische Hochschule Köln. Betreut von Prof. Dr. Isabel Zorn und Prof. Dr. habil. Carmen Kaminsky. Köln.</p>
+
+                </div>
+            </div> 
+            
+        </div> 
+        
+            <footer class="footer is-hidden-print is-primary">
+    
+    <div class="container columns is-centered is-multiline is-bordered-bottom">
+        <div class="navbar-brand column is-full">
+            <a href="/" class="columns navbar-item">
+                <img class="column" src="/assets/img/logo-white.png">
+                <p class="calumn brand-title"></p>
+            </a>
+        </div>
+        <div class="column is-2">
+            <div class="title">www.intia.de</div>
+                TH-Köln | DITES<br>
+                Campus Südstadt<br>
+                Ubierring 48<br>
+                50678 Köln
+
+        </div>
+        
+        <div class="column ">
+            <div class="title">Site Map</div>
+            <div class="columns footer-nav">
+                
+                    <div class="column">
+                        <a href="" class="link"><strong>Über INTIA</strong></a>
+                        
+                        <div class="">
+                            
+                            <div class="">
+                                <a href="/ueber/plattform" class="link">Plattform</a>
+                            </div>
+                            
+                            <div class="">
+                                <a href="/ueber/projekt/" class="link">Projekt</a>
+                            </div>
+                            
+                            <div class="">
+                                <a href="/ueber/barrierearm/" class="link">Barrierearm</a>
+                            </div>
+                            
+                        </div>                                            
+                    
+                    </div>
+                
+                    <div class="column">
+                        <a href="" class="link"><strong>INTIA Koffer</strong></a>
+                        
+                        <div class="">
+                            
+                            <div class="">
+                                <a href="/intia-koffer/" class="link">Über</a>
+                            </div>
+                            
+                            <div class="">
+                                <a href="/intia-koffer/beschaffen/" class="link">Beschaffen</a>
+                            </div>
+                            
+                            <div class="">
+                                <a href="/intia-koffer/prototypen/" class="link">Prototypen</a>
+                            </div>
+                            
+                            <div class="">
+                                <a href="/intia-koffer/anleitungen/" class="link">Anleitungen</a>
+                            </div>
+                            
+                        </div>                                            
+                    
+                    </div>
+                
+                    <div class="column">
+                        <a href="" class="link"><strong>Werkzeuge</strong></a>
+                        
+                        <div class="">
+                            
+                            <div class="">
+                                <a href="/werkzeuge/bausteine/" class="link">Bausteine</a>
+                            </div>
+                            
+                            <div class="">
+                                <a href="/werkzeuge/methoden/" class="link">Methoden</a>
+                            </div>
+                            
+                        </div>                                            
+                    
+                    </div>
+                
+                    <div class="column">
+                        <a href="" class="link"><strong>Wissen</strong></a>
+                        
+                        <div class="">
+                            
+                            <div class="">
+                                <a href="/wissen/woerterbuch/" class="link">Wörterbuch</a>
+                            </div>
+                            
+                            <div class="">
+                                <a href="/wissen/publikationen/" class="link">Publikationen</a>
+                            </div>
+                            
+                        </div>                                            
+                    
+                    </div>
+                
+                    <div class="column">
+                        <a href="" class="link"><strong>Blog</strong></a>
+                        
+                        <div class="">
+                            
+                            <div class="">
+                                <a href="/blog/aktivitaeten/" class="link">Aktivitäten</a>
+                            </div>
+                            
+                            <div class="">
+                                <a href="/blog/fachartikel/" class="link">Fachartikel</a>
+                            </div>
+                            
+                        </div>                                            
+                    
+                    </div>
+                
+                    <div class="column">
+                        <a href="" class="link"><strong>Mitmachen</strong></a>
+                        
+                        <div class="">
+                            
+                            <div class="">
+                                <a href="/mitmachen/netzwerk/" class="link">Netzwerk</a>
+                            </div>
+                            
+                            <div class="">
+                                <a href="/mitmachen/kontakt/" class="link">Kontakt</a>
+                            </div>
+                            
+                        </div>                                            
+                    
+                    </div>
+                
+            </div>
+        </div>
+        
+        
+        <div class="column is-2">
+            <div class="title">Rechtliches</div>
+            <div class="">
+                
+                <div class="">
+                    <div>
+                        <a href="/about/" class="link">Über die Plattform</a>
+                    </div>
+                </div>
+                
+                <div class="">
+                    <div>
+                        <a href="https://www.th-koeln.de/hochschule/impressum_8159.php" class="link" target="_blank" rel="noopener noreferrer">Impressum</a>
+                    </div>
+                </div>
+                
+                <div class="">
+                    <div>
+                        <a href="https://www.th-koeln.de/hochschule/haftungshinweis_8277.php" class="link" target="_blank" rel="noopener noreferrer">Haftungshinweis</a>
+                    </div>
+                </div>
+                
+                <div class="">
+                    <div>
+                        <a href="https://www.th-koeln.de/hochschule/datenschutzhinweis_8279.php" class="link" target="_blank" rel="noopener noreferrer">Datenschutzhinweis</a>
+                    </div>
+                </div>
+                
+            </div>
+        </div>
+        
+    </div>
+        <div class="columns content is-small has-text-centered footer-logos">
+            <div class="column has-text-right"><div class="page-owner">
+                <p class="has-text-left">Eine Seite von</p>
+                <img src="/assets/img/logos/INTIA_Plattform_Logos_TH_weiss.png">
+                <img src="/assets/img/logos/INTIA_Plattform_Logos_Dites_weiss.png">
+            </div></div>
+            <div class="column has-text-left"><div class="page-sponsor">                
+                <img class="footer-logo-2" src="/assets/img/logos/BMBF_logo.jpg">
+            </div></div>
+        </div>
+        <div class="content is-small has-text-centered">
+            <p class="">INTIA, 2021</p>
+        </div>
+    
+</footer>
+
+        
+    </body>
+</html>

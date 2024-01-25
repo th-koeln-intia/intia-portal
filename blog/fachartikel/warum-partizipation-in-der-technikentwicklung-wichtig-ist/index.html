@@ -1,0 +1,536 @@
+<!--
+The Default layout that everything is using 
+-->
+
+<!-- Control the width with, if sidebars or menus should appear   -->
+
+
+<!DOCTYPE html>
+<html id="default-layout">
+    <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content=#ffffff>
+    <link rel="stylesheet" href="/assets/styles/main.css">
+    <link rel="shortcut icon" type="image/png"
+           href="/favicon.png" 
+    />
+    <script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.8.0/dist/alpine.min.js" defer></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma-carousel@4.0.3/dist/css/bulma-carousel.min.css">
+    
+        <script src="https://d3js.org/d3.v5.min.js"></script>
+        <!--<script src="https://methods.intia.de/src/radar/radar.js"></script>-->
+        <script src="/assets/js/radar.js"></script>
+        <!--<link rel="stylesheet" href="https://methods.intia.de/src/radar/radar.css" />-->
+    
+    
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma-social@1/bin/bulma-social.min.css">
+    
+    <!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Jugendliche als Gestaltende - Warum Partizipation in der Technikentwicklung wichtig ist | INTIA</title>
+<meta name="generator" content="Jekyll v4.3.3" />
+<meta property="og:title" content="Jugendliche als Gestaltende - Warum Partizipation in der Technikentwicklung wichtig ist" />
+<meta name="author" content="Tabea Mildenberger" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Einleitung" />
+<meta property="og:description" content="Einleitung" />
+<link rel="canonical" href="/blog/fachartikel/warum-partizipation-in-der-technikentwicklung-wichtig-ist/" />
+<meta property="og:url" content="/blog/fachartikel/warum-partizipation-in-der-technikentwicklung-wichtig-ist/" />
+<meta property="og:site_name" content="INTIA" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2023-06-05T00:00:00+00:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Jugendliche als Gestaltende - Warum Partizipation in der Technikentwicklung wichtig ist" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Tabea Mildenberger"},"dateModified":"2023-06-05T00:00:00+00:00","datePublished":"2023-06-05T00:00:00+00:00","description":"Einleitung","headline":"Jugendliche als Gestaltende - Warum Partizipation in der Technikentwicklung wichtig ist","mainEntityOfPage":{"@type":"WebPage","@id":"/blog/fachartikel/warum-partizipation-in-der-technikentwicklung-wichtig-ist/"},"url":"/blog/fachartikel/warum-partizipation-in-der-technikentwicklung-wichtig-ist/"}</script>
+<!-- End Jekyll SEO tag -->
+<!-- head scripts -->
+<script src="https://unpkg.com/@botpoison/browser"></script>
+<script type="module" src="/assets/js/main.js"async></script></head>
+
+    <body>
+        <nav class="navbar is-hidden-print is-primary is-fixed-top" x-data="{ openNav: false }">
+    <div class="container">
+        <div class="navbar-brand">
+            <a href="/" class="">
+                <picture>
+                    <source media="(max-width: 1300px)" srcset="/assets/img/logo-short.png">
+                    <img id="navbar-logo" src="/assets/img/logo-horizontal-short.png">
+                </source></picture>     
+            </a>
+            <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navMenu" :class="{ 'is-active': openNav }" x-on:click="openNav = !openNav">
+                <span aria-hidden="true"></span>
+                <span aria-hidden="true"></span>
+                <span aria-hidden="true"></span>
+            </a>
+        </div>
+        <div class="navbar-menu" id="navMenu" :class="{ 'is-active': openNav }">
+            <div id="SearchOverlay" class="searchbar-overlay navbar-end buttons">
+                <div class="navbar-item searchbar">
+                    <div class="field">
+                        <div id="search-container" class="control">
+                          <input class="input search-input" type="text" id="search-input" placeholder="Suchbegriff eintippen">
+                        </div>
+                    </div>
+                    <ul id="results-container" class="search-result-list"></ul>
+                </div>
+                <div class="navbar-end">
+                    <div class="navbar-item navbar-search">
+                        <a id="closeSearch">
+                            <span class="icon">
+                                <i class="fa-solid icon-remove"></i>
+                            </span>
+                        </a>  
+                    </div>
+                </div>
+            </div>
+            <div id="navmenu" class="navbar-end buttons">
+                
+                
+                
+                <div class="navbar-item has-text-left button is-rounded is-dark has-dropdown is-hoverable        ">
+                    
+                    
+                     <a for="navbar-click" class="navbar-link">Über INTIA</a>
+                    
+                    <div class="navbar-dropdown">
+                        
+                        <a href="/ueber/plattform" class="navbar-item button is-rounded is-dark  ">Plattform</a>
+                        
+                        <a href="/ueber/projekt/" class="navbar-item button is-rounded is-dark  ">Projekt</a>
+                        
+                        <a href="/ueber/barrierearm/" class="navbar-item button is-rounded is-dark  ">Barrierearm</a>
+                        
+                    </div>
+                </div>
+                
+                
+                
+                <div class="navbar-item has-text-left button is-rounded is-dark has-dropdown is-hoverable          ">
+                    
+                    
+                     <a for="navbar-click" class="navbar-link">INTIA Koffer</a>
+                    
+                    <div class="navbar-dropdown">
+                        
+                        <a href="/intia-koffer/" class="navbar-item button is-rounded is-dark  ">Über</a>
+                        
+                        <a href="/intia-koffer/beschaffen/" class="navbar-item button is-rounded is-dark  ">Beschaffen</a>
+                        
+                        <a href="/intia-koffer/prototypen/" class="navbar-item button is-rounded is-dark  ">Prototypen</a>
+                        
+                        <a href="/intia-koffer/anleitungen/" class="navbar-item button is-rounded is-dark  ">Anleitungen</a>
+                        
+                    </div>
+                </div>
+                
+                
+                
+                <div class="navbar-item has-text-left button is-rounded is-dark has-dropdown is-hoverable      ">
+                    
+                    
+                     <a for="navbar-click" class="navbar-link">Werkzeuge</a>
+                    
+                    <div class="navbar-dropdown">
+                        
+                        <a href="/werkzeuge/bausteine/" class="navbar-item button is-rounded is-dark  ">Bausteine</a>
+                        
+                        <a href="/werkzeuge/methoden/" class="navbar-item button is-rounded is-dark  ">Methoden</a>
+                        
+                    </div>
+                </div>
+                
+                
+                
+                <div class="navbar-item has-text-left button is-rounded is-dark has-dropdown is-hoverable      ">
+                    
+                    
+                     <a for="navbar-click" class="navbar-link">Wissen</a>
+                    
+                    <div class="navbar-dropdown">
+                        
+                        <a href="/wissen/woerterbuch/" class="navbar-item button is-rounded is-dark  ">Wörterbuch</a>
+                        
+                        <a href="/wissen/publikationen/" class="navbar-item button is-rounded is-dark  ">Publikationen</a>
+                        
+                    </div>
+                </div>
+                
+                
+                
+                <div class="navbar-item has-text-left button is-rounded is-dark has-dropdown is-hoverable      ">
+                    
+                    
+                     <a for="navbar-click" class="navbar-link">Blog</a>
+                    
+                    <div class="navbar-dropdown">
+                        
+                        <a href="/blog/aktivitaeten/" class="navbar-item button is-rounded is-dark  ">Aktivitäten</a>
+                        
+                        <a href="/blog/fachartikel/" class="navbar-item button is-rounded is-dark  ">Fachartikel</a>
+                        
+                    </div>
+                </div>
+                
+                
+                
+                <div class="navbar-item has-text-left button is-rounded is-dark has-dropdown is-hoverable      ">
+                    
+                    
+                     <a for="navbar-click" class="navbar-link">Mitmachen</a>
+                    
+                    <div class="navbar-dropdown">
+                        
+                        <a href="/mitmachen/netzwerk/" class="navbar-item button is-rounded is-dark  ">Netzwerk</a>
+                        
+                        <a href="/mitmachen/kontakt/" class="navbar-item button is-rounded is-dark  ">Kontakt</a>
+                        
+                    </div>
+                </div>
+                
+                
+                
+   
+                    <div class="navbar-item navbar-search">
+                        <a id="openSearch">
+                            <span class="icon">
+                                <i class="fa-solid icon-search"></i>
+                            </span>
+                        </a>  
+                    </div>
+                
+            </div>
+        </div>
+    </div>
+</nav>
+
+<section class="breadcrumb-section green-version">
+    <div class="container breadcrumb-container">
+        <nav class="breadcrumb has-arrow-separator" aria-label="breadcrumbs">
+            <ul>
+            
+            <li><a href="/">INTIA</a></li>
+            
+                
+                    <li><a>Fachartikel</a></li>
+                
+                
+                <li><a href="#">Jugendliche als Gestaltende - Warum Partizipation in der Technikentwicklung wichtig ist</a></li>
+                
+            
+            </ul>
+        </nav>
+    </div>
+</section>
+
+
+  <!-- Script pointing to search-script.js -->
+  <script src="/assets/js/search.js" type="text/javascript"></script>
+  
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/search.json',
+    searchResultTemplate: '<li><a class="search-item" href="{url}">{title}</a></li>'
+  })
+  </script>
+        <div class="arrow-image is-pulled-left is-hidden-mobile">
+            <img id="scroll-up" src="/assets/img/arrow-down.png" alt="placeholder">
+            <img id="scroll-down" src="/assets/img/arrow-down.png" alt="placeholder" class="is-pointed-down">     
+        </div>
+        <div class="accessibility-image is-pulled-left is-hidden-mobile">
+                <a id="changeFontsize" class="button is-rounded is-dark">
+                    <span class="icon is-small">
+                        <i class="fas icon-font-size fa-xs invert"></i>
+                        </span> 
+                    </a>    
+        </div>
+        
+            <section class="hero is-hidden-print  is-medium   subpage post pdf ">
+    <div class="hero-body">
+        <div class="container">
+            
+                <h5 class="overtitle">Fachartikel</h5>
+            
+            <h1 class=" title-with-overtitle ">Jugendliche als Gestaltende - Warum Partizipation in der Technikentwicklung wichtig ist</h1>
+            
+                <img src="/assets/img/uploads/Haende-ueber-einem-Tisch.jpg" alt="placeholder" class="is-rounded is-hidden-mobile">
+            
+            
+                <h4>Die Digitalisierung in der Sozialen Arbeit ermöglicht Inklusion und kann somit die Ausgrenzung von jungen Menschen in stationären Wohnformen verhindern. In dem Fachartikel wird das Zusammenspiel von Hindernissen und Chancen untersucht und erläutert, warum bei der Technikentwicklung mit Jugendlichen <a href="/wissen/woerterbuch/partizipation/">Partizipation</a> wichtig ist.
+</h4>
+            
+            
+            <div class="buttons-hero has-text-centered">
+                
+
+                <a href="/blog/fachartikel//" class="button is-rounded is-dark { % if item.link == page.url % } { % endif % }">
+                    <span class="icon is-small">
+                        <i class="fas fa-chevron-left"></i>
+                    </span>
+                    <span>Zur Übersicht</span>
+                </a>
+                <a onclick="window.print()" class="button is-rounded is-dark { % if item.link == page.url % } { % endif % }">
+                    <span>Als PDF Herunterladen</span>
+                    <span class="icon is-small">
+                        <i class="fas fa-chevron-right"></i>
+                    </span>
+                </a>
+            </div>
+        </div>
+    </div>
+</section>
+        
+        <div id="main" class="content-wrapper has-background-primary-light">
+            
+            
+            <div class="columns is-centered">
+                <div id="content" class="container column is-10-desktop is-12-tablet">
+                    
+                    <h2 id="einleitung">Einleitung</h2>
+<p>Jugendliche in Wohnheimen der Sozialen Arbeit sind gefährdet, ausgeschlossen zu werden. Die Gründe können vielfältig sein. Begrenzter Zugang zu Ressourcen, die für die Lebensgestaltung relevant sind, eine mögliche Benachteiligung in der Bildung und daraus folgende Defizite, in Einzelfällen auch das Fehlen einer unterstützenden familiären Umgebung oder Schwierigkeiten, sich in Arbeitswelt und Gesellschaft zu integrieren. Alle diese Faktoren können das Ausgrenzungsrisiko erhöhen. Zudem kann es sein, dass diese Jugendlichen durch Stigmatisierung und Vorurteile an den Rand gedrängt werden und sich mit Diskriminierungstendenzen konfrontiert sehen. In Einrichtungen der Sozialen Arbeit gibt es zudem häufig starke Reglementierungen in der Mediennutzung und eine eingeschränkte technische Infrastruktur. Dies kann in Fragen der Digitalisierung ebenfalls zu Ungleichheit und weniger Teilhabe führen.</p>
+<p>Allerdings ist das Recht auf eine selbstbestimmte Teilhabe im Alltag und während des Aufwachsens in Eingliederungs- oder Erziehungshilfen gesetzlich festgelegt. Gemäß § 1 des Kinder- und Jugendhilfegesetzes (SGB VIII) und § 1 des Gesetzes zur Rehabilitation und Teilhabe behinderter Menschen (SGB IX) haben diese Einrichtungen den Auftrag, Teilhabe zu fördern und keine neuen Barrieren zu schaffen (DigiPäd 24/7, 2022). Dazu gehört auch die digitale Teilhabe, die sowohl für Menschen mit Behinderungen als auch für Kinder ein Menschenrecht gemäß den UN-Konventionen und Deklarationen ist. Der Anspruch auf Finanzierung der digitalen Teilhabe ist im Bundesteilhabegesetz beschrieben.</p>
+<p>Digitale Prozesse spielen eine wichtige Rolle bei der Teilhabe am sozialen, öffentlichen, kulturellen und bildungsbezogenen Leben sowie bei der Gestaltung von Beziehungen und Alltag. (Bosse, 2017). Durch soziale und digitale Teilhabe haben Kinder und Jugendliche mehr Chancen und Ressourcen, sich weiterzuentwickeln, zu orientieren und selbst aktiv zu werden. Digitale Prozesse und Technikentwicklung bieten Potentiale, selbständiger zu werden, sich selbst zu positionieren und zu qualifizieren (DigiPäd 24/7, 2022).</p>
+<p>Technologien können Barrieren im sozialen Leben abbauen. Eine Studie zeigt in diesem Zusammenhang auf, wie Kinder und Jugendliche neue Technologien nutzen können, um ihre Ausdrucksfähigkeit zu trainieren und so Sprachbarrieren abzubauen. Durch den Einsatz neuer Technologien werden verschiedene Wahrnehmungskanäle geschult. Lernprozesse können angeregt und Lernschwierigkeiten durch innovative Technologien abgebaut werden (Lacey et al., 2007). Multimediale Ansätze in der Bildung können somit kompensatorisch wirken (Miesenberger et al., 2013). Technische Assistenzsysteme können zudem eine Entlastung des Fachpersonals ermöglichen (Kalcher &amp; Kreinbucher-Bekerle, 2021). Technologien bergen aber auch die Gefahr, bei ungeeigneter Gestaltung oder mangelnder Gebrauchstauglichkeit (Usability) neue Barrieren zu schaffen. Für die Entwicklung adäquater Technologien wird grundsätzlich die <a href="/wissen/woerterbuch/partizipation/">Partizipation</a> der Zielgruppen empfohlen. Im vorliegenden Handlungsfeld ist die Entwicklung und Erprobung neuer Technologien unter den spezifischen Bedingungen (stationärer) Hilfekontexte der Sozialen Arbeit notwendig, um Jugendliche passgenau unterstützen zu können.</p>
+<p>Die Digitalisierung in der Sozialen Arbeit ermöglicht Inklusion und kann somit die Ausgrenzung von jungen Menschen in stationären Wohnformen verhindern. In dem Fachartikel wird das Zusammenspiel von Hindernissen und Chancen untersucht und erläutert, warum bei der Technikentwicklung mit Jugendlichen <a href="/wissen/woerterbuch/partizipation/">Partizipation</a> wichtig ist.</p>
+<h2 id="digitale-ungleichheit-und-ausgrenzung">Digitale Ungleichheit und Ausgrenzung</h2>
+<p>Der Zugang zu Medien und ihre Nutzung ist mit verschiedenen Barrieren verbunden, durch die bestimmte Personengruppen diskriminiert werden können. Diese Form der Ausgrenzung wird in der Wissenschaft seit den 1990er Jahren als „digital divide“ diskutiert (Katz und Aspden, 1997; Steyeart und Gould, 2009) und findet auf mehreren Ebenen statt: Als „digitale Spaltung“ der Gesellschaft bezieht sich „digital divide“ zum einen auf einen ungleichen Zugang zu Technologien. Zum anderen beschreibt „digital divide“ eine „digitale Ungleichheit“ bei der Nutzung von digitalen Geräten und Technologien sowie bei der <a href="/wissen/woerterbuch/medienkompetenzen/">Medienkompetenz</a> (Iske &amp; Kutscher, 2020). Darüber hinaus gibt es eine potentielle Diskriminierung von Personengruppen durch Algorithmen oder andere infrastrukturell-technologische Herausforderungen. Dies wird als „zero-level digital divide“ (Verständig et al., 2016) oder als „third-level digital divide“ (Zorn, 2017) bezeichnet. Der Zugang zu digitalen Technologien und ihre Nutzung sowie die technologische Infrastruktur sind grundlegende Voraussetzungen für eine digitale Teilhabe und bedingen somit (un-)gleiche Lebenschancen und soziale (Un-)Gerechtigkeit.</p>
+<p>Die digitale Spaltung und Ungleichheit wird auch als „E-Exclusion“, also als eine digitale Ausgrenzung bezeichnet. Dieser Ausgrenzungsbegriff basiert auf empirischen Befunden, die belegen, dass soziale Teilhabe in modernen Gesellschaften unter anderem von der <a href="/wissen/woerterbuch/medienkompetenzen/">Medienkompetenz</a> abhängt. Die digitale Exklusion wird entlang von sozialer Ungleichheit, gesellschaftlicher Teilhabe und <a href="/wissen/woerterbuch/medienkompetenzen/">Medienkompetenz</a> diskutiert. Das Ziel ist ein kompetenter, selbstbestimmter und partizipativer Umgang mit Technologien (Bosse, 2017). Diese Intention legt nahe, dass <a href="/wissen/woerterbuch/partizipation/">Partizipation</a> an technologischen und digitalen Prozessen zu weniger Ausgrenzung führen kann.</p>
+<p>Wenn also vulnerable Personengruppen bei der Technologieentwicklung inklusiv und <a href="/wissen/woerterbuch/partizipation/">partizipativ</a> einbezogen werden sie dadurch gut nutzbare digitale Technologien für ihre Zwecke und Bedürfnisse erhalten, kann dies zu einer gerechter verteilten Teilhabe in der Gesellschaft führen. Der Zugang zu diesen Technologien hängt von verschiedenen Faktoren ab, wie zum Beispiel von finanziellen Möglichkeiten, technischer Infrastruktur, kognitiven Fähigkeiten, sprachlichen Barrieren und allgemein von den Möglichkeiten zur politischen <a href="/wissen/woerterbuch/partizipation/">Partizipation</a>. Auch soziodemografische Faktoren wie Einkommen oder Bildung spielen eine Rolle (Henke et al., 2008). Migration und damit verbundene Bedürfnisse und Sprachkenntnisse sind von Bedeutung (Sanders &amp; Scanlon, 2021). Exklusion wird somit theoretisch durch wechselseitige soziale Ausgrenzungsmuster gerahmt (Steyeart &amp; Gould, 2009).</p>
+<h2 id="rahmenbedingungen-in-stationren-einrichtungen-der-sozialen-arbeit">Rahmenbedingungen in stationären Einrichtungen der Sozialen Arbeit</h2>
+<p>Neue technologische Kommunikationswege können die Reichweite von Menschen in stationären Hilfeeinrichtungen erweitern (Schluchter, 2013). Junge Menschen in besonderen Wohnformen können mit Menschen außerhalb kommunizieren, räumliche Barrieren werden abgebaut. Partizipative Medienbildung stößt inklusive Prozesse an; heterogene Personengruppen begegnen sich, tauschen sich aus und lernen voneinander (Zorn et al., 2019). Jugendliche erlangen durch technische Informations- und Kommunikationsmittel Autonomie (Behnisch &amp; Gerner, 2014). In der partizipativen Technikentwicklung bedeutet <a href="/wissen/woerterbuch/partizipation/">Partizipation</a> vulnerabler Personengruppen also Teilhabe am gesellschaftlichen Alltag. Der partizipative Ansatz erhöht die Akzeptanz von Technologien, sodass diese vermehrt genutzt werden und eher Teilhabe ermöglichen (Kucharski &amp; Merkel, 2018). Der partizipative Prozess soll die Befähigung im Umgang mit der Technik sowie die niederschwellige Handhabung und Wirksamkeit der entwickelten Produkte fördern (Friedhof, 2017).</p>
+<p>Jugendliche in der stationären Eingliederungs- und Erziehungshilfe sind jedoch mit den Besonderheiten eines regulierten und reglementierten Systems Sozialer Arbeit konfrontiert. Es ist wichtig, diese besonderen Lebensumstände bei der Entwicklung partizipativer Methoden zu berücksichtigen. Zum Beispiel ist die technische Ausstattung in solchen Einrichtungen im Vergleich zur Allgemeinbevölkerung als eher unterdurchschnittlich zu bewerten. Auch können die Bedingungen für den Zugang und die Nutzung sowie Datenschutzbestrebungen von denen im privaten häuslichen Umfeld abweichen. Junge Menschen in Eingliederungs- und Erziehungshilfen müssen daher in Bezug auf Digitalisierungsprozesse als benachteiligt angesehen werden.</p>
+<p>Gründe hierfür sind geringe finanzielle Ressourcen für technologische Investitionen und ein geringes Bewusstsein für die Potentiale digitaler Infrastruktur seitens der Einrichtungen. Dies gilt zwar auch für junge Menschen mit niedrigem sozioökonomischen Status in Privathaushalten, für junge Menschen in stationären Erziehungs- und Eingliederungshilfen finden sich jedoch weitere Einschränkungen: So ist neben der unzureichenden Ausstattung die Nutzung vorhandener digitaler Geräte in diesen Wohnformen der Sozialen Arbeit häufig zeitlich begrenzt. Kognitive Einschränkungen und daraus resultierende Teilhabebarrieren können weitere Faktoren sein, die die Handlungsmöglichkeiten zur digitalen Teilhabe begrenzen.</p>
+<p>Es gibt Fachkräfte der Sozialen Arbeit, die Digitalisierungsprozessen eher kritisch oder abwartend gegenüberstehen (Goldkind et al., 2016). Dies führt zu einer eingeschränkten Kompetenzvermittlung in den (Jugend-)Einrichtungen. Die Digitalisierung hält nur begrenzt Einzug in die Wohnformen, die Auseinandersetzung mit - und auch die <a href="/wissen/woerterbuch/partizipation/">Partizipation</a> an - Technologien ist unterdurchschnittlich ausgeprägt (Adrian et al., 2017; Mayerle, 2019). Durch die mangelnde Teilhabe an technologischen Entwicklungen und digitalen Prozessen werden allgemein Teilhabechancen junger Menschen eingeschränkt (DigiPäd 24/7, 2022). Barrieren sind daher nicht nur individuell in möglichen kognitiven Einschränkungen zu sehen, sondern auch strukturell in der Befähigung seitens der (Fachkräfte in den) Einrichtungen, die Potentiale von Technologien zu erkennen.</p>
+<h2 id="partizipation-verspricht-inklusion-und-passgenauigkeit">Partizipation verspricht Inklusion und Passgenauigkeit</h2>
+<p>Partizipation basiert auf der Annahme, dass die jeweilige Zielgruppe die größte Expertise für ihre Bedürfnisse besitzt. Ihre Ansichten und ihr Wissen sind daher von großer Bedeutung, da Probleme sozialer Benachteiligung besser erkannt und gelöst werden können. Theoretisches und methodisches Fachwissen wird durch partizipative Zielgruppen mit konkreten Erfahrungen verknüpft, die aufzeigen, an welchen Stellen Handlungs<a href="/wissen/woerterbuch/bedarf/">bedarf</a> besteht. So kommt es zu einer sich gegenseitig verstärkenden Partnerschaft. Der partizipative Prozess kann somit informierend als auch motivierend sein, sodass <a href="/wissen/woerterbuch/partizipation/">Partizipation</a> Menschen qualifiziert, Entscheidungen zu treffen (Vaughn et al., 2020).</p>
+<p>Soziale Exklusionsmuster werden als Produkt gesellschaftlicher Dynamiken betrachtet und nicht als Merkmal bestimmter Personengruppen. Um soziale (und damit auch digitale) Teilhabe für die Zielgruppe zu fördern, sollte diese Benachteiligung überwunden werden (Straßburger &amp; Rieger, 2019a). <a href="/wissen/woerterbuch/partizipation/">Partizipation</a> verspricht somit Inklusion, denn sie stärkt zum einen die Selbstbestimmung vulnerabler Personengruppen und erhöht zum anderen die Qualität der Eingliederungs- und Bildungshilfe. Durch <a href="/wissen/woerterbuch/partizipation/">Partizipation</a> sollen Menschen ihr Leben freier gestalten, ihre Probleme und Bedürfnisse artikulieren und somit demokratisch an der Gesellschaft teilhaben können (Straßburger &amp; Rieger, 2019b). Gesellschaftliche Strukturen haben eine Wirkungsmacht, die in partizipativen Prozessen deutlich wird. Diese gesellschaftlichen Strukturen und Systeme können durch die Teilnehmenden gestaltet werden (Unger, 2014).</p>
+<p>Für die <a href="/wissen/woerterbuch/partizipation/">Partizipation</a> an Technologieentwicklung und digitalen Prozessen werden drei wesentliche Potentiale diskutiert (Vines et al., 2013): das Teilen von Kontrolle bzw. Macht, das Teilen von Expertise und Wissen sowie das Anstoßen von Veränderungen. Das Teilen von Kontrolle wird im Sinne von Inklusion verstanden. Menschen, die von bestehenden Machtstrukturen ausgeschlossen sind, sollen durch partizipative Prozesse aktiver eingebunden werden. Dabei entsteht das Potenzial, dass insbesondere Menschen mit spezifischen gesundheitlichen oder emotionalen Bedürfnissen (z. B. Jugendliche in stationären Wohnformen) in neuer Form Macht zugesprochen werden kann, Meinungen zu äußern und Entscheidungsprozesse zu steuern, wenn sie als Expert:innen behandelt werden. Ein weiteres Potenzial besteht darin, dass die späteren Nutzer:innen der Technologien ihre tatsächlichen Bedürfnisse artikulieren können. Durch die gemeinsame Diskussion können innovative Ansätze entwickelt oder bestehende Technologien optimiert werden. <a href="/wissen/woerterbuch/partizipation/">Partizipation</a> kann somit einen Raum für Wissensaustausch und Inspiration für die Technologieentwicklung schaffen.</p>
+<h2 id="fazit">Fazit</h2>
+<p>Zusammenfassend lässt sich feststellen, dass die partizipative Technikentwicklung einen bedeutenden Beitrag zur Förderung der Teilhabe von vulnerablen Personengruppen, insbesondere Jugendlichen in Einrichtungen der Sozialen Arbeit, leisten kann. Digitale Prozesse bieten ihnen die Möglichkeit, sich aktiv in soziale, öffentliche, kulturelle und bildungsbezogene Aktivitäten einzubringen und diese mitzugestalten. Der Zugang zu digitalen Technologien und die damit verbundene technologische Infrastruktur sind grundlegende Voraussetzungen für eine gerechte Teilhabe. Die <a href="/wissen/woerterbuch/partizipation/">Einbeziehung</a> dieser Gruppen in den partizipativen Entwicklungsprozess ermöglicht digitale Technologien, die ihren spezifischen Bedürfnissen und Zielen gerecht werden. Darüber hinaus erhöht der partizipative Ansatz die Akzeptanz von Technologien und fördert ihre Nutzung, was wiederum die Teilhabe stärkt. Barrieren gilt es sowohl auf individueller als auch auf struktureller Ebene abzubauen. Aus den wissenschaftlichen Erkenntnissen lässt sich zudem eine Empfehlung ableiten, Fachkräfte zu befähigen, die Potentiale von Digitalisierung zu nutzen.</p>
+<h2 id="quellen">Quellen</h2>
+<p>Adrian, S., Hölig, S., Hasebrink, U., Bosse, I., &amp; Haage, A. (2017). Mediennutzung von Menschen mit Beeinträchtigungen. Medienbezogene Handlungen, Barrieren und Erwartungen einer heterogenen Zielgruppe. Media Perspektiven, 3, 145–156.</p>
+<p>Behnisch, M., Gerner, C. (2014). Jugendliche Handynutzung in der Heimerziehung und ihre Bedeutung für pädagogisches Handeln. unsere jugend. 66(1), 2-7.</p>
+<p>Bosse, I. (2017). Medienbildung und Inklusion: wechselseitige Partizipationsgewinne, In: Sachverständigenkommission 15. Kinder- und Jugendbericht (Hrsg.), Materialien zum 15. Kinder- und Jugendbericht. Zwischen Freiräumen, Familie, Ganztagsschule und virtuellen Welten – Persönlichkeitsentwicklung und Bildungsanspruch im Jugendalter. München: Verlag Deutsches Jugendinstitut.</p>
+<p>DigiPäd 24/7 (2022). Das Recht junger Menschen auf analog-digitale Teilhabe verwirklichen – Empfehlungen für stationäre Einrichtungen der Kinder- und Jugendhilfe sowie Internate. Hildesheim: Universitätsverlag Hildesheim. https://doi.org/10.18442/211</p>
+<p>Friedhof, S. (2017). Partizipative Entwicklung technischer Assistenzsysteme. Umsetzung und Erfahrung aus dem Projekt KogniHome. In T. Hagemann (Hrsg.), Gestaltung des Sozial- und Gesundheitswesens im Zeitalter von Digitalisierung und technischer Assistenz, (S. 187-206). Baden-Baden: Nomos Verlag.</p>
+<p>Goldkind, L., Wolf, L., Jones, J. (2016). Late Adapters? How Social Workers Acquire Knowledge and Skills About Technology Tools. Journal of Technology in Human Services, 34(4), 338–358.</p>
+<p>Henke, U., Mogge-Grotjahn, H. &amp; Huster, E.-U. (2008). E-exclusion oder e-inclusion? In E.U. Huster, J. Boeckh  &amp; H. Mogge Grotjahn (Hrsg.), Handbuch Armut und Soziale Ausgrenzung (S. 470–482). Wiesbaden: VS Verlag für Sozialwissenschaften.</p>
+<p>Iske, S., Kutscher, N. (2020). Digitale Ungleichheiten im Kontext Sozialer Arbeit. In N. Kutscher, T. Ley, U. Seelmeyer, F. Siller &amp; I. Zorn (Hrsg.), Handbuch <a href="/wissen/woerterbuch/soziale-arbeit/">Soziale Arbeit</a> und Digitalisierung (S. 115-128). Weinheim: Beltz Juventa.</p>
+<p>Kalcher, M, Kreinbucher-Bekerle, C.. (2021). Die Nutzung Digitaler Medien Von Menschen mit Lernschwierigkeiten in Der Behindertenhilfe: Ergebnisse. Eines Partizipativen Forschungsprojekts. MedienPädagogik: Zeitschrift für Theorie und Praxis der Medienbildung (Occasional Papers):1-16. https://doi.org/10.21240/mpaed/00/2021.02.09.X</p>
+<p>Katz, J., Aspden, P. (1997). Motivations for and barriers to internet usage: Results of a national public opinion survey. Internet Research: Electronic Networking Applications and Policy, 7(3), 170 – 188.</p>
+<p>Kucharski, A., Merkel, S. (2018). Partizipative Technikentwicklung von Gerontotechnologie: Ansätze für mehr Akzeptanz in der Zielgruppe. Forschung Aktuell, (06)2018, Institut Arbeit und Technik (IAT), Gelsenkirchen. https://nbn-resolving.de/urn:nbn:de:0176-201806016</p>
+<p>Lacey, P., Layton, L., Miller, C., Goldbart, J., Lawson, H. (2007). What is literacy for students with severe learning difficulties? Exploring conventional and inclusive literacy. Journal of Research in Special Educational Needs, 7(3), 149–160.</p>
+<p>Mayerle, M. (2019). Berufsfeld Tagesförderung/Wohneinrichtung. In I. Bosse, J.-R. Schluchter, I. Zorn (Hrsg.), Handbuch Inklusion und Medienbildung (S. 170-180). Weinheim: Beltz Juventa.</p>
+<p>Miesenberger, K., Bühler, C., Niestyo, H., Schluchter, J.-R., Bosse, I. (2013). Sieben Fragen zur inklusiven Medienbildung. In I. Bosse (Hrsg.), Medienbildung im Zeitalter der Inklusion (S. 27–57). Düsseldorf: Landesanstalt für Medien Nordrhein-Westfalen.</p>
+<p>Sanders, C.K., Scanlon, E. (2021) The Digital Divide Is a Human Rights Issue: Advancing Social Inclusion Through Social Work Advocacy. J. Hum. Rights Soc. Work 6, 130–143. https://doi.org/10.1007/s41134-020-00147-9</p>
+<p>Schluchter, J.-R. (2013). Medien, Bildung und Inklusion – Perspektiven für die Professionalisierung von Lehramtsstudierenden. In I. Bosse (Hrsg.), Medienbildung im Zeitalter der Inklusion (S. 65-70). Düsseldorf: LfM Dokumentation.</p>
+<p>Steyeart, J., Gould, N. (2009). Social Work and the Changing Face of the Digital Divide. The British Journal of Social Work, 39(4), 740-753. https://doi.org/10.1093/bjsw/bcp022</p>
+<p>Straßburger, G., Rieger, J. (2019a). Bedeutung und Formen der <a href="/wissen/woerterbuch/partizipation/">Partizipation</a> - Das Modell der Partizipationspyramide. In G. Straßburger &amp; J. Rieger (Hrsg.), <a href="/wissen/woerterbuch/partizipation/">Partizipation</a> kompakt - Für Studium, Lehre und Praxis sozialer Berufe (S. 12–39). Weinheim: Beltz Juventa.</p>
+<p>Straßburger, G., Rieger, J. (2019b). Warum <a href="/wissen/woerterbuch/partizipation/">Partizipation</a> wichtig ist –Selbstverständnis und Auftrag sozialer Berufe. In G. Straßburger &amp; J. Rieger (Hrsg.), <a href="/wissen/woerterbuch/partizipation/">Partizipation</a> kompakt - Für Studium, Lehre und Praxis sozialer Berufe (S. 42–49). Weinheim: Beltz Juventa.</p>
+<p>Unger, H. (2014). Partizipative Forschung. Einführung in die Forschungspraxis. Wiesbaden: Springer VS.</p>
+<p>Vaughn, L. M., Jacquez, F. (2020). Participatory Research Methods – Choice Points in the Research Process. Journal of Participatory Research Methods, 1(1).</p>
+<p>Verständig, D., Klein, A., Iske, S. (2016). Zero-Level Digital Divide: Neues Netz und neue Ungleichheiten. Si:So. Analysen –Berichte–Kontroversen, 21(1), 50-55.</p>
+<p>Vines, J., Clarke, R., Wright, P., Mccarthy, J., Olivier, P. (2013). Configuring participation: On how we involve people in design. Conference on Human Factors in Computing Systems. Proceedings, 429-438.</p>
+<p>Zorn, I. (2017). Wie viel „App-Lenkung“ verträgt die digitalisierte Gesellschaft? Herausforderungen digitaler Datenerhebungen für die Medienbildung. In S. Eder, C. Mikat &amp; A. Tillmann (Hrsg.), Software takes command. Herausforderungen der „Datafizierung“ für die Medienpädagogik in Theorie und Praxis (S. 19-33). München: kopaed.</p>
+<p>Zorn, I., Schluchter, J.-R., Bosse, I. (2019). Theoretische Grundlagen inklusiver Medienbildung, In I. Bosse, J.-R. Schluchter, I. Zorn (Hrsg.), Handbuch Inklusion und Medienbildung (S. 16-34). Weinheim: Beltz Juventa.</p>
+
+                </div>
+            </div> 
+            
+        </div> 
+        
+            <footer class="footer is-hidden-print is-primary">
+    
+    <div class="container columns is-centered is-multiline is-bordered-bottom">
+        <div class="navbar-brand column is-full">
+            <a href="/" class="columns navbar-item">
+                <img class="column" src="/assets/img/logo-white.png">
+                <p class="calumn brand-title"></p>
+            </a>
+        </div>
+        <div class="column is-2">
+            <div class="title">www.intia.de</div>
+                TH-Köln | DITES<br>
+                Campus Südstadt<br>
+                Ubierring 48<br>
+                50678 Köln
+
+        </div>
+        
+        <div class="column ">
+            <div class="title">Site Map</div>
+            <div class="columns footer-nav">
+                
+                    <div class="column">
+                        <a href="" class="link"><strong>Über INTIA</strong></a>
+                        
+                        <div class="">
+                            
+                            <div class="">
+                                <a href="/ueber/plattform" class="link">Plattform</a>
+                            </div>
+                            
+                            <div class="">
+                                <a href="/ueber/projekt/" class="link">Projekt</a>
+                            </div>
+                            
+                            <div class="">
+                                <a href="/ueber/barrierearm/" class="link">Barrierearm</a>
+                            </div>
+                            
+                        </div>                                            
+                    
+                    </div>
+                
+                    <div class="column">
+                        <a href="" class="link"><strong>INTIA Koffer</strong></a>
+                        
+                        <div class="">
+                            
+                            <div class="">
+                                <a href="/intia-koffer/" class="link">Über</a>
+                            </div>
+                            
+                            <div class="">
+                                <a href="/intia-koffer/beschaffen/" class="link">Beschaffen</a>
+                            </div>
+                            
+                            <div class="">
+                                <a href="/intia-koffer/prototypen/" class="link">Prototypen</a>
+                            </div>
+                            
+                            <div class="">
+                                <a href="/intia-koffer/anleitungen/" class="link">Anleitungen</a>
+                            </div>
+                            
+                        </div>                                            
+                    
+                    </div>
+                
+                    <div class="column">
+                        <a href="" class="link"><strong>Werkzeuge</strong></a>
+                        
+                        <div class="">
+                            
+                            <div class="">
+                                <a href="/werkzeuge/bausteine/" class="link">Bausteine</a>
+                            </div>
+                            
+                            <div class="">
+                                <a href="/werkzeuge/methoden/" class="link">Methoden</a>
+                            </div>
+                            
+                        </div>                                            
+                    
+                    </div>
+                
+                    <div class="column">
+                        <a href="" class="link"><strong>Wissen</strong></a>
+                        
+                        <div class="">
+                            
+                            <div class="">
+                                <a href="/wissen/woerterbuch/" class="link">Wörterbuch</a>
+                            </div>
+                            
+                            <div class="">
+                                <a href="/wissen/publikationen/" class="link">Publikationen</a>
+                            </div>
+                            
+                        </div>                                            
+                    
+                    </div>
+                
+                    <div class="column">
+                        <a href="" class="link"><strong>Blog</strong></a>
+                        
+                        <div class="">
+                            
+                            <div class="">
+                                <a href="/blog/aktivitaeten/" class="link">Aktivitäten</a>
+                            </div>
+                            
+                            <div class="">
+                                <a href="/blog/fachartikel/" class="link">Fachartikel</a>
+                            </div>
+                            
+                        </div>                                            
+                    
+                    </div>
+                
+                    <div class="column">
+                        <a href="" class="link"><strong>Mitmachen</strong></a>
+                        
+                        <div class="">
+                            
+                            <div class="">
+                                <a href="/mitmachen/netzwerk/" class="link">Netzwerk</a>
+                            </div>
+                            
+                            <div class="">
+                                <a href="/mitmachen/kontakt/" class="link">Kontakt</a>
+                            </div>
+                            
+                        </div>                                            
+                    
+                    </div>
+                
+            </div>
+        </div>
+        
+        
+        <div class="column is-2">
+            <div class="title">Rechtliches</div>
+            <div class="">
+                
+                <div class="">
+                    <div>
+                        <a href="/about/" class="link">Über die Plattform</a>
+                    </div>
+                </div>
+                
+                <div class="">
+                    <div>
+                        <a href="https://www.th-koeln.de/hochschule/impressum_8159.php" class="link" target="_blank" rel="noopener noreferrer">Impressum</a>
+                    </div>
+                </div>
+                
+                <div class="">
+                    <div>
+                        <a href="https://www.th-koeln.de/hochschule/haftungshinweis_8277.php" class="link" target="_blank" rel="noopener noreferrer">Haftungshinweis</a>
+                    </div>
+                </div>
+                
+                <div class="">
+                    <div>
+                        <a href="https://www.th-koeln.de/hochschule/datenschutzhinweis_8279.php" class="link" target="_blank" rel="noopener noreferrer">Datenschutzhinweis</a>
+                    </div>
+                </div>
+                
+            </div>
+        </div>
+        
+    </div>
+        <div class="columns content is-small has-text-centered footer-logos">
+            <div class="column has-text-right"><div class="page-owner">
+                <p class="has-text-left">Eine Seite von</p>
+                <img src="/assets/img/logos/INTIA_Plattform_Logos_TH_weiss.png">
+                <img src="/assets/img/logos/INTIA_Plattform_Logos_Dites_weiss.png">
+            </div></div>
+            <div class="column has-text-left"><div class="page-sponsor">                
+                <img class="footer-logo-2" src="/assets/img/logos/BMBF_logo.jpg">
+            </div></div>
+        </div>
+        <div class="content is-small has-text-centered">
+            <p class="">INTIA, 2021</p>
+        </div>
+    
+</footer>
+
+        
+    </body>
+</html>

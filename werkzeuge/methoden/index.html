@@ -1,0 +1,618 @@
+<!--
+The Default layout that everything is using 
+-->
+
+<!-- Control the width with, if sidebars or menus should appear   -->
+
+
+<!DOCTYPE html>
+<html id="default-layout">
+    <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content=#ffffff>
+    <link rel="stylesheet" href="/assets/styles/main.css">
+    <link rel="shortcut icon" type="image/png"
+           href="/favicon.png" 
+    />
+    <script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.8.0/dist/alpine.min.js" defer></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma-carousel@4.0.3/dist/css/bulma-carousel.min.css">
+    
+        <script src="https://d3js.org/d3.v5.min.js"></script>
+        <!--<script src="https://methods.intia.de/src/radar/radar.js"></script>-->
+        <script src="/assets/js/radar.js"></script>
+        <!--<link rel="stylesheet" href="https://methods.intia.de/src/radar/radar.css" />-->
+    
+    
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma-social@1/bin/bulma-social.min.css">
+    
+    <!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Methoden | INTIA</title>
+<meta name="generator" content="Jekyll v4.3.3" />
+<meta property="og:title" content="Methoden" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="A plattform for methods, techniques, toolkits and patterns for participative development in a social context." />
+<meta property="og:description" content="A plattform for methods, techniques, toolkits and patterns for participative development in a social context." />
+<link rel="canonical" href="/werkzeuge/methoden/" />
+<meta property="og:url" content="/werkzeuge/methoden/" />
+<meta property="og:site_name" content="INTIA" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Methoden" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebPage","description":"A plattform for methods, techniques, toolkits and patterns for participative development in a social context.","headline":"Methoden","url":"/werkzeuge/methoden/"}</script>
+<!-- End Jekyll SEO tag -->
+<!-- head scripts -->
+<script src="https://unpkg.com/@botpoison/browser"></script>
+<script type="module" src="/assets/js/main.js"async></script></head>
+
+    <body>
+        <nav class="navbar is-hidden-print is-primary is-fixed-top" x-data="{ openNav: false }">
+    <div class="container">
+        <div class="navbar-brand">
+            <a href="/" class="">
+                <picture>
+                    <source media="(max-width: 1300px)" srcset="/assets/img/logo-short.png">
+                    <img id="navbar-logo" src="/assets/img/logo-horizontal-short.png">
+                </source></picture>     
+            </a>
+            <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navMenu" :class="{ 'is-active': openNav }" x-on:click="openNav = !openNav">
+                <span aria-hidden="true"></span>
+                <span aria-hidden="true"></span>
+                <span aria-hidden="true"></span>
+            </a>
+        </div>
+        <div class="navbar-menu" id="navMenu" :class="{ 'is-active': openNav }">
+            <div id="SearchOverlay" class="searchbar-overlay navbar-end buttons">
+                <div class="navbar-item searchbar">
+                    <div class="field">
+                        <div id="search-container" class="control">
+                          <input class="input search-input" type="text" id="search-input" placeholder="Suchbegriff eintippen">
+                        </div>
+                    </div>
+                    <ul id="results-container" class="search-result-list"></ul>
+                </div>
+                <div class="navbar-end">
+                    <div class="navbar-item navbar-search">
+                        <a id="closeSearch">
+                            <span class="icon">
+                                <i class="fa-solid icon-remove"></i>
+                            </span>
+                        </a>  
+                    </div>
+                </div>
+            </div>
+            <div id="navmenu" class="navbar-end buttons">
+                
+                
+                
+                <div class="navbar-item has-text-left button is-rounded is-dark has-dropdown is-hoverable        ">
+                    
+                    
+                     <a for="navbar-click" class="navbar-link">Über INTIA</a>
+                    
+                    <div class="navbar-dropdown">
+                        
+                        <a href="/ueber/plattform" class="navbar-item button is-rounded is-dark  ">Plattform</a>
+                        
+                        <a href="/ueber/projekt/" class="navbar-item button is-rounded is-dark  ">Projekt</a>
+                        
+                        <a href="/ueber/barrierearm/" class="navbar-item button is-rounded is-dark  ">Barrierearm</a>
+                        
+                    </div>
+                </div>
+                
+                
+                
+                <div class="navbar-item has-text-left button is-rounded is-dark has-dropdown is-hoverable          ">
+                    
+                    
+                     <a for="navbar-click" class="navbar-link">INTIA Koffer</a>
+                    
+                    <div class="navbar-dropdown">
+                        
+                        <a href="/intia-koffer/" class="navbar-item button is-rounded is-dark  ">Über</a>
+                        
+                        <a href="/intia-koffer/beschaffen/" class="navbar-item button is-rounded is-dark  ">Beschaffen</a>
+                        
+                        <a href="/intia-koffer/prototypen/" class="navbar-item button is-rounded is-dark  ">Prototypen</a>
+                        
+                        <a href="/intia-koffer/anleitungen/" class="navbar-item button is-rounded is-dark  ">Anleitungen</a>
+                        
+                    </div>
+                </div>
+                
+                
+                
+                <div class="navbar-item has-text-left button is-rounded is-dark has-dropdown is-hoverable      is-active-header  ">
+                    
+                    
+                     <a for="navbar-click" class="navbar-link">Werkzeuge</a>
+                    
+                    <div class="navbar-dropdown">
+                        
+                        <a href="/werkzeuge/bausteine/" class="navbar-item button is-rounded is-dark  ">Bausteine</a>
+                        
+                        <a href="/werkzeuge/methoden/" class="navbar-item button is-rounded is-dark   is-active ">Methoden</a>
+                        
+                    </div>
+                </div>
+                
+                
+                
+                <div class="navbar-item has-text-left button is-rounded is-dark has-dropdown is-hoverable      ">
+                    
+                    
+                     <a for="navbar-click" class="navbar-link">Wissen</a>
+                    
+                    <div class="navbar-dropdown">
+                        
+                        <a href="/wissen/woerterbuch/" class="navbar-item button is-rounded is-dark  ">Wörterbuch</a>
+                        
+                        <a href="/wissen/publikationen/" class="navbar-item button is-rounded is-dark  ">Publikationen</a>
+                        
+                    </div>
+                </div>
+                
+                
+                
+                <div class="navbar-item has-text-left button is-rounded is-dark has-dropdown is-hoverable      ">
+                    
+                    
+                     <a for="navbar-click" class="navbar-link">Blog</a>
+                    
+                    <div class="navbar-dropdown">
+                        
+                        <a href="/blog/aktivitaeten/" class="navbar-item button is-rounded is-dark  ">Aktivitäten</a>
+                        
+                        <a href="/blog/fachartikel/" class="navbar-item button is-rounded is-dark  ">Fachartikel</a>
+                        
+                    </div>
+                </div>
+                
+                
+                
+                <div class="navbar-item has-text-left button is-rounded is-dark has-dropdown is-hoverable      ">
+                    
+                    
+                     <a for="navbar-click" class="navbar-link">Mitmachen</a>
+                    
+                    <div class="navbar-dropdown">
+                        
+                        <a href="/mitmachen/netzwerk/" class="navbar-item button is-rounded is-dark  ">Netzwerk</a>
+                        
+                        <a href="/mitmachen/kontakt/" class="navbar-item button is-rounded is-dark  ">Kontakt</a>
+                        
+                    </div>
+                </div>
+                
+                
+                
+   
+                    <div class="navbar-item navbar-search">
+                        <a id="openSearch">
+                            <span class="icon">
+                                <i class="fa-solid icon-search"></i>
+                            </span>
+                        </a>  
+                    </div>
+                
+            </div>
+        </div>
+    </div>
+</nav>
+
+<section class="breadcrumb-section green-version">
+    <div class="container breadcrumb-container">
+        <nav class="breadcrumb has-arrow-separator" aria-label="breadcrumbs">
+            <ul>
+            
+            <li><a href="/">INTIA</a></li>
+            
+                
+                    <li><a>Werkzeuge</a></li>
+                
+                
+                <li><a href="#">Methoden</a></li>
+                
+            
+            </ul>
+        </nav>
+    </div>
+</section>
+
+
+  <!-- Script pointing to search-script.js -->
+  <script src="/assets/js/search.js" type="text/javascript"></script>
+  
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/search.json',
+    searchResultTemplate: '<li><a class="search-item" href="{url}">{title}</a></li>'
+  })
+  </script>
+        <div class="arrow-image is-pulled-left is-hidden-mobile">
+            <img id="scroll-up" src="/assets/img/arrow-down.png" alt="placeholder">
+            <img id="scroll-down" src="/assets/img/arrow-down.png" alt="placeholder" class="is-pointed-down">     
+        </div>
+        <div class="accessibility-image is-pulled-left is-hidden-mobile">
+                <a id="changeFontsize" class="button is-rounded is-dark">
+                    <span class="icon is-small">
+                        <i class="fas icon-font-size fa-xs invert"></i>
+                        </span> 
+                    </a>    
+        </div>
+        
+            <section class="hero is-hidden-print  is-medium   toppage ">
+    <div class="hero-body">
+        <div class="container">
+            
+                <h5 class="overtitle">Werkzeuge</h5>
+            
+            <h1 class=" title-with-overtitle ">Methoden</h1>
+            
+            
+                <h4>Hier finden sich Methoden und ein Methodenradar. Die Methoden können dabei unterstützen, technische Alltagshilfen zu finden und zu entwickeln. Das Methodenradar erleichtert die Auswahl. Es zeigt, wann eine Methode sinnvoll in einem Entwicklungsprozess eingesetzt werden kann und wie partizipativ sie ist.</h4>
+            
+            
+            <div class="buttons-hero has-text-centered">
+                
+
+                <a href="/werkzeuge//" class="button is-rounded is-dark { % if item.link == page.url % } { % endif % }">
+                    <span class="icon is-small">
+                        <i class="fas fa-chevron-left"></i>
+                    </span>
+                    <span>Zur Übersicht</span>
+                </a>
+                <a onclick="window.print()" class="button is-rounded is-dark { % if item.link == page.url % } { % endif % }">
+                    <span>Als PDF Herunterladen</span>
+                    <span class="icon is-small">
+                        <i class="fas fa-chevron-right"></i>
+                    </span>
+                </a>
+            </div>
+        </div>
+    </div>
+</section>
+        
+        <div id="main" class="content-wrapper has-background-primary-light">
+            
+            
+            <div class="columns is-centered">
+                <div id="content" class="container column is-10-desktop is-12-tablet">
+                    
+                    <h1 id="das-methodenradar">Das Methodenradar</h1>
+<p>Wer sinnvoll mit Methoden arbeiten möchte, muss sie kennen und wissen, wie und wofür man sie benutzt. Man kann die Methoden nach ihrem Ziel sortieren (zum Beispiel nach Phasen, die in bestimmten Prozessen durchlaufen werden). Neben dieser weit verbreiteten Vorgehensweise könnte man bei der partizipativ inklusiven Technikentwicklung auch nach Partizipationsmöglichkeiten sortieren: Wie ausgeprägt ist die Zusammenarbeit zwischen denjenigen, die die Technik entwickeln und denen, die sie nutzen? Um das zu beurteilen, gibt es das „Stufenmodell der Partizipation“. Es beschreibt (je nach Autor:in) in sieben Stufen, wie gut diejenigen, die es betrifft, beteiligt werden können.</p>
+<p>Das INTIA Methodenradar sortiert Methoden nach diesem Stufenmodell, also danach, wie stark die Beteiligung ist. Jeder Ring ist dabei eine Stufe, angefangen von „nicht beteiligt“ bis zur „vollständigen Entscheidungsmacht“. Außerdem ist das Radar in vier Bereiche (Sektoren) aufgeteilt, in die die verschiedenen Methoden eingeordnet sind. So zum Beispiel Methoden, die dabei helfen, eine Domäne zu entdecken oder Methoden, die diese Domäne definieren. Auch Methoden, die dabei helfen, Produkte zu entwickeln und zu beurteilen, sind im Methodenradar zu finden.</p>
+<a href="#methodenliste" class="button is-dark is-rounded">
+      <span>Zur Methodenliste</span>
+      <span class="icon is-small">
+        <i class="fas fa-chevron-right fa-xs"></i>
+      </span>
+</a>
+<!--
+<a href='#' class='button is-dark is-rounded'>
+      <span>Mehr zum Radar</span>
+      <span class='icon is-small'>
+        <i class='fas fa-chevron-right fa-xs'></i>
+      </span>
+</a>
+-->
+<h1 id="das-methodenradar-benutzen">Das Methodenradar benutzen</h1>
+<p>Im INTIA-Methodenradar gibt es eine Übersicht über verschiedene Methoden, die dabei unterstützen können, Alltagshilfen zu entwerfen, umzusetzen und zu beurteilen. Jeder Punkt im Radar steht für eine bestimmte Methode und führt zu einer genaueren Erklärung. Über dem Radar sind Menüpunkte zu sehen, mit denen man einzelne Teile des Radars genauer anschauen kann. Die Bedeutung der einzelnen Ringe im Radar kann in der Legende unten nachgelesen werden.
+<br>
+<br>
+Die dunklen Punkte im Radar befinden sich bereits auf der Plattform mit einer Detailbeschreibung und sind ebenfalls der untenstehenden Liste zu entnehmen. Die helleren Punkte dagegen befinden sich noch nicht auf der Plattform und folgen später noch.</p>
+<div id="radar"></div>
+<h1 id="methodenliste">Methodenliste</h1>
+<h2 class="has-text-left"> Analoges Prototypisieren </h2>
+Ein Set aus Plättchen mit verschiedenen (geometrischen) Formen. Mit den Plättchen können einfache Abläufe gelegt werden. Die Plättchen kann man in die Hand nehmen und nach Regeln anordnen. Damit kann man sich leicht gemeinsam Ideen überlegen und diese abbilden. Das ist der erste Schritt zum Entwickeln. Diese Methode ist auch für Menschen geeignet, die keine Entwickler:innen sind. Mit den Plättchen kann man Ideen in einfacher Programmiersprache darstellen.
+<a href="/werkzeuge/methoden/analoges_prototypsieren/" class="button float_right is-rounded has-text-centert is-dark ">
+    <span> Mehr lesen</span>
+    <span class="icon is-small">
+    <i class="fas fa-chevron-right fa-xs"></i>
+    </span>
+</a>
+<h2 class="has-text-left"> Digitales Probe-Kit </h2>
+Das Ziel ist, die Zielgruppe und das Umfeld kennenzulernen. Die Teilnehmenden erhalten ein Paket mit verschiedenen Materialien und Fragen. Diese Pakete (auf Englisch „Kits“) bestehen aus kreativen Aufgaben („Probes“). In einem bestimmten Zeitraum beobachten die Teilnehmenden so ihren eigenen Alltag. Dabei unterstützen Tagebücher, Fotos, Filme, Zeichnungen und andere Materialien. Am Ende können die Teilnehmenden ihre eigenen Bedarfe oder Barrieren im Alltag erkennen. Daraus wird auch ein Unterstützungsbedarf deutlich.
+<a href="/werkzeuge/methoden/digitales_probe-kit/" class="button float_right is-rounded has-text-centert is-dark ">
+    <span> Mehr lesen</span>
+    <span class="icon is-small">
+    <i class="fas fa-chevron-right fa-xs"></i>
+    </span>
+</a>
+<h2 class="has-text-left"> Erfindungsmemory </h2>
+Auf Karten werden nach dem Memory-Prinzip technische Erfindungen und ihre Vorgänger dargestellt. Anders als beim bekannten Spiel Memory sind aber nicht zwei gleiche, sondern zwei unterschiedliche Gegenstände, Bilder oder Tätigkeiten abgebildet, die jodoch eine eindeutige gemeinsame Kerneigenschaft haben. Jugendliche kommen auf diese Weise in ein Gespräch über technischen Fortschritt, Entwicklungen oder Erfindungen und Zukunftsperspektiven.
+<a href="/werkzeuge/methoden/erfindungsmemory/" class="button float_right is-rounded has-text-centert is-dark ">
+    <span> Mehr lesen</span>
+    <span class="icon is-small">
+    <i class="fas fa-chevron-right fa-xs"></i>
+    </span>
+</a>
+<h2 class="has-text-left"> Escape-Game </h2>
+Ein Set aus Rätseln. Teilnehmende können sich spielerisch mit verschiedenen Funktionen von Smart-Home-Technik vertraut machen. Sie lernen die Technik-Bausteine kennen und verstehen. Dadurch können sie selbst Ideen für neue Technologien entwickeln, die ihnen im Alltag helfen.
+<a href="/werkzeuge/methoden/escape_game/" class="button float_right is-rounded has-text-centert is-dark ">
+    <span> Mehr lesen</span>
+    <span class="icon is-small">
+    <i class="fas fa-chevron-right fa-xs"></i>
+    </span>
+</a>
+<h2 class="has-text-left"> Impulskarten </h2>
+Die Impulskarten sollen Unterhaltungen anregen. Ziel ist es, Probleme, Wünsche oder Bedürfnisse zu erkennen. Daraus können anschließend mit anderen Methoden Lösungen entwickelt werden. Es kann sein, dass andere Teilnehmende ähnliche Probleme, Wünsche oder Bedürfnisse beschreiben. Diese Themen können gemeinsam in der Gruppe besprochen werden. Daraus ergibt sich eventuell ein Handlungs- oder Unterstützungsbedarf. Auch außerhalb eines Technik-Entwicklungsprozesses können die Impulskarten eingesetzt werden. Zum Beispiel als unterstützendes Werkzeug bei der Vorbereitung eines Hilfeplangesprächs.
+<a href="/werkzeuge/methoden/impulskarten/" class="button float_right is-rounded has-text-centert is-dark ">
+    <span> Mehr lesen</span>
+    <span class="icon is-small">
+    <i class="fas fa-chevron-right fa-xs"></i>
+    </span>
+</a>
+<h2 class="has-text-left"> Makey Makey </h2>
+Ein MakeyMakey ist ein Eingabegerät für ein digitales Endgerät. Es wird wie eine Maus für einen Computer verwendet. Die Methode hat zum Ziel, Aktionen durch Berührung auszulösen.
+<a href="/werkzeuge/methoden/makeymakey/" class="button float_right is-rounded has-text-centert is-dark ">
+    <span> Mehr lesen</span>
+    <span class="icon is-small">
+    <i class="fas fa-chevron-right fa-xs"></i>
+    </span>
+</a>
+<h2 class="has-text-left"> NFC (Near Field Communication) </h2>
+NFC-Chips ermöglichen automatisierte Funktionen. Damit lassen sich digitale Endgeräte (z. B. ein Handy) zum Asisstenztool umrüsten. Die aktive Person stellt das Handy auf einen NFC-Chip. Oder man klebt den NFC-Aufkleber auf einen gut beweglichen Gegenstand, sodass der Gegenstand gut an das Handy gehalten werden kann. Dann wird der Chip ausgelesen und die Aktion gestartet. Eine Aktion kann zum Beispiel „Wecker stellen“, „SMS schreiben“ oder „Lieblingsbild anzeigen“ sein. Diese Methode fördert die Selbstständigkeit und bietet Unterstützung im Alltag an.
+<a href="/werkzeuge/methoden/nfc/" class="button float_right is-rounded has-text-centert is-dark ">
+    <span> Mehr lesen</span>
+    <span class="icon is-small">
+    <i class="fas fa-chevron-right fa-xs"></i>
+    </span>
+</a>
+<h2 class="has-text-left"> Phasenmodell einer inklusiven Prototypenentwicklung in Präsenz </h2>
+Für welche Alltagsaktivitäten wünscht sich die teilnehmende Gruppe Verbesserungen? Welche Ideen für Verbesserungen können digital erreicht werden? Das Phasenmodell beschreibt eine Workshop-Serie in Präsenz mit sechs Abschnitten (Phasen). Stufenweise wird die Gruppe angeleitet, Probleme zu erkennen und zu beschreiben. Damit sie schließlich Ideen und Lösungen zu entwickeln.
+<a href="/werkzeuge/methoden/phasenmodell_einer_inklusiven_prototypenentwicklung_in_praesenz/" class="button float_right is-rounded has-text-centert is-dark ">
+    <span> Mehr lesen</span>
+    <span class="icon is-small">
+    <i class="fas fa-chevron-right fa-xs"></i>
+    </span>
+</a>
+<h2 class="has-text-left"> Photorecherche </h2>
+Ein Set aus einer Polaroid-Kamera und Notizpapier wird benutzt, um im Alltag nervige Situationen zu fotografieren und zu beschreiben. Das Sofortbild wird auf das Papier aufgeklebt und die nervige Situation darauf beschrieben.
+<a href="/werkzeuge/methoden/photorecherche/" class="button float_right is-rounded has-text-centert is-dark ">
+    <span> Mehr lesen</span>
+    <span class="icon is-small">
+    <i class="fas fa-chevron-right fa-xs"></i>
+    </span>
+</a>
+<h2 class="has-text-left"> QR-Code erstellen </h2>
+Die Abkürzung „QR“ im QR-Code steht für „Quick Response“, also „Schnelle Antwort“. Mit einem QR-Code kann man per Scan mit einem Handy sehr viele  Informationen in sehr kurzer Zeit übertragen. Einen QR-Code, mit dem man schnell auf bevorzugte Webseiten kommt, kann man selbst erstellen.
+<a href="/werkzeuge/methoden/qr-code-erstellen/" class="button float_right is-rounded has-text-centert is-dark ">
+    <span> Mehr lesen</span>
+    <span class="icon is-small">
+    <i class="fas fa-chevron-right fa-xs"></i>
+    </span>
+</a>
+<h2 class="has-text-left"> Sprechender Stift </h2>
+Ein Sticker wird auf eine Buchseite oder einen Gegenstand geklebt. Der sprechende Stift wird mit einem Text für den Sticker besprochen. Dann hält man diesen Stift an den Sticker und der Stift liest den Text vor. Diese Methode hilft Menschen, die nicht lesen können. Es unterstützt aber auch Menschen, die nicht sprechen können. Sie können Botschaften besprechen lassen und von dem Stift vorlesen lassen.
+<a href="/werkzeuge/methoden/sprechender_stift/" class="button float_right is-rounded has-text-centert is-dark ">
+    <span> Mehr lesen</span>
+    <span class="icon is-small">
+    <i class="fas fa-chevron-right fa-xs"></i>
+    </span>
+</a>
+<h2 class="has-text-left"> User Journey </h2>
+Mit der User-Journey kann eine zuvor festgelegte Handlung Schritt für Schritt untersucht werden. Dabei wird am Anfang ein Ziel gesetzt. Zum Ende wird geprüft, ob dieses Ziel erreicht ist. Durch die klein-schrittige Betrachtung von Situationen im Alltag können Barrieren, Wünsche und Emotionen aufgedeckt werden. Die Ergebnisse sind dann Ausgangspunkt für den weiteren Technik-Entwicklungsprozess.
+<a href="/werkzeuge/methoden/user_journey/" class="button float_right is-rounded has-text-centert is-dark ">
+    <span> Mehr lesen</span>
+    <span class="icon is-small">
+    <i class="fas fa-chevron-right fa-xs"></i>
+    </span>
+</a>
+<h2 class="has-text-left"> Video vom Vorlesen aufnehmen </h2>
+Um Medieninhalte selbst zu produzieren, reichen oft einfache Mittel. Ein Handy und ein „Stativ“ aus Büchern genügen, um ein Video zu produzieren. Ein Video davon, wie jemand ein Buch vorliest ist nur ein Beispiel, wie solche Inhalte produziert werden können. Genauso gut können Lernsätze, fremdsprachliche Begriffe oder Anleitungen aufgenommen und bei Bedarf angeschaut werden.
+<a href="/werkzeuge/methoden/video-vom-vorlesen-aufnehmen/" class="button float_right is-rounded has-text-centert is-dark ">
+    <span> Mehr lesen</span>
+    <span class="icon is-small">
+    <i class="fas fa-chevron-right fa-xs"></i>
+    </span>
+</a>
+<script>
+let config = {"radar":{"id":"radar","name":"Methodenradar","showName":true,"showAllSectorsText":"Alle Quadranten","legendDropdownText":"Legende","defaultColor":"#7db6b0","renderResolution":518,"linkPrefix":"/werkzeuge/methoden/","linkSuffix":""},"sector":{"showName":true,"nameOffset":5},"segment":{"colorGradient":true,"colorGradientLimit":1.65,"showName":false,"showNameAsId":true,"padding":4},"blip":{"size":1,"defaultColor":"#1e7d73","margin":10,"outerCircleRadius":0}};
+let structure = {"sectors":[{"name":"Testen"},{"name":"Entwickeln"},{"name":"Entdecken"},{"name":"Definieren"}],"rings":{"legendTitle":"Ringe/Segmente","list":[{"name":"Entscheidungsmacht"},{"name":"teilw. Entscheidungsmacht"},{"name":"Mitbestimmung"},{"name":"Einbeziehung"},{"name":"Anhörung"},{"name":"Information"},{"name":"Nicht beteiligt"}]},"entryStates":{"legendTitle":"Zustände","list":[{"name":"Noch nicht auf der Plattform","color":"#1e7d73"},{"name":"Auf der Plattform","color":"#09443E"}]},"entryMovement":{"legendTitle":"Movement","list":[{"name":"Outwards","value":1},{"name":"Inwards","value":-1},{"name":"Nothing","value":0}]}};
+let entries = [{"name":"Analoges Prototypisieren","sectorID":1,"ringID":1,"stateID":1,"active":true,"link":"analoges_prototypsieren","moved":0},{"name":"Escape Game","sectorID":2,"ringID":3,"stateID":1,"active":true,"link":"escape_game","moved":0},{"name":"Impulskarten","sectorID":2,"ringID":3,"stateID":1,"active":true,"link":"impulskarten","moved":0},{"name":"Bedürfniskarten","sectorID":3,"ringID":3,"stateID":1,"active":true,"link":"impulskarten","moved":0},{"name":"Phasenmodell einer inklusiven Prototypenentwicklung in Präsenz","sectorID":1,"ringID":2,"stateID":1,"active":true,"link":"phasenmodell_einer_inklusiven_prototypenentwicklung_in_praesenz","moved":0},{"name":"User Journey","sectorID":3,"ringID":2,"stateID":1,"active":true,"link":"user_journey","moved":0},{"name":"Erfindungsmemory","sectorID":2,"ringID":5,"stateID":1,"active":true,"link":"erfindungsmemory","moved":0},{"name":"Smiley Feedback","sectorID":0,"ringID":4,"stateID":2,"active":true,"link":"#","moved":0},{"name":"Hospitation","sectorID":2,"ringID":6,"stateID":2,"active":true,"link":"#","moved":0},{"name":"Interviews","sectorID":2,"ringID":4,"stateID":2,"active":true,"link":"#","moved":0},{"name":"Stimmt oder Stimmt Nicht","sectorID":3,"ringID":5,"stateID":2,"active":true,"link":"#","moved":0},{"name":"Der Superheld","sectorID":2,"ringID":4,"stateID":2,"active":true,"link":"#","moved":0},{"name":"Photorecherche","sectorID":2,"ringID":3,"stateID":2,"active":true,"link":"photorecherche","moved":0}]; 
+createRadar(config, structure, entries);
+</script>
+
+                </div>
+            </div> 
+            
+        </div> 
+        
+            <footer class="footer is-hidden-print is-primary">
+    
+    <div class="container columns is-centered is-multiline is-bordered-bottom">
+        <div class="navbar-brand column is-full">
+            <a href="/" class="columns navbar-item">
+                <img class="column" src="/assets/img/logo-white.png">
+                <p class="calumn brand-title"></p>
+            </a>
+        </div>
+        <div class="column is-2">
+            <div class="title">www.intia.de</div>
+                TH-Köln | DITES<br>
+                Campus Südstadt<br>
+                Ubierring 48<br>
+                50678 Köln
+
+        </div>
+        
+        <div class="column ">
+            <div class="title">Site Map</div>
+            <div class="columns footer-nav">
+                
+                    <div class="column">
+                        <a href="" class="link"><strong>Über INTIA</strong></a>
+                        
+                        <div class="">
+                            
+                            <div class="">
+                                <a href="/ueber/plattform" class="link">Plattform</a>
+                            </div>
+                            
+                            <div class="">
+                                <a href="/ueber/projekt/" class="link">Projekt</a>
+                            </div>
+                            
+                            <div class="">
+                                <a href="/ueber/barrierearm/" class="link">Barrierearm</a>
+                            </div>
+                            
+                        </div>                                            
+                    
+                    </div>
+                
+                    <div class="column">
+                        <a href="" class="link"><strong>INTIA Koffer</strong></a>
+                        
+                        <div class="">
+                            
+                            <div class="">
+                                <a href="/intia-koffer/" class="link">Über</a>
+                            </div>
+                            
+                            <div class="">
+                                <a href="/intia-koffer/beschaffen/" class="link">Beschaffen</a>
+                            </div>
+                            
+                            <div class="">
+                                <a href="/intia-koffer/prototypen/" class="link">Prototypen</a>
+                            </div>
+                            
+                            <div class="">
+                                <a href="/intia-koffer/anleitungen/" class="link">Anleitungen</a>
+                            </div>
+                            
+                        </div>                                            
+                    
+                    </div>
+                
+                    <div class="column">
+                        <a href="" class="link"><strong>Werkzeuge</strong></a>
+                        
+                        <div class="">
+                            
+                            <div class="">
+                                <a href="/werkzeuge/bausteine/" class="link">Bausteine</a>
+                            </div>
+                            
+                            <div class="">
+                                <a href="/werkzeuge/methoden/" class="link">Methoden</a>
+                            </div>
+                            
+                        </div>                                            
+                    
+                    </div>
+                
+                    <div class="column">
+                        <a href="" class="link"><strong>Wissen</strong></a>
+                        
+                        <div class="">
+                            
+                            <div class="">
+                                <a href="/wissen/woerterbuch/" class="link">Wörterbuch</a>
+                            </div>
+                            
+                            <div class="">
+                                <a href="/wissen/publikationen/" class="link">Publikationen</a>
+                            </div>
+                            
+                        </div>                                            
+                    
+                    </div>
+                
+                    <div class="column">
+                        <a href="" class="link"><strong>Blog</strong></a>
+                        
+                        <div class="">
+                            
+                            <div class="">
+                                <a href="/blog/aktivitaeten/" class="link">Aktivitäten</a>
+                            </div>
+                            
+                            <div class="">
+                                <a href="/blog/fachartikel/" class="link">Fachartikel</a>
+                            </div>
+                            
+                        </div>                                            
+                    
+                    </div>
+                
+                    <div class="column">
+                        <a href="" class="link"><strong>Mitmachen</strong></a>
+                        
+                        <div class="">
+                            
+                            <div class="">
+                                <a href="/mitmachen/netzwerk/" class="link">Netzwerk</a>
+                            </div>
+                            
+                            <div class="">
+                                <a href="/mitmachen/kontakt/" class="link">Kontakt</a>
+                            </div>
+                            
+                        </div>                                            
+                    
+                    </div>
+                
+            </div>
+        </div>
+        
+        
+        <div class="column is-2">
+            <div class="title">Rechtliches</div>
+            <div class="">
+                
+                <div class="">
+                    <div>
+                        <a href="/about/" class="link">Über die Plattform</a>
+                    </div>
+                </div>
+                
+                <div class="">
+                    <div>
+                        <a href="https://www.th-koeln.de/hochschule/impressum_8159.php" class="link" target="_blank" rel="noopener noreferrer">Impressum</a>
+                    </div>
+                </div>
+                
+                <div class="">
+                    <div>
+                        <a href="https://www.th-koeln.de/hochschule/haftungshinweis_8277.php" class="link" target="_blank" rel="noopener noreferrer">Haftungshinweis</a>
+                    </div>
+                </div>
+                
+                <div class="">
+                    <div>
+                        <a href="https://www.th-koeln.de/hochschule/datenschutzhinweis_8279.php" class="link" target="_blank" rel="noopener noreferrer">Datenschutzhinweis</a>
+                    </div>
+                </div>
+                
+            </div>
+        </div>
+        
+    </div>
+        <div class="columns content is-small has-text-centered footer-logos">
+            <div class="column has-text-right"><div class="page-owner">
+                <p class="has-text-left">Eine Seite von</p>
+                <img src="/assets/img/logos/INTIA_Plattform_Logos_TH_weiss.png">
+                <img src="/assets/img/logos/INTIA_Plattform_Logos_Dites_weiss.png">
+            </div></div>
+            <div class="column has-text-left"><div class="page-sponsor">                
+                <img class="footer-logo-2" src="/assets/img/logos/BMBF_logo.jpg">
+            </div></div>
+        </div>
+        <div class="content is-small has-text-centered">
+            <p class="">INTIA, 2021</p>
+        </div>
+    
+</footer>
+
+        
+    </body>
+</html>

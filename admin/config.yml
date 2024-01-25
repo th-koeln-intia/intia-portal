@@ -1,0 +1,67 @@
+# config.yml
+backend:
+  name: github
+  repo: th-koeln-intia/intia-portal
+  branch: main
+  site_domain: unruffled-euclid-735769.netlify.app
+media_folder: 'assets/img/uploads'
+collections:
+  - name: 'glossary'
+    label: 'Wörterbuch'
+    folder: 'collections/_glossary'
+    create: true
+    slug: "{{slug}}"
+    fields:
+      -  {label: "Hero tags", name: "hero_tags", widget: "hidden", default: "subpage glossary pdf"}
+      -  {label: "Überschrift", name: "title_above", widget: "hidden", default: "Wörterbuch"}
+      - {label: "Veröffentlicht", name: "published", widget: "boolean", default: true}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Englischer Title", name: "english_title", widget: "string"}
+      - {label: "Wortstamm", name: "synonyms", widget: "list"}
+      - {label: "Letzte Änderung", name: "last_update", widget: "datetime"}
+      - {label: "Pop Up Text", name: "subtitle", widget: "string"}
+      - {label: "Kurzfassung/Abstrakt", name: "abstract", widget: "text"}
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+  - name: 'stories'
+    label: 'Neuigkeiten'
+    folder: 'collections/_posts'
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - {label: "Hero tags", name: "hero_tags", widget: "hidden", default: "subpage post pdf"}
+      - {label: "Überschrift", name: "title_above", widget: "hidden", default: "Aktuelles"}
+      - {label: "Veröffentlicht", name: "published", widget: "boolean", default: true}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Autor", name: "author", widget: "string"}
+      - {label: "Header Bild", name: "hero_image", widget: "image", allow_multiple: false}
+      - {label: "Vorschau Bild", name: "preview_image", widget: "image", allow_multiple: false}
+      - {label: "Kurzfassung/Abstrakt", name: "subtitle", widget: "text"}
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+  - name: 'articles'
+    label: 'Fachartikel'
+    folder: 'collections/_articles'
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - {label: "Hero tags", name: "hero_tags", widget: "hidden", default: "subpage post pdf"}
+      - {label: "Überschrift", name: "title_above", widget: "hidden", default: "Fachartikel"}
+      - {label: "Veröffentlicht", name: "published", widget: "boolean", default: true}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Header Bild", name: "hero_image", widget: "image", allow_multiple: false}
+      - {label: "Vorschau Bild", name: "preview_image", widget: "image", allow_multiple: false}
+      - {label: "Kurzfassung/Abstrakt", name: "subtitle", widget: "text"}
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+  - name: 'pages'
+    label: 'Seiten'
+    files:
+      - label: 'Veröffentlichungen'
+        name: 'publications'
+        file: 'pages/knowhow/publications.md'
+        fields: 
+          - {label: "Hero tags", name: "hero_tags", widget: "hidden", default: "subpage"}
+          - {label: "Überschrift", name: "title_above", widget: "hidden", default: "Wissen"}
+          - {label: "URL", name: "permalink", widget: "hidden", default: "/knowhow/publications/"}
+          - {label: "Glossar auf dieser Seite aktivieren", name: "jekyll-hyperlink-glossary", widget: "hidden", default: "false"}
+          - {label: Titel, name: title, widget: string}
+          - {label: Abstrakt, name: subtitle, widget: text}
+          - { label: 'Body', name: 'body', widget: 'markdown' }

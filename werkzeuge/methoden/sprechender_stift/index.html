@@ -1,0 +1,579 @@
+<!--
+The Default layout that everything is using 
+-->
+
+<!-- Control the width with, if sidebars or menus should appear   -->
+
+
+<!DOCTYPE html>
+<html id="default-layout">
+    <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content=#ffffff>
+    <link rel="stylesheet" href="/assets/styles/main.css">
+    <link rel="shortcut icon" type="image/png"
+           href="/favicon.png" 
+    />
+    <script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.8.0/dist/alpine.min.js" defer></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma-carousel@4.0.3/dist/css/bulma-carousel.min.css">
+    
+        <script src="https://d3js.org/d3.v5.min.js"></script>
+        <!--<script src="https://methods.intia.de/src/radar/radar.js"></script>-->
+        <script src="/assets/js/radar.js"></script>
+        <!--<link rel="stylesheet" href="https://methods.intia.de/src/radar/radar.css" />-->
+    
+    
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma-social@1/bin/bulma-social.min.css">
+    
+    <!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Sprechender Stift | INTIA</title>
+<meta name="generator" content="Jekyll v4.3.3" />
+<meta property="og:title" content="Sprechender Stift" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Ziel der Methode" />
+<meta property="og:description" content="Ziel der Methode" />
+<link rel="canonical" href="/werkzeuge/methoden/sprechender_stift/" />
+<meta property="og:url" content="/werkzeuge/methoden/sprechender_stift/" />
+<meta property="og:site_name" content="INTIA" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2024-01-25T16:31:55+00:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Sprechender Stift" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","dateModified":"2024-01-25T16:31:55+00:00","datePublished":"2024-01-25T16:31:55+00:00","description":"Ziel der Methode","headline":"Sprechender Stift","mainEntityOfPage":{"@type":"WebPage","@id":"/werkzeuge/methoden/sprechender_stift/"},"url":"/werkzeuge/methoden/sprechender_stift/"}</script>
+<!-- End Jekyll SEO tag -->
+<!-- head scripts -->
+<script src="https://unpkg.com/@botpoison/browser"></script>
+<script type="module" src="/assets/js/main.js"async></script></head>
+
+    <body>
+        <nav class="navbar is-hidden-print is-primary is-fixed-top" x-data="{ openNav: false }">
+    <div class="container">
+        <div class="navbar-brand">
+            <a href="/" class="">
+                <picture>
+                    <source media="(max-width: 1300px)" srcset="/assets/img/logo-short.png">
+                    <img id="navbar-logo" src="/assets/img/logo-horizontal-short.png">
+                </source></picture>     
+            </a>
+            <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navMenu" :class="{ 'is-active': openNav }" x-on:click="openNav = !openNav">
+                <span aria-hidden="true"></span>
+                <span aria-hidden="true"></span>
+                <span aria-hidden="true"></span>
+            </a>
+        </div>
+        <div class="navbar-menu" id="navMenu" :class="{ 'is-active': openNav }">
+            <div id="SearchOverlay" class="searchbar-overlay navbar-end buttons">
+                <div class="navbar-item searchbar">
+                    <div class="field">
+                        <div id="search-container" class="control">
+                          <input class="input search-input" type="text" id="search-input" placeholder="Suchbegriff eintippen">
+                        </div>
+                    </div>
+                    <ul id="results-container" class="search-result-list"></ul>
+                </div>
+                <div class="navbar-end">
+                    <div class="navbar-item navbar-search">
+                        <a id="closeSearch">
+                            <span class="icon">
+                                <i class="fa-solid icon-remove"></i>
+                            </span>
+                        </a>  
+                    </div>
+                </div>
+            </div>
+            <div id="navmenu" class="navbar-end buttons">
+                
+                
+                
+                <div class="navbar-item has-text-left button is-rounded is-dark has-dropdown is-hoverable        ">
+                    
+                    
+                     <a for="navbar-click" class="navbar-link">Über INTIA</a>
+                    
+                    <div class="navbar-dropdown">
+                        
+                        <a href="/ueber/plattform" class="navbar-item button is-rounded is-dark  ">Plattform</a>
+                        
+                        <a href="/ueber/projekt/" class="navbar-item button is-rounded is-dark  ">Projekt</a>
+                        
+                        <a href="/ueber/barrierearm/" class="navbar-item button is-rounded is-dark  ">Barrierearm</a>
+                        
+                    </div>
+                </div>
+                
+                
+                
+                <div class="navbar-item has-text-left button is-rounded is-dark has-dropdown is-hoverable          ">
+                    
+                    
+                     <a for="navbar-click" class="navbar-link">INTIA Koffer</a>
+                    
+                    <div class="navbar-dropdown">
+                        
+                        <a href="/intia-koffer/" class="navbar-item button is-rounded is-dark  ">Über</a>
+                        
+                        <a href="/intia-koffer/beschaffen/" class="navbar-item button is-rounded is-dark  ">Beschaffen</a>
+                        
+                        <a href="/intia-koffer/prototypen/" class="navbar-item button is-rounded is-dark  ">Prototypen</a>
+                        
+                        <a href="/intia-koffer/anleitungen/" class="navbar-item button is-rounded is-dark  ">Anleitungen</a>
+                        
+                    </div>
+                </div>
+                
+                
+                
+                <div class="navbar-item has-text-left button is-rounded is-dark has-dropdown is-hoverable      ">
+                    
+                    
+                     <a for="navbar-click" class="navbar-link">Werkzeuge</a>
+                    
+                    <div class="navbar-dropdown">
+                        
+                        <a href="/werkzeuge/bausteine/" class="navbar-item button is-rounded is-dark  ">Bausteine</a>
+                        
+                        <a href="/werkzeuge/methoden/" class="navbar-item button is-rounded is-dark  ">Methoden</a>
+                        
+                    </div>
+                </div>
+                
+                
+                
+                <div class="navbar-item has-text-left button is-rounded is-dark has-dropdown is-hoverable      ">
+                    
+                    
+                     <a for="navbar-click" class="navbar-link">Wissen</a>
+                    
+                    <div class="navbar-dropdown">
+                        
+                        <a href="/wissen/woerterbuch/" class="navbar-item button is-rounded is-dark  ">Wörterbuch</a>
+                        
+                        <a href="/wissen/publikationen/" class="navbar-item button is-rounded is-dark  ">Publikationen</a>
+                        
+                    </div>
+                </div>
+                
+                
+                
+                <div class="navbar-item has-text-left button is-rounded is-dark has-dropdown is-hoverable      ">
+                    
+                    
+                     <a for="navbar-click" class="navbar-link">Blog</a>
+                    
+                    <div class="navbar-dropdown">
+                        
+                        <a href="/blog/aktivitaeten/" class="navbar-item button is-rounded is-dark  ">Aktivitäten</a>
+                        
+                        <a href="/blog/fachartikel/" class="navbar-item button is-rounded is-dark  ">Fachartikel</a>
+                        
+                    </div>
+                </div>
+                
+                
+                
+                <div class="navbar-item has-text-left button is-rounded is-dark has-dropdown is-hoverable      ">
+                    
+                    
+                     <a for="navbar-click" class="navbar-link">Mitmachen</a>
+                    
+                    <div class="navbar-dropdown">
+                        
+                        <a href="/mitmachen/netzwerk/" class="navbar-item button is-rounded is-dark  ">Netzwerk</a>
+                        
+                        <a href="/mitmachen/kontakt/" class="navbar-item button is-rounded is-dark  ">Kontakt</a>
+                        
+                    </div>
+                </div>
+                
+                
+                
+   
+                    <div class="navbar-item navbar-search">
+                        <a id="openSearch">
+                            <span class="icon">
+                                <i class="fa-solid icon-search"></i>
+                            </span>
+                        </a>  
+                    </div>
+                
+            </div>
+        </div>
+    </div>
+</nav>
+
+<section class="breadcrumb-section green-version">
+    <div class="container breadcrumb-container">
+        <nav class="breadcrumb has-arrow-separator" aria-label="breadcrumbs">
+            <ul>
+            
+            <li><a href="/">INTIA</a></li>
+            
+                 
+                    
+                        <li><a>Werkzeuge</a></li>
+                    
+                        <li><a>Methoden</a></li>
+                    
+                
+                
+                <li><a href="#">Sprechender Stift</a></li>
+                
+            
+            </ul>
+        </nav>
+    </div>
+</section>
+
+
+  <!-- Script pointing to search-script.js -->
+  <script src="/assets/js/search.js" type="text/javascript"></script>
+  
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/search.json',
+    searchResultTemplate: '<li><a class="search-item" href="{url}">{title}</a></li>'
+  })
+  </script>
+        <div class="arrow-image is-pulled-left is-hidden-mobile">
+            <img id="scroll-up" src="/assets/img/arrow-down.png" alt="placeholder">
+            <img id="scroll-down" src="/assets/img/arrow-down.png" alt="placeholder" class="is-pointed-down">     
+        </div>
+        <div class="accessibility-image is-pulled-left is-hidden-mobile">
+                <a id="changeFontsize" class="button is-rounded is-dark">
+                    <span class="icon is-small">
+                        <i class="fas icon-font-size fa-xs invert"></i>
+                        </span> 
+                    </a>    
+        </div>
+        
+            <section class="hero is-hidden-print  is-medium   subpage method pdf ">
+    <div class="hero-body">
+        <div class="container">
+            
+                <h5 class="overtitle">Methode</h5>
+            
+            <h1 class=" title-with-overtitle ">Sprechender Stift</h1>
+            
+            
+                <h4>Ein Sticker wird auf eine Buchseite oder einen Gegenstand geklebt. Der sprechende Stift wird mit einem Text für den Sticker besprochen. Dann hält man diesen Stift an den Sticker und der Stift liest den Text vor. Diese Methode hilft Menschen, die nicht lesen können. Es unterstützt aber auch Menschen, die nicht sprechen können. Sie können Botschaften besprechen lassen und von dem Stift vorlesen lassen.</h4>
+            
+            
+            <div class="buttons-hero has-text-centered">
+                
+
+                <a href="/werkzeuge/methoden//" class="button is-rounded is-dark { % if item.link == page.url % } { % endif % }">
+                    <span class="icon is-small">
+                        <i class="fas fa-chevron-left"></i>
+                    </span>
+                    <span>Zur Übersicht</span>
+                </a>
+                <a onclick="window.print()" class="button is-rounded is-dark { % if item.link == page.url % } { % endif % }">
+                    <span>Als PDF Herunterladen</span>
+                    <span class="icon is-small">
+                        <i class="fas fa-chevron-right"></i>
+                    </span>
+                </a>
+            </div>
+        </div>
+    </div>
+</section>
+        
+        <div id="main" class="content-wrapper has-background-primary-light">
+            
+            
+            <div class="columns is-centered">
+                <div id="content" class="container column is-10-desktop is-12-tablet">
+                    
+                    <table class="tb">
+    <tr>
+        <th><strong>Ziel der Methode</strong></th>
+        <th>
+<ul>
+<li>Unterstützung beim Lesen</li>
+<li>Vorlesefunktion</li>
+</ul>
+</th>
+    </tr>
+    <tr>
+      <td><strong>Phase</strong></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><strong>Altersgruppe</strong></td>
+      <td>3-99</td>
+    </tr>
+    <tr>
+      <td><strong>Gruppengröße</strong></td>
+      <td>1-10</td>
+    </tr>
+    <tr>
+      <td><strong>Sozialform</strong></td>
+      <td>Einzeln oder Kleingruppe</td>
+    </tr>
+    <tr>
+      <td><strong>Dauer</strong></td>
+      <td>
+      <strong>
+      Vorbereitung: wenige Minuten<br>
+      ...<br>
+      Durchführung: 1 min. bis ca. 30 min.<br>
+      ...
+      </strong>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Material</strong></td>
+      <td>Sprechender Stift (Anybook, PenFriend Etiketten-Lesegerät, Etiketten, weiteres Material für die Projektideen/Ideen zur Durchführung)</td>
+    </tr>
+    <tr>
+      <td><strong>Sonstiges</strong></td>
+      <td>Sehr vielfältige Anwendungskontexte möglich. Zum Beispiel ein Buch oder ein Kochrezept vorlesen lassen; ein ICH-Buch besprechen; Familie + Freund:innen hören (z. B. bei mangelnden Lese- oder Sprachkenntnissen)</td>
+</tr>
+</table>
+<h2 id="beschreibung">Beschreibung</h2>
+<p>Ein Sticker wird auf eine Buchseite oder einen Gegenstand geklebt. Der sprechende Stift wird mit einem Text für den Sticker besprochen. Dann hält man diesen Stift an den Sticker, und der Stift liest den Text vor. Diese Methode hilft Menschen, die nicht lesen können. Sie unterstützt aber auch Menschen, die nicht sprechen können. Sie können Botschaften aufsprechen lassen, und der Stift liest diese vor.</p>
+<h2 id="durchfhrung">Durchführung</h2>
+<p>Wie man einen Sticker mit dem Anybook-Stift besprechen lassen kann, zeigt dieses <a href="https://youtu.be/5Dd6URvj-WE" target="_blank" rel="noopener noreferrer">Video</a>.</p>
+<h3 id="ideen-zur-durchfhrung">Ideen zur Durchführung</h3>
+<h4 id="ein-freundinnen-buch-benutzen-alle-freundinnen-sprechen-zu-mir">Ein Freund:innen-Buch benutzen: Alle Freund:innen sprechen zu mir!</h4>
+<p><strong>Vorbereitung</strong></p>
+<ol>
+<li>Leeres Buch beschaffen, das beschriftet und beklebt werden kann.</li>
+<li>Freund:innen darum bitten, ein ausgedrucktes Foto zu schicken oder mitzubringen.</li>
+</ol>
+<br>
+<p><strong>Durchführung</strong></p>
+<ol>
+<li>Die Fachkraft schreibt den Namen der Freund:innen in das Buch. Es bietet sich an, eine Doppelseite für eine Person zu nutzen.</li>
+<li>Die Teilnehmenden finden mit der Fachkraft Fragen und Themen für das Freund:innen-Buch. Die Fachkraft schreibt diese auf. Sie klebt zu jeder Frage oder zu jedem Thema einen Sticker ein. (z. B. Wo haben wir uns kennengelernt? Was mache ich gerne in meiner Freizeit?)</li>
+<li>Der/Die Freund:in hält den Stift auf den Sticker. Er/Sie bespricht den Stift.</li>
+<li>Nun können die Teilnehmenden jederzeit den Stift auf die Sticker der Freund:innen halten und ihre Stimmen hören.</li>
+</ol>
+<h4 id="ein-ich-buch-besprechen">Ein ICH-Buch besprechen.</h4>
+<p><strong>Vorbereitung</strong></p>
+<ol>
+<li>Eine Person erstellt aus bestehenden Fotos ein Fotobuch. (Was mag ich gerne? Was mag ich nicht? Was habe ich erlebt? Wer ist meine Familie?)</li>
+<li>Eine Fachkraft klebt zu jedem Foto einen Sticker ein.</li>
+</ol>
+<br>
+<p><strong>Durchführung</strong></p>
+<ol>
+<li>Die Fachkraft spricht zu jedem Foto den Text auf den Stift.</li>
+<li>Die Person kann jederzeit den Stift auf die Sticker der Fotos halten. So kann sie anderen etwas über sich mitteilen.</li>
+</ol>
+<h4 id="anleitungen-im-haushalt">Anleitungen im Haushalt</h4>
+<p>Sticker neben die Zahnbürste oder auf den Zahnputzbecher kleben. Die Anleitung zum Zähneputzen aufsprechen („Zahnpasta auf die Zahnbürste machen. Zahnbürste unter das Wasser halten. Wasser abstellen. Erst die oberen Zähne links putzen …“)</p>
+<br>
+<p><strong>Alternativ</strong>
+Auf ein Lebensmittel einen Sticker mit Kochrezept kleben. Oder die Anleitung zur Zubereitung, z. B. „Wie lange koche ich den Reis?“</p>
+<h4 id="gute-nacht-von-mama-undoder-papa">Gute Nacht von Mama und/oder Papa</h4>
+<p>Mama und/oder Papa einen Text auf den Anybook-Stift sprechen lassen. Den Sticker dazu auf ein Foto der Eltern kleben. Das Foto am Bett aufhängen. So kann ein Kind jeden Abend eine Gute-Nacht-Nachricht der Eltern hören. Das geht auch, wenn Kinder und Eltern nicht zusammenwohnen.</p>
+<h4 id="sprache-lernen">Sprache lernen</h4>
+<p>Gegenstände mit einem Sticker bekleben. Darauf das deutsche Wort sprechen. Mit dem Anybook-Stift können die Schüler:innen die Wörter abhören und eine neue Sprache lernen.</p>
+<h2 id="hinweise-zur-durchfhrung">Hinweise zur Durchführung</h2>
+<p>Vorab müssen ein Anybook-Reader und Sticker gekauft werden. Der Anybook-Stift hat eine Hilfsmittelnummer. Bei motorischen Einschränkungen kann es sinnvoll sein, besonders große Sticker zu kaufen.</p>
+<h2 id="quellen">Quellen</h2>
+<p>Die Methode begründet sich auf dem erwerbbaren Freund:innen-Buch des Herstellers von Anybook: <a href="https://anybookreader.de/produkte/freundebuch/" target="_blank" rel="noopener noreferrer">anybookreader</a></p>
+
+                </div>
+            </div> 
+            
+        </div> 
+        
+            <footer class="footer is-hidden-print is-primary">
+    
+    <div class="container columns is-centered is-multiline is-bordered-bottom">
+        <div class="navbar-brand column is-full">
+            <a href="/" class="columns navbar-item">
+                <img class="column" src="/assets/img/logo-white.png">
+                <p class="calumn brand-title"></p>
+            </a>
+        </div>
+        <div class="column is-2">
+            <div class="title">www.intia.de</div>
+                TH-Köln | DITES<br>
+                Campus Südstadt<br>
+                Ubierring 48<br>
+                50678 Köln
+
+        </div>
+        
+        <div class="column ">
+            <div class="title">Site Map</div>
+            <div class="columns footer-nav">
+                
+                    <div class="column">
+                        <a href="" class="link"><strong>Über INTIA</strong></a>
+                        
+                        <div class="">
+                            
+                            <div class="">
+                                <a href="/ueber/plattform" class="link">Plattform</a>
+                            </div>
+                            
+                            <div class="">
+                                <a href="/ueber/projekt/" class="link">Projekt</a>
+                            </div>
+                            
+                            <div class="">
+                                <a href="/ueber/barrierearm/" class="link">Barrierearm</a>
+                            </div>
+                            
+                        </div>                                            
+                    
+                    </div>
+                
+                    <div class="column">
+                        <a href="" class="link"><strong>INTIA Koffer</strong></a>
+                        
+                        <div class="">
+                            
+                            <div class="">
+                                <a href="/intia-koffer/" class="link">Über</a>
+                            </div>
+                            
+                            <div class="">
+                                <a href="/intia-koffer/beschaffen/" class="link">Beschaffen</a>
+                            </div>
+                            
+                            <div class="">
+                                <a href="/intia-koffer/prototypen/" class="link">Prototypen</a>
+                            </div>
+                            
+                            <div class="">
+                                <a href="/intia-koffer/anleitungen/" class="link">Anleitungen</a>
+                            </div>
+                            
+                        </div>                                            
+                    
+                    </div>
+                
+                    <div class="column">
+                        <a href="" class="link"><strong>Werkzeuge</strong></a>
+                        
+                        <div class="">
+                            
+                            <div class="">
+                                <a href="/werkzeuge/bausteine/" class="link">Bausteine</a>
+                            </div>
+                            
+                            <div class="">
+                                <a href="/werkzeuge/methoden/" class="link">Methoden</a>
+                            </div>
+                            
+                        </div>                                            
+                    
+                    </div>
+                
+                    <div class="column">
+                        <a href="" class="link"><strong>Wissen</strong></a>
+                        
+                        <div class="">
+                            
+                            <div class="">
+                                <a href="/wissen/woerterbuch/" class="link">Wörterbuch</a>
+                            </div>
+                            
+                            <div class="">
+                                <a href="/wissen/publikationen/" class="link">Publikationen</a>
+                            </div>
+                            
+                        </div>                                            
+                    
+                    </div>
+                
+                    <div class="column">
+                        <a href="" class="link"><strong>Blog</strong></a>
+                        
+                        <div class="">
+                            
+                            <div class="">
+                                <a href="/blog/aktivitaeten/" class="link">Aktivitäten</a>
+                            </div>
+                            
+                            <div class="">
+                                <a href="/blog/fachartikel/" class="link">Fachartikel</a>
+                            </div>
+                            
+                        </div>                                            
+                    
+                    </div>
+                
+                    <div class="column">
+                        <a href="" class="link"><strong>Mitmachen</strong></a>
+                        
+                        <div class="">
+                            
+                            <div class="">
+                                <a href="/mitmachen/netzwerk/" class="link">Netzwerk</a>
+                            </div>
+                            
+                            <div class="">
+                                <a href="/mitmachen/kontakt/" class="link">Kontakt</a>
+                            </div>
+                            
+                        </div>                                            
+                    
+                    </div>
+                
+            </div>
+        </div>
+        
+        
+        <div class="column is-2">
+            <div class="title">Rechtliches</div>
+            <div class="">
+                
+                <div class="">
+                    <div>
+                        <a href="/about/" class="link">Über die Plattform</a>
+                    </div>
+                </div>
+                
+                <div class="">
+                    <div>
+                        <a href="https://www.th-koeln.de/hochschule/impressum_8159.php" class="link" target="_blank" rel="noopener noreferrer">Impressum</a>
+                    </div>
+                </div>
+                
+                <div class="">
+                    <div>
+                        <a href="https://www.th-koeln.de/hochschule/haftungshinweis_8277.php" class="link" target="_blank" rel="noopener noreferrer">Haftungshinweis</a>
+                    </div>
+                </div>
+                
+                <div class="">
+                    <div>
+                        <a href="https://www.th-koeln.de/hochschule/datenschutzhinweis_8279.php" class="link" target="_blank" rel="noopener noreferrer">Datenschutzhinweis</a>
+                    </div>
+                </div>
+                
+            </div>
+        </div>
+        
+    </div>
+        <div class="columns content is-small has-text-centered footer-logos">
+            <div class="column has-text-right"><div class="page-owner">
+                <p class="has-text-left">Eine Seite von</p>
+                <img src="/assets/img/logos/INTIA_Plattform_Logos_TH_weiss.png">
+                <img src="/assets/img/logos/INTIA_Plattform_Logos_Dites_weiss.png">
+            </div></div>
+            <div class="column has-text-left"><div class="page-sponsor">                
+                <img class="footer-logo-2" src="/assets/img/logos/BMBF_logo.jpg">
+            </div></div>
+        </div>
+        <div class="content is-small has-text-centered">
+            <p class="">INTIA, 2021</p>
+        </div>
+    
+</footer>
+
+        
+    </body>
+</html>

@@ -1,0 +1,510 @@
+<!--
+The Default layout that everything is using 
+-->
+
+<!-- Control the width with, if sidebars or menus should appear   -->
+
+
+<!DOCTYPE html>
+<html id="default-layout">
+    <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content=#ffffff>
+    <link rel="stylesheet" href="/assets/styles/main.css">
+    <link rel="shortcut icon" type="image/png"
+           href="/favicon.png" 
+    />
+    <script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.8.0/dist/alpine.min.js" defer></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma-carousel@4.0.3/dist/css/bulma-carousel.min.css">
+    
+        <script src="https://d3js.org/d3.v5.min.js"></script>
+        <!--<script src="https://methods.intia.de/src/radar/radar.js"></script>-->
+        <script src="/assets/js/radar.js"></script>
+        <!--<link rel="stylesheet" href="https://methods.intia.de/src/radar/radar.css" />-->
+    
+    
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma-social@1/bin/bulma-social.min.css">
+    
+    <!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Selbstbestimmung | INTIA</title>
+<meta name="generator" content="Jekyll v4.3.3" />
+<meta property="og:title" content="Selbstbestimmung" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Bedeutung für inklusive Technikentwicklung" />
+<meta property="og:description" content="Bedeutung für inklusive Technikentwicklung" />
+<link rel="canonical" href="/wissen/woerterbuch/selbstbestimmung/" />
+<meta property="og:url" content="/wissen/woerterbuch/selbstbestimmung/" />
+<meta property="og:site_name" content="INTIA" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2024-01-25T16:31:55+00:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Selbstbestimmung" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","dateModified":"2024-01-25T16:31:55+00:00","datePublished":"2024-01-25T16:31:55+00:00","description":"Bedeutung für inklusive Technikentwicklung","headline":"Selbstbestimmung","mainEntityOfPage":{"@type":"WebPage","@id":"/wissen/woerterbuch/selbstbestimmung/"},"url":"/wissen/woerterbuch/selbstbestimmung/"}</script>
+<!-- End Jekyll SEO tag -->
+<!-- head scripts -->
+<script src="https://unpkg.com/@botpoison/browser"></script>
+<script type="module" src="/assets/js/main.js"async></script></head>
+
+    <body>
+        <nav class="navbar is-hidden-print is-primary is-fixed-top" x-data="{ openNav: false }">
+    <div class="container">
+        <div class="navbar-brand">
+            <a href="/" class="">
+                <picture>
+                    <source media="(max-width: 1300px)" srcset="/assets/img/logo-short.png">
+                    <img id="navbar-logo" src="/assets/img/logo-horizontal-short.png">
+                </source></picture>     
+            </a>
+            <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navMenu" :class="{ 'is-active': openNav }" x-on:click="openNav = !openNav">
+                <span aria-hidden="true"></span>
+                <span aria-hidden="true"></span>
+                <span aria-hidden="true"></span>
+            </a>
+        </div>
+        <div class="navbar-menu" id="navMenu" :class="{ 'is-active': openNav }">
+            <div id="SearchOverlay" class="searchbar-overlay navbar-end buttons">
+                <div class="navbar-item searchbar">
+                    <div class="field">
+                        <div id="search-container" class="control">
+                          <input class="input search-input" type="text" id="search-input" placeholder="Suchbegriff eintippen">
+                        </div>
+                    </div>
+                    <ul id="results-container" class="search-result-list"></ul>
+                </div>
+                <div class="navbar-end">
+                    <div class="navbar-item navbar-search">
+                        <a id="closeSearch">
+                            <span class="icon">
+                                <i class="fa-solid icon-remove"></i>
+                            </span>
+                        </a>  
+                    </div>
+                </div>
+            </div>
+            <div id="navmenu" class="navbar-end buttons">
+                
+                
+                
+                <div class="navbar-item has-text-left button is-rounded is-dark has-dropdown is-hoverable        ">
+                    
+                    
+                     <a for="navbar-click" class="navbar-link">Über INTIA</a>
+                    
+                    <div class="navbar-dropdown">
+                        
+                        <a href="/ueber/plattform" class="navbar-item button is-rounded is-dark  ">Plattform</a>
+                        
+                        <a href="/ueber/projekt/" class="navbar-item button is-rounded is-dark  ">Projekt</a>
+                        
+                        <a href="/ueber/barrierearm/" class="navbar-item button is-rounded is-dark  ">Barrierearm</a>
+                        
+                    </div>
+                </div>
+                
+                
+                
+                <div class="navbar-item has-text-left button is-rounded is-dark has-dropdown is-hoverable          ">
+                    
+                    
+                     <a for="navbar-click" class="navbar-link">INTIA Koffer</a>
+                    
+                    <div class="navbar-dropdown">
+                        
+                        <a href="/intia-koffer/" class="navbar-item button is-rounded is-dark  ">Über</a>
+                        
+                        <a href="/intia-koffer/beschaffen/" class="navbar-item button is-rounded is-dark  ">Beschaffen</a>
+                        
+                        <a href="/intia-koffer/prototypen/" class="navbar-item button is-rounded is-dark  ">Prototypen</a>
+                        
+                        <a href="/intia-koffer/anleitungen/" class="navbar-item button is-rounded is-dark  ">Anleitungen</a>
+                        
+                    </div>
+                </div>
+                
+                
+                
+                <div class="navbar-item has-text-left button is-rounded is-dark has-dropdown is-hoverable      ">
+                    
+                    
+                     <a for="navbar-click" class="navbar-link">Werkzeuge</a>
+                    
+                    <div class="navbar-dropdown">
+                        
+                        <a href="/werkzeuge/bausteine/" class="navbar-item button is-rounded is-dark  ">Bausteine</a>
+                        
+                        <a href="/werkzeuge/methoden/" class="navbar-item button is-rounded is-dark  ">Methoden</a>
+                        
+                    </div>
+                </div>
+                
+                
+                
+                <div class="navbar-item has-text-left button is-rounded is-dark has-dropdown is-hoverable      ">
+                    
+                    
+                     <a for="navbar-click" class="navbar-link">Wissen</a>
+                    
+                    <div class="navbar-dropdown">
+                        
+                        <a href="/wissen/woerterbuch/" class="navbar-item button is-rounded is-dark  ">Wörterbuch</a>
+                        
+                        <a href="/wissen/publikationen/" class="navbar-item button is-rounded is-dark  ">Publikationen</a>
+                        
+                    </div>
+                </div>
+                
+                
+                
+                <div class="navbar-item has-text-left button is-rounded is-dark has-dropdown is-hoverable      ">
+                    
+                    
+                     <a for="navbar-click" class="navbar-link">Blog</a>
+                    
+                    <div class="navbar-dropdown">
+                        
+                        <a href="/blog/aktivitaeten/" class="navbar-item button is-rounded is-dark  ">Aktivitäten</a>
+                        
+                        <a href="/blog/fachartikel/" class="navbar-item button is-rounded is-dark  ">Fachartikel</a>
+                        
+                    </div>
+                </div>
+                
+                
+                
+                <div class="navbar-item has-text-left button is-rounded is-dark has-dropdown is-hoverable      ">
+                    
+                    
+                     <a for="navbar-click" class="navbar-link">Mitmachen</a>
+                    
+                    <div class="navbar-dropdown">
+                        
+                        <a href="/mitmachen/netzwerk/" class="navbar-item button is-rounded is-dark  ">Netzwerk</a>
+                        
+                        <a href="/mitmachen/kontakt/" class="navbar-item button is-rounded is-dark  ">Kontakt</a>
+                        
+                    </div>
+                </div>
+                
+                
+                
+   
+                    <div class="navbar-item navbar-search">
+                        <a id="openSearch">
+                            <span class="icon">
+                                <i class="fa-solid icon-search"></i>
+                            </span>
+                        </a>  
+                    </div>
+                
+            </div>
+        </div>
+    </div>
+</nav>
+
+<section class="breadcrumb-section green-version">
+    <div class="container breadcrumb-container">
+        <nav class="breadcrumb has-arrow-separator" aria-label="breadcrumbs">
+            <ul>
+            
+            <li><a href="/">INTIA</a></li>
+            
+                 
+                    
+                        <li><a>Wissen</a></li>
+                    
+                        <li><a>Wörterbuch</a></li>
+                    
+                
+                
+                <li><a href="#">Selbstbestimmung</a></li>
+                
+            
+            </ul>
+        </nav>
+    </div>
+</section>
+
+
+  <!-- Script pointing to search-script.js -->
+  <script src="/assets/js/search.js" type="text/javascript"></script>
+  
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/search.json',
+    searchResultTemplate: '<li><a class="search-item" href="{url}">{title}</a></li>'
+  })
+  </script>
+        <div class="arrow-image is-pulled-left is-hidden-mobile">
+            <img id="scroll-up" src="/assets/img/arrow-down.png" alt="placeholder">
+            <img id="scroll-down" src="/assets/img/arrow-down.png" alt="placeholder" class="is-pointed-down">     
+        </div>
+        <div class="accessibility-image is-pulled-left is-hidden-mobile">
+                <a id="changeFontsize" class="button is-rounded is-dark">
+                    <span class="icon is-small">
+                        <i class="fas icon-font-size fa-xs invert"></i>
+                        </span> 
+                    </a>    
+        </div>
+        
+            <section class="hero is-hidden-print  is-medium   subpage glossary pdf ">
+    <div class="hero-body">
+        <div class="container">
+            
+                <h5 class="overtitle">Wörterbuch</h5>
+            
+            <h1 class=" title-with-overtitle ">Selbstbestimmung</h1>
+            
+            
+                <h4>Selbstbestimmung heißt, frei über sich selbst und sein Leben entscheiden zu können.</h4>
+            
+            
+            <div class="buttons-hero has-text-centered">
+                
+
+                <a href="/wissen/woerterbuch//" class="button is-rounded is-dark { % if item.link == page.url % } { % endif % }">
+                    <span class="icon is-small">
+                        <i class="fas fa-chevron-left"></i>
+                    </span>
+                    <span>Zur Übersicht</span>
+                </a>
+                <a onclick="window.print()" class="button is-rounded is-dark { % if item.link == page.url % } { % endif % }">
+                    <span>Als PDF Herunterladen</span>
+                    <span class="icon is-small">
+                        <i class="fas fa-chevron-right"></i>
+                    </span>
+                </a>
+            </div>
+        </div>
+    </div>
+</section>
+        
+        <div id="main" class="content-wrapper has-background-primary-light">
+            
+            
+            <div class="columns is-centered">
+                <div id="content" class="container column is-10-desktop is-12-tablet">
+                    
+                    <h2 id="bedeutung-fr-inklusive-technikentwicklung">Bedeutung für inklusive Technikentwicklung</h2>
+<p>Bei der inklusiven Technikentwicklung haben Bedarfe, die sich an der Selbstbestimmung orientieren, eine wichtige Bedeutung.</p>
+<h2 id="beschreibung">Beschreibung</h2>
+<p>Selbstbestimmung heißt: selbst für das eigene Leben Verantwortung übernehmen zu können und eigene Ziele zu haben. Es gibt ein menschliches Grundrecht auf Selbstbestimmung. Dieses Recht steht allen Menschen zu. Artikel 2, Absatz 1 im Grundgesetz sagt, dass jeder Mensch das Recht hat „auf die freie Entfaltung seiner Persönlichkeit, soweit er nicht die Rechte anderer verletzt und nicht gegen die verfassungsmäßige Ordnung oder das Sittengesetz verstößt“. Laut Artikel 3, Absatz 1 im Grundgesetz sind alle Menschen vor dem Gesetz gleich. Alle Menschen in Deutschland haben die gleichen Rechte. Selbstbestimmung ist in westlichen Gesellschaften ein Grundwert. Das Gegenteil von Selbstbestimmung ist Fremdbestimmung. Das heißt, dass eine Person nicht selbst über sich und ihr Leben entscheiden kann.</p>
+<h2 id="weiterfhrende-infos">Weiterführende Infos</h2>
+<p>Selbstbestimmung bezieht sich auf verschiedene Dinge, wie zum Beispiel das Leben von behinderten Menschen, aber auch auf die Sexualität von Menschen. Wichtig ist hierbei, dass keine inneren und äußeren Zwänge die Entscheidung zur Selbstbestimmung beeinflussen. Selbstbestimmung darf auch nicht gekoppelt sein an den Nutzen für die Gesellschaft, sondern muss bedingungslos gegeben sein. Das Gegenteil von Selbstbestimmung ist Fremdbestimmung. Fremdbestimmung fand zum Beispiel während der Herrschaft der Nationalsozialisten statt. Bei der so genannten „Euthanasie“ wurden behinderte Menschen getötet oder zwangssterilisiert. Auch nach dem Ende des Zweiten Weltkrieges gab es Fremdbestimmung in Deutschland. Nicht behinderte Menschen entschieden beispielsweise als Vormund über das Leben von behinderten Menschen. Das Recht auf Selbstbestimmung musste erkämpft werden. Dieses und andere Rechte sind in der UN-Behindertenrechtskonvention festgehalten.</p>
+<h2 id="quellen">Quellen</h2>
+<ol>
+<li>Bundesvereinigung Lebenshilfe e. V.. Wörterbuch. Selbst-Bestimmung. <a href="https://www.lebenshilfe.de/woerterbuch/woerterbuch-detail?tx_lfdictionary_detail%5Baction%5D=show&amp;tx_lfdictionary_detail%5Bcontroller%5D=Dictionaryentry&amp;tx_lfdictionary_detail%5Bdictionaryentry%5D=232&amp;tx_lfdictionary_detail%5Bletter%5D=S&amp;cHash=a56727a534984025610e88a032c208ef" target="_blank" rel="noopener noreferrer">lebenshilfe.de/woerterbuch/woerterbuch-detail...208ef</a>. Zugriff am 10. September 2021</li>
+<li>Wüllenweber, E. (2014b): „Mein Vater hat gesagt, mir gefällt das nicht!“ Selbstbestimmungsdialog – theoretische und methodische Grundlagen zur Förderung von Selbstbestimmung durch Gesprächsführung und Beratung. In: E. Wüllenweber (Hrsg.) Einander besser verstehen. Hilfen und Ansätze für Menschen mit geistiger Behinderung und Lernbehinderung und bei Autismus. Band 2: Gesprächsführung, Beratung und Begleitung, S. 86-104, Marburg: Lebenshilfe-Verlag</li>
+<li>Lipp, V. (2008): Rechtliche Betreuung und das Recht auf Freiheit, In: BtPrax Nr. 2, S. 51–56, Köln: Bundesanzeiger Verlag.</li>
+<li>Fornefeld, B. (2009): Selbstbestimmung/Autonomie. In: M. Dederich, W. Jantzen (Hrsg.) Behinderung und Anerkennung, S. 183-187, Stuttgart: Verlag W. Kohlhammer</li>
+<li>Bundesministerium für Arbeit und Soziales (2011): Übereinkommen der Vereinten Nationen über Rechte von Menschen mit Behinderung. Erster Staatenbericht der Bundesrepublik Deutschland. Vom Bundeskabinett beschlossen am 3. August 2011, <a href="https://www.bmas.de/SharedDocs/Downloads/DE/staatenbericht-2011.pdf?__blob=publicationFile%3E" target="_blank" rel="noopener noreferrer">bmas.de...staatenbericht-2011.pdf...</a>. Zugriff am 10. September 2021.</li>
+<li>Kulig, Wolfram; Theunissen, Georg (2006): Selbstbestimmung und Empowerment. In: Wüllenweber, Ernst, Georg Theunissen und Heinz Mühl (Hrsg.) (2006): Pädagogik bei geistigen Behinderungen. Ein Handbuch für Studium und Praxis. Stuttgart: Kohlhammer.</li>
+<li>Mürner, Christian und Udo Sierck (2015). „Historische Entwicklung, Begrifflichkeit und Paradigmenwechsel.“ In: Handbuch Behindertenrechtskonvention: Teilhabe als Menschenrecht - Inklusion als gesellschaftliche Aufgabe, hrsg. v. Theresia Degener und Elke Diehl. 25-37. Schriftenreihe / Bundeszentrale für Politische Bildung 1506. Bonn: bpb Bundeszentrale für politische Bildung. <a href="https://m.bpb.de/system/files/dokument_pdf/Handbuch_Behindertenrechtskonvention.pdf" target="_blank" rel="noopener noreferrer">bpb.de...Handbuch_Behindertenrechtskonvention.pdf</a>. Zugriff am 2. September 2021.</li>
+<li>Bentele, Verena. 2015. „Vorwort.“ In: Handbuch Behindertenrechtskonvention: Teilhabe als Menschenrecht - Inklusion als gesellschaftliche Aufgabe, hrsg. v. Theresia Degener und Elke Diehl. 15-17. Schriftenreihe / Bundeszentrale für Politische Bildung 1506. Bonn: bpb Bundeszentrale für politische Bildung. <a href="https://m.bpb.de/system/files/dokument_pdf/Handbuch_Behindertenrechtskonvention.pdf" target="_blank" rel="noopener noreferrer">bpb.de...Handbuch_Behindertenrechtskonvention.pdf</a>. Zugriff am 2. September 2021.</li>
+<li>Deci, Edward L. und Richard M. Ryan: Die Selbstbestimmungstheorie der Motivation und ihre Bedeutung für die Pädagogik - In: Zeitschrift für Pädagogik 39 (1993) 2, S. 223-238 - URN: urn:nbn:de:0111-pedocs-111739</li>
+<li>Kurzke-Maasmeier, Stefan (2016). „Von der Fürsorge zur Selbstbestimmung.“ <a href="https://www.imew.de/fileadmin/Dokumente/Volltexte/Tagungen_2009/UN-Konvention_25.06.09/Kurzke-Maasmeier.htm" target="_blank" rel="noopener noreferrer">https://www.imew.de/fileadmin/Dokumente/Volltexte/Tagungen_2009/UN-Konvention_25.06.09/Kurzke-Maasmeier.htm</a>. Zugriff am 19. Februar 2021).</li>
+<li>Freese, Benjamin und Michael Mayerle (2013). „Digitale Teilhabe: Zum Potenzial der neuen Technologien im Alltag von Menschen mit Lernschwierigkeiten.“ SI:SO Siegen:Sozial - Analysen, Berichte, Kontroversen 18 (1): 4–15. <a href="https://dspace.ub.uni-siegen.de/bitstream/ubsi/1143/1/Freese_Mayerle_Digitale_Teilhabe.pdf" target="_blank" rel="noopener noreferrer">dspace.ub.uni-siegen.de...Digitale_Teilhabe.pdf</a>.</li>
+<li>Dederich, Markus, Wolfgang Jantzen und Iris Beck (2009). Behinderung und Anerkennung: Behinderung, Bildung, Partizipation, Bd. 2. Heil- und Sonderpädagogik. Stuttgart: Kohlhammer. <a href="https://content-select.com/de/portal/media/view/517a5303-cf4c-4883-9ef2-1b855dbbeaba?forceauth=1" target="_blank" rel="noopener noreferrer">content-select.com/de...auth=1</a>.</li>
+</ol>
+
+                </div>
+            </div> 
+            
+        </div> 
+        
+            <footer class="footer is-hidden-print is-primary">
+    
+    <div class="container columns is-centered is-multiline is-bordered-bottom">
+        <div class="navbar-brand column is-full">
+            <a href="/" class="columns navbar-item">
+                <img class="column" src="/assets/img/logo-white.png">
+                <p class="calumn brand-title"></p>
+            </a>
+        </div>
+        <div class="column is-2">
+            <div class="title">www.intia.de</div>
+                TH-Köln | DITES<br>
+                Campus Südstadt<br>
+                Ubierring 48<br>
+                50678 Köln
+
+        </div>
+        
+        <div class="column ">
+            <div class="title">Site Map</div>
+            <div class="columns footer-nav">
+                
+                    <div class="column">
+                        <a href="" class="link"><strong>Über INTIA</strong></a>
+                        
+                        <div class="">
+                            
+                            <div class="">
+                                <a href="/ueber/plattform" class="link">Plattform</a>
+                            </div>
+                            
+                            <div class="">
+                                <a href="/ueber/projekt/" class="link">Projekt</a>
+                            </div>
+                            
+                            <div class="">
+                                <a href="/ueber/barrierearm/" class="link">Barrierearm</a>
+                            </div>
+                            
+                        </div>                                            
+                    
+                    </div>
+                
+                    <div class="column">
+                        <a href="" class="link"><strong>INTIA Koffer</strong></a>
+                        
+                        <div class="">
+                            
+                            <div class="">
+                                <a href="/intia-koffer/" class="link">Über</a>
+                            </div>
+                            
+                            <div class="">
+                                <a href="/intia-koffer/beschaffen/" class="link">Beschaffen</a>
+                            </div>
+                            
+                            <div class="">
+                                <a href="/intia-koffer/prototypen/" class="link">Prototypen</a>
+                            </div>
+                            
+                            <div class="">
+                                <a href="/intia-koffer/anleitungen/" class="link">Anleitungen</a>
+                            </div>
+                            
+                        </div>                                            
+                    
+                    </div>
+                
+                    <div class="column">
+                        <a href="" class="link"><strong>Werkzeuge</strong></a>
+                        
+                        <div class="">
+                            
+                            <div class="">
+                                <a href="/werkzeuge/bausteine/" class="link">Bausteine</a>
+                            </div>
+                            
+                            <div class="">
+                                <a href="/werkzeuge/methoden/" class="link">Methoden</a>
+                            </div>
+                            
+                        </div>                                            
+                    
+                    </div>
+                
+                    <div class="column">
+                        <a href="" class="link"><strong>Wissen</strong></a>
+                        
+                        <div class="">
+                            
+                            <div class="">
+                                <a href="/wissen/woerterbuch/" class="link">Wörterbuch</a>
+                            </div>
+                            
+                            <div class="">
+                                <a href="/wissen/publikationen/" class="link">Publikationen</a>
+                            </div>
+                            
+                        </div>                                            
+                    
+                    </div>
+                
+                    <div class="column">
+                        <a href="" class="link"><strong>Blog</strong></a>
+                        
+                        <div class="">
+                            
+                            <div class="">
+                                <a href="/blog/aktivitaeten/" class="link">Aktivitäten</a>
+                            </div>
+                            
+                            <div class="">
+                                <a href="/blog/fachartikel/" class="link">Fachartikel</a>
+                            </div>
+                            
+                        </div>                                            
+                    
+                    </div>
+                
+                    <div class="column">
+                        <a href="" class="link"><strong>Mitmachen</strong></a>
+                        
+                        <div class="">
+                            
+                            <div class="">
+                                <a href="/mitmachen/netzwerk/" class="link">Netzwerk</a>
+                            </div>
+                            
+                            <div class="">
+                                <a href="/mitmachen/kontakt/" class="link">Kontakt</a>
+                            </div>
+                            
+                        </div>                                            
+                    
+                    </div>
+                
+            </div>
+        </div>
+        
+        
+        <div class="column is-2">
+            <div class="title">Rechtliches</div>
+            <div class="">
+                
+                <div class="">
+                    <div>
+                        <a href="/about/" class="link">Über die Plattform</a>
+                    </div>
+                </div>
+                
+                <div class="">
+                    <div>
+                        <a href="https://www.th-koeln.de/hochschule/impressum_8159.php" class="link" target="_blank" rel="noopener noreferrer">Impressum</a>
+                    </div>
+                </div>
+                
+                <div class="">
+                    <div>
+                        <a href="https://www.th-koeln.de/hochschule/haftungshinweis_8277.php" class="link" target="_blank" rel="noopener noreferrer">Haftungshinweis</a>
+                    </div>
+                </div>
+                
+                <div class="">
+                    <div>
+                        <a href="https://www.th-koeln.de/hochschule/datenschutzhinweis_8279.php" class="link" target="_blank" rel="noopener noreferrer">Datenschutzhinweis</a>
+                    </div>
+                </div>
+                
+            </div>
+        </div>
+        
+    </div>
+        <div class="columns content is-small has-text-centered footer-logos">
+            <div class="column has-text-right"><div class="page-owner">
+                <p class="has-text-left">Eine Seite von</p>
+                <img src="/assets/img/logos/INTIA_Plattform_Logos_TH_weiss.png">
+                <img src="/assets/img/logos/INTIA_Plattform_Logos_Dites_weiss.png">
+            </div></div>
+            <div class="column has-text-left"><div class="page-sponsor">                
+                <img class="footer-logo-2" src="/assets/img/logos/BMBF_logo.jpg">
+            </div></div>
+        </div>
+        <div class="content is-small has-text-centered">
+            <p class="">INTIA, 2021</p>
+        </div>
+    
+</footer>
+
+        
+    </body>
+</html>

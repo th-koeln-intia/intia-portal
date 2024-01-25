@@ -1,0 +1,696 @@
+<!--
+The Default layout that everything is using 
+-->
+
+<!-- Control the width with, if sidebars or menus should appear   -->
+
+
+<!DOCTYPE html>
+<html id="default-layout">
+    <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content=#ffffff>
+    <link rel="stylesheet" href="/assets/styles/main.css">
+    <link rel="shortcut icon" type="image/png"
+           href="/favicon.png" 
+    />
+    <script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.8.0/dist/alpine.min.js" defer></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma-carousel@4.0.3/dist/css/bulma-carousel.min.css">
+    
+        <script src="https://d3js.org/d3.v5.min.js"></script>
+        <!--<script src="https://methods.intia.de/src/radar/radar.js"></script>-->
+        <script src="/assets/js/radar.js"></script>
+        <!--<link rel="stylesheet" href="https://methods.intia.de/src/radar/radar.css" />-->
+    
+    
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma-social@1/bin/bulma-social.min.css">
+    
+    <!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Das Forschungs-Projekt INTIA | INTIA</title>
+<meta name="generator" content="Jekyll v4.3.3" />
+<meta property="og:title" content="Das Forschungs-Projekt INTIA" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="A plattform for methods, techniques, toolkits and patterns for participative development in a social context." />
+<meta property="og:description" content="A plattform for methods, techniques, toolkits and patterns for participative development in a social context." />
+<link rel="canonical" href="/ueber/projekt/" />
+<meta property="og:url" content="/ueber/projekt/" />
+<meta property="og:site_name" content="INTIA" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Das Forschungs-Projekt INTIA" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebPage","description":"A plattform for methods, techniques, toolkits and patterns for participative development in a social context.","headline":"Das Forschungs-Projekt INTIA","url":"/ueber/projekt/"}</script>
+<!-- End Jekyll SEO tag -->
+<!-- head scripts -->
+<script src="https://unpkg.com/@botpoison/browser"></script>
+<script type="module" src="/assets/js/main.js"async></script></head>
+
+    <body>
+        <nav class="navbar is-hidden-print is-primary is-fixed-top" x-data="{ openNav: false }">
+    <div class="container">
+        <div class="navbar-brand">
+            <a href="/" class="">
+                <picture>
+                    <source media="(max-width: 1300px)" srcset="/assets/img/logo-short.png">
+                    <img id="navbar-logo" src="/assets/img/logo-horizontal-short.png">
+                </source></picture>     
+            </a>
+            <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navMenu" :class="{ 'is-active': openNav }" x-on:click="openNav = !openNav">
+                <span aria-hidden="true"></span>
+                <span aria-hidden="true"></span>
+                <span aria-hidden="true"></span>
+            </a>
+        </div>
+        <div class="navbar-menu" id="navMenu" :class="{ 'is-active': openNav }">
+            <div id="SearchOverlay" class="searchbar-overlay navbar-end buttons">
+                <div class="navbar-item searchbar">
+                    <div class="field">
+                        <div id="search-container" class="control">
+                          <input class="input search-input" type="text" id="search-input" placeholder="Suchbegriff eintippen">
+                        </div>
+                    </div>
+                    <ul id="results-container" class="search-result-list"></ul>
+                </div>
+                <div class="navbar-end">
+                    <div class="navbar-item navbar-search">
+                        <a id="closeSearch">
+                            <span class="icon">
+                                <i class="fa-solid icon-remove"></i>
+                            </span>
+                        </a>  
+                    </div>
+                </div>
+            </div>
+            <div id="navmenu" class="navbar-end buttons">
+                
+                
+                
+                <div class="navbar-item has-text-left button is-rounded is-dark has-dropdown is-hoverable      is-active-header    ">
+                    
+                    
+                     <a for="navbar-click" class="navbar-link">Über INTIA</a>
+                    
+                    <div class="navbar-dropdown">
+                        
+                        <a href="/ueber/plattform" class="navbar-item button is-rounded is-dark  ">Plattform</a>
+                        
+                        <a href="/ueber/projekt/" class="navbar-item button is-rounded is-dark   is-active ">Projekt</a>
+                        
+                        <a href="/ueber/barrierearm/" class="navbar-item button is-rounded is-dark  ">Barrierearm</a>
+                        
+                    </div>
+                </div>
+                
+                
+                
+                <div class="navbar-item has-text-left button is-rounded is-dark has-dropdown is-hoverable          ">
+                    
+                    
+                     <a for="navbar-click" class="navbar-link">INTIA Koffer</a>
+                    
+                    <div class="navbar-dropdown">
+                        
+                        <a href="/intia-koffer/" class="navbar-item button is-rounded is-dark  ">Über</a>
+                        
+                        <a href="/intia-koffer/beschaffen/" class="navbar-item button is-rounded is-dark  ">Beschaffen</a>
+                        
+                        <a href="/intia-koffer/prototypen/" class="navbar-item button is-rounded is-dark  ">Prototypen</a>
+                        
+                        <a href="/intia-koffer/anleitungen/" class="navbar-item button is-rounded is-dark  ">Anleitungen</a>
+                        
+                    </div>
+                </div>
+                
+                
+                
+                <div class="navbar-item has-text-left button is-rounded is-dark has-dropdown is-hoverable      ">
+                    
+                    
+                     <a for="navbar-click" class="navbar-link">Werkzeuge</a>
+                    
+                    <div class="navbar-dropdown">
+                        
+                        <a href="/werkzeuge/bausteine/" class="navbar-item button is-rounded is-dark  ">Bausteine</a>
+                        
+                        <a href="/werkzeuge/methoden/" class="navbar-item button is-rounded is-dark  ">Methoden</a>
+                        
+                    </div>
+                </div>
+                
+                
+                
+                <div class="navbar-item has-text-left button is-rounded is-dark has-dropdown is-hoverable      ">
+                    
+                    
+                     <a for="navbar-click" class="navbar-link">Wissen</a>
+                    
+                    <div class="navbar-dropdown">
+                        
+                        <a href="/wissen/woerterbuch/" class="navbar-item button is-rounded is-dark  ">Wörterbuch</a>
+                        
+                        <a href="/wissen/publikationen/" class="navbar-item button is-rounded is-dark  ">Publikationen</a>
+                        
+                    </div>
+                </div>
+                
+                
+                
+                <div class="navbar-item has-text-left button is-rounded is-dark has-dropdown is-hoverable      ">
+                    
+                    
+                     <a for="navbar-click" class="navbar-link">Blog</a>
+                    
+                    <div class="navbar-dropdown">
+                        
+                        <a href="/blog/aktivitaeten/" class="navbar-item button is-rounded is-dark  ">Aktivitäten</a>
+                        
+                        <a href="/blog/fachartikel/" class="navbar-item button is-rounded is-dark  ">Fachartikel</a>
+                        
+                    </div>
+                </div>
+                
+                
+                
+                <div class="navbar-item has-text-left button is-rounded is-dark has-dropdown is-hoverable      ">
+                    
+                    
+                     <a for="navbar-click" class="navbar-link">Mitmachen</a>
+                    
+                    <div class="navbar-dropdown">
+                        
+                        <a href="/mitmachen/netzwerk/" class="navbar-item button is-rounded is-dark  ">Netzwerk</a>
+                        
+                        <a href="/mitmachen/kontakt/" class="navbar-item button is-rounded is-dark  ">Kontakt</a>
+                        
+                    </div>
+                </div>
+                
+                
+                
+   
+                    <div class="navbar-item navbar-search">
+                        <a id="openSearch">
+                            <span class="icon">
+                                <i class="fa-solid icon-search"></i>
+                            </span>
+                        </a>  
+                    </div>
+                
+            </div>
+        </div>
+    </div>
+</nav>
+
+<section class="breadcrumb-section green-version">
+    <div class="container breadcrumb-container">
+        <nav class="breadcrumb has-arrow-separator" aria-label="breadcrumbs">
+            <ul>
+            
+            <li><a href="/">INTIA</a></li>
+            
+                
+                    <li><a>Über INTIA</a></li>
+                
+                
+                <li><a href="#">Das Forschungs-Projekt INTIA</a></li>
+                
+            
+            </ul>
+        </nav>
+    </div>
+</section>
+
+
+  <!-- Script pointing to search-script.js -->
+  <script src="/assets/js/search.js" type="text/javascript"></script>
+  
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/search.json',
+    searchResultTemplate: '<li><a class="search-item" href="{url}">{title}</a></li>'
+  })
+  </script>
+        <div class="arrow-image is-pulled-left is-hidden-mobile">
+            <img id="scroll-up" src="/assets/img/arrow-down.png" alt="placeholder">
+            <img id="scroll-down" src="/assets/img/arrow-down.png" alt="placeholder" class="is-pointed-down">     
+        </div>
+        <div class="accessibility-image is-pulled-left is-hidden-mobile">
+                <a id="changeFontsize" class="button is-rounded is-dark">
+                    <span class="icon is-small">
+                        <i class="fas icon-font-size fa-xs invert"></i>
+                        </span> 
+                    </a>    
+        </div>
+        
+            <section class="hero is-hidden-print  is-medium   toppage ">
+    <div class="hero-body">
+        <div class="container">
+            
+                <h5 class="overtitle">Über INTIA</h5>
+            
+            <h1 class=" title-with-overtitle ">Das Forschungs-Projekt INTIA</h1>
+            
+            
+                <h4>Der INTIA Koffer sowie die Werkzeuge und Materialien auf dieser Plattform kommen aus dem Forschungs-Projekt INTIA an der Technischen Hochschule Köln (TH Köln). Die Buchstaben stehen für „Inklusive Technikideen für den Alltag“. In diesem Projekt untersuchen Forschende und Jugendliche gemeinsam, wie Technik den Alltag verbessern kann. Um dieses Vorhaben umzusetzen, hat INTIA Fördergelder vom Bundesministerium für Bildung und Forschung (BMBF) erhalten.
+</h4>
+            
+            
+            <div class="buttons-hero has-text-centered">
+                
+
+                <a href="/ueber//" class="button is-rounded is-dark { % if item.link == page.url % } { % endif % }">
+                    <span class="icon is-small">
+                        <i class="fas fa-chevron-left"></i>
+                    </span>
+                    <span>Zur Übersicht</span>
+                </a>
+                <a onclick="window.print()" class="button is-rounded is-dark { % if item.link == page.url % } { % endif % }">
+                    <span>Als PDF Herunterladen</span>
+                    <span class="icon is-small">
+                        <i class="fas fa-chevron-right"></i>
+                    </span>
+                </a>
+            </div>
+        </div>
+    </div>
+</section>
+        
+        <div id="main" class="content-wrapper has-background-primary-light">
+            
+            
+            <div class="columns is-centered">
+                <div id="content" class="container column is-10-desktop is-12-tablet">
+                    
+                    <h2 id="jugendliche-als-expertinnen">Jugendliche als Expert:innen</h2>
+<p>Es sind die Jugendlichen selbst, die am besten wissen, was sie in ihrem Umfeld stört und was sie verbessern möchten. Zusammen mit dem INTIA Team erforschen sie ihren Alltag und erarbeiten technische oder digitale Lösungen, um diese Verbesserungen zu erreichen.</p>
+<h2 id="der-projekt-ansatz">Der Projekt-Ansatz</h2>
+<p>Digitale Technik erleichtert den Alltag und sorgt dafür, dass mehr Menschen an Dingen teilnehmen können, von denen sie sonst ausgeschlossen wären. Sie kann helfen, selbständiger zu leben und eigene Entscheidungen zu treffen. Man kann bei etwas mitmachen, ohne dass man sein Zuhause verlassen muss. Man kann sich online mit anderen verbinden und sogar neue Freund:innen finden.</p>
+<p>Aber nicht alle Menschen können die vorhandenen Technologien gleich gut nutzen. Sie brauchen individuelle technische Lösungen für ihren Alltag, die es nicht als fertiges Produkt zu kaufen gibt. INTIA will Menschen in die Lage versetzen, technische Lösungen selbst zu erfinden und diese mit Spaß und gemeinsam mit anderen zu gestalten.</p>
+<h3 id="das-vorgehen">Das Vorgehen</h3>
+<p>Das Projekt-Team hat Einrichtungen der Sozialen Arbeit besucht, um mit Jugendlichen und Fachkräften zu erforschen, wo es im Alltag Probleme und Bedarf gibt. Gemeinsam mit den Jugendlichen entstanden daraufhin Ideen und erste technische <a href="/wissen/woerterbuch/prototyp/">Prototypen</a>. Langfristiges Ziel des Projekts ist es, Einrichtungen der Sozialen Arbeit Bausteine für technische Lösungen zur Verfügung zu stellen. Damit sollen Fachkräfte, Betroffene und Selbsthilfe-Initiativen selbständig arbeiten können. Die Ergebnisse des Projekts sind als Open-Source-Material verfügbar, damit Technikexpert:innen diese nutzen, nachbauen und weiterentwickeln können.</p>
+<h3 id="besondere-herausforderungen">Besondere Herausforderungen</h3>
+<p>Während der Corona-Pandemie konnten die geplanten Projektarbeiten in den Partner-Einrichtungen nicht fortgesetzt werden, weil niemand Zutritt hatte. Die Beteiligten mussten umdenken und neue Wege finden, um sich auszutauschen. Daraus entstand die Idee, ein mobiles Labor in Form eines Koffers mit Inhalten zur Technikentwicklung zu schaffen, das man ausleihen kann. Das Projekt-Team musste sich mit Datenschutz sowie mit großen Datenmengen und ihrer Aussagekraft beschäftigen. Forschungsfragen rückten in den Vordergrund, so zum Beispiel die digitale Inklusion. Gleichzeitig wurden neue Wege der digitalen <a href="/wissen/woerterbuch/partizipation/">Partizipation</a> aufgebaut und erprobt. Am Ende war allen klar: Die digitale Zusammenarbeit kann den direkten Austausch zwischen Menschen nicht ersetzen.</p>
+<h2 id="beteiligte">Beteiligte</h2>
+<h4 id="im-projekt-intia-arbeiten-wissenschaftlerinnen-fachkrfte-der-sozialen-arbeit-forschungs-einrichtungen-und-betroffene-eng-zusammen">Im Projekt INTIA arbeiten Wissenschaftler:innen, Fachkräfte der Sozialen Arbeit, (Forschungs-)Einrichtungen und Betroffene eng zusammen.</h4>
+<!-- <img src="/assets/img/about/netzwerkgrafik.png" alt="placeholder" class="content_image" > -->
+<svg style="width: 75%; text-align: center; margin-left: auto; margin-right: auto; display: block;" version="1.1" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 2500 2500">
+  <image width="2500" height="2500" href="/assets/img/about/netzwerkgrafik.png"></image>
+  <defs>
+    <style>
+      polygon:hover {
+	    cursor:pointer;
+	  }
+      polygon {
+        opacity: 0.01;
+      }
+    </style>
+  </defs>
+  <a xlink:href="#fjmk">
+   <polygon points="1325,233,1326,234,1323,554,1365,611,1517,654,1641,729,1713,723,1921,482,1920,405,1714,273,1548,210,1398,179,1325,235"></polygon>
+  </a>
+  <a xlink:href="#godesheim">
+   <polygon points="1959,498,1960,499,1740,752,1735,812,1818,923,1877,1059,1951,1091,2251,1042,2301,971,2200,724,2041,509,1962,499,1956,502"></polygon>
+  </a>
+  <a xlink:href="#michaelshoven">
+   <polygon points="1903,1185,1904,1186,1899,1349,1869,1483,1893,1547,2160,1702,2259,1675,2328,1425,2333,1128,2259,1079,1946,1131,1905,1186"></polygon>
+  </a>
+  <a xlink:href="#bmbf">
+   <polygon points="1771,1641,1766,1649,1627,1757,1523,1814,1488,1881,1588,2189,1688,2213,1927,2080,2112,1893,2087,1800,1833,1636,1768,1643"></polygon>
+  </a>
+  <a xlink:href="#fachbeirat">
+   <polygon points="1171,236,1174,253,1175,559,1129,612,931,679,742,837,638,1015,593,1202,603,1365,632,1480,601,1553,325,1705,244,1677,169,1385,173,1133,198,975,316,696,416,551,527,442,637,357,802,267,1028,191,1103,177,1174,247"></polygon>
+  </a>
+  <a xlink:href="#fachbeirat">
+   <polygon points="1171,236,1174,253,1175,559,1129,612,931,679,742,837,638,1015,593,1202,603,1365,632,1480,601,1553,325,1705,244,1677,169,1385,173,1133,198,975,316,696,416,551,527,442,637,357,802,267,1028,191,1103,177,1174,247"></polygon>
+  </a>
+  <a xlink:href="#intia">
+    <circle cx="1249" cy="1235" r="488" opacity="0"></circle>
+  </a>
+</svg>
+<p><a id="intia" class="anchor"></a></p>
+<div class="highlighter">
+<h2 id="projekt-team">Projekt-Team</h2>
+<p>Die Menschen im INTIA Projekt-Team kommen aus unterschiedlichen Fachdisziplinen:</p>
+<ul>
+<li>
+<strong>Professor:innen:</strong> Prof. Dr. lsabel Zorn (Fakultät für Angewandte Sozialwissenschaften, Schwerpunkte Digitale Medienbildung in der Sozialen Arbeit), Prof. Dr. Stefan Bente (Fakultät für lnformatik und lngenieurwissenschaften, Schwerpunkt Softwaretechnik), Prof. Birgit Mager (Fakultät für Kulturwissenschaften, Köln lnternational School of Design KISD, Schwerpunkt Service Design) und Prof. Dr. Christian Kohls (Fakultät for lnformatik und lngenieurwissenschaften, Schwerpunkt Soziotechnische Systeme).</li>
+<li>
+<strong>Wissenschaftliche Mitarbeiter:innen:</strong> Hanna Thielmann, Carola Janda, Caroline Kortekaas, Eva Zurbrügg, Karsten Gareis und Tabea Mildenberger (Fakultät für Angewandte Sozialwissenschaften), Marc Schmidt, Dennis Wilk, Silke Wiegand und Jan Seidler (Fakultät für lnformatik und lngenieurwissenschaften) sowie Janina Rösch (Köln lnternational School of Design KISD).</li>
+<li>
+<strong>Hilfskräfte:</strong> Miriam Hafki, Alena Schmier und Johannes Jülich (Fakultät für Angewandte Sozialwissenschaften), Sophia Johannsen (Fakultät für Informatik und Ingenieurwissenschaften) sowie Maxime Ridzewski, Lisa Blömeke und Duane Meurer (Köln lnternational School of Design KISD)</li>
+</ul>
+<div class="columns">
+<div class="column is-one-quarter has-text-centered">
+  <figure class="image">
+    <img class="image-team with-zone is-rounded" src="/assets/img/about/team/IZ.jpg">
+  </figure>
+      <strong>
+      Prof. Dr. 
+      <br>
+      Isabel Zorn
+      </strong>
+      <br>
+      <br>
+      <small><a href="/wissen/woerterbuch/soziale-arbeit/">SOZIALE ARBEIT</a></small>
+</div>
+<div class="column is-one-quarter has-text-centered">
+  <figure class="image">
+    <img class="image-team with-zone is-rounded" src="/assets/img/about/team/SB.jpg">
+  </figure>
+      <strong>
+      Prof. Dr. 
+      <br>
+      Stefan Bente
+      </strong>
+      <br>
+      <br>
+      <small>INFORMATIK</small>
+</div>
+<div class="column is-one-quarter has-text-centered">
+  <figure class="image">
+    <img class="image-team with-zone is-rounded" src="/assets/img/about/team/BM.jpg">
+  </figure>
+      <strong>
+      Prof. <br>
+      Birgit Mager
+      </strong>
+      <br>
+      <br>
+      <small>SERVICE DESIGN</small>
+</div>
+<div class="column is-one-quarter has-text-centered">
+  <figure class="image">
+    <img class="image-team with-zone is-rounded" src="/assets/img/about/team/CK.jpg">
+  </figure>
+      <strong>
+      Prof. Dr. 
+      <br>
+      Christian Kohls
+      </strong>
+      <br>
+      <br>
+      <small>SOZIOTECHNIK</small>
+</div>
+</div>
+</div>
+<div class="highlighter">
+<h2 id="praxispartner">Praxispartner</h2>
+<p>Drei Wissenschaftspraxis-Partnerschaften (kurz WPKs) bestehen seit Beginn des Projekts. In den Einrichtungen dieser Partner:innen führte das Team Praxis-Einsätze durch und arbeitete gemeinsam an Forschungsfragen:</p>
+<div style="margin: 3rem 0 3rem 0" class="columns">       
+  <div style="margin-right: 3rem;" class="column is-4 is-round is-centered">
+    <img src="/assets/img/logos/diakonie_michaelshoven.png" alt="placeholder" class="">
+  </div>
+<div class="column">
+<p><a id="michaelshoven" class="anchor"></a></p>
+<h3 id="diakonie-michaelshoven">Diakonie Michaelshoven</h3>
+<p>Die Diakonie Michaelshoven setzt sich für soziale Belange ein. In über 200 Einrichtungen begleiten, fördern und betreuen die Mitarbeitenden viele Menschen.</p>
+<a href="https://www.diakonie-michaelshoven.de/" class="button is-rounded is-dark" target="_blank" rel="noopener noreferrer">
+<span> Website </span>
+<span class="icon is-small">
+    <i class="fas icon-external fa-xs invert"></i>
+    </span> 
+</a>
+  <div class="clear"></div>                          
+  </div>
+  </div>
+  <div style="margin: 3rem 0 3rem 0" class="columns">       
+  <div style="margin-right: 3rem;" class="column is-4 is-round is-centered">
+    <img src="/assets/img/logos/ev_jugendhilfe_godesheim.png" alt="placeholder" class="">
+  </div>
+<div class="column">
+<p><a id="godesheim" class="anchor"></a></p>
+<h3 id="evangelische-jugendhilfe-godesheim">Evangelische Jugendhilfe Godesheim</h3>
+<p>Die Evangelische Jugendhilfe Godesheim ist ein Jugendhilfeverbund. Sie ist in der Kinder-, Jugend-, Behinderten- und Gesundheitshilfe tätig.</p>
+<a href="https://www.godesheim.de/" class="button is-rounded is-dark" target="_blank" rel="noopener noreferrer">
+<span> Website </span>
+<span class="icon is-small">
+    <i class="fas icon-external fa-xs invert"></i>
+    </span> 
+</a>
+  <div class="clear"></div>                          
+  </div>
+  </div>
+  <div style="margin: 3rem 0 3rem 0" class="columns">       
+  <div style="margin-right: 3rem;" class="column is-4 is-round is-centered">
+    <img src="/assets/img/logos/fjmk.png" alt="placeholder" class="">
+  </div>
+<div class="column">
+<p><a id="fjmk" class="anchor"></a></p>
+<h3 id="fachstelle-fr-jugendmedienkultur-fjmk">Fachstelle für Jugendmedienkultur (FJMK)</h3>
+<p>Die Fachstelle für Jugendmedienkultur NRW unterstützt Bildungseinrichtungen und Institutionen und hilft bei der Gestaltung der medienpädagogischen Arbeit.</p>
+<a href="https://www.jugendmedienkultur-nrw.de/" class="button is-rounded is-dark" target="_blank" rel="noopener noreferrer">
+<span> Website </span>
+<span class="icon is-small">
+    <i class="fas icon-external fa-xs invert"></i>
+    </span> 
+</a>
+  <div class="clear"></div>                          
+  </div>
+  </div>
+</div>
+<p><a id="fachbeirat" class="anchor"></a></p>
+<div class="highlighter">
+<h2 id="fachbeirat">Fachbeirat</h2>
+<p>Der Fachbeirat unterstützt und berät das Forschungs-Projekt mit der Expertise seiner Mitglieder:</p>
+<p><strong>Dr. Tom Bieling</strong> (<a href="https://www.haw-hamburg.de/" class="normal" target="_blank" rel="noopener noreferrer">HAW Hamburg<span class="icon is-small">
+<i class="fas icon-external fa-xs"></i>
+</span></a>)<br>
+<strong>Prof. Dr. Ingo Bosse</strong> (<a href="https://www.hfh.ch/" class="normal" target="_blank" rel="noopener noreferrer">Interkantonale Hochschule für Heilpädagogik<span class="icon is-small">
+<i class="fas icon-external fa-xs"></i>
+</span></a>)<br>
+<strong>Dr. Julius Deutsch</strong> (<a href="https://www.kommhelp.de/" class="normal" target="_blank" rel="noopener noreferrer">Kommhelp e.V.<span class="icon is-small">
+<i class="fas icon-external fa-xs"></i>
+</span></a>)<br>
+<strong>Fabian Hesterberg</strong> (<a href="https://nrw.inklusive-bildung.org/" class="normal" target="_blank" rel="noopener noreferrer">Institut für Inklusive Bildung NRW<span class="icon is-small">
+<i class="fas icon-external fa-xs"></i>
+</span></a>)<br>
+<strong>Prof. Dr. Heidi Schelhowe</strong> † (<a href="https://www.uni-bremen.de/kooperationen/uni-schule/schuelerinnen-und-schueler/mathematik-und-informatik-trifft-schule-mit-schule/fablab" class="normal" target="_blank" rel="noopener noreferrer">FabLab Uni Bremen<span class="icon is-small">
+<i class="fas icon-external fa-xs"></i>
+</span></a>)<br>
+<strong>Gerhard Seiler</strong> (<a href="https://www.irights-lab.de/" class="normal" target="_blank" rel="noopener noreferrer">iRights.Lab GmbH<span class="icon is-small">
+<i class="fas icon-external fa-xs"></i>
+</span></a>)<br>
+<strong>Bernhard Spelten</strong> (<a href="https://piksl.net/ed/" class="normal" target="_blank" rel="noopener noreferrer">PIKSL<span class="icon is-small">
+<i class="fas icon-external fa-xs"></i>
+</span></a>)<br></p>
+</div>
+<h2 id="finanzielle-frderung">Finanzielle Förderung</h2>
+<p>Das Forschungs-Projekt INTIA wird von 2019 bis 2023 vom Bundesministerium für Bildung und Forschung (BMBF) finanziell gefördert. Die Förderung ist Teil der Fördermaßnahme „Lebensqualität durch soziale Innovationen“ (FH Sozial). Das Projekt heißt „Inklusive Entwicklung von Methoden und Technologien für digitale Hilfen zur <a href="/wissen/woerterbuch/alltagsbewaeltigung/">Alltagsbewältigung</a> in der Behinderten- und Erziehungshilfe (INTIA)“ und ist unter dem Förderkennzeichen 13FH534SX7 im
+<a href="https://foerderportal.bund.de/foekat/jsp/StartAction.do?actionMode=list" class="normal" target="_blank" rel="noopener noreferrer">Förderkatalog des Bundes<span class="icon is-small">
+<i class="fas icon-external fa-xs"></i>
+</span></a>
+zu finden.</p>
+<p><a id="bmbf" class="anchor"></a></p>
+<div class="highlighter    min-height25p   ">  
+<div class="columns">
+<div class="column">
+<h4 id="bmbf">BMBF</h4>
+<p>BMBF steht für „Bundesminsterium für Bildung und Forschung“. Das Ministerium ist eine Einrichtung der deutschen Regierung. Jedes Jahr hat das BMBF Geld zur Verfügung, mit dem es Projekte zum Thema Bildung und Forschung unterstützt.</p>
+</div>
+<div class="column">
+  <img class="with-zone" src="/assets/img/logos/BMBF_logo.jpg" style="padding-right: 0rem;">
+</div>
+</div>
+</div>
+
+                </div>
+            </div> 
+            
+        </div> 
+        
+            <footer class="footer is-hidden-print is-primary">
+    
+    <div class="container columns is-centered is-multiline is-bordered-bottom">
+        <div class="navbar-brand column is-full">
+            <a href="/" class="columns navbar-item">
+                <img class="column" src="/assets/img/logo-white.png">
+                <p class="calumn brand-title"></p>
+            </a>
+        </div>
+        <div class="column is-2">
+            <div class="title">www.intia.de</div>
+                TH-Köln | DITES<br>
+                Campus Südstadt<br>
+                Ubierring 48<br>
+                50678 Köln
+
+        </div>
+        
+        <div class="column ">
+            <div class="title">Site Map</div>
+            <div class="columns footer-nav">
+                
+                    <div class="column">
+                        <a href="" class="link"><strong>Über INTIA</strong></a>
+                        
+                        <div class="">
+                            
+                            <div class="">
+                                <a href="/ueber/plattform" class="link">Plattform</a>
+                            </div>
+                            
+                            <div class="">
+                                <a href="/ueber/projekt/" class="link">Projekt</a>
+                            </div>
+                            
+                            <div class="">
+                                <a href="/ueber/barrierearm/" class="link">Barrierearm</a>
+                            </div>
+                            
+                        </div>                                            
+                    
+                    </div>
+                
+                    <div class="column">
+                        <a href="" class="link"><strong>INTIA Koffer</strong></a>
+                        
+                        <div class="">
+                            
+                            <div class="">
+                                <a href="/intia-koffer/" class="link">Über</a>
+                            </div>
+                            
+                            <div class="">
+                                <a href="/intia-koffer/beschaffen/" class="link">Beschaffen</a>
+                            </div>
+                            
+                            <div class="">
+                                <a href="/intia-koffer/prototypen/" class="link">Prototypen</a>
+                            </div>
+                            
+                            <div class="">
+                                <a href="/intia-koffer/anleitungen/" class="link">Anleitungen</a>
+                            </div>
+                            
+                        </div>                                            
+                    
+                    </div>
+                
+                    <div class="column">
+                        <a href="" class="link"><strong>Werkzeuge</strong></a>
+                        
+                        <div class="">
+                            
+                            <div class="">
+                                <a href="/werkzeuge/bausteine/" class="link">Bausteine</a>
+                            </div>
+                            
+                            <div class="">
+                                <a href="/werkzeuge/methoden/" class="link">Methoden</a>
+                            </div>
+                            
+                        </div>                                            
+                    
+                    </div>
+                
+                    <div class="column">
+                        <a href="" class="link"><strong>Wissen</strong></a>
+                        
+                        <div class="">
+                            
+                            <div class="">
+                                <a href="/wissen/woerterbuch/" class="link">Wörterbuch</a>
+                            </div>
+                            
+                            <div class="">
+                                <a href="/wissen/publikationen/" class="link">Publikationen</a>
+                            </div>
+                            
+                        </div>                                            
+                    
+                    </div>
+                
+                    <div class="column">
+                        <a href="" class="link"><strong>Blog</strong></a>
+                        
+                        <div class="">
+                            
+                            <div class="">
+                                <a href="/blog/aktivitaeten/" class="link">Aktivitäten</a>
+                            </div>
+                            
+                            <div class="">
+                                <a href="/blog/fachartikel/" class="link">Fachartikel</a>
+                            </div>
+                            
+                        </div>                                            
+                    
+                    </div>
+                
+                    <div class="column">
+                        <a href="" class="link"><strong>Mitmachen</strong></a>
+                        
+                        <div class="">
+                            
+                            <div class="">
+                                <a href="/mitmachen/netzwerk/" class="link">Netzwerk</a>
+                            </div>
+                            
+                            <div class="">
+                                <a href="/mitmachen/kontakt/" class="link">Kontakt</a>
+                            </div>
+                            
+                        </div>                                            
+                    
+                    </div>
+                
+            </div>
+        </div>
+        
+        
+        <div class="column is-2">
+            <div class="title">Rechtliches</div>
+            <div class="">
+                
+                <div class="">
+                    <div>
+                        <a href="/about/" class="link">Über die Plattform</a>
+                    </div>
+                </div>
+                
+                <div class="">
+                    <div>
+                        <a href="https://www.th-koeln.de/hochschule/impressum_8159.php" class="link" target="_blank" rel="noopener noreferrer">Impressum</a>
+                    </div>
+                </div>
+                
+                <div class="">
+                    <div>
+                        <a href="https://www.th-koeln.de/hochschule/haftungshinweis_8277.php" class="link" target="_blank" rel="noopener noreferrer">Haftungshinweis</a>
+                    </div>
+                </div>
+                
+                <div class="">
+                    <div>
+                        <a href="https://www.th-koeln.de/hochschule/datenschutzhinweis_8279.php" class="link" target="_blank" rel="noopener noreferrer">Datenschutzhinweis</a>
+                    </div>
+                </div>
+                
+            </div>
+        </div>
+        
+    </div>
+        <div class="columns content is-small has-text-centered footer-logos">
+            <div class="column has-text-right"><div class="page-owner">
+                <p class="has-text-left">Eine Seite von</p>
+                <img src="/assets/img/logos/INTIA_Plattform_Logos_TH_weiss.png">
+                <img src="/assets/img/logos/INTIA_Plattform_Logos_Dites_weiss.png">
+            </div></div>
+            <div class="column has-text-left"><div class="page-sponsor">                
+                <img class="footer-logo-2" src="/assets/img/logos/BMBF_logo.jpg">
+            </div></div>
+        </div>
+        <div class="content is-small has-text-centered">
+            <p class="">INTIA, 2021</p>
+        </div>
+    
+</footer>
+
+        
+    </body>
+</html>
