@@ -71,10 +71,9 @@ Ubierring 48, Raum 2
 
 ### Technik-Bausteine und Kosten
 
-Hier findest du die unterschiedlichen Bestandteile des Koffers mit einer groben Kostenaufstellung:
-_Wird noch ergänzt_
+Hier findest du die unterschiedlichen Bestandteile des Koffers:
 
-### Einkaufsliste
+#### Einkaufsliste
 
 Wir sind bemüht, hier aktuelle Links zu den vorgeschlagenen Produkten anzugeben. Der Markt für diese technischen Produkte ist aber sehr schnelllebig und verändert sich permanent. Details wie zum Beispiel Preise sind schnell veraltet. Tatsächlich hat das aber viele Vorteile für dich:
 
